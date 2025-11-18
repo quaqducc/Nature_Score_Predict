@@ -23,7 +23,7 @@ def run_analyzer(product_1: str, product_2: str, contexts: List[str], *,
                  temperature: float = 0.0,
                  top_p: float = 1.0) -> str:
     fewshot_cases = _load_fewshot_cases()
-    prompt = build_prompt(fewshot_cases, product_1, product_2, contexts, max_fewshot=2)
+    prompt = build_prompt(fewshot_cases, product_1, product_2, contexts, max_fewshot=5)
     if chat_api_base_url and chat_api_key and chat_api_model:
         chat = ChatAPIWrapper(
             base_url=str(chat_api_base_url),
