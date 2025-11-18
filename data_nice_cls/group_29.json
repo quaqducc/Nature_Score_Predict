@@ -1,0 +1,1032 @@
+{
+  "group_number": "29",
+  "meta": {
+    "Goods and Services": "Class Heading Meat, fish, poultry and game; meat extracts; preserved, frozen, dried and cooked fruits and vegetables; jellies, jams, compotes; eggs; milk, cheese, butter, yogurt and other milk products; oils and fats for food Explanatory Note Class 29 includes mainly foodstuffs of animal origin, as well as vegetables and other horticultural comestible products which are prepared or preserved for consumption. This Class includes, in particular: • meat-, fish-, fruit- or vegetable-based food • edible insects • milk beverages with milk predominating • milk substitutes, for example, almond milk, coconut milk, peanut milk, rice milk, soya milk • preserved mushrooms • pulses and nuts prepared for human consumption • seeds prepared for human consumption, not being seasonings or flavourings This Class does not include, in particular: • oils and fats, other than for food, for example, essential oils (Cl. 3), industrial oil (Cl. 4), castor oil for medical purposes (Cl. 5) • baby food (Cl. 5) • dietetic food and substances adapted for medical use (Cl. 5) • dietary supplements (Cl. 5) • salad dressings (Cl. 30) • processed seeds for use as a seasoning (Cl. 30) • chocolate-coated nuts (Cl. 30) • fresh and unprocessed fruits, vegetables, nuts and seeds (Cl. 31) • foodstuffs for animals (Cl. 31) • live animals (Cl. 31) • seeds for planting (Cl. 31)"
+  },
+  "items": [
+    {
+      "No.": "290002",
+      "Goods and Services": "seaweed extracts for food"
+    },
+    {
+      "No.": "290003",
+      "Goods and Services": "gelatine*"
+    },
+    {
+      "No.": "290005",
+      "Goods and Services": "edible fats"
+    },
+    {
+      "No.": "290006",
+      "Goods and Services": "anchovy, not live"
+    },
+    {
+      "No.": "290007",
+      "Goods and Services": "peanut butter"
+    },
+    {
+      "No.": "290008",
+      "Goods and Services": "butter"
+    },
+    {
+      "No.": "290009",
+      "Goods and Services": "cocoa butter for food"
+    },
+    {
+      "No.": "290010",
+      "Goods and Services": "coconut butter"
+    },
+    {
+      "No.": "290011",
+      "Goods and Services": "buttercream"
+    },
+    {
+      "No.": "290012",
+      "Goods and Services": "white of eggs"
+    },
+    {
+      "No.": "290013",
+      "Goods and Services": "black pudding / blood sausage"
+    },
+    {
+      "No.": "290014",
+      "Goods and Services": "broth / bouillon"
+    },
+    {
+      "No.": "290015",
+      "Goods and Services": "preparations for making bouillon"
+    },
+    {
+      "No.": "290016",
+      "Goods and Services": "caviar"
+    },
+    {
+      "No.": "290017",
+      "Goods and Services": "fruit, preserved"
+    },
+    {
+      "No.": "290018",
+      "Goods and Services": "charcuterie"
+    },
+    {
+      "No.": "290019",
+      "Goods and Services": "potato crisps / potato chips"
+    },
+    {
+      "No.": "290020",
+      "Goods and Services": "sauerkraut"
+    },
+    {
+      "No.": "290021",
+      "Goods and Services": "coconut, desiccated"
+    },
+    {
+      "No.": "290022",
+      "Goods and Services": "rape oil for food / colza oil for food"
+    },
+    {
+      "No.": "290023",
+      "Goods and Services": "broth concentrates / bouillon concentrates"
+    },
+    {
+      "No.": "290024",
+      "Goods and Services": "jams"
+    },
+    {
+      "No.": "290025",
+      "Goods and Services": "frozen fruits"
+    },
+    {
+      "No.": "290026",
+      "Goods and Services": "soups"
+    },
+    {
+      "No.": "290027",
+      "Goods and Services": "raisins"
+    },
+    {
+      "No.": "290028",
+      "Goods and Services": "gherkins"
+    },
+    {
+      "No.": "290029",
+      "Goods and Services": "vegetables, preserved"
+    },
+    {
+      "No.": "290030",
+      "Goods and Services": "vegetables, cooked"
+    },
+    {
+      "No.": "290031",
+      "Goods and Services": "vegetables, dried"
+    },
+    {
+      "No.": "290032",
+      "Goods and Services": "oils for food"
+    },
+    {
+      "No.": "290033",
+      "Goods and Services": "cream [dairy products]"
+    },
+    {
+      "No.": "290034",
+      "Goods and Services": "cheese"
+    },
+    {
+      "No.": "290035",
+      "Goods and Services": "crystallized fruits / frosted fruits"
+    },
+    {
+      "No.": "290036",
+      "Goods and Services": "croquettes"
+    },
+    {
+      "No.": "290037",
+      "Goods and Services": "crustaceans, not live"
+    },
+    {
+      "No.": "290038",
+      "Goods and Services": "dates, processed"
+    },
+    {
+      "No.": "290039",
+      "Goods and Services": "milk"
+    },
+    {
+      "No.": "290040",
+      "Goods and Services": "crayfish, not live"
+    },
+    {
+      "No.": "290041",
+      "Goods and Services": "fish fillets"
+    },
+    {
+      "No.": "290042",
+      "Goods and Services": "rennet"
+    },
+    {
+      "No.": "290043",
+      "Goods and Services": "fruit, stewed"
+    },
+    {
+      "No.": "290044",
+      "Goods and Services": "fruit jelly spreads"
+    },
+    {
+      "No.": "290045",
+      "Goods and Services": "fruit pulp"
+    },
+    {
+      "No.": "290046",
+      "Goods and Services": "meat"
+    },
+    {
+      "No.": "290047",
+      "Goods and Services": "fish, not live"
+    },
+    {
+      "No.": "290048",
+      "Goods and Services": "jellies for food, other than confectionery"
+    },
+    {
+      "No.": "290049",
+      "Goods and Services": "meat jellies"
+    },
+    {
+      "No.": "290050",
+      "Goods and Services": "game, not live"
+    },
+    {
+      "No.": "290051",
+      "Goods and Services": "ginger jam"
+    },
+    {
+      "No.": "290052",
+      "Goods and Services": "soya beans, preserved, for food"
+    },
+    {
+      "No.": "290053",
+      "Goods and Services": "fatty substances for the manufacture of edible fats"
+    },
+    {
+      "No.": "290054",
+      "Goods and Services": "fat-based spreads for bread slices"
+    },
+    {
+      "No.": "290055",
+      "Goods and Services": "herrings, not live"
+    },
+    {
+      "No.": "290057",
+      "Goods and Services": "lobsters, not live"
+    },
+    {
+      "No.": "290058",
+      "Goods and Services": "maize oil for food / corn oil for food"
+    },
+    {
+      "No.": "290059",
+      "Goods and Services": "palm kernel oil for food"
+    },
+    {
+      "No.": "290060",
+      "Goods and Services": "sesame oil for food"
+    },
+    {
+      "No.": "290061",
+      "Goods and Services": "oysters, not live"
+    },
+    {
+      "No.": "290062",
+      "Goods and Services": "isinglass for food"
+    },
+    {
+      "No.": "290063",
+      "Goods and Services": "ham"
+    },
+    {
+      "No.": "290064",
+      "Goods and Services": "yolk of eggs"
+    },
+    {
+      "No.": "290065",
+      "Goods and Services": "yogurt / yoghurt"
+    },
+    {
+      "No.": "290066",
+      "Goods and Services": "vegetable soup preparations"
+    },
+    {
+      "No.": "290067",
+      "Goods and Services": "vegetable juices for cooking"
+    },
+    {
+      "No.": "290068",
+      "Goods and Services": "meat extracts for culinary purposes"
+    },
+    {
+      "No.": "290070",
+      "Goods and Services": "kephir / kefir"
+    },
+    {
+      "No.": "290071",
+      "Goods and Services": "koumiss / kumys"
+    },
+    {
+      "No.": "290072",
+      "Goods and Services": "milk beverages, milk predominating"
+    },
+    {
+      "No.": "290073",
+      "Goods and Services": "whey"
+    },
+    {
+      "No.": "290074",
+      "Goods and Services": "milk products"
+    },
+    {
+      "No.": "290075",
+      "Goods and Services": "spiny lobsters, not live"
+    },
+    {
+      "No.": "290076",
+      "Goods and Services": "bacon"
+    },
+    {
+      "No.": "290077",
+      "Goods and Services": "lentils, preserved"
+    },
+    {
+      "No.": "290078",
+      "Goods and Services": "margarine"
+    },
+    {
+      "No.": "290079",
+      "Goods and Services": "marmalade"
+    },
+    {
+      "No.": "290081",
+      "Goods and Services": "animal marrow for food"
+    },
+    {
+      "No.": "290082",
+      "Goods and Services": "shellfish, not live"
+    },
+    {
+      "No.": "290083",
+      "Goods and Services": "mussels, not live"
+    },
+    {
+      "No.": "290084",
+      "Goods and Services": "palm oil for food"
+    },
+    {
+      "No.": "290085",
+      "Goods and Services": "nuts, prepared"
+    },
+    {
+      "No.": "290086",
+      "Goods and Services": "eggs*"
+    },
+    {
+      "No.": "290087",
+      "Goods and Services": "powdered eggs"
+    },
+    {
+      "No.": "290088",
+      "Goods and Services": "liver pâté / liver pastes"
+    },
+    {
+      "No.": "290089",
+      "Goods and Services": "onions, preserved"
+    },
+    {
+      "No.": "290090",
+      "Goods and Services": "olives, preserved"
+    },
+    {
+      "No.": "290091",
+      "Goods and Services": "olive oil for food"
+    },
+    {
+      "No.": "290092",
+      "Goods and Services": "bone oil for food"
+    },
+    {
+      "No.": "290093",
+      "Goods and Services": "pectin for culinary purposes"
+    },
+    {
+      "No.": "290095",
+      "Goods and Services": "pickles"
+    },
+    {
+      "No.": "290096",
+      "Goods and Services": "peas, preserved"
+    },
+    {
+      "No.": "290097",
+      "Goods and Services": "sausages"
+    },
+    {
+      "No.": "290098",
+      "Goods and Services": "salted meats"
+    },
+    {
+      "No.": "290099",
+      "Goods and Services": "preparations for making soup"
+    },
+    {
+      "No.": "290101",
+      "Goods and Services": "tomato purée"
+    },
+    {
+      "No.": "290102",
+      "Goods and Services": "vegetable salads"
+    },
+    {
+      "No.": "290103",
+      "Goods and Services": "lard"
+    },
+    {
+      "No.": "290104",
+      "Goods and Services": "fruit salads"
+    },
+    {
+      "No.": "290106",
+      "Goods and Services": "sardines, not live"
+    },
+    {
+      "No.": "290107",
+      "Goods and Services": "salmon, not live"
+    },
+    {
+      "No.": "290108",
+      "Goods and Services": "suet for food"
+    },
+    {
+      "No.": "290109",
+      "Goods and Services": "tuna, not live"
+    },
+    {
+      "No.": "290110",
+      "Goods and Services": "tomato juice for cooking"
+    },
+    {
+      "No.": "290111",
+      "Goods and Services": "sunflower oil for food"
+    },
+    {
+      "No.": "290112",
+      "Goods and Services": "tripe"
+    },
+    {
+      "No.": "290113",
+      "Goods and Services": "truffles, preserved"
+    },
+    {
+      "No.": "290114",
+      "Goods and Services": "poultry, not live"
+    },
+    {
+      "No.": "290115",
+      "Goods and Services": "fruit peel"
+    },
+    {
+      "No.": "290116",
+      "Goods and Services": "alginates for culinary purposes"
+    },
+    {
+      "No.": "290117",
+      "Goods and Services": "almonds, ground"
+    },
+    {
+      "No.": "290118",
+      "Goods and Services": "peanuts, prepared"
+    },
+    {
+      "No.": "290120",
+      "Goods and Services": "mushrooms, preserved"
+    },
+    {
+      "No.": "290121",
+      "Goods and Services": "coconut fat"
+    },
+    {
+      "No.": "290122",
+      "Goods and Services": "coconut oil for food"
+    },
+    {
+      "No.": "290123",
+      "Goods and Services": "beans, preserved"
+    },
+    {
+      "No.": "290124",
+      "Goods and Services": "liver"
+    },
+    {
+      "No.": "290125",
+      "Goods and Services": "fish-based foodstuffs"
+    },
+    {
+      "No.": "290131",
+      "Goods and Services": "fruit chips"
+    },
+    {
+      "No.": "290132",
+      "Goods and Services": "clams, not live"
+    },
+    {
+      "No.": "290133",
+      "Goods and Services": "fruit preserved in alcohol"
+    },
+    {
+      "No.": "290134",
+      "Goods and Services": "pollen prepared as foodstuff"
+    },
+    {
+      "No.": "290135",
+      "Goods and Services": "prawns, not live"
+    },
+    {
+      "No.": "290136",
+      "Goods and Services": "fish, preserved"
+    },
+    {
+      "No.": "290137",
+      "Goods and Services": "meat, preserved"
+    },
+    {
+      "No.": "290138",
+      "Goods and Services": "shrimps, not live"
+    },
+    {
+      "No.": "290139",
+      "Goods and Services": "snail eggs for consumption"
+    },
+    {
+      "No.": "290140",
+      "Goods and Services": "tofu"
+    },
+    {
+      "No.": "290141",
+      "Goods and Services": "whipped cream"
+    },
+    {
+      "No.": "290142",
+      "Goods and Services": "pork"
+    },
+    {
+      "No.": "290143",
+      "Goods and Services": "edible birds' nests"
+    },
+    {
+      "No.": "290144",
+      "Goods and Services": "fish, tinned / fish, canned"
+    },
+    {
+      "No.": "290145",
+      "Goods and Services": "fish meal for human consumption"
+    },
+    {
+      "No.": "290146",
+      "Goods and Services": "fruits, tinned / fruits, canned"
+    },
+    {
+      "No.": "290147",
+      "Goods and Services": "meat, tinned / meat, canned"
+    },
+    {
+      "No.": "290148",
+      "Goods and Services": "potato fritters"
+    },
+    {
+      "No.": "290149",
+      "Goods and Services": "salted fish"
+    },
+    {
+      "No.": "290150",
+      "Goods and Services": "sea-cucumbers, not live"
+    },
+    {
+      "No.": "290151",
+      "Goods and Services": "silkworm chrysalis for human consumption"
+    },
+    {
+      "No.": "290152",
+      "Goods and Services": "vegetables, tinned / vegetables, canned"
+    },
+    {
+      "No.": "290153",
+      "Goods and Services": "sausages in batter"
+    },
+    {
+      "No.": "290154",
+      "Goods and Services": "potato flakes"
+    },
+    {
+      "No.": "290155",
+      "Goods and Services": "apple purée"
+    },
+    {
+      "No.": "290156",
+      "Goods and Services": "cranberry compote"
+    },
+    {
+      "No.": "290157",
+      "Goods and Services": "tahini"
+    },
+    {
+      "No.": "290158",
+      "Goods and Services": "hummus"
+    },
+    {
+      "No.": "290159",
+      "Goods and Services": "laver, preserved"
+    },
+    {
+      "No.": "290160",
+      "Goods and Services": "fruit-based snack food"
+    },
+    {
+      "No.": "290161",
+      "Goods and Services": "curd"
+    },
+    {
+      "No.": "290162",
+      "Goods and Services": "kimchi"
+    },
+    {
+      "No.": "290163",
+      "Goods and Services": "soya milk"
+    },
+    {
+      "No.": "290164",
+      "Goods and Services": "milk shakes"
+    },
+    {
+      "No.": "290165",
+      "Goods and Services": "preserved peppers"
+    },
+    {
+      "No.": "290166",
+      "Goods and Services": "sunflower seeds, prepared"
+    },
+    {
+      "No.": "290167",
+      "Goods and Services": "fish mousses"
+    },
+    {
+      "No.": "290168",
+      "Goods and Services": "non-alcoholic eggnog"
+    },
+    {
+      "No.": "290169",
+      "Goods and Services": "vegetable mousses"
+    },
+    {
+      "No.": "290170",
+      "Goods and Services": "fish roe, prepared"
+    },
+    {
+      "No.": "290171",
+      "Goods and Services": "seeds, prepared*"
+    },
+    {
+      "No.": "290172",
+      "Goods and Services": "aloe vera prepared for human consumption"
+    },
+    {
+      "No.": "290173",
+      "Goods and Services": "preserved garlic"
+    },
+    {
+      "No.": "290174",
+      "Goods and Services": "albumin milk / protein milk"
+    },
+    {
+      "No.": "290175",
+      "Goods and Services": "linseed oil for food / flaxseed oil for food"
+    },
+    {
+      "No.": "290176",
+      "Goods and Services": "low-fat potato crisps / low-fat potato chips"
+    },
+    {
+      "No.": "290177",
+      "Goods and Services": "lecithin for culinary purposes"
+    },
+    {
+      "No.": "290178",
+      "Goods and Services": "milk ferments for culinary purposes"
+    },
+    {
+      "No.": "290179",
+      "Goods and Services": "compotes"
+    },
+    {
+      "No.": "290180",
+      "Goods and Services": "condensed milk"
+    },
+    {
+      "No.": "290181",
+      "Goods and Services": "smetana"
+    },
+    {
+      "No.": "290182",
+      "Goods and Services": "fermented baked milk"
+    },
+    {
+      "No.": "290183",
+      "Goods and Services": "soured milk"
+    },
+    {
+      "No.": "290184",
+      "Goods and Services": "tomato paste"
+    },
+    {
+      "No.": "290185",
+      "Goods and Services": "vegetable marrow paste"
+    },
+    {
+      "No.": "290186",
+      "Goods and Services": "aubergine paste / eggplant paste"
+    },
+    {
+      "No.": "290187",
+      "Goods and Services": "peanut milk for culinary purposes"
+    },
+    {
+      "No.": "290188",
+      "Goods and Services": "almond milk for culinary purposes"
+    },
+    {
+      "No.": "290189",
+      "Goods and Services": "rice milk"
+    },
+    {
+      "No.": "290190",
+      "Goods and Services": "artichokes, preserved"
+    },
+    {
+      "No.": "290191",
+      "Goods and Services": "arrangements of processed fruit"
+    },
+    {
+      "No.": "290192",
+      "Goods and Services": "powdered milk*"
+    },
+    {
+      "No.": "290193",
+      "Goods and Services": "yakitori"
+    },
+    {
+      "No.": "290194",
+      "Goods and Services": "bulgogi"
+    },
+    {
+      "No.": "290195",
+      "Goods and Services": "candied nuts"
+    },
+    {
+      "No.": "290196",
+      "Goods and Services": "flavoured nuts / flavored nuts"
+    },
+    {
+      "No.": "290197",
+      "Goods and Services": "hazelnuts, prepared"
+    },
+    {
+      "No.": "290198",
+      "Goods and Services": "berries, preserved"
+    },
+    {
+      "No.": "290199",
+      "Goods and Services": "guacamole"
+    },
+    {
+      "No.": "290200",
+      "Goods and Services": "onion rings"
+    },
+    {
+      "No.": "290201",
+      "Goods and Services": "falafel"
+    },
+    {
+      "No.": "290202",
+      "Goods and Services": "lemon juice for culinary purposes"
+    },
+    {
+      "No.": "290203",
+      "Goods and Services": "freeze-dried meat / lyophilized meat / lyophilised meat"
+    },
+    {
+      "No.": "290204",
+      "Goods and Services": "oat milk"
+    },
+    {
+      "No.": "290205",
+      "Goods and Services": "vegetable-based cream"
+    },
+    {
+      "No.": "290206",
+      "Goods and Services": "freeze-dried vegetables / lyophilized vegetables / lyophilised vegetables"
+    },
+    {
+      "No.": "290207",
+      "Goods and Services": "extra virgin olive oil for food"
+    },
+    {
+      "No.": "290209",
+      "Goods and Services": "edible ant larvae, prepared"
+    },
+    {
+      "No.": "290210",
+      "Goods and Services": "edible insects, not live"
+    },
+    {
+      "No.": "290211",
+      "Goods and Services": "sweet corn, processed"
+    },
+    {
+      "No.": "290212",
+      "Goods and Services": "nut-based spreads"
+    },
+    {
+      "No.": "290213",
+      "Goods and Services": "potato-based dumplings"
+    },
+    {
+      "No.": "290214",
+      "Goods and Services": "hot dog sausages"
+    },
+    {
+      "No.": "290215",
+      "Goods and Services": "corn dogs"
+    },
+    {
+      "No.": "290216",
+      "Goods and Services": "soya bean oil for food"
+    },
+    {
+      "No.": "290217",
+      "Goods and Services": "milk substitutes"
+    },
+    {
+      "No.": "290218",
+      "Goods and Services": "almond milk"
+    },
+    {
+      "No.": "290219",
+      "Goods and Services": "peanut milk"
+    },
+    {
+      "No.": "290220",
+      "Goods and Services": "coconut milk"
+    },
+    {
+      "No.": "290221",
+      "Goods and Services": "coconut milk for culinary purposes"
+    },
+    {
+      "No.": "290222",
+      "Goods and Services": "coconut milk-based beverages"
+    },
+    {
+      "No.": "290223",
+      "Goods and Services": "rice milk for culinary purposes"
+    },
+    {
+      "No.": "290224",
+      "Goods and Services": "almond milk-based beverages"
+    },
+    {
+      "No.": "290225",
+      "Goods and Services": "peanut milk-based beverages"
+    },
+    {
+      "No.": "290226",
+      "Goods and Services": "sausage casings, natural or artificial"
+    },
+    {
+      "No.": "290227",
+      "Goods and Services": "klipfish [salted and dried cod]"
+    },
+    {
+      "No.": "290228",
+      "Goods and Services": "cottage cheese fritters"
+    },
+    {
+      "No.": "290229",
+      "Goods and Services": "pressed fruit paste"
+    },
+    {
+      "No.": "290230",
+      "Goods and Services": "tofu skin"
+    },
+    {
+      "No.": "290231",
+      "Goods and Services": "soya patties"
+    },
+    {
+      "No.": "290232",
+      "Goods and Services": "tofu patties"
+    },
+    {
+      "No.": "290233",
+      "Goods and Services": "tajine [prepared meat, fish or vegetable dish] / tagine [prepared meat, fish or vegetable dish]"
+    },
+    {
+      "No.": "290234",
+      "Goods and Services": "tempeh"
+    },
+    {
+      "No.": "290235",
+      "Goods and Services": "satay"
+    },
+    {
+      "No.": "290236",
+      "Goods and Services": "vegetables, processed"
+    },
+    {
+      "No.": "290237",
+      "Goods and Services": "fruit, processed"
+    },
+    {
+      "No.": "290238",
+      "Goods and Services": "ratatouille"
+    },
+    {
+      "No.": "290239",
+      "Goods and Services": "duck confits"
+    },
+    {
+      "No.": "290240",
+      "Goods and Services": "andouillettes"
+    },
+    {
+      "No.": "290241",
+      "Goods and Services": "white pudding"
+    },
+    {
+      "No.": "290242",
+      "Goods and Services": "cassoulet"
+    },
+    {
+      "No.": "290243",
+      "Goods and Services": "choucroute garnie"
+    },
+    {
+      "No.": "290244",
+      "Goods and Services": "hash browns"
+    },
+    {
+      "No.": "290245",
+      "Goods and Services": "omelettes / omelets"
+    },
+    {
+      "No.": "290246",
+      "Goods and Services": "cabbage rolls stuffed with meat"
+    },
+    {
+      "No.": "290247",
+      "Goods and Services": "vegetable-based concentrate for cooking"
+    },
+    {
+      "No.": "290248",
+      "Goods and Services": "fruit-based concentrate for cooking"
+    },
+    {
+      "No.": "290249",
+      "Goods and Services": "vegetable-based spreads"
+    },
+    {
+      "No.": "290250",
+      "Goods and Services": "agar-agar for culinary purposes"
+    },
+    {
+      "No.": "290251",
+      "Goods and Services": "molluscs, not live / mollusks, not live"
+    },
+    {
+      "No.": "290252",
+      "Goods and Services": "quark"
+    },
+    {
+      "No.": "290253",
+      "Goods and Services": "cottage cheese"
+    },
+    {
+      "No.": "290254",
+      "Goods and Services": "lactic acid drinks"
+    },
+    {
+      "No.": "290255",
+      "Goods and Services": "edible flowers, dried"
+    },
+    {
+      "No.": "290256",
+      "Goods and Services": "crystallized ginger"
+    },
+    {
+      "No.": "290257",
+      "Goods and Services": "ginger, preserved"
+    },
+    {
+      "No.": "290258",
+      "Goods and Services": "pickled ginger"
+    },
+    {
+      "No.": "290259",
+      "Goods and Services": "berry soup"
+    },
+    {
+      "No.": "290260",
+      "Goods and Services": "berry-based fool"
+    },
+    {
+      "No.": "290261",
+      "Goods and Services": "vegetable-based prepared meals for toddlers"
+    },
+    {
+      "No.": "290262",
+      "Goods and Services": "verjuice for culinary purposes"
+    },
+    {
+      "No.": "290263",
+      "Goods and Services": "meat-based snack food"
+    },
+    {
+      "No.": "290264",
+      "Goods and Services": "fish-based snack food"
+    },
+    {
+      "No.": "290265",
+      "Goods and Services": "vegetable-based snack food"
+    },
+    {
+      "No.": "290266",
+      "Goods and Services": "almond oil for food"
+    },
+    {
+      "No.": "290267",
+      "Goods and Services": "meat substitutes"
+    },
+    {
+      "No.": "290268",
+      "Goods and Services": "plant-based imitation meat"
+    },
+    {
+      "No.": "290269",
+      "Goods and Services": "cut fruits"
+    },
+    {
+      "No.": "290270",
+      "Goods and Services": "cut vegetables"
+    },
+    {
+      "No.": "290271",
+      "Goods and Services": "tofu-based snack food"
+    }
+  ]
+}

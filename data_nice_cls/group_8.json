@@ -1,0 +1,1111 @@
+{
+  "group_number": "8",
+  "meta": {
+    "Goods and Services": "Class Heading Hand tools and implements, hand-operated; cutlery; side arms, except firearms; razors Explanatory Note Class 8 includes mainly hand-operated tools and implements for performing tasks, such as drilling, shaping, cutting and piercing. This Class includes, in particular: • hand-operated agricultural, gardening and landscaping tools • hand-operated tools for carpenters, artists and other craftspersons, for example, hammers, chisels and gravers • handles for hand-operated hand tools, such as knives and scythes • electric and non-electric hand implements for personal grooming and body art, for example, razors, implements for hair curling, tattooing, and for manicure and pedicure • hand-operated pumps • table cutlery, such as knives, forks and spoons, including those made of precious metals This Class does not include, in particular: • machine tools and implements driven by a motor (Cl. 7) • surgical cutlery (Cl. 10) • pumps for bicycle tyres (Cl. 12), pumps specially adapted for use with balls for games (Cl. 28) • side arms being firearms (Cl. 13) • paper knives and paper shredders for office use (Cl. 16) • handles for objects that are classified in various classes according to their function or purpose, for example, walking stick handles, umbrella handles (Cl. 18), broom handles (Cl. 21) • serving utensils, for example, sugar tongs, ice tongs, pie servers and serving ladles, and kitchen utensils, for example, mixing spoons, pestles and mortars, nutcrackers and spatulas (Cl. 21) • fencing weapons (Cl. 28)"
+  },
+  "items": [
+    {
+      "No.": "080002",
+      "Goods and Services": "abrading instruments [hand instruments]"
+    },
+    {
+      "No.": "080003",
+      "Goods and Services": "sharpening stones"
+    },
+    {
+      "No.": "080005",
+      "Goods and Services": "needle files"
+    },
+    {
+      "No.": "080006",
+      "Goods and Services": "leather strops"
+    },
+    {
+      "No.": "080008",
+      "Goods and Services": "awls"
+    },
+    {
+      "No.": "080009",
+      "Goods and Services": "cutter bars [hand tools]"
+    },
+    {
+      "No.": "080010",
+      "Goods and Services": "reamers"
+    },
+    {
+      "No.": "080011",
+      "Goods and Services": "reamer sockets"
+    },
+    {
+      "No.": "080012",
+      "Goods and Services": "extension pieces for braces for screw taps"
+    },
+    {
+      "No.": "080013",
+      "Goods and Services": "palette knives"
+    },
+    {
+      "No.": "080014",
+      "Goods and Services": "spatulas [hand tools]"
+    },
+    {
+      "No.": "080015",
+      "Goods and Services": "punch rings [knuckle dusters] / knuckle dusters"
+    },
+    {
+      "No.": "080016",
+      "Goods and Services": "bits [parts of hand tools]"
+    },
+    {
+      "No.": "080017",
+      "Goods and Services": "squares [hand tools]"
+    },
+    {
+      "No.": "080019",
+      "Goods and Services": "instruments and tools for skinning animals"
+    },
+    {
+      "No.": "080020",
+      "Goods and Services": "annular screw plates"
+    },
+    {
+      "No.": "080021",
+      "Goods and Services": "bow saws"
+    },
+    {
+      "No.": "080022",
+      "Goods and Services": "side arms, other than firearms"
+    },
+    {
+      "No.": "080023",
+      "Goods and Services": "nail extractors, hand-operated / nail pullers, hand-operated"
+    },
+    {
+      "No.": "080024",
+      "Goods and Services": "lifting jacks, hand-operated"
+    },
+    {
+      "No.": "080025",
+      "Goods and Services": "bayonets"
+    },
+    {
+      "No.": "080026",
+      "Goods and Services": "beard clippers"
+    },
+    {
+      "No.": "080028",
+      "Goods and Services": "hand drills, hand-operated"
+    },
+    {
+      "No.": "080029",
+      "Goods and Services": "mortise chisels"
+    },
+    {
+      "No.": "080030",
+      "Goods and Services": "holing axes / mortise axes"
+    },
+    {
+      "No.": "080031",
+      "Goods and Services": "livestock marking tools / cattle marking tools"
+    },
+    {
+      "No.": "080033",
+      "Goods and Services": "cattle shearers"
+    },
+    {
+      "No.": "080034",
+      "Goods and Services": "nail drawers [hand tools]"
+    },
+    {
+      "No.": "080036",
+      "Goods and Services": "pickhammers / bushhammers"
+    },
+    {
+      "No.": "080037",
+      "Goods and Services": "sharpening steels / knife steels"
+    },
+    {
+      "No.": "080038",
+      "Goods and Services": "riveting hammers [hand tools]"
+    },
+    {
+      "No.": "080039",
+      "Goods and Services": "paring irons [hand tools]"
+    },
+    {
+      "No.": "080040",
+      "Goods and Services": "scissors*"
+    },
+    {
+      "No.": "080042",
+      "Goods and Services": "tweezers"
+    },
+    {
+      "No.": "080043",
+      "Goods and Services": "graving tools [hand tools]"
+    },
+    {
+      "No.": "080044",
+      "Goods and Services": "pickaxes"
+    },
+    {
+      "No.": "080045",
+      "Goods and Services": "caulking irons"
+    },
+    {
+      "No.": "080046",
+      "Goods and Services": "penknives"
+    },
+    {
+      "No.": "080047",
+      "Goods and Services": "stone hammers"
+    },
+    {
+      "No.": "080048",
+      "Goods and Services": "jig-saws"
+    },
+    {
+      "No.": "080049",
+      "Goods and Services": "drawing knives"
+    },
+    {
+      "No.": "080050",
+      "Goods and Services": "nail punches"
+    },
+    {
+      "No.": "080051",
+      "Goods and Services": "fullers [hand tools]"
+    },
+    {
+      "No.": "080052",
+      "Goods and Services": "fulling tools [hand tools]"
+    },
+    {
+      "No.": "080053",
+      "Goods and Services": "hunting knives"
+    },
+    {
+      "No.": "080054",
+      "Goods and Services": "frames for handsaws"
+    },
+    {
+      "No.": "080055",
+      "Goods and Services": "saws [hand tools]"
+    },
+    {
+      "No.": "080056",
+      "Goods and Services": "lasts [shoemakers' hand tools]"
+    },
+    {
+      "No.": "080058",
+      "Goods and Services": "curling tongs"
+    },
+    {
+      "No.": "080059",
+      "Goods and Services": "table cutlery [knives, forks and spoons] / tableware [knives, forks and spoons]"
+    },
+    {
+      "No.": "080060",
+      "Goods and Services": "shears*"
+    },
+    {
+      "No.": "080061",
+      "Goods and Services": "shear blades"
+    },
+    {
+      "No.": "080062",
+      "Goods and Services": "perforating tools [hand tools]"
+    },
+    {
+      "No.": "080063",
+      "Goods and Services": "tap wrenches"
+    },
+    {
+      "No.": "080064",
+      "Goods and Services": "spanners [hand tools] / wrenches [hand tools]"
+    },
+    {
+      "No.": "080065",
+      "Goods and Services": "ratchets [hand tools]"
+    },
+    {
+      "No.": "080066",
+      "Goods and Services": "dies [hand tools] / screw stocks [hand tools] / screw-thread cutters [hand tools]"
+    },
+    {
+      "No.": "080067",
+      "Goods and Services": "borers"
+    },
+    {
+      "No.": "080068",
+      "Goods and Services": "whetstone holders"
+    },
+    {
+      "No.": "080069",
+      "Goods and Services": "axes"
+    },
+    {
+      "No.": "080070",
+      "Goods and Services": "table forks"
+    },
+    {
+      "No.": "080071",
+      "Goods and Services": "planes"
+    },
+    {
+      "No.": "080072",
+      "Goods and Services": "hand tools, hand-operated"
+    },
+    {
+      "No.": "080073",
+      "Goods and Services": "vegetable slicers, hand-operated / vegetable shredders, hand-operated"
+    },
+    {
+      "No.": "080074",
+      "Goods and Services": "nail nippers"
+    },
+    {
+      "No.": "080075",
+      "Goods and Services": "tube cutters [hand tools]"
+    },
+    {
+      "No.": "080076"
+    },
+    {
+      "No.": "080077",
+      "Goods and Services": "cleavers"
+    },
+    {
+      "No.": "080078",
+      "Goods and Services": "cutlery*"
+    },
+    {
+      "No.": "080079",
+      "Goods and Services": "fruit pickers [hand tools]"
+    },
+    {
+      "No.": "080080",
+      "Goods and Services": "spoons*"
+    },
+    {
+      "No.": "080081",
+      "Goods and Services": "ladles [hand tools]"
+    },
+    {
+      "No.": "080082",
+      "Goods and Services": "razor strops"
+    },
+    {
+      "No.": "080083",
+      "Goods and Services": "earth rammers [hand tools]"
+    },
+    {
+      "No.": "080084",
+      "Goods and Services": "stamping-out tools [hand tools] / stamps [hand tools]"
+    },
+    {
+      "No.": "080085",
+      "Goods and Services": "milling cutters [hand tools]"
+    },
+    {
+      "No.": "080086",
+      "Goods and Services": "trowels [gardening]"
+    },
+    {
+      "No.": "080087",
+      "Goods and Services": "trowels"
+    },
+    {
+      "No.": "080088",
+      "Goods and Services": "apparatus for destroying plant parasites, hand-operated"
+    },
+    {
+      "No.": "080089",
+      "Goods and Services": "glaziers' diamonds [parts of hand tools]"
+    },
+    {
+      "No.": "080090",
+      "Goods and Services": "expanders [hand tools]"
+    },
+    {
+      "No.": "080091",
+      "Goods and Services": "stropping instruments"
+    },
+    {
+      "No.": "080092",
+      "Goods and Services": "sharpening instruments"
+    },
+    {
+      "No.": "080093",
+      "Goods and Services": "blade sharpening instruments"
+    },
+    {
+      "No.": "080095",
+      "Goods and Services": "scaling knives"
+    },
+    {
+      "No.": "080096",
+      "Goods and Services": "thistle extractors [hand tools]"
+    },
+    {
+      "No.": "080097",
+      "Goods and Services": "pruning scissors / secateurs"
+    },
+    {
+      "No.": "080098",
+      "Goods and Services": "long reach loppers"
+    },
+    {
+      "No.": "080099",
+      "Goods and Services": "budding knives"
+    },
+    {
+      "No.": "080100",
+      "Goods and Services": "tree pruners"
+    },
+    {
+      "No.": "080101",
+      "Goods and Services": "cuticle tweezers / cuticle nippers"
+    },
+    {
+      "No.": "080102",
+      "Goods and Services": "hair-removing tweezers"
+    },
+    {
+      "No.": "080103",
+      "Goods and Services": "marline spikes"
+    },
+    {
+      "No.": "080104",
+      "Goods and Services": "carpenters' augers"
+    },
+    {
+      "No.": "080105",
+      "Goods and Services": "embossers [hand tools]"
+    },
+    {
+      "No.": "080106",
+      "Goods and Services": "pedicure sets"
+    },
+    {
+      "No.": "080107",
+      "Goods and Services": "razor cases"
+    },
+    {
+      "No.": "080108",
+      "Goods and Services": "hollowing bits [parts of hand tools]"
+    },
+    {
+      "No.": "080109",
+      "Goods and Services": "rakes [hand tools]"
+    },
+    {
+      "No.": "080110",
+      "Goods and Services": "shovels [hand tools]"
+    },
+    {
+      "No.": "080111",
+      "Goods and Services": "spades [hand tools]"
+    },
+    {
+      "No.": "080112",
+      "Goods and Services": "border shears"
+    },
+    {
+      "No.": "080113",
+      "Goods and Services": "scythes"
+    },
+    {
+      "No.": "080114",
+      "Goods and Services": "scythe rings"
+    },
+    {
+      "No.": "080115",
+      "Goods and Services": "scythe stones / whetstones"
+    },
+    {
+      "No.": "080116",
+      "Goods and Services": "irons [non-electric hand tools]"
+    },
+    {
+      "No.": "080117",
+      "Goods and Services": "goffering irons"
+    },
+    {
+      "No.": "080118",
+      "Goods and Services": "polishing irons [glazing tools] / glazing irons"
+    },
+    {
+      "No.": "080119",
+      "Goods and Services": "blades for planes"
+    },
+    {
+      "No.": "080120",
+      "Goods and Services": "moulding irons / molding irons"
+    },
+    {
+      "No.": "080121",
+      "Goods and Services": "crimping irons"
+    },
+    {
+      "No.": "080122",
+      "Goods and Services": "branding irons"
+    },
+    {
+      "No.": "080124",
+      "Goods and Services": "gimlets [hand tools]"
+    },
+    {
+      "No.": "080125",
+      "Goods and Services": "sword scabbards"
+    },
+    {
+      "No.": "080126",
+      "Goods and Services": "hand implements for hair curling"
+    },
+    {
+      "No.": "080127",
+      "Goods and Services": "lawn clippers [hand instruments]"
+    },
+    {
+      "No.": "080128",
+      "Goods and Services": "ice picks"
+    },
+    {
+      "No.": "080129",
+      "Goods and Services": "gouges [hand tools]"
+    },
+    {
+      "No.": "080130",
+      "Goods and Services": "truncheons / bludgeons / police batons"
+    },
+    {
+      "No.": "080131",
+      "Goods and Services": "engraving needles"
+    },
+    {
+      "No.": "080132",
+      "Goods and Services": "farriers' knives"
+    },
+    {
+      "No.": "080133",
+      "Goods and Services": "paring knives"
+    },
+    {
+      "No.": "080134",
+      "Goods and Services": "grafting tools [hand tools]"
+    },
+    {
+      "No.": "080135",
+      "Goods and Services": "rabbeting planes"
+    },
+    {
+      "No.": "080136",
+      "Goods and Services": "vegetable choppers"
+    },
+    {
+      "No.": "080137",
+      "Goods and Services": "hatchets"
+    },
+    {
+      "No.": "080138",
+      "Goods and Services": "choppers being knives"
+    },
+    {
+      "No.": "080139",
+      "Goods and Services": "hoop cutters [hand tools]"
+    },
+    {
+      "No.": "080140",
+      "Goods and Services": "harpoons*"
+    },
+    {
+      "No.": "080141",
+      "Goods and Services": "adzes [tools]"
+    },
+    {
+      "No.": "080142",
+      "Goods and Services": "mattocks"
+    },
+    {
+      "No.": "080143",
+      "Goods and Services": "oyster openers"
+    },
+    {
+      "No.": "080144",
+      "Goods and Services": "insecticide vaporizers [hand tools] / insecticide atomizers [hand tools] / insecticide sprayers [hand tools]"
+    },
+    {
+      "No.": "080145",
+      "Goods and Services": "garden tools, hand-operated"
+    },
+    {
+      "No.": "080146",
+      "Goods and Services": "pruning knives"
+    },
+    {
+      "No.": "080147",
+      "Goods and Services": "clamps for carpenters or coopers"
+    },
+    {
+      "No.": "080148",
+      "Goods and Services": "razor blades"
+    },
+    {
+      "No.": "080149",
+      "Goods and Services": "blades [hand tools]"
+    },
+    {
+      "No.": "080150",
+      "Goods and Services": "blades [weapons]"
+    },
+    {
+      "No.": "080151",
+      "Goods and Services": "saw blades [parts of hand tools]"
+    },
+    {
+      "No.": "080153",
+      "Goods and Services": "levers"
+    },
+    {
+      "No.": "080154",
+      "Goods and Services": "machetes"
+    },
+    {
+      "No.": "080155",
+      "Goods and Services": "mallets [hand instruments]"
+    },
+    {
+      "No.": "080156",
+      "Goods and Services": "hammers [hand tools]"
+    },
+    {
+      "No.": "080157",
+      "Goods and Services": "sledgehammers"
+    },
+    {
+      "No.": "080158",
+      "Goods and Services": "masons' hammers"
+    },
+    {
+      "No.": "080159",
+      "Goods and Services": "chisels*"
+    },
+    {
+      "No.": "080160",
+      "Goods and Services": "metal band stretchers [hand tools]"
+    },
+    {
+      "No.": "080161",
+      "Goods and Services": "braiders [hand tools]"
+    },
+    {
+      "No.": "080162",
+      "Goods and Services": "money scoops"
+    },
+    {
+      "No.": "080163",
+      "Goods and Services": "mortars for pounding [hand tools]"
+    },
+    {
+      "No.": "080164",
+      "Goods and Services": "wick trimmers [scissors]"
+    },
+    {
+      "No.": "080166",
+      "Goods and Services": "shaving cases"
+    },
+    {
+      "No.": "080167",
+      "Goods and Services": "numbering punches"
+    },
+    {
+      "No.": "080168",
+      "Goods and Services": "nail files"
+    },
+    {
+      "No.": "080169",
+      "Goods and Services": "tin openers, non-electric / can openers, non-electric"
+    },
+    {
+      "No.": "080171",
+      "Goods and Services": "picks [hand tools]"
+    },
+    {
+      "No.": "080172",
+      "Goods and Services": "rammers [hand tools] / pestles for pounding [hand tools]"
+    },
+    {
+      "No.": "080174",
+      "Goods and Services": "guns [hand tools]"
+    },
+    {
+      "No.": "080175",
+      "Goods and Services": "centre punches [hand tools] / center punches [hand tools]"
+    },
+    {
+      "No.": "080176",
+      "Goods and Services": "foundry ladles [hand tools]"
+    },
+    {
+      "No.": "080177",
+      "Goods and Services": "plane irons"
+    },
+    {
+      "No.": "080178",
+      "Goods and Services": "rasps [hand tools]"
+    },
+    {
+      "No.": "080179",
+      "Goods and Services": "razors, electric or non-electric"
+    },
+    {
+      "No.": "080180",
+      "Goods and Services": "pin punches"
+    },
+    {
+      "No.": "080181",
+      "Goods and Services": "fire irons"
+    },
+    {
+      "No.": "080182",
+      "Goods and Services": "riveters [hand tools]"
+    },
+    {
+      "No.": "080183",
+      "Goods and Services": "hainault scythes"
+    },
+    {
+      "No.": "080184",
+      "Goods and Services": "weeding forks [hand tools]"
+    },
+    {
+      "No.": "080185",
+      "Goods and Services": "hoes [hand tools]"
+    },
+    {
+      "No.": "080186",
+      "Goods and Services": "saw holders"
+    },
+    {
+      "No.": "080187",
+      "Goods and Services": "hackles [hand tools]"
+    },
+    {
+      "No.": "080188",
+      "Goods and Services": "bill-hooks"
+    },
+    {
+      "No.": "080189",
+      "Goods and Services": "sickles"
+    },
+    {
+      "No.": "080191",
+      "Goods and Services": "implements for decanting liquids [hand tools]"
+    },
+    {
+      "No.": "080192",
+      "Goods and Services": "edge tools [hand tools]"
+    },
+    {
+      "No.": "080193",
+      "Goods and Services": "taps [hand tools]"
+    },
+    {
+      "No.": "080194",
+      "Goods and Services": "augers [hand tools]"
+    },
+    {
+      "No.": "080195",
+      "Goods and Services": "screwdrivers, non-electric"
+    },
+    {
+      "No.": "080196",
+      "Goods and Services": "priming irons [hand tools]"
+    },
+    {
+      "No.": "080197",
+      "Goods and Services": "bits [hand tools]"
+    },
+    {
+      "No.": "080198",
+      "Goods and Services": "tube cutting instruments"
+    },
+    {
+      "No.": "080199",
+      "Goods and Services": "breast drills"
+    },
+    {
+      "No.": "080200",
+      "Goods and Services": "agricultural implements, hand-operated"
+    },
+    {
+      "No.": "080201",
+      "Goods and Services": "grindstones [hand tools] / sharpening wheels [hand tools]"
+    },
+    {
+      "No.": "080202",
+      "Goods and Services": "syringes for spraying insecticides"
+    },
+    {
+      "No.": "080203",
+      "Goods and Services": "silver plate [knives, forks and spoons]"
+    },
+    {
+      "No.": "080204",
+      "Goods and Services": "diggers [hand tools]"
+    },
+    {
+      "No.": "080205",
+      "Goods and Services": "knives*"
+    },
+    {
+      "No.": "080206",
+      "Goods and Services": "pliers"
+    },
+    {
+      "No.": "080207",
+      "Goods and Services": "pincers* / nippers / tongs*"
+    },
+    {
+      "No.": "080208",
+      "Goods and Services": "swords"
+    },
+    {
+      "No.": "080209",
+      "Goods and Services": "sabres"
+    },
+    {
+      "No.": "080211",
+      "Goods and Services": "rams [hand tools]"
+    },
+    {
+      "No.": "080212",
+      "Goods and Services": "instruments for punching tickets"
+    },
+    {
+      "No.": "080213",
+      "Goods and Services": "nail files, electric"
+    },
+    {
+      "No.": "080214",
+      "Goods and Services": "fingernail polishers, electric or non-electric / nail buffers, electric or non-electric"
+    },
+    {
+      "No.": "080218",
+      "Goods and Services": "drill holders [hand tools]"
+    },
+    {
+      "No.": "080219",
+      "Goods and Services": "hair clippers for personal use, electric and non-electric"
+    },
+    {
+      "No.": "080220",
+      "Goods and Services": "agricultural forks [hand tools]"
+    },
+    {
+      "No.": "080221",
+      "Goods and Services": "nail clippers, electric or non-electric"
+    },
+    {
+      "No.": "080222",
+      "Goods and Services": "hair clippers for animals [hand instruments]"
+    },
+    {
+      "No.": "080223",
+      "Goods and Services": "shearers [hand instruments]"
+    },
+    {
+      "No.": "080224",
+      "Goods and Services": "clothes irons"
+    },
+    {
+      "No.": "080226",
+      "Goods and Services": "emery grinding wheels"
+    },
+    {
+      "No.": "080227",
+      "Goods and Services": "files [tools]"
+    },
+    {
+      "No.": "080228",
+      "Goods and Services": "punch pliers [hand tools]"
+    },
+    {
+      "No.": "080229",
+      "Goods and Services": "punches [hand tools]"
+    },
+    {
+      "No.": "080230",
+      "Goods and Services": "cutting tools [hand tools]"
+    },
+    {
+      "No.": "080231",
+      "Goods and Services": "manicure sets"
+    },
+    {
+      "No.": "080232",
+      "Goods and Services": "guns, hand-operated, for the extrusion of mastics"
+    },
+    {
+      "No.": "080234",
+      "Goods and Services": "ditchers [hand tools]"
+    },
+    {
+      "No.": "080235",
+      "Goods and Services": "scrapers [hand tools]"
+    },
+    {
+      "No.": "080236",
+      "Goods and Services": "mincing knives / fleshing knives / meat choppers being knives"
+    },
+    {
+      "No.": "080237",
+      "Goods and Services": "scraping tools [hand tools]"
+    },
+    {
+      "No.": "080241",
+      "Goods and Services": "ear-piercing apparatus"
+    },
+    {
+      "No.": "080242",
+      "Goods and Services": "depilation appliances, electric and non-electric"
+    },
+    {
+      "No.": "080243",
+      "Goods and Services": "manicure sets, electric"
+    },
+    {
+      "No.": "080244",
+      "Goods and Services": "vices / vises"
+    },
+    {
+      "No.": "080245",
+      "Goods and Services": "hand pumps*"
+    },
+    {
+      "No.": "080246",
+      "Goods and Services": "daggers"
+    },
+    {
+      "No.": "080247",
+      "Goods and Services": "tool belts"
+    },
+    {
+      "No.": "080248",
+      "Goods and Services": "cheese slicers, non-electric"
+    },
+    {
+      "No.": "080249",
+      "Goods and Services": "pizza cutters, non-electric"
+    },
+    {
+      "No.": "080250",
+      "Goods and Services": "crow bars"
+    },
+    {
+      "No.": "080251",
+      "Goods and Services": "egg slicers, non-electric"
+    },
+    {
+      "No.": "080252",
+      "Goods and Services": "eyelash curlers"
+    },
+    {
+      "No.": "080253",
+      "Goods and Services": "mitre boxes [hand tools] / miter boxes [hand tools]"
+    },
+    {
+      "No.": "080254",
+      "Goods and Services": "sand trap rakes"
+    },
+    {
+      "No.": "080255",
+      "Goods and Services": "fireplace bellows [hand tools]"
+    },
+    {
+      "No.": "080256",
+      "Goods and Services": "apparatus for tattooing"
+    },
+    {
+      "No.": "080257",
+      "Goods and Services": "emery files"
+    },
+    {
+      "No.": "080258",
+      "Goods and Services": "fish tapes [hand tools] / draw wires [hand tools]"
+    },
+    {
+      "No.": "080259",
+      "Goods and Services": "wire strippers [hand tools]"
+    },
+    {
+      "No.": "080261",
+      "Goods and Services": "bench vices [hand implements]"
+    },
+    {
+      "No.": "080262",
+      "Goods and Services": "non-electric caulking guns"
+    },
+    {
+      "No.": "080263",
+      "Goods and Services": "metal wire stretchers [hand tools]"
+    },
+    {
+      "No.": "080264",
+      "Goods and Services": "hobby knives [scalpels]"
+    },
+    {
+      "No.": "080265",
+      "Goods and Services": "air pumps, hand-operated"
+    },
+    {
+      "No.": "080266",
+      "Goods and Services": "ceramic knives"
+    },
+    {
+      "No.": "080267",
+      "Goods and Services": "emery boards"
+    },
+    {
+      "No.": "080268",
+      "Goods and Services": "ski edge sharpening tools, hand-operated"
+    },
+    {
+      "No.": "080269",
+      "Goods and Services": "tattoo needles"
+    },
+    {
+      "No.": "080270",
+      "Goods and Services": "spatulas for use by artists"
+    },
+    {
+      "No.": "080271",
+      "Goods and Services": "sculptors' chisels"
+    },
+    {
+      "No.": "080272",
+      "Goods and Services": "table knives, forks and spoons of plastic"
+    },
+    {
+      "No.": "080273",
+      "Goods and Services": "table knives, forks and spoons for babies"
+    },
+    {
+      "No.": "080274",
+      "Goods and Services": "scrapers for skis"
+    },
+    {
+      "No.": "080275",
+      "Goods and Services": "handles for hand-operated hand tools"
+    },
+    {
+      "No.": "080276",
+      "Goods and Services": "knife handles"
+    },
+    {
+      "No.": "080277",
+      "Goods and Services": "scythe handles"
+    },
+    {
+      "No.": "080278",
+      "Goods and Services": "vegetable spiralizers, hand-operated"
+    },
+    {
+      "No.": "080279",
+      "Goods and Services": "vegetable peelers, hand-operated"
+    },
+    {
+      "No.": "080280",
+      "Goods and Services": "box cutters"
+    },
+    {
+      "No.": "080281",
+      "Goods and Services": "hair braiders, electric"
+    },
+    {
+      "No.": "080282",
+      "Goods and Services": "stirring sticks for mixing paint"
+    },
+    {
+      "No.": "080283",
+      "Goods and Services": "wine bottle foil cutters, hand-operated"
+    },
+    {
+      "No.": "080284",
+      "Goods and Services": "fruit segmenters"
+    },
+    {
+      "No.": "080285",
+      "Goods and Services": "fruit corers"
+    },
+    {
+      "No.": "080286",
+      "Goods and Services": "kitchen mandolines"
+    },
+    {
+      "No.": "080287",
+      "Goods and Services": "meat claws"
+    },
+    {
+      "No.": "080288",
+      "Goods and Services": "sterile body piercing instruments"
+    },
+    {
+      "No.": "080289",
+      "Goods and Services": "laser hair removal apparatus, other than for medical purposes"
+    },
+    {
+      "No.": "080290",
+      "Goods and Services": "emergency hammers"
+    },
+    {
+      "No.": "080291",
+      "Goods and Services": "vegetable knives"
+    },
+    {
+      "No.": "080292",
+      "Goods and Services": "carving forks"
+    },
+    {
+      "No.": "080293",
+      "Goods and Services": "carving knives"
+    },
+    {
+      "No.": "080294",
+      "Goods and Services": "multi-tool knives"
+    },
+    {
+      "No.": "080295",
+      "Goods and Services": "hand-operated corn cob strippers"
+    },
+    {
+      "No.": "080296",
+      "Goods and Services": "hand-operated fruit slicers"
+    },
+    {
+      "No.": "080297",
+      "Goods and Services": "food processors, hand-operated"
+    },
+    {
+      "No.": "080298",
+      "Goods and Services": "portable handlooms, hand-operated"
+    },
+    {
+      "No.": "080299",
+      "Goods and Services": "tube squeezers, hand-operated, other than for household purposes"
+    },
+    {
+      "No.": "080300",
+      "Goods and Services": "hair straightening irons"
+    },
+    {
+      "No.": "080301",
+      "Goods and Services": "fruit pitters, hand-operated"
+    },
+    {
+      "No.": "080302",
+      "Goods and Services": "tool vests"
+    }
+  ]
+}

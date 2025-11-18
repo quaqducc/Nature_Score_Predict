@@ -1,0 +1,720 @@
+{
+  "group_number": "31",
+  "meta": {
+    "Goods and Services": "Class Heading Raw and unprocessed agricultural, aquacultural, horticultural and forestry products; raw and unprocessed grains and seeds; fresh fruits and vegetables, fresh herbs; natural plants and flowers; bulbs, seedlings and seeds for planting; live animals; foodstuffs and beverages for animals; malt Explanatory Note Class 31 includes mainly land and sea products not having been subjected to any form of preparation for consumption, live animals and plants, as well as foodstuffs for animals. This Class includes, in particular: • unprocessed cereals • fresh fruits and vegetables, even after washing or waxing • plant residue • unprocessed algae • unsawn timber • fertilised eggs for hatching • fresh mushrooms and truffles • litter for animals, for example, aromatic sand, sanded paper for pets This Class does not include, in particular: • cultures of micro-organisms and leeches for medical purposes (Cl. 5) • dietary supplements for animals and medicated animal feed (Cl. 5) • semi-worked woods (Cl. 19) • artificial fishing bait (Cl. 28) • rice (Cl. 30) • tobacco (Cl. 34)"
+  },
+  "items": [
+    {
+      "No.": "310002",
+      "Goods and Services": "citrus fruit, fresh"
+    },
+    {
+      "No.": "310003",
+      "Goods and Services": "algae, unprocessed, for human or animal consumption / seaweed, unprocessed, for human or animal consumption"
+    },
+    {
+      "No.": "310004",
+      "Goods and Services": "nuts, unprocessed"
+    },
+    {
+      "No.": "310005",
+      "Goods and Services": "menagerie animals"
+    },
+    {
+      "No.": "310006",
+      "Goods and Services": "live animals"
+    },
+    {
+      "No.": "310007",
+      "Goods and Services": "animal foodstuffs"
+    },
+    {
+      "No.": "310008",
+      "Goods and Services": "trees"
+    },
+    {
+      "No.": "310009",
+      "Goods and Services": "Christmas trees*"
+    },
+    {
+      "No.": "310010",
+      "Goods and Services": "trunks of trees"
+    },
+    {
+      "No.": "310011",
+      "Goods and Services": "shrubs / bushes"
+    },
+    {
+      "No.": "310012",
+      "Goods and Services": "oats*"
+    },
+    {
+      "No.": "310013",
+      "Goods and Services": "berries, fresh"
+    },
+    {
+      "No.": "310014",
+      "Goods and Services": "salt for cattle"
+    },
+    {
+      "No.": "310015",
+      "Goods and Services": "beet, fresh"
+    },
+    {
+      "No.": "310016",
+      "Goods and Services": "bran"
+    },
+    {
+      "No.": "310017",
+      "Goods and Services": "unsawn timber"
+    },
+    {
+      "No.": "310018",
+      "Goods and Services": "wood chips for the manufacture of wood pulp"
+    },
+    {
+      "No.": "310019",
+      "Goods and Services": "undressed timber"
+    },
+    {
+      "No.": "310020",
+      "Goods and Services": "cocoa beans, raw"
+    },
+    {
+      "No.": "310021",
+      "Goods and Services": "sugarcane"
+    },
+    {
+      "No.": "310022",
+      "Goods and Services": "locust beans, raw"
+    },
+    {
+      "No.": "310023",
+      "Goods and Services": "cereal seeds, unprocessed"
+    },
+    {
+      "No.": "310024",
+      "Goods and Services": "mushrooms, fresh"
+    },
+    {
+      "No.": "310025",
+      "Goods and Services": "mushroom spawn for propagation"
+    },
+    {
+      "No.": "310026",
+      "Goods and Services": "oil cake / cattle cake"
+    },
+    {
+      "No.": "310027",
+      "Goods and Services": "chestnuts, fresh"
+    },
+    {
+      "No.": "310028",
+      "Goods and Services": "lime for animal forage"
+    },
+    {
+      "No.": "310029",
+      "Goods and Services": "chicory roots"
+    },
+    {
+      "No.": "310030",
+      "Goods and Services": "chicory, fresh"
+    },
+    {
+      "No.": "310031",
+      "Goods and Services": "dog biscuits"
+    },
+    {
+      "No.": "310032",
+      "Goods and Services": "lemons, fresh"
+    },
+    {
+      "No.": "310033",
+      "Goods and Services": "coconut shell"
+    },
+    {
+      "No.": "310034",
+      "Goods and Services": "coconuts"
+    },
+    {
+      "No.": "310035",
+      "Goods and Services": "bird food"
+    },
+    {
+      "No.": "310036",
+      "Goods and Services": "rape cake for cattle"
+    },
+    {
+      "No.": "310037",
+      "Goods and Services": "cucumbers, fresh"
+    },
+    {
+      "No.": "310038",
+      "Goods and Services": "unprocessed hop cones"
+    },
+    {
+      "No.": "310039",
+      "Goods and Services": "bran mash for animal consumption"
+    },
+    {
+      "No.": "310040",
+      "Goods and Services": "copra"
+    },
+    {
+      "No.": "310041",
+      "Goods and Services": "shellfish, live"
+    },
+    {
+      "No.": "310042",
+      "Goods and Services": "vegetables, fresh"
+    },
+    {
+      "No.": "310043",
+      "Goods and Services": "squashes, fresh"
+    },
+    {
+      "No.": "310044",
+      "Goods and Services": "wreaths of natural flowers"
+    },
+    {
+      "No.": "310045",
+      "Goods and Services": "eggs for hatching, fertilized / eggs for hatching, fertilised"
+    },
+    {
+      "No.": "310046",
+      "Goods and Services": "straw mulch"
+    },
+    {
+      "No.": "310048",
+      "Goods and Services": "distillery waste for animal consumption"
+    },
+    {
+      "No.": "310049",
+      "Goods and Services": "draff"
+    },
+    {
+      "No.": "310050",
+      "Goods and Services": "bred stock"
+    },
+    {
+      "No.": "310052",
+      "Goods and Services": "animal fattening preparations / livestock fattening preparations"
+    },
+    {
+      "No.": "310053",
+      "Goods and Services": "rice meal for forage"
+    },
+    {
+      "No.": "310054",
+      "Goods and Services": "beans, fresh"
+    },
+    {
+      "No.": "310055",
+      "Goods and Services": "flowers, natural"
+    },
+    {
+      "No.": "310056",
+      "Goods and Services": "flowers, dried, for decoration"
+    },
+    {
+      "No.": "310057",
+      "Goods and Services": "pollen [raw material]"
+    },
+    {
+      "No.": "310058",
+      "Goods and Services": "hay"
+    },
+    {
+      "No.": "310059",
+      "Goods and Services": "strengthening animal forage"
+    },
+    {
+      "No.": "310060",
+      "Goods and Services": "fodder / cattle food / forage"
+    },
+    {
+      "No.": "310061",
+      "Goods and Services": "wheat"
+    },
+    {
+      "No.": "310062",
+      "Goods and Services": "fruit, fresh"
+    },
+    {
+      "No.": "310063",
+      "Goods and Services": "turf, natural / sod"
+    },
+    {
+      "No.": "310064",
+      "Goods and Services": "juniper berries"
+    },
+    {
+      "No.": "310065",
+      "Goods and Services": "seed germ for botanical purposes"
+    },
+    {
+      "No.": "310066",
+      "Goods and Services": "grains [cereals]"
+    },
+    {
+      "No.": "310067",
+      "Goods and Services": "grains for animal consumption"
+    },
+    {
+      "No.": "310068",
+      "Goods and Services": "seeds for planting / plant seeds"
+    },
+    {
+      "No.": "310069",
+      "Goods and Services": "groats for poultry"
+    },
+    {
+      "No.": "310070",
+      "Goods and Services": "garden herbs, fresh"
+    },
+    {
+      "No.": "310071",
+      "Goods and Services": "plants"
+    },
+    {
+      "No.": "310072",
+      "Goods and Services": "seedlings"
+    },
+    {
+      "No.": "310073",
+      "Goods and Services": "unprocessed hops"
+    },
+    {
+      "No.": "310074",
+      "Goods and Services": "kola nuts / cola nuts"
+    },
+    {
+      "No.": "310075",
+      "Goods and Services": "lettuce, fresh"
+    },
+    {
+      "No.": "310076",
+      "Goods and Services": "lentils, fresh"
+    },
+    {
+      "No.": "310077",
+      "Goods and Services": "yeast for animal consumption"
+    },
+    {
+      "No.": "310078",
+      "Goods and Services": "rough cork"
+    },
+    {
+      "No.": "310079",
+      "Goods and Services": "flax meal [fodder]"
+    },
+    {
+      "No.": "310080",
+      "Goods and Services": "litter for animals"
+    },
+    {
+      "No.": "310081",
+      "Goods and Services": "litter peat"
+    },
+    {
+      "No.": "310082",
+      "Goods and Services": "maize*"
+    },
+    {
+      "No.": "310083",
+      "Goods and Services": "maize cake for cattle"
+    },
+    {
+      "No.": "310084",
+      "Goods and Services": "malt for brewing and distilling"
+    },
+    {
+      "No.": "310086",
+      "Goods and Services": "fruit residue [marc] / marc"
+    },
+    {
+      "No.": "310087",
+      "Goods and Services": "hazelnuts, fresh"
+    },
+    {
+      "No.": "310088",
+      "Goods and Services": "meal for animals"
+    },
+    {
+      "No.": "310089",
+      "Goods and Services": "fish spawn"
+    },
+    {
+      "No.": "310090",
+      "Goods and Services": "silkworm eggs"
+    },
+    {
+      "No.": "310091",
+      "Goods and Services": "flower bulbs / bulbs"
+    },
+    {
+      "No.": "310092",
+      "Goods and Services": "onions, fresh"
+    },
+    {
+      "No.": "310093",
+      "Goods and Services": "olives, fresh"
+    },
+    {
+      "No.": "310094",
+      "Goods and Services": "oranges, fresh"
+    },
+    {
+      "No.": "310095",
+      "Goods and Services": "barley*"
+    },
+    {
+      "No.": "310096",
+      "Goods and Services": "nettles"
+    },
+    {
+      "No.": "310097",
+      "Goods and Services": "cuttle bone for birds"
+    },
+    {
+      "No.": "310098",
+      "Goods and Services": "straw litter"
+    },
+    {
+      "No.": "310099",
+      "Goods and Services": "straw [forage]"
+    },
+    {
+      "No.": "310100",
+      "Goods and Services": "palms [leaves of the palm tree]"
+    },
+    {
+      "No.": "310101",
+      "Goods and Services": "palm trees"
+    },
+    {
+      "No.": "310102",
+      "Goods and Services": "mash for fattening livestock"
+    },
+    {
+      "No.": "310103",
+      "Goods and Services": "fish, live"
+    },
+    {
+      "No.": "310104",
+      "Goods and Services": "vine plants"
+    },
+    {
+      "No.": "310105",
+      "Goods and Services": "pine cones"
+    },
+    {
+      "No.": "310106",
+      "Goods and Services": "peppers [plants]"
+    },
+    {
+      "No.": "310107",
+      "Goods and Services": "plants, dried, for decoration"
+    },
+    {
+      "No.": "310108",
+      "Goods and Services": "leeks, fresh"
+    },
+    {
+      "No.": "310109",
+      "Goods and Services": "peas, fresh"
+    },
+    {
+      "No.": "310110",
+      "Goods and Services": "potatoes, fresh"
+    },
+    {
+      "No.": "310111",
+      "Goods and Services": "preparations for egg laying poultry"
+    },
+    {
+      "No.": "310112",
+      "Goods and Services": "stall food for animals"
+    },
+    {
+      "No.": "310114",
+      "Goods and Services": "roots for animal consumption"
+    },
+    {
+      "No.": "310115",
+      "Goods and Services": "grapes, fresh"
+    },
+    {
+      "No.": "310116",
+      "Goods and Services": "rhubarb, fresh"
+    },
+    {
+      "No.": "310117",
+      "Goods and Services": "rose bushes"
+    },
+    {
+      "No.": "310118",
+      "Goods and Services": "rye"
+    },
+    {
+      "No.": "310119",
+      "Goods and Services": "silkworms"
+    },
+    {
+      "No.": "310120",
+      "Goods and Services": "edible sesame, unprocessed"
+    },
+    {
+      "No.": "310121",
+      "Goods and Services": "truffles, fresh"
+    },
+    {
+      "No.": "310122",
+      "Goods and Services": "residue in a still after distillation"
+    },
+    {
+      "No.": "310123",
+      "Goods and Services": "poultry, live"
+    },
+    {
+      "No.": "310124",
+      "Goods and Services": "algarovilla for animal consumption"
+    },
+    {
+      "No.": "310125",
+      "Goods and Services": "almonds [fruits]"
+    },
+    {
+      "No.": "310126",
+      "Goods and Services": "peanuts, fresh"
+    },
+    {
+      "No.": "310127",
+      "Goods and Services": "peanut meal for animals"
+    },
+    {
+      "No.": "310128",
+      "Goods and Services": "peanut cake for animals"
+    },
+    {
+      "No.": "310129",
+      "Goods and Services": "by-products of the processing of cereals, for animal consumption / residual products of cereals for animal consumption"
+    },
+    {
+      "No.": "310131",
+      "Goods and Services": "bagasses of cane [raw material]"
+    },
+    {
+      "No.": "310132",
+      "Goods and Services": "fishing bait, live"
+    },
+    {
+      "No.": "310133",
+      "Goods and Services": "crayfish, live"
+    },
+    {
+      "No.": "310134",
+      "Goods and Services": "crustaceans, live"
+    },
+    {
+      "No.": "310135",
+      "Goods and Services": "lobsters, live"
+    },
+    {
+      "No.": "310136",
+      "Goods and Services": "mussels, live"
+    },
+    {
+      "No.": "310137",
+      "Goods and Services": "oysters, live"
+    },
+    {
+      "No.": "310138",
+      "Goods and Services": "pet food"
+    },
+    {
+      "No.": "310139",
+      "Goods and Services": "raw barks"
+    },
+    {
+      "No.": "310140",
+      "Goods and Services": "spiny lobsters, live"
+    },
+    {
+      "No.": "310141",
+      "Goods and Services": "edible chews for animals"
+    },
+    {
+      "No.": "310142",
+      "Goods and Services": "beverages for pets"
+    },
+    {
+      "No.": "310143",
+      "Goods and Services": "fish meal for animal consumption"
+    },
+    {
+      "No.": "310144",
+      "Goods and Services": "rice, unprocessed"
+    },
+    {
+      "No.": "310145",
+      "Goods and Services": "sea-cucumbers, live"
+    },
+    {
+      "No.": "310146",
+      "Goods and Services": "sanded paper [litter] for pets"
+    },
+    {
+      "No.": "310147",
+      "Goods and Services": "aromatic sand [litter] for pets"
+    },
+    {
+      "No.": "310148",
+      "Goods and Services": "aloe vera plants"
+    },
+    {
+      "No.": "310149",
+      "Goods and Services": "spinach, fresh"
+    },
+    {
+      "No.": "310150",
+      "Goods and Services": "linseed for animal consumption / flaxseed for animal consumption"
+    },
+    {
+      "No.": "310151",
+      "Goods and Services": "linseed meal for animal consumption / flaxseed meal for animal consumption"
+    },
+    {
+      "No.": "310152",
+      "Goods and Services": "wheat germ for animal consumption"
+    },
+    {
+      "No.": "310153",
+      "Goods and Services": "artichokes, fresh"
+    },
+    {
+      "No.": "310154",
+      "Goods and Services": "herrings, live"
+    },
+    {
+      "No.": "310155",
+      "Goods and Services": "salmon, live"
+    },
+    {
+      "No.": "310156",
+      "Goods and Services": "sardines, live"
+    },
+    {
+      "No.": "310157",
+      "Goods and Services": "tuna, live"
+    },
+    {
+      "No.": "310158",
+      "Goods and Services": "garlic, fresh"
+    },
+    {
+      "No.": "310159",
+      "Goods and Services": "vegetable marrows, fresh"
+    },
+    {
+      "No.": "310160",
+      "Goods and Services": "edible linseed, unprocessed / edible flaxseed, unprocessed"
+    },
+    {
+      "No.": "310161",
+      "Goods and Services": "arrangements of fresh fruit"
+    },
+    {
+      "No.": "310162",
+      "Goods and Services": "anchovy, live"
+    },
+    {
+      "No.": "310163",
+      "Goods and Services": "edible insects, live"
+    },
+    {
+      "No.": "310164",
+      "Goods and Services": "unprocessed sweet corn ears [husked or unhusked]"
+    },
+    {
+      "No.": "310165",
+      "Goods and Services": "quinoa, unprocessed"
+    },
+    {
+      "No.": "310166",
+      "Goods and Services": "buckwheat, unprocessed"
+    },
+    {
+      "No.": "310167",
+      "Goods and Services": "koi carp, live"
+    },
+    {
+      "No.": "310168",
+      "Goods and Services": "molluscs, live / mollusks, live"
+    },
+    {
+      "No.": "310169",
+      "Goods and Services": "freeze-dried fishing bait"
+    },
+    {
+      "No.": "310170",
+      "Goods and Services": "edible flowers, fresh"
+    },
+    {
+      "No.": "310171",
+      "Goods and Services": "ginger, fresh"
+    },
+    {
+      "No.": "310172",
+      "Goods and Services": "soya beans, fresh"
+    },
+    {
+      "No.": "310173",
+      "Goods and Services": "cannabis plants"
+    },
+    {
+      "No.": "310174",
+      "Goods and Services": "cannabis, unprocessed"
+    },
+    {
+      "No.": "310175",
+      "Goods and Services": "birch sauna whisks"
+    },
+    {
+      "No.": "310176",
+      "Goods and Services": "squash seeds, unprocessed"
+    },
+    {
+      "No.": "310177",
+      "Goods and Services": "hemp seeds, unprocessed"
+    },
+    {
+      "No.": "310178",
+      "Goods and Services": "spelt, unprocessed"
+    },
+    {
+      "No.": "310179",
+      "Goods and Services": "catnip"
+    },
+    {
+      "No.": "310180",
+      "Goods and Services": "small spelt, unprocessed"
+    },
+    {
+      "No.": "310181",
+      "Goods and Services": "sand for pet toilets"
+    },
+    {
+      "No.": "310182",
+      "Goods and Services": "coffee fruit, unprocessed"
+    },
+    {
+      "No.": "310183",
+      "Goods and Services": "wood shavings for animal bedding"
+    },
+    {
+      "No.": "310184",
+      "Goods and Services": "dates, fresh"
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "group_number": "40",
+  "meta": {
+    "Goods and Services": "Class Heading Treatment of materials; recycling of waste and trash; air purification and treatment of water; printing services; food and drink preservation Explanatory Note Class 40 includes mainly services rendered by the mechanical or chemical processing, transformation or production of objects or inorganic or organic substances, including custom manufacturing services. For the purposes of classification, the production or manufacturing of goods is considered a service only in cases where it is effected for the account of another person to their order and specification. If the production or manufacturing is not being performed to fulfil an order for goods which meet the customer's particular needs, requirements, or specifications, then it is generally ancillary to the maker's primary commercial activity or goods in trade. If the substance or object is marketed to third parties by the person who processed, transformed or produced it, then this would generally not be considered a service. This Class includes, in particular: • transformation of an object or substance and any process involving a change in its essential properties, for example, dyeing a garment; such transformation services are also classified in Class 40 if they are provided in the framework of repair or maintenance work, for example, chromium plating of motor vehicle bumpers • services of material treatment which may be present during the production of any substance or object other than a building, for example, services which involve cutting, shaping, polishing by abrasion or metal coating • joining of materials, for example, soldering or welding • processing and treatment of foodstuffs, for example, fruit crushing, flour milling, food and drink preservation, food smoking, freezing of foods • custom manufacturing of goods to the order and specification of others (bearing in mind that certain offices require that the goods produced be indicated), for example, custom manufacturing of automobiles • quilting, embroidering, custom tailoring, textile dyeing, applying finishes to textiles This Class does not include, in particular: • services that do not entail a change in the essential properties of the object or substance, for example, furniture maintenance or repair (Cl. 37) • services in the field of construction, for example, painting and plastering (Cl. 37) • cleaning services, for example, laundering, window cleaning, cleaning of interior and exterior surfaces of buildings (Cl. 37) • rustproofing, for example, anti-rust treatment for vehicles (Cl. 37) • certain customization services, for example, the custom painting of automobiles (Cl. 37) • decorating of food, food sculpting (Cl. 43)"
+  },
+  "items": [
+    {
+      "No.": "400001",
+      "Goods and Services": "abrasion"
+    },
+    {
+      "No.": "400002",
+      "Goods and Services": "processing of cinematographic films"
+    },
+    {
+      "No.": "400003",
+      "Goods and Services": "air purification"
+    },
+    {
+      "No.": "400004",
+      "Goods and Services": "magnetization"
+    },
+    {
+      "No.": "400005",
+      "Goods and Services": "applying finishes to textiles"
+    },
+    {
+      "No.": "400006",
+      "Goods and Services": "paper finishing"
+    },
+    {
+      "No.": "400007",
+      "Goods and Services": "silver plating"
+    },
+    {
+      "No.": "400008",
+      "Goods and Services": "fabric bleaching"
+    },
+    {
+      "No.": "400009",
+      "Goods and Services": "woodworking"
+    },
+    {
+      "No.": "400010",
+      "Goods and Services": "cloth edging"
+    },
+    {
+      "No.": "400011",
+      "Goods and Services": "soldering"
+    },
+    {
+      "No.": "400012",
+      "Goods and Services": "dressmaking"
+    },
+    {
+      "No.": "400013",
+      "Goods and Services": "cadmium plating"
+    },
+    {
+      "No.": "400014",
+      "Goods and Services": "permanent-press treatment of fabrics"
+    },
+    {
+      "No.": "400015",
+      "Goods and Services": "pottery firing / firing pottery"
+    },
+    {
+      "No.": "400016",
+      "Goods and Services": "shoe staining"
+    },
+    {
+      "No.": "400017",
+      "Goods and Services": "chromium plating"
+    },
+    {
+      "No.": "400018",
+      "Goods and Services": "metal plating"
+    },
+    {
+      "No.": "400019",
+      "Goods and Services": "leather staining"
+    },
+    {
+      "No.": "400020",
+      "Goods and Services": "fur conditioning"
+    },
+    {
+      "No.": "400021",
+      "Goods and Services": "cloth cutting"
+    },
+    {
+      "No.": "400022",
+      "Goods and Services": "pattern printing"
+    },
+    {
+      "No.": "400023",
+      "Goods and Services": "photographic film development"
+    },
+    {
+      "No.": "400024",
+      "Goods and Services": "gilding"
+    },
+    {
+      "No.": "400025",
+      "Goods and Services": "water treating"
+    },
+    {
+      "No.": "400026",
+      "Goods and Services": "electroplating"
+    },
+    {
+      "No.": "400027",
+      "Goods and Services": "tin plating"
+    },
+    {
+      "No.": "400028",
+      "Goods and Services": "custom fashioning of fur"
+    },
+    {
+      "No.": "400029",
+      "Goods and Services": "blacksmithing"
+    },
+    {
+      "No.": "400030",
+      "Goods and Services": "fur mothproofing"
+    },
+    {
+      "No.": "400031",
+      "Goods and Services": "millworking"
+    },
+    {
+      "No.": "400032",
+      "Goods and Services": "fruit crushing"
+    },
+    {
+      "No.": "400033",
+      "Goods and Services": "food smoking"
+    },
+    {
+      "No.": "400034",
+      "Goods and Services": "galvanization"
+    },
+    {
+      "No.": "400035",
+      "Goods and Services": "engraving"
+    },
+    {
+      "No.": "400036",
+      "Goods and Services": "cloth waterproofing / fabric waterproofing"
+    },
+    {
+      "No.": "400037",
+      "Goods and Services": "cloth fireproofing / fabric fireproofing / textile fireproofing"
+    },
+    {
+      "No.": "400038",
+      "Goods and Services": "crease-resistant treatment for clothing"
+    },
+    {
+      "No.": "400039",
+      "Goods and Services": "wool treating"
+    },
+    {
+      "No.": "400040",
+      "Goods and Services": "laminating"
+    },
+    {
+      "No.": "400041",
+      "Goods and Services": "grinding"
+    },
+    {
+      "No.": "400042",
+      "Goods and Services": "metal treating"
+    },
+    {
+      "No.": "400043",
+      "Goods and Services": "metal tempering"
+    },
+    {
+      "No.": "400044",
+      "Goods and Services": "flour milling"
+    },
+    {
+      "No.": "400045",
+      "Goods and Services": "nickel plating"
+    },
+    {
+      "No.": "400046",
+      "Goods and Services": "warping [looms]"
+    },
+    {
+      "No.": "400047",
+      "Goods and Services": "skin dressing"
+    },
+    {
+      "No.": "400048",
+      "Goods and Services": "burnishing by abrasion"
+    },
+    {
+      "No.": "400049",
+      "Goods and Services": "bookbinding"
+    },
+    {
+      "No.": "400050",
+      "Goods and Services": "planing of materials"
+    },
+    {
+      "No.": "400051",
+      "Goods and Services": "saddlery working"
+    },
+    {
+      "No.": "400052",
+      "Goods and Services": "sawing of materials"
+    },
+    {
+      "No.": "400053",
+      "Goods and Services": "custom tailoring"
+    },
+    {
+      "No.": "400054",
+      "Goods and Services": "tanning"
+    },
+    {
+      "No.": "400055",
+      "Goods and Services": "taxidermy"
+    },
+    {
+      "No.": "400056",
+      "Goods and Services": "dyeing services*"
+    },
+    {
+      "No.": "400057",
+      "Goods and Services": "textile dyeing"
+    },
+    {
+      "No.": "400058",
+      "Goods and Services": "textile treating / cloth treating"
+    },
+    {
+      "No.": "400059",
+      "Goods and Services": "textile mothproofing"
+    },
+    {
+      "No.": "400060",
+      "Goods and Services": "cloth dyeing"
+    },
+    {
+      "No.": "400061",
+      "Goods and Services": "paper treating"
+    },
+    {
+      "No.": "400062",
+      "Goods and Services": "glass-blowing"
+    },
+    {
+      "No.": "400063",
+      "Goods and Services": "embroidering"
+    },
+    {
+      "No.": "400064",
+      "Goods and Services": "leather working"
+    },
+    {
+      "No.": "400065",
+      "Goods and Services": "window tinting treatment being surface coating"
+    },
+    {
+      "No.": "400066",
+      "Goods and Services": "food and drink preservation"
+    },
+    {
+      "No.": "400067",
+      "Goods and Services": "timber felling and processing"
+    },
+    {
+      "No.": "400068",
+      "Goods and Services": "recycling of waste and trash"
+    },
+    {
+      "No.": "400069",
+      "Goods and Services": "cloth pre-shrinking"
+    },
+    {
+      "No.": "400070",
+      "Goods and Services": "fur glossing"
+    },
+    {
+      "No.": "400071",
+      "Goods and Services": "fur satining"
+    },
+    {
+      "No.": "400072",
+      "Goods and Services": "fur dyeing"
+    },
+    {
+      "No.": "400081",
+      "Goods and Services": "air deodorizing / air deodorising"
+    },
+    {
+      "No.": "400082",
+      "Goods and Services": "air freshening"
+    },
+    {
+      "No.": "400083",
+      "Goods and Services": "custom assembling of materials for others"
+    },
+    {
+      "No.": "400084",
+      "Goods and Services": "framing of works of art"
+    },
+    {
+      "No.": "400085",
+      "Goods and Services": "gold plating"
+    },
+    {
+      "No.": "400086",
+      "Goods and Services": "laser scribing"
+    },
+    {
+      "No.": "400087",
+      "Goods and Services": "providing information relating to material treatment"
+    },
+    {
+      "No.": "400088",
+      "Goods and Services": "optical glass grinding"
+    },
+    {
+      "No.": "400089",
+      "Goods and Services": "photographic printing"
+    },
+    {
+      "No.": "400090",
+      "Goods and Services": "photogravure"
+    },
+    {
+      "No.": "400091",
+      "Goods and Services": "processing of oil"
+    },
+    {
+      "No.": "400092",
+      "Goods and Services": "quilting"
+    },
+    {
+      "No.": "400093",
+      "Goods and Services": "refining services"
+    },
+    {
+      "No.": "400094",
+      "Goods and Services": "slaughtering of animals"
+    },
+    {
+      "No.": "400095",
+      "Goods and Services": "stripping finishes"
+    },
+    {
+      "No.": "400097",
+      "Goods and Services": "waste treatment [transformation]"
+    },
+    {
+      "No.": "400098",
+      "Goods and Services": "clothing alteration"
+    },
+    {
+      "No.": "400099",
+      "Goods and Services": "boilermaking"
+    },
+    {
+      "No.": "400100",
+      "Goods and Services": "metal casting"
+    },
+    {
+      "No.": "400101",
+      "Goods and Services": "vulcanization [material treatment]"
+    },
+    {
+      "No.": "400102",
+      "Goods and Services": "custom manufacturing of orthodontic appliances"
+    },
+    {
+      "No.": "400103",
+      "Goods and Services": "production of energy"
+    },
+    {
+      "No.": "400104",
+      "Goods and Services": "rental of electricity generators"
+    },
+    {
+      "No.": "400105",
+      "Goods and Services": "destruction of waste and trash"
+    },
+    {
+      "No.": "400106",
+      "Goods and Services": "incineration of waste and trash"
+    },
+    {
+      "No.": "400107",
+      "Goods and Services": "colour separation services"
+    },
+    {
+      "No.": "400108",
+      "Goods and Services": "key cutting"
+    },
+    {
+      "No.": "400109",
+      "Goods and Services": "decontamination of hazardous materials"
+    },
+    {
+      "No.": "400110",
+      "Goods and Services": "lithographic printing"
+    },
+    {
+      "No.": "400111",
+      "Goods and Services": "printing"
+    },
+    {
+      "No.": "400112",
+      "Goods and Services": "knitting machine rental"
+    },
+    {
+      "No.": "400113",
+      "Goods and Services": "offset printing"
+    },
+    {
+      "No.": "400114",
+      "Goods and Services": "photocomposing services"
+    },
+    {
+      "No.": "400115",
+      "Goods and Services": "silkscreen printing"
+    },
+    {
+      "No.": "400116",
+      "Goods and Services": "sorting of waste and recyclable material [transformation]"
+    },
+    {
+      "No.": "400117",
+      "Goods and Services": "freezing of foods"
+    },
+    {
+      "No.": "400118",
+      "Goods and Services": "rental of air-conditioning apparatus"
+    },
+    {
+      "No.": "400119",
+      "Goods and Services": "rental of space heating apparatus"
+    },
+    {
+      "No.": "400120",
+      "Goods and Services": "fulling of cloth"
+    },
+    {
+      "No.": "400121",
+      "Goods and Services": "cryopreservation services"
+    },
+    {
+      "No.": "400122",
+      "Goods and Services": "sandblasting services"
+    },
+    {
+      "No.": "400123",
+      "Goods and Services": "rental of boilers"
+    },
+    {
+      "No.": "400124",
+      "Goods and Services": "upcycling [waste recycling]"
+    },
+    {
+      "No.": "400125",
+      "Goods and Services": "welding services"
+    },
+    {
+      "No.": "400126",
+      "Goods and Services": "tinting of car windows"
+    },
+    {
+      "No.": "400127",
+      "Goods and Services": "custom 3D printing for others"
+    },
+    {
+      "No.": "400128",
+      "Goods and Services": "beer brewing for others"
+    },
+    {
+      "No.": "400129",
+      "Goods and Services": "custom manufacturing of bread"
+    },
+    {
+      "No.": "400130",
+      "Goods and Services": "pasteurizing of food and beverages / pasteurising of food and beverages"
+    },
+    {
+      "No.": "400131",
+      "Goods and Services": "wine making for others"
+    },
+    {
+      "No.": "400132",
+      "Goods and Services": "consultancy in the field of wine making"
+    },
+    {
+      "No.": "400133",
+      "Goods and Services": "custom manufacturing of boats"
+    },
+    {
+      "No.": "400134",
+      "Goods and Services": "distillation services"
+    },
+    {
+      "No.": "400135",
+      "Goods and Services": "rental of industrial robots for use in manufacturing"
+    },
+    {
+      "No.": "400136",
+      "Goods and Services": "custom manufacturing of aircraft"
+    },
+    {
+      "No.": "400137",
+      "Goods and Services": "joinery services [custom manufacturing of woodwork]"
+    },
+    {
+      "No.": "400138",
+      "Goods and Services": "cheese processing services in the nature of ripening, maturing and aging of cheese"
+    },
+    {
+      "No.": "400139",
+      "Goods and Services": "crushing of concrete"
+    },
+    {
+      "No.": "400140",
+      "Goods and Services": "irradiation of food"
+    },
+    {
+      "No.": "400141",
+      "Goods and Services": "rental of batteries"
+    },
+    {
+      "No.": "400142",
+      "Goods and Services": "carbon capture"
+    },
+    {
+      "No.": "400143",
+      "Goods and Services": "production of renewable green energy"
+    },
+    {
+      "No.": "400144",
+      "Goods and Services": "rental of printers for use with computers"
+    },
+    {
+      "No.": "400145",
+      "Goods and Services": "encapsulation of semiconductors for others"
+    },
+    {
+      "No.": "400146",
+      "Goods and Services": "custom manufacturing of chips [integrated circuits] for others"
+    },
+    {
+      "No.": "400147",
+      "Goods and Services": "herbal medicine decocting services"
+    },
+    {
+      "No.": "400148",
+      "Goods and Services": "custom biomanufacturing of pharmaceuticals"
+    }
+  ]
+}

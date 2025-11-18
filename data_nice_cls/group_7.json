@@ -1,0 +1,2379 @@
+{
+  "group_number": "7",
+  "meta": {
+    "Goods and Services": "Class Heading Machines, machine tools, power-operated tools; motors and engines, except for land vehicles; machine coupling and transmission components, except for land vehicles; agricultural implements, other than hand-operated hand tools; incubators for eggs; automatic vending machines Explanatory Note Class 7 includes mainly machines and machine tools, motors and engines. This Class includes, in particular: • parts of motors and engines of all kinds, for example, starters, mufflers and cylinders for motors and engines of any type • electric cleaning and polishing apparatus, for example, electric shoe polishers, electric machines and apparatus for carpet shampooing and vacuum cleaners • 3D printers • industrial robots • certain special vehicles not for transportation purposes, for example, road sweeping machines, road making machines, bulldozers, snow ploughs, as well as rubber tracks as parts of those vehicles' crawlers This Class does not include, in particular: • hand tools and implements, hand-operated (Cl. 8) • humanoid robots with artificial intelligence, laboratory robots, teaching robots, security surveillance robots (Cl. 9), surgical robots (Cl. 10), robotic cars (Cl. 12), robotic drums (Cl. 15), toy robots (Cl. 28) • motors and engines for land vehicles (Cl. 12) • treads for vehicles, as well as tyres for all kinds of vehicle wheels (Cl. 12) • certain special machines, for example, automated teller machines (Cl. 9), respirators for artificial respiration (Cl. 10), refrigerating apparatus and machines (Cl. 11)"
+  },
+  "items": [
+    {
+      "No.": "070001",
+      "Goods and Services": "shaft couplings [machines]"
+    },
+    {
+      "No.": "070002",
+      "Goods and Services": "acetylene cleaning apparatus"
+    },
+    {
+      "No.": "070003",
+      "Goods and Services": "converters for steelworks"
+    },
+    {
+      "No.": "070004",
+      "Goods and Services": "tape dispensing machines for industrial use"
+    },
+    {
+      "No.": "070005",
+      "Goods and Services": "aerating pumps for aquaria"
+    },
+    {
+      "No.": "070006",
+      "Goods and Services": "aerocondensers"
+    },
+    {
+      "No.": "070007",
+      "Goods and Services": "agitators"
+    },
+    {
+      "No.": "070008",
+      "Goods and Services": "agricultural machines"
+    },
+    {
+      "No.": "070009",
+      "Goods and Services": "agricultural elevators"
+    },
+    {
+      "No.": "070010",
+      "Goods and Services": "filters for cleaning cooling air, for engines"
+    },
+    {
+      "No.": "070011",
+      "Goods and Services": "air condensers"
+    },
+    {
+      "No.": "070012",
+      "Goods and Services": "apparatus for drawing up beer under pressure"
+    },
+    {
+      "No.": "070013",
+      "Goods and Services": "size adjustment cutting machines for industrial purposes"
+    },
+    {
+      "No.": "070014",
+      "Goods and Services": "steamrollers / road rollers"
+    },
+    {
+      "No.": "070015",
+      "Goods and Services": "carburetter feeders"
+    },
+    {
+      "No.": "070016",
+      "Goods and Services": "igniting devices for internal combustion engines"
+    },
+    {
+      "No.": "070018",
+      "Goods and Services": "alternators"
+    },
+    {
+      "No.": "070019",
+      "Goods and Services": "valves [parts of machines]"
+    },
+    {
+      "No.": "070020",
+      "Goods and Services": "axles for machines"
+    },
+    {
+      "No.": "070021",
+      "Goods and Services": "crank shafts"
+    },
+    {
+      "No.": "070022",
+      "Goods and Services": "transmission shafts, other than for land vehicles"
+    },
+    {
+      "No.": "070023",
+      "Goods and Services": "passenger lifts / passenger elevators"
+    },
+    {
+      "No.": "070024",
+      "Goods and Services": "elevators [machines]"
+    },
+    {
+      "No.": "070026",
+      "Goods and Services": "mixing machines"
+    },
+    {
+      "No.": "070027",
+      "Goods and Services": "self-oiling bearings"
+    },
+    {
+      "No.": "070028",
+      "Goods and Services": "ploughs"
+    },
+    {
+      "No.": "070029",
+      "Goods and Services": "aeroplane engines"
+    },
+    {
+      "No.": "070030",
+      "Goods and Services": "whitewashing machines / colour-washing machines"
+    },
+    {
+      "No.": "070031",
+      "Goods and Services": "grease rings [parts of machines]"
+    },
+    {
+      "No.": "070032",
+      "Goods and Services": "piston segments / piston rings"
+    },
+    {
+      "No.": "070033",
+      "Goods and Services": "dynamo brushes"
+    },
+    {
+      "No.": "070034",
+      "Goods and Services": "road sweeping machines, self-propelled"
+    },
+    {
+      "No.": "070035",
+      "Goods and Services": "saw benches [parts of machines]"
+    },
+    {
+      "No.": "070036",
+      "Goods and Services": "belts for conveyors"
+    },
+    {
+      "No.": "070037",
+      "Goods and Services": "belt conveyors"
+    },
+    {
+      "No.": "070038",
+      "Goods and Services": "churns"
+    },
+    {
+      "No.": "070039",
+      "Goods and Services": "drums [parts of machines]"
+    },
+    {
+      "No.": "070040",
+      "Goods and Services": "housings [parts of machines]"
+    },
+    {
+      "No.": "070041",
+      "Goods and Services": "stands for machines"
+    },
+    {
+      "No.": "070042",
+      "Goods and Services": "mills [machines]"
+    },
+    {
+      "No.": "070043",
+      "Goods and Services": "threshing machines"
+    },
+    {
+      "No.": "070044",
+      "Goods and Services": "beating machines"
+    },
+    {
+      "No.": "070045",
+      "Goods and Services": "concrete mixers [machines]"
+    },
+    {
+      "No.": "070046",
+      "Goods and Services": "butter machines"
+    },
+    {
+      "No.": "070047",
+      "Goods and Services": "bicycle dynamos"
+    },
+    {
+      "No.": "070048",
+      "Goods and Services": "connecting rods for machines, motors and engines"
+    },
+    {
+      "No.": "070049",
+      "Goods and Services": "ball-bearings"
+    },
+    {
+      "No.": "070050",
+      "Goods and Services": "bitumen making machines"
+    },
+    {
+      "No.": "070051",
+      "Goods and Services": "harvesting machines / mowing and reaping machines"
+    },
+    {
+      "No.": "070052",
+      "Goods and Services": "sheaf-binding machines"
+    },
+    {
+      "No.": "070054",
+      "Goods and Services": "bobbins for weaving looms / reels for weaving looms"
+    },
+    {
+      "No.": "070055",
+      "Goods and Services": "woodworking machines"
+    },
+    {
+      "No.": "070056",
+      "Goods and Services": "apparatus for aerating beverages"
+    },
+    {
+      "No.": "070057",
+      "Goods and Services": "hosiery looms [machines]"
+    },
+    {
+      "No.": "070058",
+      "Goods and Services": "binding apparatus for hay / trussing apparatus for hay"
+    },
+    {
+      "No.": "070059",
+      "Goods and Services": "mud catchers and collectors [machines]"
+    },
+    {
+      "No.": "070061",
+      "Goods and Services": "glow plugs for Diesel engines"
+    },
+    {
+      "No.": "070062",
+      "Goods and Services": "threading machines"
+    },
+    {
+      "No.": "070063",
+      "Goods and Services": "rinsing machines"
+    },
+    {
+      "No.": "070064",
+      "Goods and Services": "bottle filling machines"
+    },
+    {
+      "No.": "070065",
+      "Goods and Services": "bottle washing machines"
+    },
+    {
+      "No.": "070066",
+      "Goods and Services": "brewing machines"
+    },
+    {
+      "No.": "070067",
+      "Goods and Services": "tambours for embroidery machines"
+    },
+    {
+      "No.": "070068",
+      "Goods and Services": "brushes [parts of machines]"
+    },
+    {
+      "No.": "070069",
+      "Goods and Services": "bulldozers"
+    },
+    {
+      "No.": "070070",
+      "Goods and Services": "shovels, mechanical"
+    },
+    {
+      "No.": "070071",
+      "Goods and Services": "mortising machines / paring machines"
+    },
+    {
+      "No.": "070072",
+      "Goods and Services": "capstans"
+    },
+    {
+      "No.": "070073",
+      "Goods and Services": "automatic grapnels for marine purposes"
+    },
+    {
+      "No.": "070074",
+      "Goods and Services": "belts for machines"
+    },
+    {
+      "No.": "070075",
+      "Goods and Services": "cowlings [parts of machines] / guards [parts of machines] / hoods [parts of machines]"
+    },
+    {
+      "No.": "070076",
+      "Goods and Services": "type-setting machines [printing]"
+    },
+    {
+      "No.": "070077",
+      "Goods and Services": "injectors for engines"
+    },
+    {
+      "No.": "070078",
+      "Goods and Services": "carburetters"
+    },
+    {
+      "No.": "070079",
+      "Goods and Services": "card clothing [parts of carding machines]"
+    },
+    {
+      "No.": "070080",
+      "Goods and Services": "knives being parts of machines"
+    },
+    {
+      "No.": "070081",
+      "Goods and Services": "boxes for matrices [printing]"
+    },
+    {
+      "No.": "070082",
+      "Goods and Services": "cinder sifters [machines]"
+    },
+    {
+      "No.": "070083",
+      "Goods and Services": "cream/milk separators"
+    },
+    {
+      "No.": "070084",
+      "Goods and Services": "spin dryers [not heated] / spin driers [not heated]"
+    },
+    {
+      "No.": "070085",
+      "Goods and Services": "lubricators [parts of machines]"
+    },
+    {
+      "No.": "070086",
+      "Goods and Services": "centrifugal machines / centrifuges [machines]"
+    },
+    {
+      "No.": "070087",
+      "Goods and Services": "centrifugal mills"
+    },
+    {
+      "No.": "070088",
+      "Goods and Services": "centrifugal pumps"
+    },
+    {
+      "No.": "070089",
+      "Goods and Services": "grain husking machines / corn husking machines / corn and grain husking machines"
+    },
+    {
+      "No.": "070090",
+      "Goods and Services": "milling machines"
+    },
+    {
+      "No.": "070091",
+      "Goods and Services": "bearing brackets for machines"
+    },
+    {
+      "No.": "070092",
+      "Goods and Services": "hangers [parts of machines]"
+    },
+    {
+      "No.": "070093",
+      "Goods and Services": "carbon brushes [electricity]"
+    },
+    {
+      "No.": "070094",
+      "Goods and Services": "coal-cutting machines"
+    },
+    {
+      "No.": "070095",
+      "Goods and Services": "hoists"
+    },
+    {
+      "No.": "070096",
+      "Goods and Services": "loading ramps"
+    },
+    {
+      "No.": "070097",
+      "Goods and Services": "sliders for knitting machines / carriages for knitting machines / slides for knitting machines"
+    },
+    {
+      "No.": "070098",
+      "Goods and Services": "lathes [machine tools]"
+    },
+    {
+      "No.": "070099",
+      "Goods and Services": "pulleys*"
+    },
+    {
+      "No.": "070100",
+      "Goods and Services": "ploughshares"
+    },
+    {
+      "No.": "070101",
+      "Goods and Services": "fittings for engine boilers"
+    },
+    {
+      "No.": "070102",
+      "Goods and Services": "wine presses"
+    },
+    {
+      "No.": "070103",
+      "Goods and Services": "cigarette machines for industrial purposes"
+    },
+    {
+      "No.": "070104",
+      "Goods and Services": "bending machines"
+    },
+    {
+      "No.": "070105",
+      "Goods and Services": "shears, electric"
+    },
+    {
+      "No.": "070106",
+      "Goods and Services": "scissors, electric"
+    },
+    {
+      "No.": "070107",
+      "Goods and Services": "chisels for machines"
+    },
+    {
+      "No.": "070108",
+      "Goods and Services": "clack valves [parts of machines]"
+    },
+    {
+      "No.": "070109",
+      "Goods and Services": "filter presses"
+    },
+    {
+      "No.": "070110",
+      "Goods and Services": "scale collectors for machine boilers"
+    },
+    {
+      "No.": "070111",
+      "Goods and Services": "pedal drives for sewing machines"
+    },
+    {
+      "No.": "070112",
+      "Goods and Services": "type-setting machines [photocomposition]"
+    },
+    {
+      "No.": "070113",
+      "Goods and Services": "compressors [machines]"
+    },
+    {
+      "No.": "070114",
+      "Goods and Services": "turbocompressors"
+    },
+    {
+      "No.": "070115",
+      "Goods and Services": "steam condensers [parts of machines]"
+    },
+    {
+      "No.": "070116",
+      "Goods and Services": "condensing installations"
+    },
+    {
+      "No.": "070117",
+      "Goods and Services": "pulleys [parts of machines]"
+    },
+    {
+      "No.": "070118",
+      "Goods and Services": "joints [parts of engines] / sealing joints [parts of engines]"
+    },
+    {
+      "No.": "070119",
+      "Goods and Services": "cord making machines"
+    },
+    {
+      "No.": "070120",
+      "Goods and Services": "typecasting machines"
+    },
+    {
+      "No.": "070122",
+      "Goods and Services": "clippers [machines]"
+    },
+    {
+      "No.": "070123",
+      "Goods and Services": "cutters [machines]"
+    },
+    {
+      "No.": "070124",
+      "Goods and Services": "current generators"
+    },
+    {
+      "No.": "070125",
+      "Goods and Services": "drilling heads [parts of machines]"
+    },
+    {
+      "No.": "070126",
+      "Goods and Services": "dynamo belts"
+    },
+    {
+      "No.": "070127"
+    },
+    {
+      "No.": "070128",
+      "Goods and Services": "stitching machines"
+    },
+    {
+      "No.": "070129",
+      "Goods and Services": "air cushion devices for moving loads"
+    },
+    {
+      "No.": "070130",
+      "Goods and Services": "bearings [parts of machines]"
+    },
+    {
+      "No.": "070131",
+      "Goods and Services": "knives, electric"
+    },
+    {
+      "No.": "070132",
+      "Goods and Services": "rack and pinion jacks"
+    },
+    {
+      "No.": "070133",
+      "Goods and Services": "sifting installations"
+    },
+    {
+      "No.": "070135",
+      "Goods and Services": "jacks [machines]"
+    },
+    {
+      "No.": "070136",
+      "Goods and Services": "leather-working machines"
+    },
+    {
+      "No.": "070137",
+      "Goods and Services": "cylinder heads for engines"
+    },
+    {
+      "No.": "070138",
+      "Goods and Services": "cultivators [machines]"
+    },
+    {
+      "No.": "070139",
+      "Goods and Services": "cylinders for machines"
+    },
+    {
+      "No.": "070140",
+      "Goods and Services": "printing cylinders"
+    },
+    {
+      "No.": "070141",
+      "Goods and Services": "rolling mill cylinders"
+    },
+    {
+      "No.": "070143",
+      "Goods and Services": "sorting machines for industry"
+    },
+    {
+      "No.": "070145",
+      "Goods and Services": "hoppers [mechanical discharging]"
+    },
+    {
+      "No.": "070146",
+      "Goods and Services": "cutting machines"
+    },
+    {
+      "No.": "070147",
+      "Goods and Services": "de-aerators for feedwater"
+    },
+    {
+      "No.": "070148",
+      "Goods and Services": "turf removing ploughs"
+    },
+    {
+      "No.": "070149",
+      "Goods and Services": "degreasers [machines]"
+    },
+    {
+      "No.": "070150",
+      "Goods and Services": "starters for motors and engines"
+    },
+    {
+      "No.": "070151",
+      "Goods and Services": "lace making machines"
+    },
+    {
+      "No.": "070152",
+      "Goods and Services": "steam/oil separators"
+    },
+    {
+      "No.": "070153",
+      "Goods and Services": "disintegrators"
+    },
+    {
+      "No.": "070154",
+      "Goods and Services": "pressure reducers [parts of machines]"
+    },
+    {
+      "No.": "070155",
+      "Goods and Services": "reeling apparatus, mechanical"
+    },
+    {
+      "No.": "070157",
+      "Goods and Services": "leather paring machines"
+    },
+    {
+      "No.": "070158",
+      "Goods and Services": "drainage machines"
+    },
+    {
+      "No.": "070159",
+      "Goods and Services": "trimming machines / apparatus for dressing / apparatus for machining"
+    },
+    {
+      "No.": "070160",
+      "Goods and Services": "dynamos"
+    },
+    {
+      "No.": "070162",
+      "Goods and Services": "sewage pulverizers / sewage pulverisers"
+    },
+    {
+      "No.": "070163",
+      "Goods and Services": "apparatus for aerating water"
+    },
+    {
+      "No.": "070164",
+      "Goods and Services": "machines for the mineralization of drinking water / machines for the mineralisation of drinking water"
+    },
+    {
+      "No.": "070165",
+      "Goods and Services": "water heaters being parts of machines"
+    },
+    {
+      "No.": "070166",
+      "Goods and Services": "fleshing machines"
+    },
+    {
+      "No.": "070167",
+      "Goods and Services": "die-cutting and tapping machines / nut-tapping machines"
+    },
+    {
+      "No.": "070168",
+      "Goods and Services": "stalk separators [machines]"
+    },
+    {
+      "No.": "070169",
+      "Goods and Services": "grain separators"
+    },
+    {
+      "No.": "070170",
+      "Goods and Services": "ejectors"
+    },
+    {
+      "No.": "070171",
+      "Goods and Services": "electricity generators"
+    },
+    {
+      "No.": "070172",
+      "Goods and Services": "elevating apparatus"
+    },
+    {
+      "No.": "070173",
+      "Goods and Services": "swaging machines"
+    },
+    {
+      "No.": "070174",
+      "Goods and Services": "clutches, other than for land vehicles"
+    },
+    {
+      "No.": "070175",
+      "Goods and Services": "inking apparatus for printing machines"
+    },
+    {
+      "No.": "070176",
+      "Goods and Services": "feeders [parts of machines]"
+    },
+    {
+      "No.": "070177",
+      "Goods and Services": "wrapping machines"
+    },
+    {
+      "No.": "070178",
+      "Goods and Services": "moving staircases [escalators] / escalators"
+    },
+    {
+      "No.": "070179",
+      "Goods and Services": "pumps [parts of machines, engines or motors]"
+    },
+    {
+      "No.": "070180",
+      "Goods and Services": "stamping machines"
+    },
+    {
+      "No.": "070181",
+      "Goods and Services": "die-stamping machines"
+    },
+    {
+      "No.": "070182",
+      "Goods and Services": "labellers [machines]"
+    },
+    {
+      "No.": "070183",
+      "Goods and Services": "metal drawing machines"
+    },
+    {
+      "No.": "070184",
+      "Goods and Services": "excavators"
+    },
+    {
+      "No.": "070185",
+      "Goods and Services": "haulage apparatus [mining] / extractors for mines"
+    },
+    {
+      "No.": "070186",
+      "Goods and Services": "tedding machines"
+    },
+    {
+      "No.": "070187",
+      "Goods and Services": "sieves [machines or parts of machines]"
+    },
+    {
+      "No.": "070188",
+      "Goods and Services": "knives for mowing machines"
+    },
+    {
+      "No.": "070189",
+      "Goods and Services": "blades [parts of machines]"
+    },
+    {
+      "No.": "070190",
+      "Goods and Services": "spinning machines"
+    },
+    {
+      "No.": "070191",
+      "Goods and Services": "spinning wheels"
+    },
+    {
+      "No.": "070192",
+      "Goods and Services": "filtering machines"
+    },
+    {
+      "No.": "070193",
+      "Goods and Services": "finishing machines"
+    },
+    {
+      "No.": "070194",
+      "Goods and Services": "chucks [parts of machines]"
+    },
+    {
+      "No.": "070195",
+      "Goods and Services": "fodder presses"
+    },
+    {
+      "No.": "070196",
+      "Goods and Services": "foundry machines"
+    },
+    {
+      "No.": "070197",
+      "Goods and Services": "pistons for cylinders"
+    },
+    {
+      "No.": "070198",
+      "Goods and Services": "stuffing boxes [parts of machines]"
+    },
+    {
+      "No.": "070199",
+      "Goods and Services": "blowing machines for the compression, exhaustion and transport of gases"
+    },
+    {
+      "No.": "070201",
+      "Goods and Services": "lawnmowers [machines]"
+    },
+    {
+      "No.": "070202",
+      "Goods and Services": "tarring machines"
+    },
+    {
+      "No.": "070203",
+      "Goods and Services": "blowing machines for the compression, sucking and carrying of grain / fans for the compression, sucking and carrying of grain / blowing machines or fans for the compression, sucking and carrying of grain"
+    },
+    {
+      "No.": "070204",
+      "Goods and Services": "grease boxes [parts of machines]"
+    },
+    {
+      "No.": "070205",
+      "Goods and Services": "lubricating pumps"
+    },
+    {
+      "No.": "070206",
+      "Goods and Services": "embossing machines"
+    },
+    {
+      "No.": "070207",
+      "Goods and Services": "engraving machines"
+    },
+    {
+      "No.": "070208",
+      "Goods and Services": "notchers [machine tools]"
+    },
+    {
+      "No.": "070209",
+      "Goods and Services": "guides for machines"
+    },
+    {
+      "No.": "070210",
+      "Goods and Services": "straw [chaff] cutters / chaff cutters"
+    },
+    {
+      "No.": "070211",
+      "Goods and Services": "meat choppers, electric / meat mincers, electric"
+    },
+    {
+      "No.": "070212",
+      "Goods and Services": "gears for weaving looms"
+    },
+    {
+      "No.": "070213",
+      "Goods and Services": "harrows"
+    },
+    {
+      "No.": "070214",
+      "Goods and Services": "atomising machines / atomizing machines / spraying machines"
+    },
+    {
+      "No.": "070215",
+      "Goods and Services": "hydraulic turbines"
+    },
+    {
+      "No.": "070216",
+      "Goods and Services": "printing machines for use on sheet metal"
+    },
+    {
+      "No.": "070217",
+      "Goods and Services": "printing plates"
+    },
+    {
+      "No.": "070218",
+      "Goods and Services": "printing machines"
+    },
+    {
+      "No.": "070219",
+      "Goods and Services": "printing presses"
+    },
+    {
+      "No.": "070220",
+      "Goods and Services": "printing rollers for machines"
+    },
+    {
+      "No.": "070222",
+      "Goods and Services": "dairy machines"
+    },
+    {
+      "No.": "070223",
+      "Goods and Services": "chaff cutter blades"
+    },
+    {
+      "No.": "070224",
+      "Goods and Services": "loom shafts"
+    },
+    {
+      "No.": "070225",
+      "Goods and Services": "blade sharpening [stropping] machines / stropping machines"
+    },
+    {
+      "No.": "070226",
+      "Goods and Services": "saw blades [parts of machines]"
+    },
+    {
+      "No.": "070227",
+      "Goods and Services": "blade holders [parts of machines]"
+    },
+    {
+      "No.": "070228",
+      "Goods and Services": "rolling mills"
+    },
+    {
+      "No.": "070229",
+      "Goods and Services": "thermic lances [machines]"
+    },
+    {
+      "No.": "070230",
+      "Goods and Services": "cranks [parts of machines]"
+    },
+    {
+      "No.": "070231",
+      "Goods and Services": "dishwashing machines / dishwashers"
+    },
+    {
+      "No.": "070233",
+      "Goods and Services": "washing apparatus"
+    },
+    {
+      "No.": "070234",
+      "Goods and Services": "washing machines [laundry]"
+    },
+    {
+      "No.": "070235",
+      "Goods and Services": "washing installations for vehicles / vehicle washing installations"
+    },
+    {
+      "No.": "070236",
+      "Goods and Services": "coin-operated washing machines"
+    },
+    {
+      "No.": "070237",
+      "Goods and Services": "lifting apparatus"
+    },
+    {
+      "No.": "070239",
+      "Goods and Services": "wringing machines for laundry"
+    },
+    {
+      "No.": "070240",
+      "Goods and Services": "smoothing presses"
+    },
+    {
+      "No.": "070241",
+      "Goods and Services": "driving motors, other than for land vehicles"
+    },
+    {
+      "No.": "070242",
+      "Goods and Services": "steam engines"
+    },
+    {
+      "No.": "070243",
+      "Goods and Services": "machine tools"
+    },
+    {
+      "No.": "070244",
+      "Goods and Services": "igniting magnetos"
+    },
+    {
+      "No.": "070245",
+      "Goods and Services": "handling apparatus for loading and unloading"
+    },
+    {
+      "No.": "070246",
+      "Goods and Services": "paper feeders [printing]"
+    },
+    {
+      "No.": "070247",
+      "Goods and Services": "hammers [parts of machines]"
+    },
+    {
+      "No.": "070248",
+      "Goods and Services": "power hammers"
+    },
+    {
+      "No.": "070249",
+      "Goods and Services": "pneumatic hammers"
+    },
+    {
+      "No.": "070250",
+      "Goods and Services": "tilt hammers"
+    },
+    {
+      "No.": "070251",
+      "Goods and Services": "derricks"
+    },
+    {
+      "No.": "070252",
+      "Goods and Services": "propulsion mechanisms, other than for land vehicles"
+    },
+    {
+      "No.": "070253",
+      "Goods and Services": "transmission mechanisms, other than for land vehicles"
+    },
+    {
+      "No.": "070254",
+      "Goods and Services": "regulators [parts of machines]"
+    },
+    {
+      "No.": "070255",
+      "Goods and Services": "tobacco processing machines"
+    },
+    {
+      "No.": "070256",
+      "Goods and Services": "crushers for kitchen use, electric"
+    },
+    {
+      "No.": "070257",
+      "Goods and Services": "pump diaphragms"
+    },
+    {
+      "No.": "070258",
+      "Goods and Services": "metalworking machines"
+    },
+    {
+      "No.": "070259",
+      "Goods and Services": "looms [machines]"
+    },
+    {
+      "No.": "070260",
+      "Goods and Services": "spinning frames"
+    },
+    {
+      "No.": "070262",
+      "Goods and Services": "millstones"
+    },
+    {
+      "No.": "070263",
+      "Goods and Services": "grinding machines"
+    },
+    {
+      "No.": "070264",
+      "Goods and Services": "mine borers"
+    },
+    {
+      "No.": "070265",
+      "Goods and Services": "ore treating machines"
+    },
+    {
+      "No.": "070266",
+      "Goods and Services": "flour mill machines"
+    },
+    {
+      "No.": "070267",
+      "Goods and Services": "mixers [machines]"
+    },
+    {
+      "No.": "070268",
+      "Goods and Services": "reapers"
+    },
+    {
+      "No.": "070269",
+      "Goods and Services": "reapers and binders"
+    },
+    {
+      "No.": "070270",
+      "Goods and Services": "reapers and threshers"
+    },
+    {
+      "No.": "070271",
+      "Goods and Services": "railway wagon lifts"
+    },
+    {
+      "No.": "070272",
+      "Goods and Services": "jet engines, other than for land vehicles"
+    },
+    {
+      "No.": "070273",
+      "Goods and Services": "anti-pollution devices for motors and engines"
+    },
+    {
+      "No.": "070274",
+      "Goods and Services": "pistons for engines"
+    },
+    {
+      "No.": "070275",
+      "Goods and Services": "speed governors for machines, engines and motors"
+    },
+    {
+      "No.": "070276",
+      "Goods and Services": "moulds [parts of machines] / molds [parts of machines]"
+    },
+    {
+      "No.": "070277",
+      "Goods and Services": "mills for household purposes, other than hand-operated"
+    },
+    {
+      "No.": "070278",
+      "Goods and Services": "moulding machines / molding machines"
+    },
+    {
+      "No.": "070279",
+      "Goods and Services": "freewheels, other than for land vehicles"
+    },
+    {
+      "No.": "070280",
+      "Goods and Services": "shuttles [parts of machines]"
+    },
+    {
+      "No.": "070281",
+      "Goods and Services": "machines and apparatus for cleaning, electric"
+    },
+    {
+      "No.": "070282",
+      "Goods and Services": "suction machines for industrial purposes"
+    },
+    {
+      "No.": "070283",
+      "Goods and Services": "hemming machines"
+    },
+    {
+      "No.": "070284",
+      "Goods and Services": "hand-held tools, other than hand-operated"
+    },
+    {
+      "No.": "070285",
+      "Goods and Services": "tools [parts of machines]"
+    },
+    {
+      "No.": "070286",
+      "Goods and Services": "holding devices for machine tools"
+    },
+    {
+      "No.": "070287",
+      "Goods and Services": "tin openers, electric / can openers, electric"
+    },
+    {
+      "No.": "070288",
+      "Goods and Services": "bread cutting machines"
+    },
+    {
+      "No.": "070289",
+      "Goods and Services": "journal boxes [parts of machines]"
+    },
+    {
+      "No.": "070290",
+      "Goods and Services": "bearings for transmission shafts"
+    },
+    {
+      "No.": "070291",
+      "Goods and Services": "papermaking machines"
+    },
+    {
+      "No.": "070292",
+      "Goods and Services": "calenders / mangles"
+    },
+    {
+      "No.": "070294",
+      "Goods and Services": "packing machines"
+    },
+    {
+      "No.": "070295",
+      "Goods and Services": "kneading machines"
+    },
+    {
+      "No.": "070296",
+      "Goods and Services": "pasta making machines, electric"
+    },
+    {
+      "No.": "070297",
+      "Goods and Services": "painting machines"
+    },
+    {
+      "No.": "070298",
+      "Goods and Services": "spray guns for paint"
+    },
+    {
+      "No.": "070299",
+      "Goods and Services": "drilling machines"
+    },
+    {
+      "No.": "070300",
+      "Goods and Services": "electric hand drills"
+    },
+    {
+      "No.": "070301",
+      "Goods and Services": "stone-working machines"
+    },
+    {
+      "No.": "070302",
+      "Goods and Services": "pistons [parts of machines or engines]"
+    },
+    {
+      "No.": "070303",
+      "Goods and Services": "typographic presses"
+    },
+    {
+      "No.": "070304",
+      "Goods and Services": "pneumatic transporters"
+    },
+    {
+      "No.": "070305",
+      "Goods and Services": "punches for punching machines"
+    },
+    {
+      "No.": "070306",
+      "Goods and Services": "punching machines"
+    },
+    {
+      "No.": "070307",
+      "Goods and Services": "pepper mills, other than hand-operated"
+    },
+    {
+      "No.": "070308",
+      "Goods and Services": "machines and apparatus for polishing [electric]"
+    },
+    {
+      "No.": "070309",
+      "Goods and Services": "pumps [machines]"
+    },
+    {
+      "No.": "070310",
+      "Goods and Services": "air pumps [garage installations]"
+    },
+    {
+      "No.": "070311",
+      "Goods and Services": "pumps for heating installations"
+    },
+    {
+      "No.": "070312",
+      "Goods and Services": "vacuum pumps [machines]"
+    },
+    {
+      "No.": "070313",
+      "Goods and Services": "roller bridges"
+    },
+    {
+      "No.": "070314",
+      "Goods and Services": "adhesive bands for pulleys"
+    },
+    {
+      "No.": "070315",
+      "Goods and Services": "beverage preparation machines, electromechanical"
+    },
+    {
+      "No.": "070316",
+      "Goods and Services": "presses [machines for industrial purposes]"
+    },
+    {
+      "No.": "070317",
+      "Goods and Services": "pressure regulators [parts of machines]"
+    },
+    {
+      "No.": "070318",
+      "Goods and Services": "pressure valves [parts of machines]"
+    },
+    {
+      "No.": "070319",
+      "Goods and Services": "puddling machines"
+    },
+    {
+      "No.": "070320",
+      "Goods and Services": "steam traps"
+    },
+    {
+      "No.": "070321",
+      "Goods and Services": "planing machines"
+    },
+    {
+      "No.": "070322",
+      "Goods and Services": "rail-laying machines"
+    },
+    {
+      "No.": "070323",
+      "Goods and Services": "rakes for raking machines"
+    },
+    {
+      "No.": "070324",
+      "Goods and Services": "raking machines"
+    },
+    {
+      "No.": "070325",
+      "Goods and Services": "friezing machines"
+    },
+    {
+      "No.": "070326",
+      "Goods and Services": "trueing machines"
+    },
+    {
+      "No.": "070327",
+      "Goods and Services": "bookbinding apparatus and machines for industrial purposes"
+    },
+    {
+      "No.": "070328",
+      "Goods and Services": "ironing machines"
+    },
+    {
+      "No.": "070329",
+      "Goods and Services": "darning machines"
+    },
+    {
+      "No.": "070330",
+      "Goods and Services": "springs [parts of machines]"
+    },
+    {
+      "No.": "070331",
+      "Goods and Services": "curtain drawing devices, electrically operated"
+    },
+    {
+      "No.": "070332",
+      "Goods and Services": "riveting machines"
+    },
+    {
+      "No.": "070333",
+      "Goods and Services": "taps [parts of machines, engines or motors] / faucets [parts of machines, engines or motors]"
+    },
+    {
+      "No.": "070334",
+      "Goods and Services": "rotary printing presses"
+    },
+    {
+      "No.": "070335",
+      "Goods and Services": "machine wheelwork"
+    },
+    {
+      "No.": "070336",
+      "Goods and Services": "machine wheels"
+    },
+    {
+      "No.": "070337",
+      "Goods and Services": "machine fly-wheels"
+    },
+    {
+      "No.": "070338",
+      "Goods and Services": "roller bearings"
+    },
+    {
+      "No.": "070339",
+      "Goods and Services": "ball rings for bearings"
+    },
+    {
+      "No.": "070340",
+      "Goods and Services": "road making machines / road building machines"
+    },
+    {
+      "No.": "070341",
+      "Goods and Services": "saws [machines]"
+    },
+    {
+      "No.": "070342",
+      "Goods and Services": "mineworking machines"
+    },
+    {
+      "No.": "070343",
+      "Goods and Services": "belts for motors and engines"
+    },
+    {
+      "No.": "070344",
+      "Goods and Services": "weeding machines"
+    },
+    {
+      "No.": "070345",
+      "Goods and Services": "satinizing machines"
+    },
+    {
+      "No.": "070346",
+      "Goods and Services": "sausage making machines"
+    },
+    {
+      "No.": "070347",
+      "Goods and Services": "sealing machines for industrial purposes"
+    },
+    {
+      "No.": "070348",
+      "Goods and Services": "sowers [machines]"
+    },
+    {
+      "No.": "070349",
+      "Goods and Services": "welding machines, electric"
+    },
+    {
+      "No.": "070350",
+      "Goods and Services": "bellows [parts of machines]"
+    },
+    {
+      "No.": "070351",
+      "Goods and Services": "forge blowers"
+    },
+    {
+      "No.": "070352",
+      "Goods and Services": "lasts for shoes [parts of machines] / shoe lasts [parts of machines]"
+    },
+    {
+      "No.": "070353",
+      "Goods and Services": "filling machines"
+    },
+    {
+      "No.": "070354",
+      "Goods and Services": "stators [parts of machines]"
+    },
+    {
+      "No.": "070355",
+      "Goods and Services": "stereotype machines"
+    },
+    {
+      "No.": "070356",
+      "Goods and Services": "machines for the production of sugar"
+    },
+    {
+      "No.": "070358",
+      "Goods and Services": "superchargers"
+    },
+    {
+      "No.": "070359",
+      "Goods and Services": "tables for machines"
+    },
+    {
+      "No.": "070360",
+      "Goods and Services": "aprons [parts of machines] / carriage aprons"
+    },
+    {
+      "No.": "070362",
+      "Goods and Services": "dyeing machines"
+    },
+    {
+      "No.": "070364",
+      "Goods and Services": "carding machines"
+    },
+    {
+      "No.": "070365",
+      "Goods and Services": "slide rests [parts of machines]"
+    },
+    {
+      "No.": "070366",
+      "Goods and Services": "journals [parts of machines]"
+    },
+    {
+      "No.": "070367",
+      "Goods and Services": "milking machines"
+    },
+    {
+      "No.": "070368",
+      "Goods and Services": "suction cups for milking machines / teat cups for milking machines"
+    },
+    {
+      "No.": "070369",
+      "Goods and Services": "transmissions for machines"
+    },
+    {
+      "No.": "070370",
+      "Goods and Services": "pneumatic tube conveyors / tube conveyors, pneumatic"
+    },
+    {
+      "No.": "070371",
+      "Goods and Services": "conveyors [machines]"
+    },
+    {
+      "No.": "070372",
+      "Goods and Services": "braiding machines"
+    },
+    {
+      "No.": "070373",
+      "Goods and Services": "winches"
+    },
+    {
+      "No.": "070374",
+      "Goods and Services": "knitting machines"
+    },
+    {
+      "No.": "070375",
+      "Goods and Services": "turbines, other than for land vehicles"
+    },
+    {
+      "No.": "070376",
+      "Goods and Services": "reels, mechanical, for flexible hoses"
+    },
+    {
+      "No.": "070377",
+      "Goods and Services": "tympans [parts of printing presses]"
+    },
+    {
+      "No.": "070378",
+      "Goods and Services": "typographic machines"
+    },
+    {
+      "No.": "070379",
+      "Goods and Services": "winnowers"
+    },
+    {
+      "No.": "070380",
+      "Goods and Services": "engines for air cushion vehicles"
+    },
+    {
+      "No.": "070381",
+      "Goods and Services": "fans for motors and engines"
+    },
+    {
+      "No.": "070382",
+      "Goods and Services": "glass-working machines"
+    },
+    {
+      "No.": "070383",
+      "Goods and Services": "railroad constructing machines"
+    },
+    {
+      "No.": "070384",
+      "Goods and Services": "vulcanization apparatus"
+    },
+    {
+      "No.": "070385",
+      "Goods and Services": "couplings, other than for land vehicles"
+    },
+    {
+      "No.": "070386",
+      "Goods and Services": "aeronautical engines"
+    },
+    {
+      "No.": "070387",
+      "Goods and Services": "sharpening machines"
+    },
+    {
+      "No.": "070388",
+      "Goods and Services": "agricultural implements, other than hand-operated"
+    },
+    {
+      "No.": "070389",
+      "Goods and Services": "grindstones [parts of machines] / sharpening wheels [parts of machines]"
+    },
+    {
+      "No.": "070390",
+      "Goods and Services": "beer pumps"
+    },
+    {
+      "No.": "070391",
+      "Goods and Services": "compressed air engines"
+    },
+    {
+      "No.": "070392",
+      "Goods and Services": "compressed air machines"
+    },
+    {
+      "No.": "070393",
+      "Goods and Services": "compressed air pumps"
+    },
+    {
+      "No.": "070394",
+      "Goods and Services": "sparking plugs for internal combustion engines"
+    },
+    {
+      "No.": "070395",
+      "Goods and Services": "shock absorber plungers [parts of machines] / dashpot plungers [parts of machines] / plunger pistons"
+    },
+    {
+      "No.": "070396",
+      "Goods and Services": "anti-friction bearings for machines / anti-friction pads for machines"
+    },
+    {
+      "No.": "070397",
+      "Goods and Services": "diggers [machines]"
+    },
+    {
+      "No.": "070398",
+      "Goods and Services": "air suction machines"
+    },
+    {
+      "No.": "070400",
+      "Goods and Services": "fuel economisers for motors and engines"
+    },
+    {
+      "No.": "070401",
+      "Goods and Services": "engines for boats"
+    },
+    {
+      "No.": "070402",
+      "Goods and Services": "motors for boats"
+    },
+    {
+      "No.": "070403",
+      "Goods and Services": "beaters, electric"
+    },
+    {
+      "No.": "070404",
+      "Goods and Services": "rams [machines]"
+    },
+    {
+      "No.": "070405",
+      "Goods and Services": "brake linings, other than for vehicles"
+    },
+    {
+      "No.": "070406",
+      "Goods and Services": "brake shoes, other than for vehicles"
+    },
+    {
+      "No.": "070407",
+      "Goods and Services": "brake segments, other than for vehicles"
+    },
+    {
+      "No.": "070408",
+      "Goods and Services": "reels [parts of machines]"
+    },
+    {
+      "No.": "070409",
+      "Goods and Services": "gear boxes, other than for land vehicles"
+    },
+    {
+      "No.": "070410",
+      "Goods and Services": "bottle stoppering machines"
+    },
+    {
+      "No.": "070411",
+      "Goods and Services": "bottle capping machines"
+    },
+    {
+      "No.": "070412",
+      "Goods and Services": "bottle sealing machines"
+    },
+    {
+      "No.": "070413",
+      "Goods and Services": "brushes, electrically operated [parts of machines]"
+    },
+    {
+      "No.": "070414",
+      "Goods and Services": "waste disposal units / garbage disposal units"
+    },
+    {
+      "No.": "070415",
+      "Goods and Services": "coffee grinders, other than hand-operated"
+    },
+    {
+      "No.": "070416",
+      "Goods and Services": "flues for engine boilers"
+    },
+    {
+      "No.": "070417",
+      "Goods and Services": "earth moving machines"
+    },
+    {
+      "No.": "070418",
+      "Goods and Services": "waste compacting machines / trash compacting machines"
+    },
+    {
+      "No.": "070419",
+      "Goods and Services": "shredders [machines] for industrial use"
+    },
+    {
+      "No.": "070420",
+      "Goods and Services": "potters' wheels"
+    },
+    {
+      "No.": "070421",
+      "Goods and Services": "handling machines, automatic [manipulators]"
+    },
+    {
+      "No.": "070422",
+      "Goods and Services": "industrial robots"
+    },
+    {
+      "No.": "070423",
+      "Goods and Services": "food preparation machines, electromechanical"
+    },
+    {
+      "No.": "070424",
+      "Goods and Services": "cartridges for filtering machines"
+    },
+    {
+      "No.": "070425",
+      "Goods and Services": "drive chains, other than for land vehicles"
+    },
+    {
+      "No.": "070426",
+      "Goods and Services": "torque converters, other than for land vehicles"
+    },
+    {
+      "No.": "070427",
+      "Goods and Services": "transmission chains, other than for land vehicles"
+    },
+    {
+      "No.": "070428",
+      "Goods and Services": "drill chucks [parts of machines]"
+    },
+    {
+      "No.": "070429",
+      "Goods and Services": "steam engine boilers"
+    },
+    {
+      "No.": "070430",
+      "Goods and Services": "feeding apparatus for engine boilers"
+    },
+    {
+      "No.": "070431",
+      "Goods and Services": "shearing machines for animals / hair clipping machines for animals / hair cutting machines for animals"
+    },
+    {
+      "No.": "070433",
+      "Goods and Services": "motors, other than for land vehicles / engines, other than for land vehicles"
+    },
+    {
+      "No.": "070434",
+      "Goods and Services": "control cables for machines, engines or motors"
+    },
+    {
+      "No.": "070435",
+      "Goods and Services": "control mechanisms for machines, engines or motors"
+    },
+    {
+      "No.": "070436",
+      "Goods and Services": "matrices for use in printing"
+    },
+    {
+      "No.": "070437",
+      "Goods and Services": "compressors for refrigerators"
+    },
+    {
+      "No.": "070439",
+      "Goods and Services": "water separators / drain cocks"
+    },
+    {
+      "No.": "070440",
+      "Goods and Services": "sewing machines"
+    },
+    {
+      "No.": "070441",
+      "Goods and Services": "fan belts for motors and engines"
+    },
+    {
+      "No.": "070442",
+      "Goods and Services": "incubators for eggs"
+    },
+    {
+      "No.": "070443",
+      "Goods and Services": "gears, other than for land vehicles"
+    },
+    {
+      "No.": "070444",
+      "Goods and Services": "blenders, electric, for household purposes"
+    },
+    {
+      "No.": "070445",
+      "Goods and Services": "kitchen machines, electric"
+    },
+    {
+      "No.": "070446",
+      "Goods and Services": "cylinders for motors and engines"
+    },
+    {
+      "No.": "070447",
+      "Goods and Services": "reduction gears, other than for land vehicles"
+    },
+    {
+      "No.": "070448",
+      "Goods and Services": "dividing machines"
+    },
+    {
+      "No.": "070449",
+      "Goods and Services": "drilling bits [parts of machines]"
+    },
+    {
+      "No.": "070450",
+      "Goods and Services": "heat exchangers [parts of machines]"
+    },
+    {
+      "No.": "070451",
+      "Goods and Services": "exhausts for motors and engines"
+    },
+    {
+      "No.": "070452",
+      "Goods and Services": "motors, electric, other than for land vehicles"
+    },
+    {
+      "No.": "070453",
+      "Goods and Services": "cranes [lifting and hoisting apparatus]"
+    },
+    {
+      "No.": "070454",
+      "Goods and Services": "peeling machines"
+    },
+    {
+      "No.": "070455",
+      "Goods and Services": "grating machines for vegetables"
+    },
+    {
+      "No.": "070456",
+      "Goods and Services": "compressed air guns for the extrusion of mastics"
+    },
+    {
+      "No.": "070457",
+      "Goods and Services": "filters being parts of machines or engines"
+    },
+    {
+      "No.": "070458",
+      "Goods and Services": "ditchers [ploughs]"
+    },
+    {
+      "No.": "070459",
+      "Goods and Services": "whisks, electric, for household purposes"
+    },
+    {
+      "No.": "070460",
+      "Goods and Services": "fruit presses, electric, for household purposes"
+    },
+    {
+      "No.": "070461",
+      "Goods and Services": "hydraulic engines and motors"
+    },
+    {
+      "No.": "070462",
+      "Goods and Services": "drilling rigs, floating or non-floating"
+    },
+    {
+      "No.": "070463",
+      "Goods and Services": "fuel conversion apparatus for internal combustion engines"
+    },
+    {
+      "No.": "070464",
+      "Goods and Services": "radiators [cooling] for motors and engines"
+    },
+    {
+      "No.": "070471",
+      "Goods and Services": "boiler tubes [parts of machines]"
+    },
+    {
+      "No.": "070472",
+      "Goods and Services": "hydraulic controls for machines, motors and engines"
+    },
+    {
+      "No.": "070473",
+      "Goods and Services": "pneumatic controls for machines, motors and engines"
+    },
+    {
+      "No.": "070474",
+      "Goods and Services": "crankcases for machines, motors and engines"
+    },
+    {
+      "No.": "070475",
+      "Goods and Services": "food processors, electric"
+    },
+    {
+      "No.": "070476",
+      "Goods and Services": "glue guns, electric"
+    },
+    {
+      "No.": "070477",
+      "Goods and Services": "guns [tools using explosive cartridges]"
+    },
+    {
+      "No.": "070478",
+      "Goods and Services": "net hauling machines [fishing]"
+    },
+    {
+      "No.": "070479",
+      "Goods and Services": "universal joints [Cardan joints]"
+    },
+    {
+      "No.": "070480",
+      "Goods and Services": "rotary steam presses, portable, for fabrics"
+    },
+    {
+      "No.": "070481",
+      "Goods and Services": "machines and apparatus for carpet shampooing, electric"
+    },
+    {
+      "No.": "070482",
+      "Goods and Services": "catalytic converters"
+    },
+    {
+      "No.": "070483",
+      "Goods and Services": "central vacuum cleaning installations"
+    },
+    {
+      "No.": "070484",
+      "Goods and Services": "chain saws"
+    },
+    {
+      "No.": "070485",
+      "Goods and Services": "cleaning appliances utilizing steam"
+    },
+    {
+      "No.": "070486",
+      "Goods and Services": "cutting blow pipes, gas-operated"
+    },
+    {
+      "No.": "070487",
+      "Goods and Services": "dust exhausting installations for cleaning purposes"
+    },
+    {
+      "No.": "070488",
+      "Goods and Services": "dust removing installations for cleaning purposes"
+    },
+    {
+      "No.": "070489",
+      "Goods and Services": "electric hammers"
+    },
+    {
+      "No.": "070490",
+      "Goods and Services": "electromechanical machines for chemical industry"
+    },
+    {
+      "No.": "070491",
+      "Goods and Services": "elevator chains [parts of machines]"
+    },
+    {
+      "No.": "070492",
+      "Goods and Services": "emergency power generators"
+    },
+    {
+      "No.": "070493",
+      "Goods and Services": "expansion tanks [parts of machines]"
+    },
+    {
+      "No.": "070494",
+      "Goods and Services": "glaziers' diamonds [parts of machines]"
+    },
+    {
+      "No.": "070495",
+      "Goods and Services": "high pressure washers"
+    },
+    {
+      "No.": "070496",
+      "Goods and Services": "machines for the textile industry"
+    },
+    {
+      "No.": "070497",
+      "Goods and Services": "exhaust manifold for engines"
+    },
+    {
+      "No.": "070498",
+      "Goods and Services": "oil refining machines"
+    },
+    {
+      "No.": "070499",
+      "Goods and Services": "packaging machines"
+    },
+    {
+      "No.": "070500",
+      "Goods and Services": "parquet wax-polishers, electric"
+    },
+    {
+      "No.": "070501",
+      "Goods and Services": "shoe polishers, electric"
+    },
+    {
+      "No.": "070502",
+      "Goods and Services": "snow ploughs"
+    },
+    {
+      "No.": "070503",
+      "Goods and Services": "soldering apparatus, gas-operated / welding apparatus, gas-operated"
+    },
+    {
+      "No.": "070504",
+      "Goods and Services": "soldering blow pipes, gas-operated"
+    },
+    {
+      "No.": "070505",
+      "Goods and Services": "soldering irons, gas-operated"
+    },
+    {
+      "No.": "070506",
+      "Goods and Services": "vacuum cleaner attachments for disseminating perfumes and disinfectants"
+    },
+    {
+      "No.": "070507",
+      "Goods and Services": "vacuum cleaner hoses"
+    },
+    {
+      "No.": "070508",
+      "Goods and Services": "vacuum cleaners"
+    },
+    {
+      "No.": "070509",
+      "Goods and Services": "vibrators [machines] for industrial use"
+    },
+    {
+      "No.": "070510",
+      "Goods and Services": "machines and apparatus for wax-polishing, electric"
+    },
+    {
+      "No.": "070511",
+      "Goods and Services": "racket stringing machines"
+    },
+    {
+      "No.": "070512",
+      "Goods and Services": "bicycle assembling machines"
+    },
+    {
+      "No.": "070513",
+      "Goods and Services": "motorized cultivators"
+    },
+    {
+      "No.": "070514",
+      "Goods and Services": "air brushes for applying colour"
+    },
+    {
+      "No.": "070515",
+      "Goods and Services": "door openers, hydraulic"
+    },
+    {
+      "No.": "070516",
+      "Goods and Services": "kick starters for motorcycles"
+    },
+    {
+      "No.": "070517",
+      "Goods and Services": "mechanized livestock feeders"
+    },
+    {
+      "No.": "070518",
+      "Goods and Services": "moving walkways / moving sidewalks"
+    },
+    {
+      "No.": "070519",
+      "Goods and Services": "mufflers for motors and engines / silencers for motors and engines"
+    },
+    {
+      "No.": "070520",
+      "Goods and Services": "door openers, pneumatic"
+    },
+    {
+      "No.": "070521",
+      "Goods and Services": "vacuum cleaner bags"
+    },
+    {
+      "No.": "070522",
+      "Goods and Services": "gas-operated blow torches"
+    },
+    {
+      "No.": "070523",
+      "Goods and Services": "wind turbines"
+    },
+    {
+      "No.": "070524",
+      "Goods and Services": "brake pads, other than for vehicles"
+    },
+    {
+      "No.": "070525",
+      "Goods and Services": "electrodes for welding machines"
+    },
+    {
+      "No.": "070526",
+      "Goods and Services": "electric welding apparatus"
+    },
+    {
+      "No.": "070528",
+      "Goods and Services": "soldering apparatus, electric"
+    },
+    {
+      "No.": "070529",
+      "Goods and Services": "soldering irons, electric"
+    },
+    {
+      "No.": "070530",
+      "Goods and Services": "electric arc welding apparatus"
+    },
+    {
+      "No.": "070531",
+      "Goods and Services": "electric arc cutting apparatus"
+    },
+    {
+      "No.": "070532",
+      "Goods and Services": "soldering lamps"
+    },
+    {
+      "No.": "070533",
+      "Goods and Services": "basket presses"
+    },
+    {
+      "No.": "070534",
+      "Goods and Services": "blowing machines"
+    },
+    {
+      "No.": "070535",
+      "Goods and Services": "electroplating machines"
+    },
+    {
+      "No.": "070536",
+      "Goods and Services": "galvanizing machines"
+    },
+    {
+      "No.": "070537",
+      "Goods and Services": "vending machines"
+    },
+    {
+      "No.": "070538",
+      "Goods and Services": "door closers, electric"
+    },
+    {
+      "No.": "070539",
+      "Goods and Services": "door openers, electric"
+    },
+    {
+      "No.": "070540",
+      "Goods and Services": "passenger lift operating apparatus / passenger elevator operating apparatus"
+    },
+    {
+      "No.": "070541",
+      "Goods and Services": "electrical apparatus for sealing plastics [packaging]"
+    },
+    {
+      "No.": "070542",
+      "Goods and Services": "fuel dispensing pumps for service stations"
+    },
+    {
+      "No.": "070543",
+      "Goods and Services": "self-regulating fuel pumps"
+    },
+    {
+      "No.": "070544",
+      "Goods and Services": "machines for processing plastics"
+    },
+    {
+      "No.": "070545",
+      "Goods and Services": "window openers, electric"
+    },
+    {
+      "No.": "070546",
+      "Goods and Services": "window closers, electric"
+    },
+    {
+      "No.": "070547",
+      "Goods and Services": "window openers, hydraulic"
+    },
+    {
+      "No.": "070548",
+      "Goods and Services": "window closers, hydraulic"
+    },
+    {
+      "No.": "070549",
+      "Goods and Services": "window openers, pneumatic"
+    },
+    {
+      "No.": "070550",
+      "Goods and Services": "window closers, pneumatic"
+    },
+    {
+      "No.": "070551",
+      "Goods and Services": "door closers, hydraulic"
+    },
+    {
+      "No.": "070552",
+      "Goods and Services": "door closers, pneumatic"
+    },
+    {
+      "No.": "070553",
+      "Goods and Services": "kitchen grinders, electric"
+    },
+    {
+      "No.": "070554",
+      "Goods and Services": "pneumatic jacks"
+    },
+    {
+      "No.": "070555",
+      "Goods and Services": "3D printers"
+    },
+    {
+      "No.": "070556",
+      "Goods and Services": "sifting machines"
+    },
+    {
+      "No.": "070557",
+      "Goods and Services": "engine mounts, other than for land vehicles"
+    },
+    {
+      "No.": "070558",
+      "Goods and Services": "nail extractors, electric / nail pullers, electric"
+    },
+    {
+      "No.": "070559",
+      "Goods and Services": "brushes for vacuum cleaners"
+    },
+    {
+      "No.": "070560",
+      "Goods and Services": "ski edge sharpening tools, electric"
+    },
+    {
+      "No.": "070561",
+      "Goods and Services": "crushing machines"
+    },
+    {
+      "No.": "070562",
+      "Goods and Services": "rammers [machines]"
+    },
+    {
+      "No.": "070563",
+      "Goods and Services": "suction nozzles for vacuum cleaners"
+    },
+    {
+      "No.": "070564",
+      "Goods and Services": "pigs for cleaning pipes"
+    },
+    {
+      "No.": "070565",
+      "Goods and Services": "juice extractors, electric"
+    },
+    {
+      "No.": "070566",
+      "Goods and Services": "screwdrivers, electric"
+    },
+    {
+      "No.": "070567",
+      "Goods and Services": "joysticks being parts of machines, other than for game machines"
+    },
+    {
+      "No.": "070568",
+      "Goods and Services": "camshafts for vehicle engines"
+    },
+    {
+      "No.": "070569",
+      "Goods and Services": "rubber tracks being parts of crawlers on construction machines"
+    },
+    {
+      "No.": "070570",
+      "Goods and Services": "rubber tracks being parts of crawlers on loading-unloading machines and apparatus"
+    },
+    {
+      "No.": "070571",
+      "Goods and Services": "rubber tracks being parts of crawlers on agricultural machines"
+    },
+    {
+      "No.": "070572",
+      "Goods and Services": "rubber tracks being parts of crawlers on mining machines"
+    },
+    {
+      "No.": "070573",
+      "Goods and Services": "rubber tracks being parts of crawlers on snow ploughs"
+    },
+    {
+      "No.": "070574",
+      "Goods and Services": "pneumatic waste oil drainers"
+    },
+    {
+      "No.": "070575",
+      "Goods and Services": "pumps for counter-current swimming"
+    },
+    {
+      "No.": "070576",
+      "Goods and Services": "3D printing pens"
+    },
+    {
+      "No.": "070577",
+      "Goods and Services": "tilling machines for agricultural purposes"
+    },
+    {
+      "No.": "070578",
+      "Goods and Services": "vegetable spiralizers, electric"
+    },
+    {
+      "No.": "070579",
+      "Goods and Services": "hydrogen dispensing pumps for service stations"
+    },
+    {
+      "No.": "070580",
+      "Goods and Services": "industrial inkjet printing machines"
+    },
+    {
+      "No.": "070581",
+      "Goods and Services": "steam mops"
+    },
+    {
+      "No.": "070582",
+      "Goods and Services": "robotic exoskeleton suits, other than for medical purposes"
+    },
+    {
+      "No.": "070583",
+      "Goods and Services": "mobile cranes"
+    },
+    {
+      "No.": "070584",
+      "Goods and Services": "floating production, storage and offloading [FPSO] units"
+    },
+    {
+      "No.": "070585",
+      "Goods and Services": "cheese slicers, electric"
+    },
+    {
+      "No.": "070586",
+      "Goods and Services": "vegetable peelers, electric"
+    },
+    {
+      "No.": "070587",
+      "Goods and Services": "grain elevators"
+    },
+    {
+      "No.": "070588",
+      "Goods and Services": "laundry washing machines incorporating a drying tumbler"
+    },
+    {
+      "No.": "070589",
+      "Goods and Services": "portable ultrasonic washing devices for laundry"
+    },
+    {
+      "No.": "070590",
+      "Goods and Services": "vegetable slicers, electric / vegetable shredders, electric"
+    },
+    {
+      "No.": "070591",
+      "Goods and Services": "machines for generating gas by electrolysis"
+    },
+    {
+      "No.": "070592",
+      "Goods and Services": "touchless stationary vacuums"
+    },
+    {
+      "No.": "070593",
+      "Goods and Services": "bioreactors for use in manufacturing biopharmaceuticals"
+    },
+    {
+      "No.": "070594",
+      "Goods and Services": "pneumatic or hydraulic linear actuators, other than for land vehicles"
+    },
+    {
+      "No.": "070595",
+      "Goods and Services": "machines for the application of sizing"
+    },
+    {
+      "No.": "070596",
+      "Goods and Services": "3D bioprinters"
+    },
+    {
+      "No.": "070597",
+      "Goods and Services": "portable laser engraving machines"
+    },
+    {
+      "No.": "070598",
+      "Goods and Services": "household cleaning and laundry robots with artificial intelligence"
+    },
+    {
+      "No.": "070599",
+      "Goods and Services": "ticket vending machines"
+    },
+    {
+      "No.": "070600",
+      "Goods and Services": "fluid dispensing machines for industrial use"
+    },
+    {
+      "No.": "070601",
+      "Goods and Services": "petrol pumps for service stations / gas pumps for service stations"
+    },
+    {
+      "No.": "070602",
+      "Goods and Services": "needles for knitting machines"
+    },
+    {
+      "No.": "070603",
+      "Goods and Services": "needles for sewing machines"
+    },
+    {
+      "No.": "070604",
+      "Goods and Services": "needles for wool combing machines"
+    },
+    {
+      "No.": "070605",
+      "Goods and Services": "furnace loading machines"
+    },
+    {
+      "No.": "070606",
+      "Goods and Services": "starter pinions"
+    },
+    {
+      "No.": "070607",
+      "Goods and Services": "semiconductor manufacturing machines"
+    },
+    {
+      "No.": "070608",
+      "Goods and Services": "semiconductor exposure apparatus for use in manufacture"
+    },
+    {
+      "No.": "070609",
+      "Goods and Services": "soy sauce making machines"
+    },
+    {
+      "No.": "070610",
+      "Goods and Services": "miso making machines"
+    },
+    {
+      "No.": "070611",
+      "Goods and Services": "robotic arms for preparing beverages"
+    },
+    {
+      "No.": "070612",
+      "Goods and Services": "sandblasting guns"
+    },
+    {
+      "No.": "070613",
+      "Goods and Services": "passenger boarding bridges, electromechanical"
+    },
+    {
+      "No.": "070614",
+      "Goods and Services": "automatic tool changers for industrial robots"
+    },
+    {
+      "No.": "070615",
+      "Goods and Services": "electrical discharge machines [EDM]"
+    },
+    {
+      "No.": "070616",
+      "Goods and Services": "machining centres for metalworking / machining centers for metalworking"
+    },
+    {
+      "No.": "070617",
+      "Goods and Services": "mechanical vehicle stacking lifts"
+    },
+    {
+      "No.": "070618",
+      "Goods and Services": "turbochargers for motors"
+    },
+    {
+      "No.": "070619",
+      "Goods and Services": "optical fibre fusion splicers / optical fiber fusion splicers"
+    },
+    {
+      "No.": "070620",
+      "Goods and Services": "fruit pitting machines"
+    },
+    {
+      "No.": "070621",
+      "Goods and Services": "mechanical seals being parts of machines"
+    },
+    {
+      "No.": "070622",
+      "Goods and Services": "outboard motors"
+    }
+  ]
+}

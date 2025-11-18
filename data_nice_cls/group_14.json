@@ -1,0 +1,428 @@
+{
+  "group_number": "14",
+  "meta": {
+    "Goods and Services": "Class Heading Precious metals and their alloys; jewellery, precious and semi-precious stones; horological and chronometric instruments Explanatory Note Class 14 includes mainly precious metals and certain goods made of precious metals or coated therewith, as well as jewellery, clocks and watches, and component parts therefor. This Class includes, in particular: • jewellery, including imitation jewellery, for example, paste jewellery • cuff links, tie pins, tie clips • key rings, key chains and charms therefor • jewellery charms • jewellery boxes • component parts for jewellery, clocks and watches, for example, clasps and beads for jewellery, movements for clocks and watches, clock hands, watch springs, watch crystals This Class does not include, in particular: • smartwatches (Cl. 9) • charms, other than for jewellery, key rings or key chains (Cl. 26) • objects of art not made of precious metals or coated therewith that are classified according to the material of which they are made, for example, works of art of metal (Cl. 6), of stone, concrete or marble (Cl. 19), of wood, wax, plaster or plastic (Cl. 20), of porcelain, ceramic, earthenware, terra-cotta or glass (Cl. 21) • certain goods made of precious metals or coated therewith that are classified according to their function or purpose, for example, metals in foil and powder form for use in painting, decorating, printing and art (Cl. 2), dental amalgams of gold (Cl. 5), cutlery (Cl. 8), electric contacts (Cl. 9), pen nibs of gold (Cl. 16), teapots (Cl. 21), gold and silver embroidery (Cl. 26), cigar boxes (Cl. 34)"
+  },
+  "items": [
+    {
+      "No.": "140001",
+      "Goods and Services": "agates"
+    },
+    {
+      "No.": "140002",
+      "Goods and Services": "clock hands"
+    },
+    {
+      "No.": "140003",
+      "Goods and Services": "ingots of precious metals"
+    },
+    {
+      "No.": "140004",
+      "Goods and Services": "jewellery of yellow amber / jewelry of yellow amber"
+    },
+    {
+      "No.": "140005",
+      "Goods and Services": "pearls made of ambroid [pressed amber]"
+    },
+    {
+      "No.": "140006",
+      "Goods and Services": "amulets [jewellery] / amulets [jewelry]"
+    },
+    {
+      "No.": "140008",
+      "Goods and Services": "spun silver [silver wire]"
+    },
+    {
+      "No.": "140009",
+      "Goods and Services": "silver thread [jewellery] / silver thread [jewelry]"
+    },
+    {
+      "No.": "140011",
+      "Goods and Services": "clocks"
+    },
+    {
+      "No.": "140013",
+      "Goods and Services": "pendulums [clock- and watchmaking]"
+    },
+    {
+      "No.": "140014",
+      "Goods and Services": "barrels [clock- and watchmaking]"
+    },
+    {
+      "No.": "140015",
+      "Goods and Services": "bracelets [jewellery] / bracelets [jewelry]"
+    },
+    {
+      "No.": "140016",
+      "Goods and Services": "wristwatches"
+    },
+    {
+      "No.": "140017",
+      "Goods and Services": "watch bands / straps for wristwatches / watch straps"
+    },
+    {
+      "No.": "140018",
+      "Goods and Services": "jewellery charms / jewelry charms / charms for jewellery / charms for jewelry"
+    },
+    {
+      "No.": "140019",
+      "Goods and Services": "brooches [jewellery] / brooches [jewelry]"
+    },
+    {
+      "No.": "140021",
+      "Goods and Services": "dials [clock- and watchmaking]"
+    },
+    {
+      "No.": "140022",
+      "Goods and Services": "sundials"
+    },
+    {
+      "No.": "140023",
+      "Goods and Services": "clockworks"
+    },
+    {
+      "No.": "140024",
+      "Goods and Services": "chains [jewellery] / chains [jewelry]"
+    },
+    {
+      "No.": "140025",
+      "Goods and Services": "watch chains"
+    },
+    {
+      "No.": "140027",
+      "Goods and Services": "chronographs [watches]"
+    },
+    {
+      "No.": "140028",
+      "Goods and Services": "chronometers"
+    },
+    {
+      "No.": "140029",
+      "Goods and Services": "chronoscopes"
+    },
+    {
+      "No.": "140030",
+      "Goods and Services": "chronometric instruments"
+    },
+    {
+      "No.": "140031",
+      "Goods and Services": "necklaces [jewellery] / necklaces [jewelry]"
+    },
+    {
+      "No.": "140032",
+      "Goods and Services": "clocks and watches, electric"
+    },
+    {
+      "No.": "140033",
+      "Goods and Services": "tie clips"
+    },
+    {
+      "No.": "140034",
+      "Goods and Services": "coins"
+    },
+    {
+      "No.": "140035",
+      "Goods and Services": "diamonds*"
+    },
+    {
+      "No.": "140040",
+      "Goods and Services": "threads of precious metal [jewellery] / wire of precious metal [jewellery] / threads of precious metal [jewelry] / wire of precious metal [jewelry]"
+    },
+    {
+      "No.": "140042",
+      "Goods and Services": "atomic clocks"
+    },
+    {
+      "No.": "140043",
+      "Goods and Services": "control clocks [master clocks] / master clocks"
+    },
+    {
+      "No.": "140044",
+      "Goods and Services": "clock cases"
+    },
+    {
+      "No.": "140045",
+      "Goods and Services": "iridium"
+    },
+    {
+      "No.": "140046",
+      "Goods and Services": "ivory jewellery / ivory jewelry"
+    },
+    {
+      "No.": "140047",
+      "Goods and Services": "ornaments of jet"
+    },
+    {
+      "No.": "140048",
+      "Goods and Services": "jet, unwrought or semi-wrought"
+    },
+    {
+      "No.": "140049",
+      "Goods and Services": "copper tokens"
+    },
+    {
+      "No.": "140050",
+      "Goods and Services": "jewellery / jewelry"
+    },
+    {
+      "No.": "140051",
+      "Goods and Services": "lockets [jewellery] / lockets [jewelry]"
+    },
+    {
+      "No.": "140052",
+      "Goods and Services": "medals"
+    },
+    {
+      "No.": "140055",
+      "Goods and Services": "precious metals, unwrought or semi-wrought"
+    },
+    {
+      "No.": "140057",
+      "Goods and Services": "watches*"
+    },
+    {
+      "No.": "140058",
+      "Goods and Services": "watch springs"
+    },
+    {
+      "No.": "140059",
+      "Goods and Services": "watch glasses / watch crystals"
+    },
+    {
+      "No.": "140060",
+      "Goods and Services": "movements for clocks and watches"
+    },
+    {
+      "No.": "140062",
+      "Goods and Services": "olivine [gems] / peridot"
+    },
+    {
+      "No.": "140063",
+      "Goods and Services": "gold, unwrought or beaten"
+    },
+    {
+      "No.": "140064",
+      "Goods and Services": "gold thread [jewellery] / gold thread [jewelry]"
+    },
+    {
+      "No.": "140066",
+      "Goods and Services": "osmium"
+    },
+    {
+      "No.": "140067",
+      "Goods and Services": "palladium"
+    },
+    {
+      "No.": "140069",
+      "Goods and Services": "ornamental pins"
+    },
+    {
+      "No.": "140070",
+      "Goods and Services": "pearls [jewellery] / pearls [jewelry]"
+    },
+    {
+      "No.": "140073",
+      "Goods and Services": "semi-precious stones"
+    },
+    {
+      "No.": "140074",
+      "Goods and Services": "precious stones"
+    },
+    {
+      "No.": "140075",
+      "Goods and Services": "platinum [metal]"
+    },
+    {
+      "No.": "140082",
+      "Goods and Services": "alarm clocks"
+    },
+    {
+      "No.": "140083",
+      "Goods and Services": "rhodium"
+    },
+    {
+      "No.": "140085",
+      "Goods and Services": "ruthenium"
+    },
+    {
+      "No.": "140095",
+      "Goods and Services": "spinel [precious stones]"
+    },
+    {
+      "No.": "140096",
+      "Goods and Services": "statues of precious metal"
+    },
+    {
+      "No.": "140097",
+      "Goods and Services": "paste jewellery / paste jewelry [costume jewelry]"
+    },
+    {
+      "No.": "140104",
+      "Goods and Services": "alloys of precious metal"
+    },
+    {
+      "No.": "140106",
+      "Goods and Services": "anchors [clock- and watchmaking]"
+    },
+    {
+      "No.": "140107",
+      "Goods and Services": "rings [jewellery] / rings [jewelry]"
+    },
+    {
+      "No.": "140109",
+      "Goods and Services": "works of art of precious metal"
+    },
+    {
+      "No.": "140113",
+      "Goods and Services": "boxes of precious metal"
+    },
+    {
+      "No.": "140117",
+      "Goods and Services": "hat jewellery / hat jewelry"
+    },
+    {
+      "No.": "140118",
+      "Goods and Services": "earrings"
+    },
+    {
+      "No.": "140119",
+      "Goods and Services": "shoe jewellery / shoe jewelry"
+    },
+    {
+      "No.": "140122",
+      "Goods and Services": "cuff links"
+    },
+    {
+      "No.": "140123",
+      "Goods and Services": "busts of precious metal"
+    },
+    {
+      "No.": "140144",
+      "Goods and Services": "watch cases [parts of watches]"
+    },
+    {
+      "No.": "140145",
+      "Goods and Services": "presentation boxes for watches"
+    },
+    {
+      "No.": "140146",
+      "Goods and Services": "figurines of precious metal / statuettes of precious metal"
+    },
+    {
+      "No.": "140150",
+      "Goods and Services": "pins [jewellery] / pins [jewelry]"
+    },
+    {
+      "No.": "140151",
+      "Goods and Services": "tie pins"
+    },
+    {
+      "No.": "140152",
+      "Goods and Services": "badges of precious metal"
+    },
+    {
+      "No.": "140162",
+      "Goods and Services": "key rings [split rings with trinket or decorative fob] / key chains [split rings with trinket or decorative fob]"
+    },
+    {
+      "No.": "140163",
+      "Goods and Services": "silver, unwrought or beaten"
+    },
+    {
+      "No.": "140164",
+      "Goods and Services": "stopwatches"
+    },
+    {
+      "No.": "140165",
+      "Goods and Services": "cloisonné jewellery / cloisonné jewelry"
+    },
+    {
+      "No.": "140166",
+      "Goods and Services": "jewellery boxes / jewelry boxes"
+    },
+    {
+      "No.": "140167",
+      "Goods and Services": "beads for making jewellery / beads for making jewelry"
+    },
+    {
+      "No.": "140168",
+      "Goods and Services": "clasps for jewellery / clasps for jewelry"
+    },
+    {
+      "No.": "140169",
+      "Goods and Services": "jewellery findings / jewelry findings"
+    },
+    {
+      "No.": "140170",
+      "Goods and Services": "jewellery rolls / jewelry rolls"
+    },
+    {
+      "No.": "140171",
+      "Goods and Services": "cabochons"
+    },
+    {
+      "No.": "140172",
+      "Goods and Services": "split rings of precious metal for keys"
+    },
+    {
+      "No.": "140173",
+      "Goods and Services": "presentation boxes for jewellery / presentation boxes for jewelry"
+    },
+    {
+      "No.": "140174",
+      "Goods and Services": "watch hands"
+    },
+    {
+      "No.": "140175",
+      "Goods and Services": "misbaha [prayer beads]"
+    },
+    {
+      "No.": "140176",
+      "Goods and Services": "bracelets made of embroidered textile [jewellery] / bracelets made of embroidered textile [jewelry]"
+    },
+    {
+      "No.": "140177",
+      "Goods and Services": "charms for key rings / charms for key chains"
+    },
+    {
+      "No.": "140178",
+      "Goods and Services": "rosaries / chaplets"
+    },
+    {
+      "No.": "140179",
+      "Goods and Services": "crucifixes of precious metal, other than jewellery / crucifixes of precious metal, other than jewelry"
+    },
+    {
+      "No.": "140180",
+      "Goods and Services": "crucifixes as jewellery / crucifixes as jewelry"
+    },
+    {
+      "No.": "140181",
+      "Goods and Services": "retractable key rings / retractable key chains"
+    },
+    {
+      "No.": "140182",
+      "Goods and Services": "jewellery hat pins / jewelry hatpins"
+    },
+    {
+      "No.": "140183",
+      "Goods and Services": "commemorative statuary cups of precious metal"
+    },
+    {
+      "No.": "140184",
+      "Goods and Services": "prize cups of precious metal"
+    },
+    {
+      "No.": "140185",
+      "Goods and Services": "sew-on tags of precious metal for clothing"
+    },
+    {
+      "No.": "140186",
+      "Goods and Services": "lanyards for keys"
+    },
+    {
+      "No.": "140187",
+      "Goods and Services": "jewellery for pets / jewelry for pets"
+    }
+  ]
+}

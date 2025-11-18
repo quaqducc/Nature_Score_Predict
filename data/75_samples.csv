@@ -1,0 +1,76 @@
+Unnamed: 0,No.,Item 1,Item 2,Nature,Intended Purpose/ Complimentary,Channels of trade/ Relevant public/ Usual origin,Level of similarity,class1,class2
+0,1,Chemicals for industrial use,chemical additives for detergents,4,4.0,4,4.0,1,1
+1,2,chemical products used in the manufacture of plastics and in the photocopying industry,"plastics in the form of granules, powders, masses, resins, gels, emulsions, dispersions, pastes, flakes, chips.",4,4.0,-,4.0,1,1
+2,3,polymers,Unprocessed plastics,4,4.0,-,4.0,1,1
+3,4,Paints,Construction materials,0,3.0,-,2.0,02,19
+4,5,Cosmetics.,chemical additives for detergents,0,2.0,2,2.0,3,1
+5,6,Cosmetics.,"Services for the pharmaceutical and cosmetic industry, namely synthesis and preparation of pharmaceutical and cosmetic products.",4,4.0,-,4.0,3,40
+6,7,Industrial chemicals in the field of washing or food preservation only,"Development of pharmaceutical and cosmetic products, including preparations for destroying vermin, fungicides and herbicides, for others",3,3.0,-,3.0,1,42
+7,8,chemical additives in the field of washing or food preservation only;,scientific and/or industrial research and consultancy relating thereto for the pharmaceutical and cosmetic industry;,0,0.0,-,0.0,1,42
+8,9,chemical substances intended to conserve food,"operating of licencing procedures for pharmaceutical and cosmetic products, including preparations for destroying vermin, fungicides and herbicides;",2,2.0,-,2.0,1,42
+9,10,chemical substances for preserving foodstuffs;,"Development of pharmaceutical and cosmetic products, including preparations for destroying vermin, fungicides and herbicides, for others",3,3.0,-,3.0,1,42
+10,11,detergents for use in manufacturing processes;,"Development of pharmaceutical and cosmetic products, including preparations for destroying vermin, fungicides and herbicides, for others",2,2.0,-,2.0,1,42
+11,12,adhesive removal in manufacturing processes,"Development of pharmaceutical and cosmetic products, including preparations for destroying vermin, fungicides and herbicides, for others",0,1.0,0,1.0,1,42
+12,13,chemical substances for analysis in laboratories (except for medicinal or veterinary purposes).,scientific and/or industrial research and consultancy relating thereto for the pharmaceutical and cosmetic industry;,3,3.0,-,3.0,1,42
+13,14,"Machines for the manufacture of concrete elements, concrete panels and walls;","Parts of machines, especially for textile machines, namely covers, roll covers, aprons for machines",3,3.0,-,3.0,07,07
+14,15,"Machines for the manufacture of concrete elements, concrete panels and walls;",rollers and rolls [parts of machines];,3,3.0,-,3.0,07,07
+15,16,"parts and fittings of machines for the manufacture of concrete elements, concrete panels and walls;",drive belts for machines;,3,3.0,-,3.0,07,07
+16,17,"Building materials, especially concrete elements, panels and walls.",Building construction;,3,3.0,-,3.0,19,37
+17,18,"Building materials, especially concrete elements, panels and walls.",Repair services.,2,3.0,-,3.0,19,37
+18,19,"Building materials, especially concrete elements, panels and walls.",Installation services.,0,3.0,3,3.0,19,37
+19,20,pharmaceuticals,Medical instruments,0,3.0,3,3.0,05,10
+20,21,Electronic key fobs being remote control apparatus,Electrical and power test and measurement equipment,3,3.0,3,3.0,09,09
+21,22,Apparatus for physical training for medical use;,"Rubber, gutta-percha, gum, asbestos, mica and goods made from these materials not included in other classes",2,0.0,0,0.0,10,17
+22,23,manually-operated exercise equipment for medical rehabilitative purposes;,special athletic shoes,0,3.0,3,3.0,10,25
+23,24,manually-operated exercise equipment for physical therapy purposes;,insulating materials;,0,0.0,0,0.0,10,17
+24,25,exercise machines for therapeutic purposes;,"flexible pipes, not of metal;",0,2.0,1,1.0,10,17
+25,26,physical exercise apparatus for therapeutic purposes.,rubber coverings.,0,3.0,1,1.0,10,17
+26,27,manually-operated exercise equipment for physical therapy purposes;,Special athletic clothing,0,3.0,3,3.0,10,25
+27,28,"Accessory for manually- operated exercise equipment, namely, accessory attachment to increase muscle resistance exercise equipment, namely, arm exercisers, body exercisers, chest expanders, chest pulls, exercise barrels, exercise chairs, exercise platforms, exercise resistance machines, exercise tables, floor supported platforms having movable portion intended for exercise and treatment of all muscles of the body, leg exercisers, resistance exercise machines for various resistance- type body exercises, stair-stepping machines, and torso exercisers.",Mats,-,3.0,3,3.0,28,27
+28,29,"exercise equipment, namely, floor supported platforms having movable portion intended for exercise and treatment of all muscles of the body",Carpets,-,3.0,2,2.0,28,27
+29,30,"exercise equipment, other than for physical therapy purposes, namely, arm exercisers, body exercisers, chest expanders, chest pulls, exercise barrels, exercise chairs, exercise platforms, exercise resistance machines, exercise tables, floor supported platforms having movable portion intended for exercise and treatment of all muscles of the body, leg exercisers, resistance exercise machines for various resistance-type body exercises, stair-stepping machines, and torso exercisers",linoleum and other floor coverings;,0,2.0,1,,28,27
+30,31,exercise machines,linoleum and,-,2.0,1,1.0,28,28
+31,32,manually-operated exercise equipment,Footwear,0,2.0,3,2.0,28,25
+32,33,"sporting goods, namely, sports training devices in the nature of balance boards to improve strength, toning, conditioning, balance, and proprioception",Footwear,0,2.0,3,2.0,28,25
+33,34,body-training apparatus;,Bicycles,1,2.0,1,2.0,28,25
+34,35,body-training apparatus for exercise and treatment of all muscles of the body,Footwear,0,2.0,2,2.0,28,25
+35,36,"Bicycles, pedelecs and electric bicycles, and parts and accessories therefor, not included in other classes.",Pedal Bicycles,-,3.0,4,4.0,12,12
+36,37,Footwear,Footwear trade,-,3.0,4,3.0,25,35
+37,38,"Milk, milk-based drinks (in which milk is the main part, not included in other groups)",Infant formula;,4,4.0,4,4.0,29:,05
+38,39,Beer,Non-alcoholic beverages and preparations for making such beverages,0,0.0,4,1.0,32,32
+39,40,"Solar collectors, solar heat collectors [heating, heating];",Lighting equipment,2,4.0,4,3.0,11:,11:
+40,41,Filters for aquariums,Water distribution and sanitary equipment,-,2.0,0,1.0,11:,11
+41,42,filters for tanks for raising aquatic species;,piston pins and lever arms,-,2.0,2,2.0,11,07:
+42,43,Anti-friction bearings for machines.,Rollers.,4,3.0,4,4.0,07:,07:
+43,44,"Sanitary equipment, namely: sinks (used in bathrooms, toilets and kitchens)","drain pipes, not of metal",-,4.0,4,4.0,11:,19:
+44,45,kitchen cabinets (wooden cabinets for storing things hung on the wall in the dining room);,Glass holders or for toilets,-,2.0,4,2.0,20:,21:
+45,46,Hair clippers (electric and non- electric),Glass holders,0,0.0,2,2.0,08:,21:
+46,47,washing machines,cooking systems and equipment.,-,0.0,4,3.0,07:,11
+47,48,cooking systems and equipment.,"watering can, tool for watering plants;",-,0.0,2,1.0,11,11
+48,49,Electric cooking utensils;,indoor aquarium,-,0.0,0,0.0,11:,11
+49,50,heating apparatus,indoor animal cages;,-,3.0,1,2.0,11,11
+50,51,steam generating apparatus,sprinkler,-,2.0,3,2.0,11,11
+51,52,ventilators,sprinkler,0,2.0,3,2.0,11,11
+52,53,Cutting machines,Machines and machine tools for the manufacturing and processing of micro- structure elements;,-,3.0,3,3.0,7,7
+53,54,Drill bits (parts of drilling machines),Semiconductor wafer processing machines;,-,3.0,3,3.0,7,7
+54,55,milling machines (machine tools);,"Automated machines and systems for cleaning, coating, developing, etching and strip coating of substrates, especially semiconductor substrates, hard discs, silicon discs, wafers, photomasks, hardmasks or embossing masks, templates, structure masks and substrates;",-,3.0,3,3.0,7,7
+55,56,"heavy machine tools, namely boring machines;","lathes, milling machines, blades (for woodworking, plastic working and metalworking machines).",(,3.0,1,1.0,7,7
+56,57,saw blades (parts of saw machines);,knives (parts of machines),-,4.0,4,4.0,7,7
+57,58,punching and broaching machines (machine tools);,"drill bits (parts of machines),",-,3.0,3,3.0,7,7
+58,59,lathe blades (parts of lathes).,Machines for wafer bonding;,-,2.0,2,2.0,7,7
+59,60,prefabricated building assembly kits of metal;,Machines for wafer bonding;,0,0.0,2,1.0,7,7
+60,61,Construction machines and apparatus;,Machines for debonding;,-,4.0,4,4.0,7,7
+61,62,loading-unloading machines and apparatus;,Lithographic machines for the processing of micro-structure or nano-structure elements;,-,0.0,0,0.0,7,7
+62,63,semiconductor manufacturing machines and systems;,Photomask and wafer processing machines for photomask applications;,-,4.0,4,4.0,7,7
+63,64,"non-electric prime movers, not for land vehicles [other than water mills and wind mills];",Photomask and wafer processing machines for the manufacturing and processing of opto-electronics;,-,4.0,2,3.0,7,7
+64,65,transmissions for machines;,Laser machines for the semiconductor industry;,-,4.0,3,4.0,7,7
+65,66,Alignment feeding apparatus for screw.,Photomask and wafer processing systems for the manufacturing of organic light emitting diodes (OLED).,-,4.0,3,4.0,7,7
+66,67,Business management assistance;,Administrative processing of purchase orders;,-,2.0,3,2.0,35,35:
+67,68,commercial information;,Administrative processing of purchase orders;,-,4.0,4,4.0,35,35
+68,69,commercial business survey;,Business management consultancy;,2,3.0,3,3.0,35,35
+69,70,business management consultancy;,Business management consulting services in the field of information technology;,4,4.0,-,4.0,35,35
+70,71,personnel management consultancy;,Business management and organization consultancy;,2,3.0,-,2.0,35,35
+71,72,real estate auctioning.,Commercial information agencies;,0,3.0,3,3.0,35,35
+72,73,Real estate consultancy,Advertising;,0,3.0,1,1.0,36,35
+73,74,financial consultancy,Advertising;,0,3.0,2,2.0,36,35
+74,75,real estate brokerage;,Advertising by mail order;,0,3.0,1,1.0,36,35

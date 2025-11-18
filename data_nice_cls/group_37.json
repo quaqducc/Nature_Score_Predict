@@ -1,0 +1,652 @@
+{
+  "group_number": "37",
+  "meta": {
+    "Goods and Services": "Class Heading Construction services; installation and repair services; mining extraction, oil and gas drilling Explanatory Note Class 37 includes mainly services in the field of construction, as well as services involving the restoration of objects to their original condition or their preservation without altering their physical or chemical properties. This Class includes, in particular: • construction and demolition of buildings, roads, bridges, dams or transmission lines, as well as services in the field of construction, for example, interior and exterior painting, plastering, plumbing, heating equipment installation, and roofing • shipbuilding • rental of construction tools, machines and equipment, for example, rental of bulldozers, rental of cranes • various repair services, for example, those in the fields of electricity, computer hardware, furniture, instruments, tools • various restoration services, for example, building restoration, furniture restoration and restoration of works of art • maintenance services for preserving an object in its original condition without changing any of its properties, for example, furniture maintenance, vehicle maintenance, swimming-pool maintenance and maintenance of computer hardware • cleaning of different objects, for example, windows, vehicles, clothing, as well as the laundering and pressing of clothing This Class does not include, in particular: • physical storage of goods (Cl. 39) • transformation of an object or substance that involves a process of change in its essential properties, for example, the cutting, dyeing, fireproofing of cloth (Cl. 40), the casting, plating, treating of metal (Cl. 40), custom tailoring, dressmaking, embroidering (Cl. 40), food and drink preservation (Cl. 40) • installation, maintenance and updating of computer software (Cl. 42), creation and hosting of websites (Cl. 42) • construction drafting and architectural services (Cl. 42)"
+  },
+  "items": [
+    {
+      "No.": "370001",
+      "Goods and Services": "furniture maintenance"
+    },
+    {
+      "No.": "370002",
+      "Goods and Services": "photographic apparatus repair"
+    },
+    {
+      "No.": "370003",
+      "Goods and Services": "electric appliance installation and repair"
+    },
+    {
+      "No.": "370004",
+      "Goods and Services": "passenger lift installation and repair / passenger elevator installation and repair"
+    },
+    {
+      "No.": "370005",
+      "Goods and Services": "asphalting"
+    },
+    {
+      "No.": "370006",
+      "Goods and Services": "motor vehicle maintenance and repair"
+    },
+    {
+      "No.": "370008",
+      "Goods and Services": "airplane maintenance and repair"
+    },
+    {
+      "No.": "370009",
+      "Goods and Services": "cleaning of buildings [interior]"
+    },
+    {
+      "No.": "370010",
+      "Goods and Services": "laundering"
+    },
+    {
+      "No.": "370011",
+      "Goods and Services": "boiler cleaning and repair"
+    },
+    {
+      "No.": "370012",
+      "Goods and Services": "burner maintenance and repair"
+    },
+    {
+      "No.": "370013",
+      "Goods and Services": "rental of bulldozers"
+    },
+    {
+      "No.": "370014",
+      "Goods and Services": "office machines and equipment installation, maintenance and repair"
+    },
+    {
+      "No.": "370015",
+      "Goods and Services": "fire alarm installation and repair"
+    },
+    {
+      "No.": "370016",
+      "Goods and Services": "burglar alarm installation and repair"
+    },
+    {
+      "No.": "370017",
+      "Goods and Services": "upholstery repair"
+    },
+    {
+      "No.": "370018",
+      "Goods and Services": "strong-room maintenance and repair"
+    },
+    {
+      "No.": "370020",
+      "Goods and Services": "rental of construction equipment"
+    },
+    {
+      "No.": "370021",
+      "Goods and Services": "shipbuilding"
+    },
+    {
+      "No.": "370022",
+      "Goods and Services": "renovation of clothing"
+    },
+    {
+      "No.": "370024",
+      "Goods and Services": "heating equipment installation and repair"
+    },
+    {
+      "No.": "370025",
+      "Goods and Services": "shoe maintenance and repair"
+    },
+    {
+      "No.": "370026",
+      "Goods and Services": "chimney sweeping"
+    },
+    {
+      "No.": "370027",
+      "Goods and Services": "safe maintenance and repair"
+    },
+    {
+      "No.": "370028",
+      "Goods and Services": "installation and repair of air-conditioning apparatus"
+    },
+    {
+      "No.": "370029",
+      "Goods and Services": "construction"
+    },
+    {
+      "No.": "370030",
+      "Goods and Services": "underwater construction"
+    },
+    {
+      "No.": "370031",
+      "Goods and Services": "building construction supervision"
+    },
+    {
+      "No.": "370032",
+      "Goods and Services": "clothing repair"
+    },
+    {
+      "No.": "370034",
+      "Goods and Services": "leather care, cleaning and repair"
+    },
+    {
+      "No.": "370035",
+      "Goods and Services": "kitchen equipment installation"
+    },
+    {
+      "No.": "370036",
+      "Goods and Services": "demolition of buildings"
+    },
+    {
+      "No.": "370037",
+      "Goods and Services": "rustproofing"
+    },
+    {
+      "No.": "370038",
+      "Goods and Services": "disinfecting"
+    },
+    {
+      "No.": "370040",
+      "Goods and Services": "painting or repair of signs"
+    },
+    {
+      "No.": "370041",
+      "Goods and Services": "warehouse construction and repair"
+    },
+    {
+      "No.": "370042",
+      "Goods and Services": "building sealing / damp-proofing [building]"
+    },
+    {
+      "No.": "370044",
+      "Goods and Services": "rental of excavators"
+    },
+    {
+      "No.": "370045",
+      "Goods and Services": "window cleaning"
+    },
+    {
+      "No.": "370046",
+      "Goods and Services": "film projector repair and maintenance"
+    },
+    {
+      "No.": "370047",
+      "Goods and Services": "furnace installation and repair"
+    },
+    {
+      "No.": "370048",
+      "Goods and Services": "fur care, cleaning and repair"
+    },
+    {
+      "No.": "370049",
+      "Goods and Services": "vehicle greasing / vehicle lubrication"
+    },
+    {
+      "No.": "370050",
+      "Goods and Services": "cleaning of clothing"
+    },
+    {
+      "No.": "370051",
+      "Goods and Services": "clock and watch repair"
+    },
+    {
+      "No.": "370052",
+      "Goods and Services": "factory construction"
+    },
+    {
+      "No.": "370053",
+      "Goods and Services": "irrigation devices installation and repair"
+    },
+    {
+      "No.": "370054",
+      "Goods and Services": "building insulating"
+    },
+    {
+      "No.": "370055",
+      "Goods and Services": "vehicle washing"
+    },
+    {
+      "No.": "370056",
+      "Goods and Services": "washing of linen"
+    },
+    {
+      "No.": "370057",
+      "Goods and Services": "washing"
+    },
+    {
+      "No.": "370058",
+      "Goods and Services": "machinery installation, maintenance and repair"
+    },
+    {
+      "No.": "370059",
+      "Goods and Services": "masonry"
+    },
+    {
+      "No.": "370060",
+      "Goods and Services": "furniture restoration"
+    },
+    {
+      "No.": "370061",
+      "Goods and Services": "pier breakwater building"
+    },
+    {
+      "No.": "370062",
+      "Goods and Services": "pressing of clothing"
+    },
+    {
+      "No.": "370063",
+      "Goods and Services": "pipeline construction and maintenance"
+    },
+    {
+      "No.": "370064",
+      "Goods and Services": "paper hanging / wallpapering"
+    },
+    {
+      "No.": "370065",
+      "Goods and Services": "umbrella repair"
+    },
+    {
+      "No.": "370066",
+      "Goods and Services": "parasol repair"
+    },
+    {
+      "No.": "370067",
+      "Goods and Services": "upholstering"
+    },
+    {
+      "No.": "370068",
+      "Goods and Services": "painting, interior and exterior"
+    },
+    {
+      "No.": "370069",
+      "Goods and Services": "pumicing"
+    },
+    {
+      "No.": "370070",
+      "Goods and Services": "plastering"
+    },
+    {
+      "No.": "370071",
+      "Goods and Services": "plumbing"
+    },
+    {
+      "No.": "370072",
+      "Goods and Services": "vehicle polishing"
+    },
+    {
+      "No.": "370073",
+      "Goods and Services": "pump repair"
+    },
+    {
+      "No.": "370074",
+      "Goods and Services": "harbour construction"
+    },
+    {
+      "No.": "370077",
+      "Goods and Services": "retreading of tyres / retreading of tires"
+    },
+    {
+      "No.": "370078",
+      "Goods and Services": "freezing equipment installation and repair"
+    },
+    {
+      "No.": "370079",
+      "Goods and Services": "linen ironing"
+    },
+    {
+      "No.": "370080",
+      "Goods and Services": "re-tinning"
+    },
+    {
+      "No.": "370081",
+      "Goods and Services": "riveting"
+    },
+    {
+      "No.": "370082",
+      "Goods and Services": "anti-rust treatment for vehicles"
+    },
+    {
+      "No.": "370083",
+      "Goods and Services": "vehicle service stations [refuelling and maintenance]"
+    },
+    {
+      "No.": "370084",
+      "Goods and Services": "telephone installation and repair"
+    },
+    {
+      "No.": "370085",
+      "Goods and Services": "vehicle maintenance"
+    },
+    {
+      "No.": "370086",
+      "Goods and Services": "varnishing"
+    },
+    {
+      "No.": "370087",
+      "Goods and Services": "vehicle cleaning"
+    },
+    {
+      "No.": "370089",
+      "Goods and Services": "vehicle breakdown repair services"
+    },
+    {
+      "No.": "370090",
+      "Goods and Services": "rental of cleaning machines"
+    },
+    {
+      "No.": "370091",
+      "Goods and Services": "vermin exterminating, other than for agriculture, aquaculture, horticulture and forestry"
+    },
+    {
+      "No.": "370093",
+      "Goods and Services": "scaffolding"
+    },
+    {
+      "No.": "370101",
+      "Goods and Services": "bricklaying"
+    },
+    {
+      "No.": "370102",
+      "Goods and Services": "diaper cleaning"
+    },
+    {
+      "No.": "370103",
+      "Goods and Services": "dry cleaning"
+    },
+    {
+      "No.": "370104",
+      "Goods and Services": "providing construction information"
+    },
+    {
+      "No.": "370105",
+      "Goods and Services": "providing information relating to repairs"
+    },
+    {
+      "No.": "370106",
+      "Goods and Services": "knife sharpening"
+    },
+    {
+      "No.": "370107",
+      "Goods and Services": "mining extraction"
+    },
+    {
+      "No.": "370108",
+      "Goods and Services": "quarrying services"
+    },
+    {
+      "No.": "370109",
+      "Goods and Services": "road paving"
+    },
+    {
+      "No.": "370110",
+      "Goods and Services": "sanding"
+    },
+    {
+      "No.": "370111",
+      "Goods and Services": "underwater repair"
+    },
+    {
+      "No.": "370112",
+      "Goods and Services": "cleaning of buildings [exterior surface]"
+    },
+    {
+      "No.": "370113",
+      "Goods and Services": "vulcanization of tyres [repair] / vulcanization of tires [repair]"
+    },
+    {
+      "No.": "370114",
+      "Goods and Services": "drilling of wells"
+    },
+    {
+      "No.": "370115",
+      "Goods and Services": "building of fair stalls and shops"
+    },
+    {
+      "No.": "370116",
+      "Goods and Services": "installation, maintenance and repair of computer hardware"
+    },
+    {
+      "No.": "370117",
+      "Goods and Services": "interference suppression in electrical apparatus"
+    },
+    {
+      "No.": "370118",
+      "Goods and Services": "rebuilding engines that have been worn or partially destroyed"
+    },
+    {
+      "No.": "370119",
+      "Goods and Services": "rebuilding machines that have been worn or partially destroyed"
+    },
+    {
+      "No.": "370120",
+      "Goods and Services": "rental of cranes [construction equipment]"
+    },
+    {
+      "No.": "370121",
+      "Goods and Services": "rental of road sweeping machines"
+    },
+    {
+      "No.": "370122",
+      "Goods and Services": "roofing services"
+    },
+    {
+      "No.": "370123",
+      "Goods and Services": "artificial snow-making services"
+    },
+    {
+      "No.": "370124",
+      "Goods and Services": "street cleaning"
+    },
+    {
+      "No.": "370125",
+      "Goods and Services": "repair of security locks"
+    },
+    {
+      "No.": "370126",
+      "Goods and Services": "restoration of works of art"
+    },
+    {
+      "No.": "370127",
+      "Goods and Services": "restoration of musical instruments"
+    },
+    {
+      "No.": "370128",
+      "Goods and Services": "installation of doors and windows"
+    },
+    {
+      "No.": "370129",
+      "Goods and Services": "swimming-pool maintenance"
+    },
+    {
+      "No.": "370130",
+      "Goods and Services": "refilling of toner cartridges"
+    },
+    {
+      "No.": "370131",
+      "Goods and Services": "construction consultancy"
+    },
+    {
+      "No.": "370132",
+      "Goods and Services": "carpentry services"
+    },
+    {
+      "No.": "370133",
+      "Goods and Services": "drilling of deep oil or gas wells"
+    },
+    {
+      "No.": "370134",
+      "Goods and Services": "rental of drainage pumps"
+    },
+    {
+      "No.": "370135",
+      "Goods and Services": "rental of laundry washing machines"
+    },
+    {
+      "No.": "370136",
+      "Goods and Services": "repair of power lines"
+    },
+    {
+      "No.": "370137",
+      "Goods and Services": "vehicle battery charging"
+    },
+    {
+      "No.": "370138",
+      "Goods and Services": "tyre balancing / tire balancing"
+    },
+    {
+      "No.": "370139",
+      "Goods and Services": "tuning of musical instruments"
+    },
+    {
+      "No.": "370140",
+      "Goods and Services": "laying of cable"
+    },
+    {
+      "No.": "370141",
+      "Goods and Services": "sterilization of medical instruments / sterilisation of medical instruments"
+    },
+    {
+      "No.": "370142",
+      "Goods and Services": "hydraulic fracturing services / fracking services"
+    },
+    {
+      "No.": "370143",
+      "Goods and Services": "pest control services, other than for agriculture, aquaculture, horticulture and forestry"
+    },
+    {
+      "No.": "370144",
+      "Goods and Services": "rental of dishwashing machines / rental of dishwashers"
+    },
+    {
+      "No.": "370145",
+      "Goods and Services": "rental of dish drying machines"
+    },
+    {
+      "No.": "370146",
+      "Goods and Services": "installation of utilities in construction sites"
+    },
+    {
+      "No.": "370147",
+      "Goods and Services": "services of electricians"
+    },
+    {
+      "No.": "370148",
+      "Goods and Services": "installation and repair of flood protection equipment"
+    },
+    {
+      "No.": "370149",
+      "Goods and Services": "snow removal"
+    },
+    {
+      "No.": "370150",
+      "Goods and Services": "refilling of ink cartridges"
+    },
+    {
+      "No.": "370151",
+      "Goods and Services": "charging of electric vehicles"
+    },
+    {
+      "No.": "370152",
+      "Goods and Services": "housekeeping services [cleaning services]"
+    },
+    {
+      "No.": "370153",
+      "Goods and Services": "mobile telephone battery charging services / cell phone battery charging services"
+    },
+    {
+      "No.": "370154",
+      "Goods and Services": "tuning of bodies for automobiles"
+    },
+    {
+      "No.": "370155",
+      "Goods and Services": "custom installation of exterior, interior and mechanical parts of vehicles [tuning]"
+    },
+    {
+      "No.": "370156",
+      "Goods and Services": "excavation of ruins, other than for archaeology"
+    },
+    {
+      "No.": "370157",
+      "Goods and Services": "maintenance of passenger lifts via remote monitoring systems / maintenance of passenger elevators via remote monitoring systems"
+    },
+    {
+      "No.": "370158",
+      "Goods and Services": "laying of artificial turf"
+    },
+    {
+      "No.": "370159",
+      "Goods and Services": "hardscaping services"
+    },
+    {
+      "No.": "370160",
+      "Goods and Services": "rental of portable power chargers"
+    },
+    {
+      "No.": "370161",
+      "Goods and Services": "assembly services relating to the installation of furniture"
+    },
+    {
+      "No.": "370162",
+      "Goods and Services": "joinery services [repair of woodwork]"
+    },
+    {
+      "No.": "370163",
+      "Goods and Services": "deodorizing of upholstery / deodorising of upholstery"
+    },
+    {
+      "No.": "370164",
+      "Goods and Services": "irradiation of medical instruments"
+    },
+    {
+      "No.": "370165",
+      "Goods and Services": "rental of battery chargers"
+    },
+    {
+      "No.": "370166",
+      "Goods and Services": "sanitizing of upholstery / sanitising of upholstery"
+    },
+    {
+      "No.": "370167",
+      "Goods and Services": "disinfecting of surgical instruments"
+    },
+    {
+      "No.": "370168",
+      "Goods and Services": "information technology consultancy relating to installation, maintenance and repair of computer hardware"
+    },
+    {
+      "No.": "370169",
+      "Goods and Services": "rental of sterilizers for medical instruments / rental of sterilisers for medical instruments"
+    },
+    {
+      "No.": "370170",
+      "Goods and Services": "refilling of gas cylinders used for making carbonated beverages"
+    },
+    {
+      "No.": "370171",
+      "Goods and Services": "jewellery repair services / jewelry repair services"
+    },
+    {
+      "No.": "370172",
+      "Goods and Services": "restoration of printed photographs"
+    },
+    {
+      "No.": "370173",
+      "Goods and Services": "assembly of prefabricated houses"
+    },
+    {
+      "No.": "370174",
+      "Goods and Services": "natural gas refuelling services for motor vehicles"
+    },
+    {
+      "No.": "370175",
+      "Goods and Services": "jewellery cleaning / jewelry cleaning"
+    },
+    {
+      "No.": "370176",
+      "Goods and Services": "reservation of charging stations for electric vehicles"
+    },
+    {
+      "No.": "370177",
+      "Goods and Services": "fumigation for pest control, other than for agriculture, horticulture and forestry"
+    },
+    {
+      "No.": "370178",
+      "Goods and Services": "repair of orthodontic appliances"
+    }
+  ]
+}

@@ -1,0 +1,1084 @@
+{
+  "group_number": "19",
+  "meta": {
+    "Goods and Services": "Class Heading Materials, not of metal, for building and construction; rigid pipes, not of metal, for building; asphalt, pitch, tar and bitumen; transportable buildings, not of metal; monuments, not of metal Explanatory Note Class 19 includes mainly materials, not of metal, for building and construction. This Class includes, in particular: • semi-worked woods for use in building, for example, beams, planks, panels • wood veneers • building glass, for example, glass tiles, insulating glass for building, safety glass • glass granules for marking out roads • granite, marble, gravel • terra-cotta for use as a building material • roofing, not of metal, incorporating photovoltaic cells • gravestones and tombs, not of metal • statues, busts and works of art of stone, concrete or marble • letter boxes of masonry • geotextiles • coatings being building materials • scaffolding, not of metal • transportable buildings or structures, not of metal, for example, aquaria, aviaries, flagpoles, porches, swimming pools This Class does not include, in particular: • cement preservatives, cement-waterproofing preparations (Cl. 1) • fireproofing preparations (Cl. 1) • wood preservatives (Cl. 2) • oils for releasing form work for building (Cl. 4) • letter boxes of metal (Cl. 6) and not of metal or masonry (Cl. 20) • statues, busts and works of art of common metal (Cl. 6), of precious metal (Cl. 14), of wood, wax, plaster or plastic (Cl. 20), of porcelain, ceramic, earthenware, terra-cotta or glass (Cl. 21) • certain pipes, not of metal, not for building, for example, pipes being parts of sanitary installations (Cl. 11), flexible pipes, tubes and hoses, not of metal (Cl. 17) • substances for insulating buildings against moisture (Cl. 17) • glass for vehicle windows (semi-finished product) (Cl. 21) • birdcages (Cl. 21) • mats and matting, linoleum and other materials for covering existing floors (Cl. 27) • unsawn or undressed timber (Cl. 31)"
+  },
+  "items": [
+    {
+      "No.": "190001",
+      "Goods and Services": "advertisement columns, not of metal"
+    },
+    {
+      "No.": "190002",
+      "Goods and Services": "alabaster glass for building"
+    },
+    {
+      "No.": "190003",
+      "Goods and Services": "alabaster"
+    },
+    {
+      "No.": "190004",
+      "Goods and Services": "asbestos cement"
+    },
+    {
+      "No.": "190005",
+      "Goods and Services": "asbestos mortar"
+    },
+    {
+      "No.": "190006",
+      "Goods and Services": "slate*"
+    },
+    {
+      "No.": "190007",
+      "Goods and Services": "roofing slates"
+    },
+    {
+      "No.": "190008",
+      "Goods and Services": "slate powder"
+    },
+    {
+      "No.": "190009",
+      "Goods and Services": "hips for roofing"
+    },
+    {
+      "No.": "190010",
+      "Goods and Services": "silver sand"
+    },
+    {
+      "No.": "190011",
+      "Goods and Services": "potters' clay"
+    },
+    {
+      "No.": "190012",
+      "Goods and Services": "firebricks / refractory bricks"
+    },
+    {
+      "No.": "190013",
+      "Goods and Services": "asphalt"
+    },
+    {
+      "No.": "190014",
+      "Goods and Services": "asphalt paving"
+    },
+    {
+      "No.": "190015",
+      "Goods and Services": "furrings of wood"
+    },
+    {
+      "No.": "190016",
+      "Goods and Services": "balustrades, not of metal"
+    },
+    {
+      "No.": "190017",
+      "Goods and Services": "bitumen"
+    },
+    {
+      "No.": "190018",
+      "Goods and Services": "tarred strips for building"
+    },
+    {
+      "No.": "190019",
+      "Goods and Services": "huts"
+    },
+    {
+      "No.": "190020",
+      "Goods and Services": "fair huts"
+    },
+    {
+      "No.": "190021",
+      "Goods and Services": "roofing shingles"
+    },
+    {
+      "No.": "190022",
+      "Goods and Services": "folding doors, not of metal"
+    },
+    {
+      "No.": "190023",
+      "Goods and Services": "concrete"
+    },
+    {
+      "No.": "190024",
+      "Goods and Services": "concrete building elements"
+    },
+    {
+      "No.": "190025",
+      "Goods and Services": "bituminous products for building"
+    },
+    {
+      "No.": "190026",
+      "Goods and Services": "wood, semi-worked"
+    },
+    {
+      "No.": "190027",
+      "Goods and Services": "building timber / lumber"
+    },
+    {
+      "No.": "190028",
+      "Goods and Services": "plywood"
+    },
+    {
+      "No.": "190029",
+      "Goods and Services": "manufactured timber"
+    },
+    {
+      "No.": "190030",
+      "Goods and Services": "wood for making household utensils"
+    },
+    {
+      "No.": "190031",
+      "Goods and Services": "sawn timber"
+    },
+    {
+      "No.": "190032",
+      "Goods and Services": "wood paving"
+    },
+    {
+      "No.": "190033",
+      "Goods and Services": "wood veneers / veneers"
+    },
+    {
+      "No.": "190034",
+      "Goods and Services": "veneer wood"
+    },
+    {
+      "No.": "190035",
+      "Goods and Services": "wood panelling"
+    },
+    {
+      "No.": "190036",
+      "Goods and Services": "cement*"
+    },
+    {
+      "No.": "190037",
+      "Goods and Services": "pitch"
+    },
+    {
+      "No.": "190038",
+      "Goods and Services": "bricks"
+    },
+    {
+      "No.": "190039",
+      "Goods and Services": "earth for bricks"
+    },
+    {
+      "No.": "190040",
+      "Goods and Services": "binding agents for making briquettes / binding agents for making stones"
+    },
+    {
+      "No.": "190041",
+      "Goods and Services": "telephone booths, not of metal / telephone boxes, not of metal"
+    },
+    {
+      "No.": "190042",
+      "Goods and Services": "caissons for construction work under water"
+    },
+    {
+      "No.": "190043",
+      "Goods and Services": "limestone / calcareous stone"
+    },
+    {
+      "No.": "190044",
+      "Goods and Services": "roof gutters, not of metal"
+    },
+    {
+      "No.": "190045",
+      "Goods and Services": "paperboard for building / building cardboard"
+    },
+    {
+      "No.": "190046",
+      "Goods and Services": "bitumen paper for building"
+    },
+    {
+      "No.": "190048",
+      "Goods and Services": "fireclay / grog [fired refractory material]"
+    },
+    {
+      "No.": "190049",
+      "Goods and Services": "fireplace mantles, not of metal"
+    },
+    {
+      "No.": "190050",
+      "Goods and Services": "framework, not of metal, for building"
+    },
+    {
+      "No.": "190051",
+      "Goods and Services": "materials for making and coating roads"
+    },
+    {
+      "No.": "190052",
+      "Goods and Services": "lime*"
+    },
+    {
+      "No.": "190053",
+      "Goods and Services": "mortar for building / grout"
+    },
+    {
+      "No.": "190054",
+      "Goods and Services": "plaster*"
+    },
+    {
+      "No.": "190055",
+      "Goods and Services": "chimneys, not of metal"
+    },
+    {
+      "No.": "190056",
+      "Goods and Services": "fireproof cement coatings"
+    },
+    {
+      "No.": "190057",
+      "Goods and Services": "cement slabs"
+    },
+    {
+      "No.": "190058",
+      "Goods and Services": "cement posts"
+    },
+    {
+      "No.": "190059",
+      "Goods and Services": "schists"
+    },
+    {
+      "No.": "190060",
+      "Goods and Services": "partitions, not of metal"
+    },
+    {
+      "No.": "190061",
+      "Goods and Services": "buildings, not of metal"
+    },
+    {
+      "No.": "190062",
+      "Goods and Services": "building paper"
+    },
+    {
+      "No.": "190063",
+      "Goods and Services": "building glass"
+    },
+    {
+      "No.": "190064",
+      "Goods and Services": "cornices, not of metal"
+    },
+    {
+      "No.": "190065",
+      "Goods and Services": "mouldings, not of metal, for cornices / moldings, not of metal, for cornices"
+    },
+    {
+      "No.": "190066",
+      "Goods and Services": "roof flashing, not of metal"
+    },
+    {
+      "No.": "190067",
+      "Goods and Services": "angle irons, not of metal"
+    },
+    {
+      "No.": "190068",
+      "Goods and Services": "windows, not of metal"
+    },
+    {
+      "No.": "190069",
+      "Goods and Services": "doors, not of metal*"
+    },
+    {
+      "No.": "190070",
+      "Goods and Services": "manhole covers, not of metal"
+    },
+    {
+      "No.": "190071",
+      "Goods and Services": "roof coverings, not of metal"
+    },
+    {
+      "No.": "190072",
+      "Goods and Services": "raw chalk"
+    },
+    {
+      "No.": "190073",
+      "Goods and Services": "quartz for building"
+    },
+    {
+      "No.": "190074",
+      "Goods and Services": "stair-treads [steps], not of metal"
+    },
+    {
+      "No.": "190075",
+      "Goods and Services": "gutter pipes, not of metal"
+    },
+    {
+      "No.": "190076",
+      "Goods and Services": "water-pipes, not of metal"
+    },
+    {
+      "No.": "190077",
+      "Goods and Services": "water-pipe valves, not of metal or plastic"
+    },
+    {
+      "No.": "190078",
+      "Goods and Services": "scaffolding, not of metal"
+    },
+    {
+      "No.": "190079",
+      "Goods and Services": "posts, not of metal, for power lines / poles, not of metal, for power lines"
+    },
+    {
+      "No.": "190080",
+      "Goods and Services": "branching pipes, not of metal"
+    },
+    {
+      "No.": "190081",
+      "Goods and Services": "tomb or grave enclosures, not of metal / grave or tomb enclosures, not of metal"
+    },
+    {
+      "No.": "190082",
+      "Goods and Services": "bituminous coatings for roofing"
+    },
+    {
+      "No.": "190083",
+      "Goods and Services": "beams, not of metal / girders, not of metal"
+    },
+    {
+      "No.": "190084",
+      "Goods and Services": "pigsties, not of metal"
+    },
+    {
+      "No.": "190085",
+      "Goods and Services": "stables, not of metal"
+    },
+    {
+      "No.": "190086",
+      "Goods and Services": "props, not of metal"
+    },
+    {
+      "No.": "190088",
+      "Goods and Services": "grave slabs, not of metal / tomb slabs, not of metal"
+    },
+    {
+      "No.": "190089",
+      "Goods and Services": "memorial plaques, not of metal"
+    },
+    {
+      "No.": "190090",
+      "Goods and Services": "felt for building"
+    },
+    {
+      "No.": "190091",
+      "Goods and Services": "foundry moulds, not of metal / foundry molds, not of metal"
+    },
+    {
+      "No.": "190092",
+      "Goods and Services": "cement for furnaces"
+    },
+    {
+      "No.": "190093",
+      "Goods and Services": "cement for blast furnaces"
+    },
+    {
+      "No.": "190094",
+      "Goods and Services": "stone*"
+    },
+    {
+      "No.": "190095",
+      "Goods and Services": "plate glass [windows] for building"
+    },
+    {
+      "No.": "190096",
+      "Goods and Services": "clay*"
+    },
+    {
+      "No.": "190097",
+      "Goods and Services": "coal tar"
+    },
+    {
+      "No.": "190098",
+      "Goods and Services": "granite"
+    },
+    {
+      "No.": "190099",
+      "Goods and Services": "gravel"
+    },
+    {
+      "No.": "190100",
+      "Goods and Services": "sandstone for building"
+    },
+    {
+      "No.": "190101",
+      "Goods and Services": "sandstone pipes"
+    },
+    {
+      "No.": "190102",
+      "Goods and Services": "gypsum [building material]"
+    },
+    {
+      "No.": "190103",
+      "Goods and Services": "jalousies, not of metal"
+    },
+    {
+      "No.": "190104",
+      "Goods and Services": "slag [building material]"
+    },
+    {
+      "No.": "190105",
+      "Goods and Services": "clinker ballast"
+    },
+    {
+      "No.": "190106",
+      "Goods and Services": "parquet floor boards"
+    },
+    {
+      "No.": "190107",
+      "Goods and Services": "outdoor blinds, not of metal and not of textile"
+    },
+    {
+      "No.": "190108",
+      "Goods and Services": "rocket launching platforms, not of metal"
+    },
+    {
+      "No.": "190109",
+      "Goods and Services": "laths, not of metal"
+    },
+    {
+      "No.": "190110",
+      "Goods and Services": "binding material for road repair"
+    },
+    {
+      "No.": "190111",
+      "Goods and Services": "agglomerated cork for building"
+    },
+    {
+      "No.": "190112",
+      "Goods and Services": "parquet flooring"
+    },
+    {
+      "No.": "190113",
+      "Goods and Services": "stringers [parts of staircases], not of metal"
+    },
+    {
+      "No.": "190114",
+      "Goods and Services": "lintels, not of metal"
+    },
+    {
+      "No.": "190115",
+      "Goods and Services": "luminous paving blocks"
+    },
+    {
+      "No.": "190116",
+      "Goods and Services": "macadam"
+    },
+    {
+      "No.": "190117",
+      "Goods and Services": "monuments, not of metal"
+    },
+    {
+      "No.": "190118",
+      "Goods and Services": "magnesia cement"
+    },
+    {
+      "No.": "190119",
+      "Goods and Services": "buildings, transportable, not of metal"
+    },
+    {
+      "No.": "190120",
+      "Goods and Services": "marble"
+    },
+    {
+      "No.": "190121",
+      "Goods and Services": "glass granules for road marking / glass granules for marking out roads"
+    },
+    {
+      "No.": "190122",
+      "Goods and Services": "road marking sheets and strips of synthetic material"
+    },
+    {
+      "No.": "190123",
+      "Goods and Services": "porches [structures], not of metal"
+    },
+    {
+      "No.": "190124",
+      "Goods and Services": "masts [poles], not of metal"
+    },
+    {
+      "No.": "190125",
+      "Goods and Services": "cask wood / stave wood"
+    },
+    {
+      "No.": "190126",
+      "Goods and Services": "mosaics for building"
+    },
+    {
+      "No.": "190127",
+      "Goods and Services": "mouldable wood / moldable wood"
+    },
+    {
+      "No.": "190128",
+      "Goods and Services": "mouldings, not of metal, for building / moldings, not of metal, for building"
+    },
+    {
+      "No.": "190129",
+      "Goods and Services": "coatings [building materials]"
+    },
+    {
+      "No.": "190130",
+      "Goods and Services": "wall claddings, not of metal, for building"
+    },
+    {
+      "No.": "190131",
+      "Goods and Services": "flashing, not of metal, for building"
+    },
+    {
+      "No.": "190132",
+      "Goods and Services": "olivine for building"
+    },
+    {
+      "No.": "190133",
+      "Goods and Services": "shutters, not of metal"
+    },
+    {
+      "No.": "190134",
+      "Goods and Services": "palings, not of metal / palisading, not of metal"
+    },
+    {
+      "No.": "190135",
+      "Goods and Services": "fences, not of metal"
+    },
+    {
+      "No.": "190136",
+      "Goods and Services": "pilings, not of metal / sheet piles, not of metal"
+    },
+    {
+      "No.": "190137",
+      "Goods and Services": "signalling panels, non-luminous and non-mechanical, not of metal"
+    },
+    {
+      "No.": "190138",
+      "Goods and Services": "wall linings, not of metal, for building"
+    },
+    {
+      "No.": "190139",
+      "Goods and Services": "skating rinks [structures], not of metal"
+    },
+    {
+      "No.": "190140",
+      "Goods and Services": "perches"
+    },
+    {
+      "No.": "190141",
+      "Goods and Services": "building stone"
+    },
+    {
+      "No.": "190142",
+      "Goods and Services": "artificial stone"
+    },
+    {
+      "No.": "190143",
+      "Goods and Services": "slag stone / clinker stone"
+    },
+    {
+      "No.": "190144",
+      "Goods and Services": "gravestones / tombstones"
+    },
+    {
+      "No.": "190145",
+      "Goods and Services": "tufa"
+    },
+    {
+      "No.": "190146",
+      "Goods and Services": "works of stonemasonry"
+    },
+    {
+      "No.": "190147",
+      "Goods and Services": "floors, not of metal"
+    },
+    {
+      "No.": "190148",
+      "Goods and Services": "ceilings, not of metal"
+    },
+    {
+      "No.": "190149",
+      "Goods and Services": "planks of wood for building"
+    },
+    {
+      "No.": "190150",
+      "Goods and Services": "linings, not of metal, for building"
+    },
+    {
+      "No.": "190151",
+      "Goods and Services": "roofing tiles, not of metal"
+    },
+    {
+      "No.": "190152",
+      "Goods and Services": "diving boards, not of metal"
+    },
+    {
+      "No.": "190153",
+      "Goods and Services": "gates, not of metal"
+    },
+    {
+      "No.": "190154",
+      "Goods and Services": "door panels, not of metal"
+    },
+    {
+      "No.": "190155",
+      "Goods and Services": "telegraph posts, not of metal"
+    },
+    {
+      "No.": "190156",
+      "Goods and Services": "chicken-houses, not of metal"
+    },
+    {
+      "No.": "190157",
+      "Goods and Services": "joists, not of metal"
+    },
+    {
+      "No.": "190158",
+      "Goods and Services": "platforms, prefabricated, not of metal"
+    },
+    {
+      "No.": "190160",
+      "Goods and Services": "tanks of masonry"
+    },
+    {
+      "No.": "190161",
+      "Goods and Services": "road coating materials"
+    },
+    {
+      "No.": "190162",
+      "Goods and Services": "sills, not of metal"
+    },
+    {
+      "No.": "190163",
+      "Goods and Services": "reeds for building"
+    },
+    {
+      "No.": "190164",
+      "Goods and Services": "road signs, non-luminous and non-mechanical, not of metal"
+    },
+    {
+      "No.": "190165",
+      "Goods and Services": "non-luminous and non-mechanical signs, not of metal"
+    },
+    {
+      "No.": "190166",
+      "Goods and Services": "sand, except foundry sand"
+    },
+    {
+      "No.": "190167",
+      "Goods and Services": "greenhouses, transportable, not of metal"
+    },
+    {
+      "No.": "190168",
+      "Goods and Services": "silica [quartz]"
+    },
+    {
+      "No.": "190169",
+      "Goods and Services": "silos, not of metal"
+    },
+    {
+      "No.": "190170",
+      "Goods and Services": "statues of stone, concrete or marble"
+    },
+    {
+      "No.": "190171",
+      "Goods and Services": "tar"
+    },
+    {
+      "No.": "190172",
+      "Goods and Services": "terra-cotta [building material]"
+    },
+    {
+      "No.": "190173",
+      "Goods and Services": "roofing, not of metal"
+    },
+    {
+      "No.": "190174",
+      "Goods and Services": "tombs, not of metal"
+    },
+    {
+      "No.": "190175",
+      "Goods and Services": "arbours [structures], not of metal"
+    },
+    {
+      "No.": "190176",
+      "Goods and Services": "railway sleepers, not of metal / railroad ties, not of metal"
+    },
+    {
+      "No.": "190177",
+      "Goods and Services": "latticework, not of metal / trellises, not of metal"
+    },
+    {
+      "No.": "190178",
+      "Goods and Services": "rigid pipes, not of metal, for building"
+    },
+    {
+      "No.": "190179",
+      "Goods and Services": "window ventlights, not of metal"
+    },
+    {
+      "No.": "190180",
+      "Goods and Services": "insulating glass for building"
+    },
+    {
+      "No.": "190181",
+      "Goods and Services": "window glass, other than vehicle window glass"
+    },
+    {
+      "No.": "190182",
+      "Goods and Services": "stained-glass windows"
+    },
+    {
+      "No.": "190183",
+      "Goods and Services": "window glass for building"
+    },
+    {
+      "No.": "190184",
+      "Goods and Services": "aviaries [structures], not of metal"
+    },
+    {
+      "No.": "190185",
+      "Goods and Services": "scantlings [carpentry]"
+    },
+    {
+      "No.": "190186",
+      "Goods and Services": "xylolith"
+    },
+    {
+      "No.": "190187",
+      "Goods and Services": "mooring bollards, not of metal"
+    },
+    {
+      "No.": "190188",
+      "Goods and Services": "floating docks, not of metal, for mooring boats"
+    },
+    {
+      "No.": "190189",
+      "Goods and Services": "wainscotting, not of metal"
+    },
+    {
+      "No.": "190190",
+      "Goods and Services": "aquaria [structures]"
+    },
+    {
+      "No.": "190191",
+      "Goods and Services": "reinforcing materials, not of metal, for building"
+    },
+    {
+      "No.": "190192",
+      "Goods and Services": "safety glass"
+    },
+    {
+      "No.": "190193",
+      "Goods and Services": "works of art of stone, concrete or marble"
+    },
+    {
+      "No.": "190194",
+      "Goods and Services": "bird baths [structures], not of metal"
+    },
+    {
+      "No.": "190195",
+      "Goods and Services": "beacons, not of metal, non-luminous"
+    },
+    {
+      "No.": "190196",
+      "Goods and Services": "swimming pools [structures], not of metal"
+    },
+    {
+      "No.": "190197",
+      "Goods and Services": "building materials, not of metal / construction materials, not of metal"
+    },
+    {
+      "No.": "190198",
+      "Goods and Services": "shuttering, not of metal, for concrete"
+    },
+    {
+      "No.": "190199",
+      "Goods and Services": "bicycle parking installations, not of metal"
+    },
+    {
+      "No.": "190200",
+      "Goods and Services": "paving blocks, not of metal"
+    },
+    {
+      "No.": "190201",
+      "Goods and Services": "wood pulp board for building"
+    },
+    {
+      "No.": "190202",
+      "Goods and Services": "busts of stone, concrete or marble"
+    },
+    {
+      "No.": "190203",
+      "Goods and Services": "cabanas, not of metal"
+    },
+    {
+      "No.": "190205",
+      "Goods and Services": "paint spraying booths, not of metal"
+    },
+    {
+      "No.": "190206",
+      "Goods and Services": "posts, not of metal"
+    },
+    {
+      "No.": "190208",
+      "Goods and Services": "window frames, not of metal"
+    },
+    {
+      "No.": "190209",
+      "Goods and Services": "door frames, not of metal / door casings, not of metal"
+    },
+    {
+      "No.": "190210",
+      "Goods and Services": "greenhouse frames, not of metal"
+    },
+    {
+      "No.": "190211",
+      "Goods and Services": "calcareous marl"
+    },
+    {
+      "No.": "190212",
+      "Goods and Services": "chimney cowls, not of metal"
+    },
+    {
+      "No.": "190213",
+      "Goods and Services": "tiles, not of metal, for building"
+    },
+    {
+      "No.": "190214",
+      "Goods and Services": "floor tiles, not of metal"
+    },
+    {
+      "No.": "190215",
+      "Goods and Services": "burial vaults, not of metal"
+    },
+    {
+      "No.": "190216",
+      "Goods and Services": "chimney pots, not of metal"
+    },
+    {
+      "No.": "190217",
+      "Goods and Services": "lengthening pieces, not of metal, for chimneys"
+    },
+    {
+      "No.": "190218",
+      "Goods and Services": "chimney shafts, not of metal"
+    },
+    {
+      "No.": "190219",
+      "Goods and Services": "paving slabs, not of metal"
+    },
+    {
+      "No.": "190220",
+      "Goods and Services": "drain pipes, not of metal"
+    },
+    {
+      "No.": "190221",
+      "Goods and Services": "drain traps [valves], not of metal or plastic"
+    },
+    {
+      "No.": "190222",
+      "Goods and Services": "staircases, not of metal"
+    },
+    {
+      "No.": "190223",
+      "Goods and Services": "building panels, not of metal"
+    },
+    {
+      "No.": "190224",
+      "Goods and Services": "figurines of stone, concrete or marble / statuettes of stone, concrete or marble"
+    },
+    {
+      "No.": "190225",
+      "Goods and Services": "tombs [monuments], not of metal"
+    },
+    {
+      "No.": "190226",
+      "Goods and Services": "tombstone stelae, not of metal"
+    },
+    {
+      "No.": "190227",
+      "Goods and Services": "crash barriers, not of metal, for roads"
+    },
+    {
+      "No.": "190228",
+      "Goods and Services": "letter boxes of masonry"
+    },
+    {
+      "No.": "190231",
+      "Goods and Services": "agglomerated bagasses of cane [building material]"
+    },
+    {
+      "No.": "190232",
+      "Goods and Services": "penstock pipes, not of metal"
+    },
+    {
+      "No.": "190233",
+      "Goods and Services": "aquarium gravel"
+    },
+    {
+      "No.": "190234",
+      "Goods and Services": "aquarium sand"
+    },
+    {
+      "No.": "190235",
+      "Goods and Services": "ducts, not of metal, for ventilating and air-conditioning installations"
+    },
+    {
+      "No.": "190236",
+      "Goods and Services": "geotextiles"
+    },
+    {
+      "No.": "190237",
+      "Goods and Services": "rubble"
+    },
+    {
+      "No.": "190238",
+      "Goods and Services": "vinyl siding"
+    },
+    {
+      "No.": "190239",
+      "Goods and Services": "insect screens, not of metal"
+    },
+    {
+      "No.": "190240",
+      "Goods and Services": "roofing, not of metal, incorporating photovoltaic cells"
+    },
+    {
+      "No.": "190241",
+      "Goods and Services": "duckboards, not of metal"
+    },
+    {
+      "No.": "190242",
+      "Goods and Services": "refractory construction materials, not of metal"
+    },
+    {
+      "No.": "190243",
+      "Goods and Services": "prefabricated houses [ready-to-assemble], not of metal"
+    },
+    {
+      "No.": "190244",
+      "Goods and Services": "porphyry [stone]"
+    },
+    {
+      "No.": "190245",
+      "Goods and Services": "street gutters, not of metal"
+    },
+    {
+      "No.": "190246",
+      "Goods and Services": "turnstiles, not of metal"
+    },
+    {
+      "No.": "190247",
+      "Goods and Services": "tombstone plaques, not of metal"
+    },
+    {
+      "No.": "190248",
+      "Goods and Services": "wooden floor boards"
+    },
+    {
+      "No.": "190249",
+      "Goods and Services": "tile floorings, not of metal"
+    },
+    {
+      "No.": "190250",
+      "Goods and Services": "pantiles, not of metal"
+    },
+    {
+      "No.": "190251",
+      "Goods and Services": "wall tiles, not of metal"
+    },
+    {
+      "No.": "190252",
+      "Goods and Services": "slabs, not of metal, for building"
+    },
+    {
+      "No.": "190253",
+      "Goods and Services": "rock crystal"
+    },
+    {
+      "No.": "190254",
+      "Goods and Services": "armoured doors, not of metal / armored doors, not of metal"
+    },
+    {
+      "No.": "190255",
+      "Goods and Services": "enamelled glass, for building"
+    },
+    {
+      "No.": "190256",
+      "Goods and Services": "pillars, not of metal, for building"
+    },
+    {
+      "No.": "190257",
+      "Goods and Services": "brackets, not of metal, for building"
+    },
+    {
+      "No.": "190258",
+      "Goods and Services": "cladding, not of metal, for building"
+    },
+    {
+      "No.": "190259",
+      "Goods and Services": "plastic landscape edgings"
+    },
+    {
+      "No.": "190260",
+      "Goods and Services": "rubber bearings for seismic isolation of buildings"
+    },
+    {
+      "No.": "190261",
+      "Goods and Services": "armour-plating, not of metal / armor-plating, not of metal"
+    },
+    {
+      "No.": "190262",
+      "Goods and Services": "flagpoles [structures], not of metal"
+    },
+    {
+      "No.": "190263",
+      "Goods and Services": "swing doors, not of metal"
+    },
+    {
+      "No.": "190264",
+      "Goods and Services": "accordion doors, not of metal"
+    },
+    {
+      "No.": "190265",
+      "Goods and Services": "soundproof booths, transportable, not of metal"
+    },
+    {
+      "No.": "190266",
+      "Goods and Services": "acoustic panels, not of metal"
+    },
+    {
+      "No.": "190267",
+      "Goods and Services": "horticultural frames, not of metal / cold frames, not of metal"
+    },
+    {
+      "No.": "190268",
+      "Goods and Services": "floating floor boards, not of metal"
+    },
+    {
+      "No.": "190269",
+      "Goods and Services": "play sand"
+    },
+    {
+      "No.": "190270",
+      "Goods and Services": "casement windows, not of metal"
+    },
+    {
+      "No.": "190271",
+      "Goods and Services": "building materials with soundproofing qualities, not of metal / construction materials with soundproofing qualities, not of metal"
+    },
+    {
+      "No.": "190272",
+      "Goods and Services": "commemorative statuary cups of stone, concrete or marble"
+    },
+    {
+      "No.": "190273",
+      "Goods and Services": "prize cups of stone, concrete or marble"
+    },
+    {
+      "No.": "190274",
+      "Goods and Services": "smart glass for building"
+    },
+    {
+      "No.": "190275",
+      "Goods and Services": "mounting frames, not of metal, for solar panels"
+    },
+    {
+      "No.": "190276",
+      "Goods and Services": "adhesive tapes for road surface marking"
+    }
+  ]
+}

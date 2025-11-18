@@ -1,0 +1,540 @@
+{
+  "group_number": "18",
+  "meta": {
+    "Goods and Services": "Class Heading Leather and imitations of leather; animal skins and hides; luggage and carrying bags; umbrellas and parasols; walking sticks; whips, harness and saddlery; collars, leashes and clothing for animals Explanatory Note Class 18 includes mainly leather, imitations of leather and certain goods made of those materials. This Class includes, in particular: • luggage and carrying bags, for example, suitcases, trunks, travelling bags, sling bags for carrying infants, school bags • luggage or baggage tags • business card cases and pocket wallets • boxes and cases of leather or leatherboard This Class does not include, in particular: • walking sticks or canes for medical purposes (Cl. 10) • clothing, footwear and headwear of leather for human beings (Cl. 25) • bags and cases adapted to the product they are intended to contain, for example, bags adapted for laptops (Cl. 9), bags and cases for cameras and photographic equipment (Cl. 9), cases for musical instruments (Cl. 15), golf bags with or without wheels, bags especially designed for skis and surfboards (Cl. 28) • certain goods made of leather, imitations of leather, animal skins and hides that are classified according to their function or purpose, for example, leather strops (Cl. 8), polishing leather (Cl. 21), chamois leather for cleaning (Cl. 21), leather belts for clothing (Cl. 25)"
+  },
+  "items": [
+    {
+      "No.": "180001",
+      "Goods and Services": "mountaineering sticks / alpenstocks"
+    },
+    {
+      "No.": "180002",
+      "Goods and Services": "animal skins / pelts"
+    },
+    {
+      "No.": "180003",
+      "Goods and Services": "umbrella rings"
+    },
+    {
+      "No.": "180004",
+      "Goods and Services": "saddle trees"
+    },
+    {
+      "No.": "180005",
+      "Goods and Services": "leather leashes / leather leads"
+    },
+    {
+      "No.": "180006",
+      "Goods and Services": "fastenings for saddles"
+    },
+    {
+      "No.": "180007",
+      "Goods and Services": "umbrella or parasol ribs"
+    },
+    {
+      "No.": "180008",
+      "Goods and Services": "goldbeaters' skin"
+    },
+    {
+      "No.": "180010",
+      "Goods and Services": "purses"
+    },
+    {
+      "No.": "180011",
+      "Goods and Services": "bridoons"
+    },
+    {
+      "No.": "180012",
+      "Goods and Services": "straps for soldiers' equipment"
+    },
+    {
+      "No.": "180013",
+      "Goods and Services": "music cases"
+    },
+    {
+      "No.": "180014",
+      "Goods and Services": "umbrella sticks"
+    },
+    {
+      "No.": "180015",
+      "Goods and Services": "walking sticks* / canes*"
+    },
+    {
+      "No.": "180016",
+      "Goods and Services": "walking stick seats"
+    },
+    {
+      "No.": "180017",
+      "Goods and Services": "bits for animals [harness]"
+    },
+    {
+      "No.": "180018",
+      "Goods and Services": "frames for umbrellas or parasols"
+    },
+    {
+      "No.": "180019",
+      "Goods and Services": "game bags [hunting accessories]"
+    },
+    {
+      "No.": "180020",
+      "Goods and Services": "school bags / school satchels"
+    },
+    {
+      "No.": "180021",
+      "Goods and Services": "card cases [notecases]"
+    },
+    {
+      "No.": "180022",
+      "Goods and Services": "leatherboard"
+    },
+    {
+      "No.": "180023",
+      "Goods and Services": "hat boxes of leather"
+    },
+    {
+      "No.": "180025",
+      "Goods and Services": "horse collars"
+    },
+    {
+      "No.": "180026",
+      "Goods and Services": "horse blankets"
+    },
+    {
+      "No.": "180027",
+      "Goods and Services": "kid"
+    },
+    {
+      "No.": "180028",
+      "Goods and Services": "muzzles"
+    },
+    {
+      "No.": "180030",
+      "Goods and Services": "collars for animals*"
+    },
+    {
+      "No.": "180031",
+      "Goods and Services": "leather cord"
+    },
+    {
+      "No.": "180032",
+      "Goods and Services": "curried skins"
+    },
+    {
+      "No.": "180033",
+      "Goods and Services": "harness straps / harness traces"
+    },
+    {
+      "No.": "180034",
+      "Goods and Services": "straps of leather [saddlery]"
+    },
+    {
+      "No.": "180035",
+      "Goods and Services": "straps for skates"
+    },
+    {
+      "No.": "180036",
+      "Goods and Services": "leather straps / leather thongs"
+    },
+    {
+      "No.": "180038",
+      "Goods and Services": "butts [parts of hides]"
+    },
+    {
+      "No.": "180039",
+      "Goods and Services": "leather, unworked or semi-worked"
+    },
+    {
+      "No.": "180041",
+      "Goods and Services": "trimmings of leather for furniture / leather trimmings for furniture"
+    },
+    {
+      "No.": "180042",
+      "Goods and Services": "imitation leather"
+    },
+    {
+      "No.": "180043",
+      "Goods and Services": "umbrellas"
+    },
+    {
+      "No.": "180044",
+      "Goods and Services": "sling bags for carrying infants"
+    },
+    {
+      "No.": "180045",
+      "Goods and Services": "parts of rubber for stirrups"
+    },
+    {
+      "No.": "180046",
+      "Goods and Services": "stirrup leathers"
+    },
+    {
+      "No.": "180047",
+      "Goods and Services": "tool bags, empty"
+    },
+    {
+      "No.": "180049",
+      "Goods and Services": "whips"
+    },
+    {
+      "No.": "180050",
+      "Goods and Services": "nose bags [feed bags]"
+    },
+    {
+      "No.": "180051",
+      "Goods and Services": "umbrella covers"
+    },
+    {
+      "No.": "180052",
+      "Goods and Services": "casings, of leather, for springs / casings, of leather, for plate springs"
+    },
+    {
+      "No.": "180053",
+      "Goods and Services": "knee-pads for horses"
+    },
+    {
+      "No.": "180054",
+      "Goods and Services": "covers for animals"
+    },
+    {
+      "No.": "180055",
+      "Goods and Services": "harness for animals"
+    },
+    {
+      "No.": "180056",
+      "Goods and Services": "blinkers [harness] / blinders [harness]"
+    },
+    {
+      "No.": "180057",
+      "Goods and Services": "traces [harness]"
+    },
+    {
+      "No.": "180058",
+      "Goods and Services": "rucksacks / backpacks"
+    },
+    {
+      "No.": "180059",
+      "Goods and Services": "halters / head-stalls"
+    },
+    {
+      "No.": "180060",
+      "Goods and Services": "walking stick handles / walking cane handles"
+    },
+    {
+      "No.": "180061",
+      "Goods and Services": "cat o' nine tails"
+    },
+    {
+      "No.": "180062",
+      "Goods and Services": "chin straps, of leather"
+    },
+    {
+      "No.": "180063",
+      "Goods and Services": "moleskin [imitation of leather]"
+    },
+    {
+      "No.": "180065",
+      "Goods and Services": "frames for bags [structural parts of bags]"
+    },
+    {
+      "No.": "180066",
+      "Goods and Services": "parasols"
+    },
+    {
+      "No.": "180067",
+      "Goods and Services": "fur / fur-skins"
+    },
+    {
+      "No.": "180068",
+      "Goods and Services": "umbrella handles"
+    },
+    {
+      "No.": "180069",
+      "Goods and Services": "pocket wallets"
+    },
+    {
+      "No.": "180070",
+      "Goods and Services": "wheeled shopping bags"
+    },
+    {
+      "No.": "180071",
+      "Goods and Services": "reusable shopping bags"
+    },
+    {
+      "No.": "180072",
+      "Goods and Services": "reins"
+    },
+    {
+      "No.": "180073",
+      "Goods and Services": "attaché cases"
+    },
+    {
+      "No.": "180074",
+      "Goods and Services": "bags for climbers"
+    },
+    {
+      "No.": "180075",
+      "Goods and Services": "bags for campers"
+    },
+    {
+      "No.": "180076",
+      "Goods and Services": "beach bags"
+    },
+    {
+      "No.": "180077",
+      "Goods and Services": "handbags"
+    },
+    {
+      "No.": "180078",
+      "Goods and Services": "travelling bags"
+    },
+    {
+      "No.": "180079",
+      "Goods and Services": "bags [envelopes, pouches] of leather, for packaging"
+    },
+    {
+      "No.": "180080",
+      "Goods and Services": "girths of leather"
+    },
+    {
+      "No.": "180081",
+      "Goods and Services": "riding saddles"
+    },
+    {
+      "No.": "180082",
+      "Goods and Services": "saddlery"
+    },
+    {
+      "No.": "180083",
+      "Goods and Services": "briefcases"
+    },
+    {
+      "No.": "180084",
+      "Goods and Services": "travelling sets [leatherware]"
+    },
+    {
+      "No.": "180085",
+      "Goods and Services": "suitcases"
+    },
+    {
+      "No.": "180086",
+      "Goods and Services": "suitcase handles"
+    },
+    {
+      "No.": "180087",
+      "Goods and Services": "valves of leather"
+    },
+    {
+      "No.": "180088",
+      "Goods and Services": "cattle skins"
+    },
+    {
+      "No.": "180089",
+      "Goods and Services": "boxes of leather or leatherboard"
+    },
+    {
+      "No.": "180090",
+      "Goods and Services": "chain mesh purses"
+    },
+    {
+      "No.": "180091",
+      "Goods and Services": "cases of leather or leatherboard"
+    },
+    {
+      "No.": "180092",
+      "Goods and Services": "trunks [luggage]"
+    },
+    {
+      "No.": "180093",
+      "Goods and Services": "vanity cases, not fitted"
+    },
+    {
+      "No.": "180094",
+      "Goods and Services": "chamois leather, other than for cleaning purposes / skins of chamois, other than for cleaning purposes"
+    },
+    {
+      "No.": "180096",
+      "Goods and Services": "shoulder belts [straps] of leather / leather shoulder belts / leather shoulder straps"
+    },
+    {
+      "No.": "180097",
+      "Goods and Services": "covers for horse saddles"
+    },
+    {
+      "No.": "180098",
+      "Goods and Services": "boxes of vulcanized fibre / boxes of vulcanized fiber"
+    },
+    {
+      "No.": "180100",
+      "Goods and Services": "haversacks"
+    },
+    {
+      "No.": "180111",
+      "Goods and Services": "garment bags for travel"
+    },
+    {
+      "No.": "180112",
+      "Goods and Services": "bridles [harness]"
+    },
+    {
+      "No.": "180113",
+      "Goods and Services": "key cases"
+    },
+    {
+      "No.": "180114",
+      "Goods and Services": "net bags for shopping"
+    },
+    {
+      "No.": "180115",
+      "Goods and Services": "valises"
+    },
+    {
+      "No.": "180116",
+      "Goods and Services": "furniture coverings of leather"
+    },
+    {
+      "No.": "180117",
+      "Goods and Services": "pads for horse saddles"
+    },
+    {
+      "No.": "180118",
+      "Goods and Services": "bags for sports*"
+    },
+    {
+      "No.": "180119",
+      "Goods and Services": "stirrups"
+    },
+    {
+      "No.": "180120",
+      "Goods and Services": "harness fittings"
+    },
+    {
+      "No.": "180121",
+      "Goods and Services": "horseshoes"
+    },
+    {
+      "No.": "180122",
+      "Goods and Services": "slings for carrying infants"
+    },
+    {
+      "No.": "180123",
+      "Goods and Services": "pouch baby carriers"
+    },
+    {
+      "No.": "180124",
+      "Goods and Services": "bags*"
+    },
+    {
+      "No.": "180125",
+      "Goods and Services": "credit card cases [wallets]"
+    },
+    {
+      "No.": "180126",
+      "Goods and Services": "business card cases"
+    },
+    {
+      "No.": "180127",
+      "Goods and Services": "randsels [Japanese school satchels]"
+    },
+    {
+      "No.": "180128",
+      "Goods and Services": "luggage tags / baggage tags"
+    },
+    {
+      "No.": "180129",
+      "Goods and Services": "saddlecloths for horses"
+    },
+    {
+      "No.": "180130",
+      "Goods and Services": "labels of leather"
+    },
+    {
+      "No.": "180131",
+      "Goods and Services": "grips for holding shopping bags"
+    },
+    {
+      "No.": "180132",
+      "Goods and Services": "tefillin [phylacteries]"
+    },
+    {
+      "No.": "180133",
+      "Goods and Services": "suitcases with wheels"
+    },
+    {
+      "No.": "180134",
+      "Goods and Services": "saddlebags*"
+    },
+    {
+      "No.": "180135",
+      "Goods and Services": "clothing for pets"
+    },
+    {
+      "No.": "180136",
+      "Goods and Services": "reins for guiding children"
+    },
+    {
+      "No.": "180137",
+      "Goods and Services": "motorized suitcases"
+    },
+    {
+      "No.": "180138",
+      "Goods and Services": "compression cubes adapted for luggage"
+    },
+    {
+      "No.": "180139",
+      "Goods and Services": "conference folders / conference portfolios"
+    },
+    {
+      "No.": "180140",
+      "Goods and Services": "hiking sticks / trekking sticks"
+    },
+    {
+      "No.": "180141",
+      "Goods and Services": "leathercloth"
+    },
+    {
+      "No.": "180142",
+      "Goods and Services": "backpacks for carrying infants"
+    },
+    {
+      "No.": "180143",
+      "Goods and Services": "toilet bags, not fitted"
+    },
+    {
+      "No.": "180144",
+      "Goods and Services": "suitcase packing organizers / luggage organizers"
+    },
+    {
+      "No.": "180145",
+      "Goods and Services": "vegan leather"
+    },
+    {
+      "No.": "180146",
+      "Goods and Services": "sew-on tags of leather for clothing"
+    },
+    {
+      "No.": "180147",
+      "Goods and Services": "adhesive tags of leather for bags"
+    },
+    {
+      "No.": "180148",
+      "Goods and Services": "dog waste bag dispensers adapted for use with leashes"
+    },
+    {
+      "No.": "180149",
+      "Goods and Services": "mycelium-based imitation leather"
+    },
+    {
+      "No.": "180150",
+      "Goods and Services": "frames for coin purses [structural parts of coin purses]"
+    },
+    {
+      "No.": "180151",
+      "Goods and Services": "smart suitcases"
+    },
+    {
+      "No.": "180152",
+      "Goods and Services": "wallet chains"
+    }
+  ]
+}

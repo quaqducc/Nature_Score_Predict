@@ -1,0 +1,1972 @@
+{
+  "group_number": "5",
+  "meta": {
+    "Goods and Services": "Class Heading Pharmaceuticals, medical and veterinary preparations; sanitary preparations for medical purposes; dietetic food and substances adapted for medical or veterinary use, food for babies; dietary supplements for human beings and animals; plasters, materials for dressings; material for stopping teeth, dental wax; disinfectants; preparations for destroying vermin; fungicides, herbicides Explanatory Note Class 5 includes mainly pharmaceuticals and other preparations for medical or veterinary purposes. This Class includes, in particular: • sanitary preparations for personal hygiene, other than toiletries • diapers for babies and for incontinence • deodorants, other than for human beings or for animals • medicated shampoos, soaps, lotions and dentifrices • dietary supplements intended to supplement a normal diet or to have health benefits • meal replacements and dietetic food and beverages adapted for medical or veterinary use This Class does not include, in particular: • ingredients for use in the manufacture of pharmaceuticals, for example, vitamins, preservatives and antioxidants (Cl. 1) • sanitary preparations being non-medicated toiletries (Cl. 3) • deodorants for human beings or for animals (Cl. 3) • support bandages, orthopaedic bandages (Cl. 10) • meal replacements and dietetic food and beverages not specified as being for medical or veterinary use, which should be classified in the appropriate food or beverage classes, for example, low-fat potato crisps (Cl. 29), high-protein cereal bars (Cl. 30), isotonic beverages (Cl. 32)"
+  },
+  "items": [
+    {
+      "No.": "050001",
+      "Goods and Services": "dental abrasives"
+    },
+    {
+      "No.": "050002",
+      "Goods and Services": "aconitine"
+    },
+    {
+      "No.": "050003",
+      "Goods and Services": "adhesives for dentures"
+    },
+    {
+      "No.": "050005",
+      "Goods and Services": "air purifying preparations"
+    },
+    {
+      "No.": "050006",
+      "Goods and Services": "albuminous foodstuffs for medical purposes"
+    },
+    {
+      "No.": "050007",
+      "Goods and Services": "albuminous preparations for medical purposes"
+    },
+    {
+      "No.": "050008",
+      "Goods and Services": "medicinal alcohol"
+    },
+    {
+      "No.": "050009",
+      "Goods and Services": "aldehydes for pharmaceutical purposes"
+    },
+    {
+      "No.": "050010",
+      "Goods and Services": "alloys of precious metals for dental purposes"
+    },
+    {
+      "No.": "050012",
+      "Goods and Services": "dental amalgams"
+    },
+    {
+      "No.": "050013",
+      "Goods and Services": "starch for dietetic or pharmaceutical purposes"
+    },
+    {
+      "No.": "050017",
+      "Goods and Services": "anaesthetics"
+    },
+    {
+      "No.": "050018",
+      "Goods and Services": "dill oil for medical purposes"
+    },
+    {
+      "No.": "050019",
+      "Goods and Services": "adhesive plasters / sticking plasters"
+    },
+    {
+      "No.": "050020",
+      "Goods and Services": "angostura bark for medical purposes"
+    },
+    {
+      "No.": "050022",
+      "Goods and Services": "asthmatic tea"
+    },
+    {
+      "No.": "050023",
+      "Goods and Services": "frostbite salve for pharmaceutical purposes"
+    },
+    {
+      "No.": "050025",
+      "Goods and Services": "haemorrhoid preparations / hemorrhoid preparations"
+    },
+    {
+      "No.": "050026",
+      "Goods and Services": "preparations for destroying dry rot fungus"
+    },
+    {
+      "No.": "050028",
+      "Goods and Services": "mothproofing preparations"
+    },
+    {
+      "No.": "050029",
+      "Goods and Services": "antiparasitic preparations"
+    },
+    {
+      "No.": "050030",
+      "Goods and Services": "antiseptics"
+    },
+    {
+      "No.": "050031",
+      "Goods and Services": "antiseptic cotton"
+    },
+    {
+      "No.": "050032",
+      "Goods and Services": "anti-uric preparations"
+    },
+    {
+      "No.": "050033",
+      "Goods and Services": "wart pencils"
+    },
+    {
+      "No.": "050034",
+      "Goods and Services": "aseptic cotton"
+    },
+    {
+      "No.": "050035",
+      "Goods and Services": "fly catching paper"
+    },
+    {
+      "No.": "050036",
+      "Goods and Services": "bouillons for bacteriological cultures for medical purposes or veterinary purposes / media for bacteriological cultures for medical purposes or veterinary purposes / bacteriological culture mediums for medical purposes or veterinary purposes"
+    },
+    {
+      "No.": "050037",
+      "Goods and Services": "bacteriological preparations for medical and veterinary use"
+    },
+    {
+      "No.": "050038",
+      "Goods and Services": "bacterial poisons"
+    },
+    {
+      "No.": "050039",
+      "Goods and Services": "bacterial preparations for medical and veterinary use"
+    },
+    {
+      "No.": "050040",
+      "Goods and Services": "corn rings for the feet"
+    },
+    {
+      "No.": "050041",
+      "Goods and Services": "bath preparations for medical purposes"
+    },
+    {
+      "No.": "050042",
+      "Goods and Services": "salts for mineral water baths"
+    },
+    {
+      "No.": "050043",
+      "Goods and Services": "oxygen baths"
+    },
+    {
+      "No.": "050044",
+      "Goods and Services": "seawater for medicinal bathing"
+    },
+    {
+      "No.": "050045",
+      "Goods and Services": "therapeutic preparations for the bath"
+    },
+    {
+      "No.": "050046",
+      "Goods and Services": "balsamic preparations for medical purposes"
+    },
+    {
+      "No.": "050049",
+      "Goods and Services": "bandages for dressings"
+    },
+    {
+      "No.": "050050",
+      "Goods and Services": "balms for medical purposes"
+    },
+    {
+      "No.": "050051",
+      "Goods and Services": "cattle washes [insecticides]"
+    },
+    {
+      "No.": "050052",
+      "Goods and Services": "biocides"
+    },
+    {
+      "No.": "050053",
+      "Goods and Services": "bismuth preparations for pharmaceutical purposes"
+    },
+    {
+      "No.": "050054",
+      "Goods and Services": "lead water / Goulard water"
+    },
+    {
+      "No.": "050055",
+      "Goods and Services": "insecticides"
+    },
+    {
+      "No.": "050056",
+      "Goods and Services": "charcoal for pharmaceutical purposes"
+    },
+    {
+      "No.": "050057",
+      "Goods and Services": "medicated sweets / medicated candies"
+    },
+    {
+      "No.": "050058",
+      "Goods and Services": "medicinal mud / medicinal sediment [mud]"
+    },
+    {
+      "No.": "050059",
+      "Goods and Services": "mud for baths"
+    },
+    {
+      "No.": "050061",
+      "Goods and Services": "preparations for the treatment of burns"
+    },
+    {
+      "No.": "050062",
+      "Goods and Services": "cachou for pharmaceutical purposes"
+    },
+    {
+      "No.": "050063",
+      "Goods and Services": "preparations for callouses"
+    },
+    {
+      "No.": "050064",
+      "Goods and Services": "calomel [fungicide]"
+    },
+    {
+      "No.": "050065",
+      "Goods and Services": "powder of cantharides"
+    },
+    {
+      "No.": "050066",
+      "Goods and Services": "rubber for dental purposes"
+    },
+    {
+      "No.": "050067",
+      "Goods and Services": "syrups for pharmaceutical purposes"
+    },
+    {
+      "No.": "050068",
+      "Goods and Services": "capsules for medicines"
+    },
+    {
+      "No.": "050069",
+      "Goods and Services": "pharmaceutical preparations"
+    },
+    {
+      "No.": "050070",
+      "Goods and Services": "poultices"
+    },
+    {
+      "No.": "050072",
+      "Goods and Services": "wadding for medical purposes"
+    },
+    {
+      "No.": "050073",
+      "Goods and Services": "lint for medical purposes"
+    },
+    {
+      "No.": "050074",
+      "Goods and Services": "lime-based pharmaceutical preparations"
+    },
+    {
+      "No.": "050075",
+      "Goods and Services": "dog washes [insecticides]"
+    },
+    {
+      "No.": "050076",
+      "Goods and Services": "repellents for dogs"
+    },
+    {
+      "No.": "050077",
+      "Goods and Services": "chemico-pharmaceutical preparations"
+    },
+    {
+      "No.": "050079",
+      "Goods and Services": "hydrated chloral for pharmaceutical purposes"
+    },
+    {
+      "No.": "050080",
+      "Goods and Services": "chloroform"
+    },
+    {
+      "No.": "050081",
+      "Goods and Services": "tobacco-free cigarettes for medical purposes"
+    },
+    {
+      "No.": "050082",
+      "Goods and Services": "dental cements"
+    },
+    {
+      "No.": "050083",
+      "Goods and Services": "cement for animal hooves"
+    },
+    {
+      "No.": "050084",
+      "Goods and Services": "moulding wax for dentists / molding wax for dentists"
+    },
+    {
+      "No.": "050085",
+      "Goods and Services": "fumigating sticks / fumigating pastilles"
+    },
+    {
+      "No.": "050086",
+      "Goods and Services": "cocaine for medical purposes"
+    },
+    {
+      "No.": "050087",
+      "Goods and Services": "antiparasitic collars for animals"
+    },
+    {
+      "No.": "050088",
+      "Goods and Services": "collyrium"
+    },
+    {
+      "No.": "050089",
+      "Goods and Services": "compresses"
+    },
+    {
+      "No.": "050090",
+      "Goods and Services": "vitamin preparations*"
+    },
+    {
+      "No.": "050091",
+      "Goods and Services": "chemical conductors for electrocardiograph electrodes"
+    },
+    {
+      "No.": "050092",
+      "Goods and Services": "condurango bark for medical purposes"
+    },
+    {
+      "No.": "050093",
+      "Goods and Services": "medicines for alleviating constipation"
+    },
+    {
+      "No.": "050094",
+      "Goods and Services": "solutions for contact lenses"
+    },
+    {
+      "No.": "050095",
+      "Goods and Services": "chemical contraceptives"
+    },
+    {
+      "No.": "050096",
+      "Goods and Services": "radiological contrast substances for medical purposes"
+    },
+    {
+      "No.": "050098",
+      "Goods and Services": "corn remedies"
+    },
+    {
+      "No.": "050099",
+      "Goods and Services": "cotton for medical purposes"
+    },
+    {
+      "No.": "050100",
+      "Goods and Services": "pharmaceutical preparations for treating sunburn"
+    },
+    {
+      "No.": "050102",
+      "Goods and Services": "caustic pencils"
+    },
+    {
+      "No.": "050103",
+      "Goods and Services": "chilblain preparations"
+    },
+    {
+      "No.": "050104",
+      "Goods and Services": "haemostatic pencils / hemostatic pencils"
+    },
+    {
+      "No.": "050105",
+      "Goods and Services": "croton bark"
+    },
+    {
+      "No.": "050106",
+      "Goods and Services": "curare"
+    },
+    {
+      "No.": "050107",
+      "Goods and Services": "vaccines"
+    },
+    {
+      "No.": "050108",
+      "Goods and Services": "detergents for medical purposes"
+    },
+    {
+      "No.": "050109",
+      "Goods and Services": "decoctions for pharmaceutical purposes"
+    },
+    {
+      "No.": "050110",
+      "Goods and Services": "teeth filling material"
+    },
+    {
+      "No.": "050111",
+      "Goods and Services": "dental impression materials"
+    },
+    {
+      "No.": "050112",
+      "Goods and Services": "dental lacquer"
+    },
+    {
+      "No.": "050113",
+      "Goods and Services": "dental mastics"
+    },
+    {
+      "No.": "050114",
+      "Goods and Services": "medical dressings"
+    },
+    {
+      "No.": "050115",
+      "Goods and Services": "porcelain for dental prostheses"
+    },
+    {
+      "No.": "050116",
+      "Goods and Services": "preparations to facilitate teething"
+    },
+    {
+      "No.": "050117",
+      "Goods and Services": "depuratives"
+    },
+    {
+      "No.": "050118",
+      "Goods and Services": "disinfectants for hygiene purposes"
+    },
+    {
+      "No.": "050119",
+      "Goods and Services": "deodorants, other than for human beings or for animals"
+    },
+    {
+      "No.": "050120",
+      "Goods and Services": "preparations for destroying mice"
+    },
+    {
+      "No.": "050121",
+      "Goods and Services": "diabetic bread adapted for medical use"
+    },
+    {
+      "No.": "050122",
+      "Goods and Services": "digestives for pharmaceutical purposes"
+    },
+    {
+      "No.": "050123",
+      "Goods and Services": "digitalin"
+    },
+    {
+      "No.": "050124",
+      "Goods and Services": "analgesics"
+    },
+    {
+      "No.": "050125",
+      "Goods and Services": "drugs for medical purposes"
+    },
+    {
+      "No.": "050126",
+      "Goods and Services": "medicine cases, portable, filled"
+    },
+    {
+      "No.": "050127",
+      "Goods and Services": "magnesia for pharmaceutical purposes"
+    },
+    {
+      "No.": "050128",
+      "Goods and Services": "melissa water for pharmaceutical purposes"
+    },
+    {
+      "No.": "050129",
+      "Goods and Services": "mineral waters for medical purposes"
+    },
+    {
+      "No.": "050130",
+      "Goods and Services": "mineral water salts"
+    },
+    {
+      "No.": "050131",
+      "Goods and Services": "thermal water"
+    },
+    {
+      "No.": "050132",
+      "Goods and Services": "barks for pharmaceutical purposes"
+    },
+    {
+      "No.": "050133",
+      "Goods and Services": "elixirs [pharmaceutical preparations]"
+    },
+    {
+      "No.": "050134",
+      "Goods and Services": "solvents for removing adhesive plasters"
+    },
+    {
+      "No.": "050135",
+      "Goods and Services": "anticryptogamic preparations"
+    },
+    {
+      "No.": "050136",
+      "Goods and Services": "vulnerary sponges"
+    },
+    {
+      "No.": "050137",
+      "Goods and Services": "salts for medical purposes"
+    },
+    {
+      "No.": "050138",
+      "Goods and Services": "esters for pharmaceutical purposes"
+    },
+    {
+      "No.": "050139",
+      "Goods and Services": "ethers for pharmaceutical purposes"
+    },
+    {
+      "No.": "050140",
+      "Goods and Services": "surgical dressings"
+    },
+    {
+      "No.": "050141",
+      "Goods and Services": "eucalyptol for pharmaceutical purposes"
+    },
+    {
+      "No.": "050142",
+      "Goods and Services": "eucalyptus for pharmaceutical purposes"
+    },
+    {
+      "No.": "050143",
+      "Goods and Services": "purgatives / evacuants"
+    },
+    {
+      "No.": "050144",
+      "Goods and Services": "flour for pharmaceutical purposes / meal for pharmaceutical purposes"
+    },
+    {
+      "No.": "050145",
+      "Goods and Services": "lacteal flour for babies"
+    },
+    {
+      "No.": "050146",
+      "Goods and Services": "febrifuges"
+    },
+    {
+      "No.": "050147",
+      "Goods and Services": "fennel for medical purposes"
+    },
+    {
+      "No.": "050148",
+      "Goods and Services": "medicinal infusions"
+    },
+    {
+      "No.": "050149",
+      "Goods and Services": "medicinal tea"
+    },
+    {
+      "No.": "050150",
+      "Goods and Services": "cod liver oil"
+    },
+    {
+      "No.": "050151",
+      "Goods and Services": "fungicides"
+    },
+    {
+      "No.": "050152",
+      "Goods and Services": "nervines"
+    },
+    {
+      "No.": "050153",
+      "Goods and Services": "guaiacol for pharmaceutical purposes"
+    },
+    {
+      "No.": "050154",
+      "Goods and Services": "vermifuges / anthelmintics"
+    },
+    {
+      "No.": "050155",
+      "Goods and Services": "gauze for dressings"
+    },
+    {
+      "No.": "050156",
+      "Goods and Services": "laxatives"
+    },
+    {
+      "No.": "050157",
+      "Goods and Services": "gelatine for medical purposes"
+    },
+    {
+      "No.": "050158",
+      "Goods and Services": "gentian for pharmaceutical purposes"
+    },
+    {
+      "No.": "050159",
+      "Goods and Services": "germicides"
+    },
+    {
+      "No.": "050160",
+      "Goods and Services": "glycerophosphates"
+    },
+    {
+      "No.": "050161",
+      "Goods and Services": "gum for medical purposes"
+    },
+    {
+      "No.": "050162",
+      "Goods and Services": "linseed for pharmaceutical purposes / flaxseed for pharmaceutical purposes"
+    },
+    {
+      "No.": "050163",
+      "Goods and Services": "greases for medical purposes"
+    },
+    {
+      "No.": "050164",
+      "Goods and Services": "greases for veterinary purposes"
+    },
+    {
+      "No.": "050165",
+      "Goods and Services": "milking grease"
+    },
+    {
+      "No.": "050166",
+      "Goods and Services": "chemical preparations for the diagnosis of pregnancy"
+    },
+    {
+      "No.": "050167",
+      "Goods and Services": "medicinal oils, other than essential oils"
+    },
+    {
+      "No.": "050168",
+      "Goods and Services": "haematogen / hematogen"
+    },
+    {
+      "No.": "050169",
+      "Goods and Services": "haemoglobin / hemoglobin"
+    },
+    {
+      "No.": "050170",
+      "Goods and Services": "medicinal herbs"
+    },
+    {
+      "No.": "050171",
+      "Goods and Services": "hormones for medical purposes"
+    },
+    {
+      "No.": "050172",
+      "Goods and Services": "mustard oil for medical purposes"
+    },
+    {
+      "No.": "050174",
+      "Goods and Services": "hydrastine"
+    },
+    {
+      "No.": "050175",
+      "Goods and Services": "hydrastinine"
+    },
+    {
+      "No.": "050176",
+      "Goods and Services": "absorbent cotton / absorbent wadding"
+    },
+    {
+      "No.": "050177",
+      "Goods and Services": "semen for artificial insemination"
+    },
+    {
+      "No.": "050178",
+      "Goods and Services": "insect repellents"
+    },
+    {
+      "No.": "050179",
+      "Goods and Services": "tincture of iodine"
+    },
+    {
+      "No.": "050180",
+      "Goods and Services": "peptones for pharmaceutical purposes"
+    },
+    {
+      "No.": "050181",
+      "Goods and Services": "iodoform"
+    },
+    {
+      "No.": "050182",
+      "Goods and Services": "Irish moss for medical purposes"
+    },
+    {
+      "No.": "050183",
+      "Goods and Services": "jalap"
+    },
+    {
+      "No.": "050184",
+      "Goods and Services": "jujube, medicated"
+    },
+    {
+      "No.": "050185",
+      "Goods and Services": "liquorice for pharmaceutical purposes"
+    },
+    {
+      "No.": "050186",
+      "Goods and Services": "tobacco extracts [insecticides]"
+    },
+    {
+      "No.": "050187",
+      "Goods and Services": "milk ferments for pharmaceutical purposes"
+    },
+    {
+      "No.": "050188",
+      "Goods and Services": "malted milk beverages for medical purposes"
+    },
+    {
+      "No.": "050189",
+      "Goods and Services": "animal washes [insecticides]"
+    },
+    {
+      "No.": "050190",
+      "Goods and Services": "linseed meal for pharmaceutical purposes / flaxseed meal for pharmaceutical purposes"
+    },
+    {
+      "No.": "050191",
+      "Goods and Services": "lotions for pharmaceutical purposes"
+    },
+    {
+      "No.": "050192",
+      "Goods and Services": "milk sugar for pharmaceutical purposes / lactose for pharmaceutical purposes"
+    },
+    {
+      "No.": "050193",
+      "Goods and Services": "larvae exterminating preparations"
+    },
+    {
+      "No.": "050194",
+      "Goods and Services": "yeast for pharmaceutical purposes"
+    },
+    {
+      "No.": "050195",
+      "Goods and Services": "slug exterminating preparations"
+    },
+    {
+      "No.": "050196",
+      "Goods and Services": "liniments"
+    },
+    {
+      "No.": "050197",
+      "Goods and Services": "lupulin for pharmaceutical purposes"
+    },
+    {
+      "No.": "050198",
+      "Goods and Services": "chewing gum for medical purposes"
+    },
+    {
+      "No.": "050199",
+      "Goods and Services": "mangrove bark for pharmaceutical purposes"
+    },
+    {
+      "No.": "050200",
+      "Goods and Services": "sanitary panties / menstruation knickers / sanitary knickers / sanitary pants"
+    },
+    {
+      "No.": "050201",
+      "Goods and Services": "mint for pharmaceutical purposes"
+    },
+    {
+      "No.": "050202",
+      "Goods and Services": "chemical preparations for treating mildew"
+    },
+    {
+      "No.": "050203",
+      "Goods and Services": "malt for pharmaceutical purposes"
+    },
+    {
+      "No.": "050204",
+      "Goods and Services": "herbicides / weedkillers / preparations for destroying noxious plants"
+    },
+    {
+      "No.": "050205",
+      "Goods and Services": "sulfur sticks [disinfectants]"
+    },
+    {
+      "No.": "050207",
+      "Goods and Services": "pomades for medical purposes"
+    },
+    {
+      "No.": "050208",
+      "Goods and Services": "tinctures for medical purposes"
+    },
+    {
+      "No.": "050209",
+      "Goods and Services": "serums for medical purposes"
+    },
+    {
+      "No.": "050210",
+      "Goods and Services": "menthol"
+    },
+    {
+      "No.": "050211",
+      "Goods and Services": "mercurial ointments"
+    },
+    {
+      "No.": "050212",
+      "Goods and Services": "nutritive substances for microorganisms"
+    },
+    {
+      "No.": "050213",
+      "Goods and Services": "cultures of microorganisms for medical or veterinary use"
+    },
+    {
+      "No.": "050214",
+      "Goods and Services": "pastilles for pharmaceutical purposes / lozenges for pharmaceutical purposes"
+    },
+    {
+      "No.": "050216",
+      "Goods and Services": "rat poison"
+    },
+    {
+      "No.": "050217",
+      "Goods and Services": "fly glue / fly catching adhesives"
+    },
+    {
+      "No.": "050218",
+      "Goods and Services": "preparations for destroying flies"
+    },
+    {
+      "No.": "050219",
+      "Goods and Services": "mustard for pharmaceutical purposes"
+    },
+    {
+      "No.": "050220",
+      "Goods and Services": "lotions for veterinary purposes"
+    },
+    {
+      "No.": "050221",
+      "Goods and Services": "myrobalan bark for pharmaceutical purposes"
+    },
+    {
+      "No.": "050222",
+      "Goods and Services": "chemical preparations for treating wheat blight / chemical preparations for treating wheat smut"
+    },
+    {
+      "No.": "050223",
+      "Goods and Services": "narcotics"
+    },
+    {
+      "No.": "050224",
+      "Goods and Services": "smelling salts"
+    },
+    {
+      "No.": "050225",
+      "Goods and Services": "ointments for pharmaceutical purposes"
+    },
+    {
+      "No.": "050226",
+      "Goods and Services": "opiates"
+    },
+    {
+      "No.": "050227",
+      "Goods and Services": "opium for medical purposes"
+    },
+    {
+      "No.": "050228",
+      "Goods and Services": "opodeldoc"
+    },
+    {
+      "No.": "050229",
+      "Goods and Services": "opotherapy preparations / organotherapy preparations"
+    },
+    {
+      "No.": "050230",
+      "Goods and Services": "dental amalgams of gold"
+    },
+    {
+      "No.": "050231",
+      "Goods and Services": "pectin for pharmaceutical purposes"
+    },
+    {
+      "No.": "050232",
+      "Goods and Services": "sanitary tampons / menstruation tampons"
+    },
+    {
+      "No.": "050234",
+      "Goods and Services": "sanitary towels / sanitary napkins / sanitary pads"
+    },
+    {
+      "No.": "050236",
+      "Goods and Services": "phenol for pharmaceutical purposes"
+    },
+    {
+      "No.": "050237",
+      "Goods and Services": "paper for mustard plasters / paper for mustard poultices"
+    },
+    {
+      "No.": "050238",
+      "Goods and Services": "parasiticides"
+    },
+    {
+      "No.": "050239",
+      "Goods and Services": "pharmaceutical preparations for skin care"
+    },
+    {
+      "No.": "050240",
+      "Goods and Services": "herbal teas for medicinal purposes"
+    },
+    {
+      "No.": "050241",
+      "Goods and Services": "pharmaceutical preparations for treating dandruff"
+    },
+    {
+      "No.": "050242",
+      "Goods and Services": "pepsins for pharmaceutical purposes"
+    },
+    {
+      "No.": "050243",
+      "Goods and Services": "cachets for pharmaceutical purposes"
+    },
+    {
+      "No.": "050244",
+      "Goods and Services": "first-aid boxes, filled"
+    },
+    {
+      "No.": "050245",
+      "Goods and Services": "phosphates for pharmaceutical purposes"
+    },
+    {
+      "No.": "050246",
+      "Goods and Services": "chemical preparations for treating phylloxera"
+    },
+    {
+      "No.": "050247",
+      "Goods and Services": "remedies for foot perspiration"
+    },
+    {
+      "No.": "050248",
+      "Goods and Services": "blood plasma"
+    },
+    {
+      "No.": "050249",
+      "Goods and Services": "poisons"
+    },
+    {
+      "No.": "050251",
+      "Goods and Services": "potassium salts for medical purposes"
+    },
+    {
+      "No.": "050252",
+      "Goods and Services": "pyrethrum powder"
+    },
+    {
+      "No.": "050253",
+      "Goods and Services": "quebracho for medical purposes"
+    },
+    {
+      "No.": "050254",
+      "Goods and Services": "quassia for medical purposes"
+    },
+    {
+      "No.": "050255",
+      "Goods and Services": "quinquina for medical purposes / cinchona for medical purposes"
+    },
+    {
+      "No.": "050256",
+      "Goods and Services": "quinine for medical purposes"
+    },
+    {
+      "No.": "050257",
+      "Goods and Services": "chinoline for medical purposes"
+    },
+    {
+      "No.": "050258",
+      "Goods and Services": "radioactive substances for medical purposes"
+    },
+    {
+      "No.": "050259",
+      "Goods and Services": "radium for medical purposes"
+    },
+    {
+      "No.": "050260",
+      "Goods and Services": "medicinal roots"
+    },
+    {
+      "No.": "050261",
+      "Goods and Services": "rhubarb roots for pharmaceutical purposes"
+    },
+    {
+      "No.": "050262",
+      "Goods and Services": "tonics [medicines]"
+    },
+    {
+      "No.": "050263",
+      "Goods and Services": "bismuth subnitrate for pharmaceutical purposes"
+    },
+    {
+      "No.": "050264",
+      "Goods and Services": "sarsaparilla for medical purposes"
+    },
+    {
+      "No.": "050265",
+      "Goods and Services": "blood for medical purposes"
+    },
+    {
+      "No.": "050266",
+      "Goods and Services": "leeches for medical purposes"
+    },
+    {
+      "No.": "050267",
+      "Goods and Services": "scapulars for surgical purposes"
+    },
+    {
+      "No.": "050268",
+      "Goods and Services": "sedatives / tranquillizers"
+    },
+    {
+      "No.": "050269",
+      "Goods and Services": "ergot for pharmaceutical purposes"
+    },
+    {
+      "No.": "050270",
+      "Goods and Services": "serotherapeutic medicines"
+    },
+    {
+      "No.": "050271",
+      "Goods and Services": "mustard plasters / mustard poultices"
+    },
+    {
+      "No.": "050272",
+      "Goods and Services": "soil-sterilizing preparations / soil-sterilising preparations"
+    },
+    {
+      "No.": "050273",
+      "Goods and Services": "soporifics"
+    },
+    {
+      "No.": "050274",
+      "Goods and Services": "sodium salts for medical purposes"
+    },
+    {
+      "No.": "050275",
+      "Goods and Services": "sterilizing preparations / sterilising preparations"
+    },
+    {
+      "No.": "050276",
+      "Goods and Services": "strychnine"
+    },
+    {
+      "No.": "050277",
+      "Goods and Services": "styptic preparations"
+    },
+    {
+      "No.": "050278",
+      "Goods and Services": "sugar for medical purposes"
+    },
+    {
+      "No.": "050279",
+      "Goods and Services": "sulfonamides [medicines]"
+    },
+    {
+      "No.": "050280",
+      "Goods and Services": "suppositories"
+    },
+    {
+      "No.": "050281",
+      "Goods and Services": "tartar for pharmaceutical purposes"
+    },
+    {
+      "No.": "050282",
+      "Goods and Services": "turpentine for pharmaceutical purposes"
+    },
+    {
+      "No.": "050283",
+      "Goods and Services": "oil of turpentine for pharmaceutical purposes"
+    },
+    {
+      "No.": "050284",
+      "Goods and Services": "thymol for pharmaceutical purposes"
+    },
+    {
+      "No.": "050285",
+      "Goods and Services": "remedies for perspiration"
+    },
+    {
+      "No.": "050286",
+      "Goods and Services": "mothproofing paper / mothproof paper"
+    },
+    {
+      "No.": "050287",
+      "Goods and Services": "veterinary preparations"
+    },
+    {
+      "No.": "050288",
+      "Goods and Services": "chemical preparations for treating diseases affecting vine plants"
+    },
+    {
+      "No.": "050289",
+      "Goods and Services": "preparations for destroying vermin"
+    },
+    {
+      "No.": "050290",
+      "Goods and Services": "vesicants"
+    },
+    {
+      "No.": "050291",
+      "Goods and Services": "acetates for pharmaceutical purposes"
+    },
+    {
+      "No.": "050292",
+      "Goods and Services": "acids for pharmaceutical purposes"
+    },
+    {
+      "No.": "050294",
+      "Goods and Services": "adhesive tapes for medical purposes"
+    },
+    {
+      "No.": "050296",
+      "Goods and Services": "alkaloids for medical purposes"
+    },
+    {
+      "No.": "050297",
+      "Goods and Services": "dietetic foods adapted for medical purposes"
+    },
+    {
+      "No.": "050298",
+      "Goods and Services": "food for babies"
+    },
+    {
+      "No.": "050299",
+      "Goods and Services": "aluminium acetate for pharmaceutical purposes"
+    },
+    {
+      "No.": "050300",
+      "Goods and Services": "almond milk for pharmaceutical purposes"
+    },
+    {
+      "No.": "050301",
+      "Goods and Services": "sunburn ointments"
+    },
+    {
+      "No.": "050302",
+      "Goods and Services": "bath salts for medical purposes"
+    },
+    {
+      "No.": "050303",
+      "Goods and Services": "stick liquorice for pharmaceutical purposes"
+    },
+    {
+      "No.": "050304",
+      "Goods and Services": "bicarbonate of soda for pharmaceutical purposes"
+    },
+    {
+      "No.": "050305",
+      "Goods and Services": "biological preparations for medical purposes"
+    },
+    {
+      "No.": "050306",
+      "Goods and Services": "bromine for pharmaceutical purposes"
+    },
+    {
+      "No.": "050307",
+      "Goods and Services": "dietetic beverages adapted for medical purposes"
+    },
+    {
+      "No.": "050308",
+      "Goods and Services": "camphor oil for medical purposes"
+    },
+    {
+      "No.": "050309",
+      "Goods and Services": "camphor for medical purposes"
+    },
+    {
+      "No.": "050310",
+      "Goods and Services": "crystallized rock sugar for medical purposes"
+    },
+    {
+      "No.": "050311",
+      "Goods and Services": "carbolineum [parasiticide]"
+    },
+    {
+      "No.": "050312",
+      "Goods and Services": "algicides"
+    },
+    {
+      "No.": "050313",
+      "Goods and Services": "lecithin for medical purposes"
+    },
+    {
+      "No.": "050314",
+      "Goods and Services": "gases for medical purposes"
+    },
+    {
+      "No.": "050315",
+      "Goods and Services": "panty liners [sanitary]"
+    },
+    {
+      "No.": "050316",
+      "Goods and Services": "royal jelly for pharmaceutical purposes"
+    },
+    {
+      "No.": "050317",
+      "Goods and Services": "medical preparations for slimming purposes"
+    },
+    {
+      "No.": "050318",
+      "Goods and Services": "cellulose esters for pharmaceutical purposes"
+    },
+    {
+      "No.": "050319",
+      "Goods and Services": "caustics for pharmaceutical purposes"
+    },
+    {
+      "No.": "050320",
+      "Goods and Services": "cellulose ethers for pharmaceutical purposes"
+    },
+    {
+      "No.": "050321",
+      "Goods and Services": "by-products of the processing of cereals for dietetic or medical purposes"
+    },
+    {
+      "No.": "050323",
+      "Goods and Services": "chemical preparations for pharmaceutical purposes"
+    },
+    {
+      "No.": "050324",
+      "Goods and Services": "collodion for pharmaceutical purposes"
+    },
+    {
+      "No.": "050325",
+      "Goods and Services": "cream of tartar for pharmaceutical purposes"
+    },
+    {
+      "No.": "050326",
+      "Goods and Services": "creosote for pharmaceutical purposes"
+    },
+    {
+      "No.": "050327",
+      "Goods and Services": "medicines for dental purposes"
+    },
+    {
+      "No.": "050328",
+      "Goods and Services": "medicines for human purposes"
+    },
+    {
+      "No.": "050329",
+      "Goods and Services": "medicines for veterinary purposes"
+    },
+    {
+      "No.": "050330",
+      "Goods and Services": "diagnostic preparations for medical purposes"
+    },
+    {
+      "No.": "050331",
+      "Goods and Services": "glycerine for medical purposes"
+    },
+    {
+      "No.": "050332",
+      "Goods and Services": "medicinal drinks"
+    },
+    {
+      "No.": "050333",
+      "Goods and Services": "ferments for pharmaceutical purposes"
+    },
+    {
+      "No.": "050334",
+      "Goods and Services": "flowers of sulfur for pharmaceutical purposes"
+    },
+    {
+      "No.": "050335",
+      "Goods and Services": "formic aldehyde for pharmaceutical purposes"
+    },
+    {
+      "No.": "050336",
+      "Goods and Services": "smoking herbs for medical purposes"
+    },
+    {
+      "No.": "050337",
+      "Goods and Services": "inhalants for medical purposes"
+    },
+    {
+      "No.": "050338",
+      "Goods and Services": "gallic acid for pharmaceutical purposes"
+    },
+    {
+      "No.": "050339",
+      "Goods and Services": "petroleum jelly for medical purposes"
+    },
+    {
+      "No.": "050340",
+      "Goods and Services": "glucose for medical purposes"
+    },
+    {
+      "No.": "050341",
+      "Goods and Services": "gamboge for medical purposes"
+    },
+    {
+      "No.": "050342",
+      "Goods and Services": "gurjun balsam for medical purposes"
+    },
+    {
+      "No.": "050343",
+      "Goods and Services": "extracts of hops for pharmaceutical purposes"
+    },
+    {
+      "No.": "050344",
+      "Goods and Services": "castor oil for medical purposes"
+    },
+    {
+      "No.": "050345",
+      "Goods and Services": "hydrogen peroxide for medical purposes"
+    },
+    {
+      "No.": "050346",
+      "Goods and Services": "iodine for pharmaceutical purposes"
+    },
+    {
+      "No.": "050347",
+      "Goods and Services": "iodides for pharmaceutical purposes"
+    },
+    {
+      "No.": "050348",
+      "Goods and Services": "alkaline iodides for pharmaceutical purposes"
+    },
+    {
+      "No.": "050349",
+      "Goods and Services": "isotopes for medical purposes"
+    },
+    {
+      "No.": "050350",
+      "Goods and Services": "dietetic substances adapted for medical use"
+    },
+    {
+      "No.": "050351",
+      "Goods and Services": "diapers for incontinence"
+    },
+    {
+      "No.": "050361",
+      "Goods and Services": "biological preparations for veterinary purposes"
+    },
+    {
+      "No.": "050362",
+      "Goods and Services": "chemical preparations for medical purposes"
+    },
+    {
+      "No.": "050363",
+      "Goods and Services": "chemical preparations for veterinary purposes"
+    },
+    {
+      "No.": "050364",
+      "Goods and Services": "chemical reagents for medical or veterinary purposes"
+    },
+    {
+      "No.": "050365",
+      "Goods and Services": "contact lens cleaning preparations"
+    },
+    {
+      "No.": "050366",
+      "Goods and Services": "diastase for medical purposes"
+    },
+    {
+      "No.": "050367",
+      "Goods and Services": "dietary fibre / dietary fiber"
+    },
+    {
+      "No.": "050368",
+      "Goods and Services": "enzymes for medical purposes"
+    },
+    {
+      "No.": "050369",
+      "Goods and Services": "enzymes for veterinary purposes"
+    },
+    {
+      "No.": "050370",
+      "Goods and Services": "enzyme preparations for medical purposes"
+    },
+    {
+      "No.": "050371",
+      "Goods and Services": "enzyme preparations for veterinary purposes"
+    },
+    {
+      "No.": "050372",
+      "Goods and Services": "pants, absorbent, for incontinence"
+    },
+    {
+      "No.": "050373",
+      "Goods and Services": "siccatives [drying agents] for medical purposes"
+    },
+    {
+      "No.": "050374",
+      "Goods and Services": "tissues impregnated with pharmaceutical lotions"
+    },
+    {
+      "No.": "050375",
+      "Goods and Services": "preparations of trace elements for human and animal use"
+    },
+    {
+      "No.": "050376",
+      "Goods and Services": "amino acids for medical purposes"
+    },
+    {
+      "No.": "050377",
+      "Goods and Services": "amino acids for veterinary purposes"
+    },
+    {
+      "No.": "050378",
+      "Goods and Services": "breast-nursing pads"
+    },
+    {
+      "No.": "050379",
+      "Goods and Services": "cedar wood for use as an insect repellent"
+    },
+    {
+      "No.": "050380",
+      "Goods and Services": "disinfectants for chemical toilets"
+    },
+    {
+      "No.": "050381",
+      "Goods and Services": "fish meal for pharmaceutical purposes"
+    },
+    {
+      "No.": "050382",
+      "Goods and Services": "mineral dietary supplements"
+    },
+    {
+      "No.": "050383",
+      "Goods and Services": "mouthwashes for medical purposes"
+    },
+    {
+      "No.": "050384",
+      "Goods and Services": "nutritional supplements"
+    },
+    {
+      "No.": "050385",
+      "Goods and Services": "bone cement for surgical and orthopaedic purposes / bone cement for surgical and orthopedic purposes"
+    },
+    {
+      "No.": "050386",
+      "Goods and Services": "insect repellent incense"
+    },
+    {
+      "No.": "050387",
+      "Goods and Services": "acaricides"
+    },
+    {
+      "No.": "050388",
+      "Goods and Services": "antibiotics"
+    },
+    {
+      "No.": "050389",
+      "Goods and Services": "appetite suppressants for medical purposes"
+    },
+    {
+      "No.": "050390",
+      "Goods and Services": "bronchodilating preparations"
+    },
+    {
+      "No.": "050391",
+      "Goods and Services": "bunion pads"
+    },
+    {
+      "No.": "050392",
+      "Goods and Services": "moleskin for medical purposes"
+    },
+    {
+      "No.": "050393",
+      "Goods and Services": "vaginal washes for medical purposes"
+    },
+    {
+      "No.": "050394",
+      "Goods and Services": "medicinal hair growth preparations"
+    },
+    {
+      "No.": "050395",
+      "Goods and Services": "steroids"
+    },
+    {
+      "No.": "050396",
+      "Goods and Services": "adjuvants for medical purposes"
+    },
+    {
+      "No.": "050397",
+      "Goods and Services": "surgical implants comprised of living tissues"
+    },
+    {
+      "No.": "050398",
+      "Goods and Services": "eyepatches for medical purposes"
+    },
+    {
+      "No.": "050399",
+      "Goods and Services": "oxygen for medical purposes"
+    },
+    {
+      "No.": "050400",
+      "Goods and Services": "deodorants for clothing and textiles"
+    },
+    {
+      "No.": "050401",
+      "Goods and Services": "air deodorizing preparations / air deodorising preparations"
+    },
+    {
+      "No.": "050402",
+      "Goods and Services": "douching preparations for medical purposes"
+    },
+    {
+      "No.": "050403",
+      "Goods and Services": "stem cells for medical purposes"
+    },
+    {
+      "No.": "050404",
+      "Goods and Services": "stem cells for veterinary purposes"
+    },
+    {
+      "No.": "050405",
+      "Goods and Services": "biological tissue cultures for medical purposes"
+    },
+    {
+      "No.": "050406",
+      "Goods and Services": "biological tissue cultures for veterinary purposes"
+    },
+    {
+      "No.": "050407",
+      "Goods and Services": "cooling sprays for medical purposes"
+    },
+    {
+      "No.": "050408",
+      "Goods and Services": "personal sexual lubricants"
+    },
+    {
+      "No.": "050409",
+      "Goods and Services": "aloe vera preparations for pharmaceutical purposes"
+    },
+    {
+      "No.": "050410",
+      "Goods and Services": "pearl powder for medical purposes"
+    },
+    {
+      "No.": "050411",
+      "Goods and Services": "preparations for reducing sexual activity"
+    },
+    {
+      "No.": "050412",
+      "Goods and Services": "babies' diapers / babies' nappies"
+    },
+    {
+      "No.": "050413",
+      "Goods and Services": "babies' diaper-pants / babies' nappy-pants"
+    },
+    {
+      "No.": "050414",
+      "Goods and Services": "medicated eye-washes"
+    },
+    {
+      "No.": "050415",
+      "Goods and Services": "appetite suppressant pills"
+    },
+    {
+      "No.": "050416",
+      "Goods and Services": "slimming pills"
+    },
+    {
+      "No.": "050417",
+      "Goods and Services": "tanning pills"
+    },
+    {
+      "No.": "050418",
+      "Goods and Services": "antioxidant pills"
+    },
+    {
+      "No.": "050419",
+      "Goods and Services": "dietary supplements for animals"
+    },
+    {
+      "No.": "050420",
+      "Goods and Services": "albumin dietary supplements"
+    },
+    {
+      "No.": "050421",
+      "Goods and Services": "linseed dietary supplements / flaxseed dietary supplements"
+    },
+    {
+      "No.": "050422",
+      "Goods and Services": "linseed oil dietary supplements / flaxseed oil dietary supplements"
+    },
+    {
+      "No.": "050423",
+      "Goods and Services": "wheat germ dietary supplements"
+    },
+    {
+      "No.": "050424",
+      "Goods and Services": "yeast dietary supplements"
+    },
+    {
+      "No.": "050425",
+      "Goods and Services": "royal jelly dietary supplements"
+    },
+    {
+      "No.": "050426",
+      "Goods and Services": "propolis for pharmaceutical purposes"
+    },
+    {
+      "No.": "050427",
+      "Goods and Services": "propolis dietary supplements"
+    },
+    {
+      "No.": "050428",
+      "Goods and Services": "pollen dietary supplements"
+    },
+    {
+      "No.": "050429",
+      "Goods and Services": "enzyme dietary supplements"
+    },
+    {
+      "No.": "050430",
+      "Goods and Services": "glucose dietary supplements"
+    },
+    {
+      "No.": "050431",
+      "Goods and Services": "lecithin dietary supplements"
+    },
+    {
+      "No.": "050432",
+      "Goods and Services": "alginate dietary supplements"
+    },
+    {
+      "No.": "050433",
+      "Goods and Services": "alginates for pharmaceutical purposes"
+    },
+    {
+      "No.": "050434",
+      "Goods and Services": "casein dietary supplements"
+    },
+    {
+      "No.": "050435",
+      "Goods and Services": "protein dietary supplements"
+    },
+    {
+      "No.": "050436",
+      "Goods and Services": "protein supplements for animals"
+    },
+    {
+      "No.": "050437",
+      "Goods and Services": "reagent paper for medical purposes"
+    },
+    {
+      "No.": "050438",
+      "Goods and Services": "alcohol for pharmaceutical purposes"
+    },
+    {
+      "No.": "050439",
+      "Goods and Services": "pesticides"
+    },
+    {
+      "No.": "050440",
+      "Goods and Services": "diapers for pets"
+    },
+    {
+      "No.": "050441",
+      "Goods and Services": "disinfectants"
+    },
+    {
+      "No.": "050442",
+      "Goods and Services": "surgical glues"
+    },
+    {
+      "No.": "050443",
+      "Goods and Services": "diagnostic biomarker reagents for medical purposes"
+    },
+    {
+      "No.": "050444",
+      "Goods and Services": "acne treatment preparations"
+    },
+    {
+      "No.": "050445",
+      "Goods and Services": "medicated animal feed"
+    },
+    {
+      "No.": "050446",
+      "Goods and Services": "diagnostic preparations for veterinary purposes"
+    },
+    {
+      "No.": "050447",
+      "Goods and Services": "cotton swabs for medical purposes / cotton sticks for medical purposes"
+    },
+    {
+      "No.": "050448",
+      "Goods and Services": "infant formula"
+    },
+    {
+      "No.": "050449",
+      "Goods and Services": "powdered milk for babies"
+    },
+    {
+      "No.": "050450",
+      "Goods and Services": "transplants [living tissues]"
+    },
+    {
+      "No.": "050451",
+      "Goods and Services": "collagen for medical purposes"
+    },
+    {
+      "No.": "050452",
+      "Goods and Services": "plant extracts, other than essential oils, for pharmaceutical purposes"
+    },
+    {
+      "No.": "050453",
+      "Goods and Services": "pharmaceuticals"
+    },
+    {
+      "No.": "050454",
+      "Goods and Services": "preparations of microorganisms for medical or veterinary use"
+    },
+    {
+      "No.": "050455",
+      "Goods and Services": "phytotherapy preparations for medical purposes"
+    },
+    {
+      "No.": "050456",
+      "Goods and Services": "herbal extracts, other than essential oils, for medical purposes"
+    },
+    {
+      "No.": "050457",
+      "Goods and Services": "sexual stimulant gels"
+    },
+    {
+      "No.": "050458",
+      "Goods and Services": "immunostimulants"
+    },
+    {
+      "No.": "050459",
+      "Goods and Services": "nutraceutical preparations for therapeutic or medical purposes"
+    },
+    {
+      "No.": "050460",
+      "Goods and Services": "freeze-dried food adapted for medical purposes / lyophilized food adapted for medical purposes / lyophilised food adapted for medical purposes"
+    },
+    {
+      "No.": "050461",
+      "Goods and Services": "homogenized food adapted for medical purposes / homogenised food adapted for medical purposes"
+    },
+    {
+      "No.": "050462",
+      "Goods and Services": "pre-filled syringes for medical purposes"
+    },
+    {
+      "No.": "050463",
+      "Goods and Services": "freeze-dried meat adapted for medical purposes / lyophilized meat adapted for medical purposes / lyophilised meat adapted for medical purposes"
+    },
+    {
+      "No.": "050464",
+      "Goods and Services": "reagent paper for veterinary purposes"
+    },
+    {
+      "No.": "050465",
+      "Goods and Services": "astringents for medical purposes"
+    },
+    {
+      "No.": "050466",
+      "Goods and Services": "medicated dentifrices"
+    },
+    {
+      "No.": "050467",
+      "Goods and Services": "lice treatment preparations [pediculicides]"
+    },
+    {
+      "No.": "050468",
+      "Goods and Services": "pediculicidal shampoos"
+    },
+    {
+      "No.": "050469",
+      "Goods and Services": "insecticidal animal shampoos"
+    },
+    {
+      "No.": "050470",
+      "Goods and Services": "insecticidal veterinary washes"
+    },
+    {
+      "No.": "050471",
+      "Goods and Services": "antibacterial soap"
+    },
+    {
+      "No.": "050472",
+      "Goods and Services": "antibacterial handwashes"
+    },
+    {
+      "No.": "050473",
+      "Goods and Services": "medicated after-shave lotions"
+    },
+    {
+      "No.": "050474",
+      "Goods and Services": "medicated shampoos"
+    },
+    {
+      "No.": "050475",
+      "Goods and Services": "medicated toiletry preparations"
+    },
+    {
+      "No.": "050476",
+      "Goods and Services": "medicated hair lotions"
+    },
+    {
+      "No.": "050477",
+      "Goods and Services": "medicated dry shampoos"
+    },
+    {
+      "No.": "050478",
+      "Goods and Services": "medicated shampoos for pets"
+    },
+    {
+      "No.": "050479",
+      "Goods and Services": "disinfectant soap"
+    },
+    {
+      "No.": "050480",
+      "Goods and Services": "medicated soap"
+    },
+    {
+      "No.": "050481",
+      "Goods and Services": "massage candles for therapeutic purposes"
+    },
+    {
+      "No.": "050482",
+      "Goods and Services": "acai powder dietary supplements"
+    },
+    {
+      "No.": "050483",
+      "Goods and Services": "vitamin supplement patches"
+    },
+    {
+      "No.": "050484",
+      "Goods and Services": "dietary supplements with a cosmetic effect"
+    },
+    {
+      "No.": "050485",
+      "Goods and Services": "nicotine gum for use as an aid to stop smoking"
+    },
+    {
+      "No.": "050486",
+      "Goods and Services": "nicotine patches for use as aids to stop smoking"
+    },
+    {
+      "No.": "050487",
+      "Goods and Services": "capsules made of dendrimer-based polymers, for pharmaceuticals"
+    },
+    {
+      "No.": "050488",
+      "Goods and Services": "chemical preparations for treating diseases affecting cereal plants"
+    },
+    {
+      "No.": "050489",
+      "Goods and Services": "injectable dermal fillers"
+    },
+    {
+      "No.": "050490",
+      "Goods and Services": "bracelets impregnated with insect repellent"
+    },
+    {
+      "No.": "050491",
+      "Goods and Services": "medicated toothpaste"
+    },
+    {
+      "No.": "050492",
+      "Goods and Services": "massage gels for medical purposes"
+    },
+    {
+      "No.": "050493",
+      "Goods and Services": "headache relief sticks"
+    },
+    {
+      "No.": "050494",
+      "Goods and Services": "contraceptive sponges"
+    },
+    {
+      "No.": "050495",
+      "Goods and Services": "swim diapers, disposable, for babies / swim nappies, disposable, for babies"
+    },
+    {
+      "No.": "050496",
+      "Goods and Services": "swim diapers, reusable, for babies / swim nappies, reusable, for babies"
+    },
+    {
+      "No.": "050497",
+      "Goods and Services": "diaper changing mats, disposable, for babies / nappy changing mats, disposable, for babies"
+    },
+    {
+      "No.": "050498",
+      "Goods and Services": "bone void fillers comprised of living tissues"
+    },
+    {
+      "No.": "050499",
+      "Goods and Services": "oxygen cylinders, filled, for medical purposes"
+    },
+    {
+      "No.": "050500",
+      "Goods and Services": "cannabis for medical purposes / marijuana for medical purposes"
+    },
+    {
+      "No.": "050501",
+      "Goods and Services": "deodorizers for litter trays / deodorisers for litter trays"
+    },
+    {
+      "No.": "050502",
+      "Goods and Services": "aromatic deodorizers for toilets / aromatic deodorisers for toilets"
+    },
+    {
+      "No.": "050503",
+      "Goods and Services": "diagnostic strips for testing breast milk for medical purposes"
+    },
+    {
+      "No.": "050504",
+      "Goods and Services": "whey protein dietary supplements"
+    },
+    {
+      "No.": "050505",
+      "Goods and Services": "brewer's yeast dietary supplements"
+    },
+    {
+      "No.": "050506",
+      "Goods and Services": "cannabidiol for medical use"
+    },
+    {
+      "No.": "050507",
+      "Goods and Services": "tetrahydrocannabidinol [THC] for medical use"
+    },
+    {
+      "No.": "050508",
+      "Goods and Services": "bath tea for therapeutic purposes"
+    },
+    {
+      "No.": "050509",
+      "Goods and Services": "disposable absorbent pads for lining pet crates / disposable absorbent mats for lining pet crates"
+    },
+    {
+      "No.": "050510",
+      "Goods and Services": "anti-inflammatories"
+    },
+    {
+      "No.": "050511",
+      "Goods and Services": "disposable house training pads for pets / disposable housebreaking pads for pets"
+    },
+    {
+      "No.": "050512",
+      "Goods and Services": "moxa rolls for moxibustion / moxa sticks for moxibustion"
+    },
+    {
+      "No.": "050513",
+      "Goods and Services": "dietary supplements for human beings"
+    },
+    {
+      "No.": "050514",
+      "Goods and Services": "wipes impregnated with disinfectants for hygiene purposes"
+    },
+    {
+      "No.": "050515",
+      "Goods and Services": "skin hydrators being injectable dermal fillers"
+    },
+    {
+      "No.": "050516",
+      "Goods and Services": "almond oil for medical purposes"
+    },
+    {
+      "No.": "050517",
+      "Goods and Services": "dermatological preparations"
+    },
+    {
+      "No.": "050518",
+      "Goods and Services": "adhesive nipple patches for medical purposes"
+    },
+    {
+      "No.": "050519",
+      "Goods and Services": "honey-based ointment for medical purposes"
+    },
+    {
+      "No.": "050520",
+      "Goods and Services": "diagnostic preparations for medical purposes used by medical laboratories"
+    },
+    {
+      "No.": "050521",
+      "Goods and Services": "underwraps for athletic tapes"
+    },
+    {
+      "No.": "050522",
+      "Goods and Services": "patches impregnated with acne treatment preparations"
+    },
+    {
+      "No.": "050523",
+      "Goods and Services": "nicotine pouches for use as aids to stop smoking"
+    },
+    {
+      "No.": "050524",
+      "Goods and Services": "impregnated films for the treatment of burns"
+    }
+  ]
+}

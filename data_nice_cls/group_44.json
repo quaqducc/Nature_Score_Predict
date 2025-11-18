@@ -1,0 +1,520 @@
+{
+  "group_number": "44",
+  "meta": {
+    "Goods and Services": "Class Heading Medical services; veterinary services; hygienic and beauty care for human beings or animals; agriculture, aquaculture, horticulture and forestry services Explanatory Note Class 44 includes mainly medical care, including alternative medicine, hygienic and beauty care given by persons or establishments to human beings and animals, as well as services relating to the fields of agriculture, aquaculture, horticulture and forestry. This Class includes, in particular: • hospital services • telemedicine services • dentistry, optometry and mental health services • medical clinic services and medical analysis services for diagnostic and treatment purposes provided by medical laboratories, such as x-ray examinations and taking of blood samples • therapy services, for example, physiotherapy and speech therapy • pharmacy advice and preparation of prescriptions by pharmacists • blood bank and human tissue bank services • convalescent home and rest home services • dietary and nutritional advice • health spa services • artificial insemination and in vitro fertilization services • animal breeding • animal grooming • body piercing and tattooing • services relating to gardening, for example, plant nursery services, landscape design, landscape gardening, lawn care • services relating to floral art, for example, flower arranging, wreath making • weed killing, vermin and pest control for agriculture, aquaculture, horticulture and forestry This Class does not include, in particular: • rental of pastures (Cl. 36) • vermin and pest control, other than for agriculture, aquaculture, horticulture and forestry (Cl. 37) • installation and repair services for irrigation devices (Cl. 37) • ambulance transport (Cl. 39) • slaughtering of animals and taxidermy (Cl. 40) • timber felling and processing (Cl. 40) • animal training services (Cl. 41) • health clubs for physical exercise (Cl. 41) • scientific research services for medical purposes (Cl. 42) • boarding for animals (Cl. 43) • retirement homes (Cl. 43) • funerary undertaking (Cl. 45)"
+  },
+  "items": [
+    {
+      "No.": "440009",
+      "Goods and Services": "animal breeding"
+    },
+    {
+      "No.": "440012",
+      "Goods and Services": "landscape gardening"
+    },
+    {
+      "No.": "440018",
+      "Goods and Services": "public bath services for hygiene purposes"
+    },
+    {
+      "No.": "440019",
+      "Goods and Services": "Turkish bath services"
+    },
+    {
+      "No.": "440020",
+      "Goods and Services": "beauty salon services"
+    },
+    {
+      "No.": "440021",
+      "Goods and Services": "medical clinic services"
+    },
+    {
+      "No.": "440032",
+      "Goods and Services": "chiropractic"
+    },
+    {
+      "No.": "440034",
+      "Goods and Services": "hairdressing"
+    },
+    {
+      "No.": "440037",
+      "Goods and Services": "wreath making"
+    },
+    {
+      "No.": "440043",
+      "Goods and Services": "convalescent home services"
+    },
+    {
+      "No.": "440059",
+      "Goods and Services": "hospital services"
+    },
+    {
+      "No.": "440060",
+      "Goods and Services": "health care"
+    },
+    {
+      "No.": "440072",
+      "Goods and Services": "horticulture"
+    },
+    {
+      "No.": "440077",
+      "Goods and Services": "gardening"
+    },
+    {
+      "No.": "440084",
+      "Goods and Services": "farming equipment rental"
+    },
+    {
+      "No.": "440086",
+      "Goods and Services": "massage"
+    },
+    {
+      "No.": "440087",
+      "Goods and Services": "medical assistance"
+    },
+    {
+      "No.": "440092",
+      "Goods and Services": "opticians' services"
+    },
+    {
+      "No.": "440094",
+      "Goods and Services": "plant nursery services"
+    },
+    {
+      "No.": "440097",
+      "Goods and Services": "physiotherapy / physical therapy"
+    },
+    {
+      "No.": "440106",
+      "Goods and Services": "sanatorium services"
+    },
+    {
+      "No.": "440111",
+      "Goods and Services": "veterinary assistance"
+    },
+    {
+      "No.": "440113",
+      "Goods and Services": "dentistry services"
+    },
+    {
+      "No.": "440114",
+      "Goods and Services": "nursing home services"
+    },
+    {
+      "No.": "440115",
+      "Goods and Services": "aerial and surface spreading of fertilizers and other agricultural chemicals / aerial and surface spreading of fertilisers and other agricultural chemicals"
+    },
+    {
+      "No.": "440131",
+      "Goods and Services": "animal grooming"
+    },
+    {
+      "No.": "440133",
+      "Goods and Services": "blood bank services"
+    },
+    {
+      "No.": "440143",
+      "Goods and Services": "flower arranging"
+    },
+    {
+      "No.": "440147",
+      "Goods and Services": "hospice services"
+    },
+    {
+      "No.": "440148",
+      "Goods and Services": "lawn care"
+    },
+    {
+      "No.": "440151",
+      "Goods and Services": "manicuring"
+    },
+    {
+      "No.": "440152",
+      "Goods and Services": "birth attendant services"
+    },
+    {
+      "No.": "440153",
+      "Goods and Services": "nursing, medical"
+    },
+    {
+      "No.": "440154",
+      "Goods and Services": "pharmacy advice"
+    },
+    {
+      "No.": "440156",
+      "Goods and Services": "plastic surgery"
+    },
+    {
+      "No.": "440166",
+      "Goods and Services": "tree surgery"
+    },
+    {
+      "No.": "440168",
+      "Goods and Services": "vermin exterminating for agriculture, aquaculture, horticulture and forestry"
+    },
+    {
+      "No.": "440171",
+      "Goods and Services": "weed killing"
+    },
+    {
+      "No.": "440173",
+      "Goods and Services": "pet grooming"
+    },
+    {
+      "No.": "440180",
+      "Goods and Services": "hair implantation"
+    },
+    {
+      "No.": "440185",
+      "Goods and Services": "services of a psychologist"
+    },
+    {
+      "No.": "440188",
+      "Goods and Services": "rental of sanitary installations"
+    },
+    {
+      "No.": "440193",
+      "Goods and Services": "aromatherapy services"
+    },
+    {
+      "No.": "440194",
+      "Goods and Services": "artificial insemination services"
+    },
+    {
+      "No.": "440195",
+      "Goods and Services": "rehabilitation for substance abuse patients"
+    },
+    {
+      "No.": "440196",
+      "Goods and Services": "in vitro fertilization services / in vitro fertilisation services"
+    },
+    {
+      "No.": "440197",
+      "Goods and Services": "tattooing"
+    },
+    {
+      "No.": "440198",
+      "Goods and Services": "telemedicine services"
+    },
+    {
+      "No.": "440199",
+      "Goods and Services": "landscape design"
+    },
+    {
+      "No.": "440200",
+      "Goods and Services": "sauna services"
+    },
+    {
+      "No.": "440201",
+      "Goods and Services": "solarium services"
+    },
+    {
+      "No.": "440202",
+      "Goods and Services": "health spa services"
+    },
+    {
+      "No.": "440203",
+      "Goods and Services": "beautician services"
+    },
+    {
+      "No.": "440204",
+      "Goods and Services": "preparation of prescriptions by pharmacists"
+    },
+    {
+      "No.": "440205",
+      "Goods and Services": "therapy services"
+    },
+    {
+      "No.": "440206",
+      "Goods and Services": "tree planting for carbon offsetting purposes"
+    },
+    {
+      "No.": "440207",
+      "Goods and Services": "aquaculture services"
+    },
+    {
+      "No.": "440208",
+      "Goods and Services": "medical equipment rental"
+    },
+    {
+      "No.": "440209",
+      "Goods and Services": "health centre services / health center services"
+    },
+    {
+      "No.": "440210",
+      "Goods and Services": "alternative medicine services"
+    },
+    {
+      "No.": "440211",
+      "Goods and Services": "speech therapy"
+    },
+    {
+      "No.": "440212",
+      "Goods and Services": "health counselling / health counseling"
+    },
+    {
+      "No.": "440213",
+      "Goods and Services": "depilatory waxing"
+    },
+    {
+      "No.": "440214",
+      "Goods and Services": "orthodontic services"
+    },
+    {
+      "No.": "440215",
+      "Goods and Services": "medical advice for persons with disabilities"
+    },
+    {
+      "No.": "440216",
+      "Goods and Services": "body piercing"
+    },
+    {
+      "No.": "440217",
+      "Goods and Services": "reforestation services"
+    },
+    {
+      "No.": "440218",
+      "Goods and Services": "palliative care"
+    },
+    {
+      "No.": "440219",
+      "Goods and Services": "rest home services"
+    },
+    {
+      "No.": "440220",
+      "Goods and Services": "pest control services for agriculture, aquaculture, horticulture and forestry"
+    },
+    {
+      "No.": "440221",
+      "Goods and Services": "human tissue bank services"
+    },
+    {
+      "No.": "440222",
+      "Goods and Services": "rental of animals for gardening purposes"
+    },
+    {
+      "No.": "440223",
+      "Goods and Services": "rental of beehives"
+    },
+    {
+      "No.": "440224",
+      "Goods and Services": "animal-assisted therapy"
+    },
+    {
+      "No.": "440225",
+      "Goods and Services": "medical analysis services for diagnostic and treatment purposes provided by medical laboratories"
+    },
+    {
+      "No.": "440226",
+      "Goods and Services": "medical screening"
+    },
+    {
+      "No.": "440227",
+      "Goods and Services": "viticulture services"
+    },
+    {
+      "No.": "440228",
+      "Goods and Services": "consultancy in the field of viticulture"
+    },
+    {
+      "No.": "440229",
+      "Goods and Services": "home-visit nursing care"
+    },
+    {
+      "No.": "440230",
+      "Goods and Services": "rental of hair styling apparatus"
+    },
+    {
+      "No.": "440231",
+      "Goods and Services": "cultivation of plants"
+    },
+    {
+      "No.": "440232",
+      "Goods and Services": "rental of surgical robots"
+    },
+    {
+      "No.": "440233",
+      "Goods and Services": "dietary and nutritional advice"
+    },
+    {
+      "No.": "440234",
+      "Goods and Services": "wildlife management"
+    },
+    {
+      "No.": "440235",
+      "Goods and Services": "acupuncture"
+    },
+    {
+      "No.": "440236",
+      "Goods and Services": "cupping therapy"
+    },
+    {
+      "No.": "440237",
+      "Goods and Services": "postnatal care services"
+    },
+    {
+      "No.": "440238",
+      "Goods and Services": "rental of bottles and containers containing gas for medical purposes"
+    },
+    {
+      "No.": "440239",
+      "Goods and Services": "rental of hydrogen water generators for baths"
+    },
+    {
+      "No.": "440240",
+      "Goods and Services": "regenerative medicine services"
+    },
+    {
+      "No.": "440241",
+      "Goods and Services": "aesthetician services"
+    },
+    {
+      "No.": "440242",
+      "Goods and Services": "hair dyeing services / hair colouring services / hair coloring services"
+    },
+    {
+      "No.": "440243",
+      "Goods and Services": "pruning of trees"
+    },
+    {
+      "No.": "440244",
+      "Goods and Services": "transplanting of trees"
+    },
+    {
+      "No.": "440245",
+      "Goods and Services": "landscape architecture"
+    },
+    {
+      "No.": "440246",
+      "Goods and Services": "occupational therapy"
+    },
+    {
+      "No.": "440247",
+      "Goods and Services": "health assessment services"
+    },
+    {
+      "No.": "440248",
+      "Goods and Services": "providing community gardening facilities"
+    },
+    {
+      "No.": "440249",
+      "Goods and Services": "barber shop services"
+    },
+    {
+      "No.": "440250",
+      "Goods and Services": "providing service animals to persons with disabilities"
+    },
+    {
+      "No.": "440251",
+      "Goods and Services": "dance therapy"
+    },
+    {
+      "No.": "440252",
+      "Goods and Services": "art therapy"
+    },
+    {
+      "No.": "440253",
+      "Goods and Services": "music therapy"
+    },
+    {
+      "No.": "440254",
+      "Goods and Services": "remote monitoring of medical data for medical diagnosis and treatment"
+    },
+    {
+      "No.": "440255",
+      "Goods and Services": "medical treatment using cultured cells"
+    },
+    {
+      "No.": "440256",
+      "Goods and Services": "cultured cell bank services for medical transplantation"
+    },
+    {
+      "No.": "440257",
+      "Goods and Services": "learning disability screening services"
+    },
+    {
+      "No.": "440258",
+      "Goods and Services": "Attention Deficit Disorder screening services / ADD screening services"
+    },
+    {
+      "No.": "440259",
+      "Goods and Services": "Attention Deficit Hyperactivity Disorder screening services / ADHD screening services"
+    },
+    {
+      "No.": "440260",
+      "Goods and Services": "diagnosis of visual processing disorders"
+    },
+    {
+      "No.": "440261",
+      "Goods and Services": "rental of gardening implements"
+    },
+    {
+      "No.": "440262",
+      "Goods and Services": "vaccination services"
+    },
+    {
+      "No.": "440263",
+      "Goods and Services": "rental of respiratory masks for artificial respiration"
+    },
+    {
+      "No.": "440264",
+      "Goods and Services": "medical examination for quarantine clearance purposes"
+    },
+    {
+      "No.": "440265",
+      "Goods and Services": "medical examination"
+    },
+    {
+      "No.": "440266",
+      "Goods and Services": "optometry services"
+    },
+    {
+      "No.": "440267",
+      "Goods and Services": "mental health services"
+    },
+    {
+      "No.": "440268",
+      "Goods and Services": "occupational health consultancy"
+    },
+    {
+      "No.": "440269",
+      "Goods and Services": "rental of surgical microscopes"
+    },
+    {
+      "No.": "440270",
+      "Goods and Services": "providing mental health rehabilitation facilities"
+    },
+    {
+      "No.": "440271",
+      "Goods and Services": "providing physical rehabilitation facilities"
+    },
+    {
+      "No.": "440272",
+      "Goods and Services": "rental of spectacles for vision correction / rental of eyeglasses for vision correction"
+    },
+    {
+      "No.": "440273",
+      "Goods and Services": "drug screening for medical diagnosis and treatment"
+    },
+    {
+      "No.": "440274",
+      "Goods and Services": "pathological examination for medical diagnosis and treatment"
+    },
+    {
+      "No.": "440275",
+      "Goods and Services": "rental of sunglasses for vision correction"
+    },
+    {
+      "No.": "440276",
+      "Goods and Services": "fumigation for pest control for agriculture, horticulture and forestry"
+    },
+    {
+      "No.": "440277",
+      "Goods and Services": "pathological testing for diagnostic and treatment purposes"
+    },
+    {
+      "No.": "440278",
+      "Goods and Services": "drug testing of participants in sports for the use of performance enhancing substances"
+    }
+  ]
+}

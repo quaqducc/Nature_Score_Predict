@@ -1,0 +1,672 @@
+{
+  "group_number": "42",
+  "meta": {
+    "Goods and Services": "Class Heading Scientific and technological services and research and design relating thereto; industrial analysis, industrial research and industrial design services; quality control and authentication services; design and development of computer hardware and software Explanatory Note Class 42 includes mainly services provided by persons in relation to the theoretical and practical aspects of complex fields of activities, for example, scientific laboratory services, engineering, computer programming, architectural services or interior design. This Class includes, in particular: • services of engineers and scientists who undertake evaluations, estimates, research and reports in the scientific and technological fields, including technological consultancy • computer and technology services for securing computer data and personal and financial information and for the detection of unauthorized access to data and information, for example, computer virus protection services, data encryption services, electronic monitoring of personally identifying information to detect identity theft via the internet • software as a service (SaaS), platform as a service (PaaS) • scientific research services for medical purposes • architectural and urban planning services • certain design services, for example, industrial design, design of computer software and systems, interior design, packaging design, graphic arts design, dress designing • surveying (engineering) • oil, gas and mining exploration services This Class does not include, in particular: • certain research services, for example, business research (Cl. 35), marketing research (Cl. 35), financial research (Cl. 36), research in the field of education (Cl. 41), genealogical research (Cl. 45), legal research (Cl. 45) • business auditing (Cl. 35) • computerized file management (Cl. 35) • financial evaluation services (Cl. 36) • mining extraction, oil and gas drilling (Cl. 37) • installation, maintenance and repair of computer hardware (Cl. 37) • sound engineering services (Cl. 41) • certain design services, for example, landscape design (Cl. 44) • medical and veterinary services (Cl. 44) • legal services (Cl. 45)"
+  },
+  "items": [
+    {
+      "No.": "420007",
+      "Goods and Services": "chemical analysis"
+    },
+    {
+      "No.": "420008",
+      "Goods and Services": "analysis for oil-field exploitation"
+    },
+    {
+      "No.": "420011",
+      "Goods and Services": "architectural services"
+    },
+    {
+      "No.": "420017",
+      "Goods and Services": "bacteriological research"
+    },
+    {
+      "No.": "420030",
+      "Goods and Services": "chemistry services"
+    },
+    {
+      "No.": "420031",
+      "Goods and Services": "chemical research"
+    },
+    {
+      "No.": "420036",
+      "Goods and Services": "architectural consultancy"
+    },
+    {
+      "No.": "420038",
+      "Goods and Services": "construction drafting"
+    },
+    {
+      "No.": "420040",
+      "Goods and Services": "technological research"
+    },
+    {
+      "No.": "420042",
+      "Goods and Services": "oil-well testing"
+    },
+    {
+      "No.": "420045",
+      "Goods and Services": "cosmetic research"
+    },
+    {
+      "No.": "420048",
+      "Goods and Services": "design of interior decor"
+    },
+    {
+      "No.": "420049",
+      "Goods and Services": "industrial design"
+    },
+    {
+      "No.": "420050",
+      "Goods and Services": "packaging design"
+    },
+    {
+      "No.": "420058",
+      "Goods and Services": "material testing"
+    },
+    {
+      "No.": "420061",
+      "Goods and Services": "conducting technical project studies"
+    },
+    {
+      "No.": "420062",
+      "Goods and Services": "geological surveys"
+    },
+    {
+      "No.": "420063",
+      "Goods and Services": "oil-field surveys"
+    },
+    {
+      "No.": "420064",
+      "Goods and Services": "engineering*"
+    },
+    {
+      "No.": "420076",
+      "Goods and Services": "meteorological information"
+    },
+    {
+      "No.": "420079",
+      "Goods and Services": "land surveying"
+    },
+    {
+      "No.": "420083",
+      "Goods and Services": "computer rental"
+    },
+    {
+      "No.": "420090",
+      "Goods and Services": "computer programming"
+    },
+    {
+      "No.": "420095",
+      "Goods and Services": "oil prospecting"
+    },
+    {
+      "No.": "420096",
+      "Goods and Services": "research in the field of physics"
+    },
+    {
+      "No.": "420101",
+      "Goods and Services": "mechanical research"
+    },
+    {
+      "No.": "420109",
+      "Goods and Services": "textile testing"
+    },
+    {
+      "No.": "420118",
+      "Goods and Services": "geological prospecting"
+    },
+    {
+      "No.": "420119",
+      "Goods and Services": "geological research"
+    },
+    {
+      "No.": "420132",
+      "Goods and Services": "authenticating works of art"
+    },
+    {
+      "No.": "420136",
+      "Goods and Services": "calibration [measuring]"
+    },
+    {
+      "No.": "420139",
+      "Goods and Services": "computer software design"
+    },
+    {
+      "No.": "420140",
+      "Goods and Services": "updating of computer software"
+    },
+    {
+      "No.": "420141",
+      "Goods and Services": "consultancy in the design and development of computer hardware"
+    },
+    {
+      "No.": "420142",
+      "Goods and Services": "dress designing"
+    },
+    {
+      "No.": "420144",
+      "Goods and Services": "graphic arts design"
+    },
+    {
+      "No.": "420157",
+      "Goods and Services": "quality control"
+    },
+    {
+      "No.": "420159",
+      "Goods and Services": "rental of computer software"
+    },
+    {
+      "No.": "420161",
+      "Goods and Services": "research and development of new products for others"
+    },
+    {
+      "No.": "420165",
+      "Goods and Services": "styling [industrial design]"
+    },
+    {
+      "No.": "420167",
+      "Goods and Services": "underwater exploration"
+    },
+    {
+      "No.": "420175",
+      "Goods and Services": "recovery of computer data"
+    },
+    {
+      "No.": "420176",
+      "Goods and Services": "maintenance of computer software"
+    },
+    {
+      "No.": "420177",
+      "Goods and Services": "computer system analysis"
+    },
+    {
+      "No.": "420190",
+      "Goods and Services": "biological research"
+    },
+    {
+      "No.": "420192",
+      "Goods and Services": "urban planning"
+    },
+    {
+      "No.": "420193",
+      "Goods and Services": "surveying [engineering]"
+    },
+    {
+      "No.": "420194",
+      "Goods and Services": "computer system design"
+    },
+    {
+      "No.": "420195",
+      "Goods and Services": "vehicle roadworthiness testing"
+    },
+    {
+      "No.": "420197",
+      "Goods and Services": "duplication of computer programs"
+    },
+    {
+      "No.": "420198",
+      "Goods and Services": "conversion of data or documents from physical to electronic media"
+    },
+    {
+      "No.": "420199",
+      "Goods and Services": "creating and maintaining websites for others"
+    },
+    {
+      "No.": "420200",
+      "Goods and Services": "hosting computer websites"
+    },
+    {
+      "No.": "420201",
+      "Goods and Services": "installation of computer software"
+    },
+    {
+      "No.": "420202",
+      "Goods and Services": "cloud seeding"
+    },
+    {
+      "No.": "420203",
+      "Goods and Services": "conversion of computer programs and data, other than physical conversion"
+    },
+    {
+      "No.": "420204",
+      "Goods and Services": "computer software consultancy"
+    },
+    {
+      "No.": "420205",
+      "Goods and Services": "rental of web servers"
+    },
+    {
+      "No.": "420206",
+      "Goods and Services": "computer virus protection services"
+    },
+    {
+      "No.": "420207",
+      "Goods and Services": "consultancy in the field of energy-saving"
+    },
+    {
+      "No.": "420208",
+      "Goods and Services": "scientific research in the field of environmental protection"
+    },
+    {
+      "No.": "420209",
+      "Goods and Services": "providing search engines for the internet"
+    },
+    {
+      "No.": "420210",
+      "Goods and Services": "digitization of documents [scanning]"
+    },
+    {
+      "No.": "420211",
+      "Goods and Services": "handwriting analysis [graphology]"
+    },
+    {
+      "No.": "420212",
+      "Goods and Services": "providing scientific information, advice and consultancy relating to carbon offsetting"
+    },
+    {
+      "No.": "420213",
+      "Goods and Services": "quality evaluation of standing timber"
+    },
+    {
+      "No.": "420214",
+      "Goods and Services": "quality evaluation of wool"
+    },
+    {
+      "No.": "420215",
+      "Goods and Services": "monitoring of computer system operation by remote access"
+    },
+    {
+      "No.": "420216",
+      "Goods and Services": "water analysis"
+    },
+    {
+      "No.": "420217",
+      "Goods and Services": "scientific laboratory services"
+    },
+    {
+      "No.": "420218",
+      "Goods and Services": "energy auditing"
+    },
+    {
+      "No.": "420219",
+      "Goods and Services": "website design consultancy"
+    },
+    {
+      "No.": "420220",
+      "Goods and Services": "software as a service [SaaS]"
+    },
+    {
+      "No.": "420221",
+      "Goods and Services": "information technology [IT] support services [troubleshooting of software]"
+    },
+    {
+      "No.": "420222",
+      "Goods and Services": "scientific research"
+    },
+    {
+      "No.": "420223",
+      "Goods and Services": "server hosting"
+    },
+    {
+      "No.": "420224",
+      "Goods and Services": "clinical trials"
+    },
+    {
+      "No.": "420225",
+      "Goods and Services": "off-site data backup"
+    },
+    {
+      "No.": "420226",
+      "Goods and Services": "electronic data storage"
+    },
+    {
+      "No.": "420227",
+      "Goods and Services": "providing information relating to computer technology and programming via a website"
+    },
+    {
+      "No.": "420228",
+      "Goods and Services": "cartography services"
+    },
+    {
+      "No.": "420229",
+      "Goods and Services": "providing virtual computer systems through cloud computing"
+    },
+    {
+      "No.": "420231",
+      "Goods and Services": "technological consultancy"
+    },
+    {
+      "No.": "420232",
+      "Goods and Services": "computer technology consultancy"
+    },
+    {
+      "No.": "420233",
+      "Goods and Services": "telecommunications technology consultancy"
+    },
+    {
+      "No.": "420234",
+      "Goods and Services": "weather forecasting"
+    },
+    {
+      "No.": "420235",
+      "Goods and Services": "computer security consultancy"
+    },
+    {
+      "No.": "420236",
+      "Goods and Services": "technical writing"
+    },
+    {
+      "No.": "420237",
+      "Goods and Services": "interior design"
+    },
+    {
+      "No.": "420238",
+      "Goods and Services": "unlocking of mobile telephones / unlocking of cell phones"
+    },
+    {
+      "No.": "420239",
+      "Goods and Services": "monitoring of computer systems to detect breakdowns"
+    },
+    {
+      "No.": "420240",
+      "Goods and Services": "creating and designing website-based indexes of information for others [information technology services]"
+    },
+    {
+      "No.": "420241",
+      "Goods and Services": "internet security consultancy"
+    },
+    {
+      "No.": "420242",
+      "Goods and Services": "data security consultancy"
+    },
+    {
+      "No.": "420243",
+      "Goods and Services": "data encryption services"
+    },
+    {
+      "No.": "420244",
+      "Goods and Services": "monitoring of computer systems for detecting unauthorized access or data breach"
+    },
+    {
+      "No.": "420245",
+      "Goods and Services": "electronic monitoring of personally identifying information to detect identity theft via the internet"
+    },
+    {
+      "No.": "420246",
+      "Goods and Services": "electronic monitoring of credit card activity to detect fraud via the internet"
+    },
+    {
+      "No.": "420247",
+      "Goods and Services": "software development in the framework of software publishing"
+    },
+    {
+      "No.": "420248",
+      "Goods and Services": "platform as a service [PaaS]"
+    },
+    {
+      "No.": "420249",
+      "Goods and Services": "development of computer platforms"
+    },
+    {
+      "No.": "420250",
+      "Goods and Services": "business card design"
+    },
+    {
+      "No.": "420251",
+      "Goods and Services": "scientific and technological research in the field of natural disasters"
+    },
+    {
+      "No.": "420252",
+      "Goods and Services": "exploration services in the field of the oil, gas and mining industries"
+    },
+    {
+      "No.": "420253",
+      "Goods and Services": "scientific and technological research relating to patent mapping"
+    },
+    {
+      "No.": "420254",
+      "Goods and Services": "research in the field of building construction"
+    },
+    {
+      "No.": "420255",
+      "Goods and Services": "research in the field of telecommunications technology"
+    },
+    {
+      "No.": "420256",
+      "Goods and Services": "research in the field of welding"
+    },
+    {
+      "No.": "420257",
+      "Goods and Services": "medical research"
+    },
+    {
+      "No.": "420258",
+      "Goods and Services": "graphic design of promotional materials"
+    },
+    {
+      "No.": "420259",
+      "Goods and Services": "rental of meters for the recording of energy consumption"
+    },
+    {
+      "No.": "420260",
+      "Goods and Services": "user authentication services using technology for e-commerce transactions"
+    },
+    {
+      "No.": "420261",
+      "Goods and Services": "user authentication services using single sign-on technology for online software applications"
+    },
+    {
+      "No.": "420262",
+      "Goods and Services": "writing of computer code"
+    },
+    {
+      "No.": "420263",
+      "Goods and Services": "telecommunication network security consultancy"
+    },
+    {
+      "No.": "420264",
+      "Goods and Services": "design of costumes"
+    },
+    {
+      "No.": "420265",
+      "Goods and Services": "design of show scenery"
+    },
+    {
+      "No.": "420266",
+      "Goods and Services": "design of prototypes"
+    },
+    {
+      "No.": "420267",
+      "Goods and Services": "design of computer-simulated models"
+    },
+    {
+      "No.": "420268",
+      "Goods and Services": "cartographic or thermographic measurement services by drone"
+    },
+    {
+      "No.": "420269",
+      "Goods and Services": "mining of cryptocurrency / cryptomining"
+    },
+    {
+      "No.": "420270",
+      "Goods and Services": "research in the field of excavation"
+    },
+    {
+      "No.": "420271",
+      "Goods and Services": "computer graphic design for video projection mapping"
+    },
+    {
+      "No.": "420272",
+      "Goods and Services": "digital forensic investigations in the field of computer crimes"
+    },
+    {
+      "No.": "420273",
+      "Goods and Services": "technological consultancy services for digital transformation"
+    },
+    {
+      "No.": "420274",
+      "Goods and Services": "rental of data centre facilities / rental of data center facilities"
+    },
+    {
+      "No.": "420275",
+      "Goods and Services": "providing geographic information"
+    },
+    {
+      "No.": "420276",
+      "Goods and Services": "providing online geographic maps, not downloadable"
+    },
+    {
+      "No.": "420277",
+      "Goods and Services": "artificial intelligence consultancy"
+    },
+    {
+      "No.": "420278",
+      "Goods and Services": "research in the field of artificial intelligence technology"
+    },
+    {
+      "No.": "420279",
+      "Goods and Services": "user authentication services using blockchain technology"
+    },
+    {
+      "No.": "420280",
+      "Goods and Services": "geotechnical investigations"
+    },
+    {
+      "No.": "420281",
+      "Goods and Services": "geological test drilling"
+    },
+    {
+      "No.": "420282",
+      "Goods and Services": "development of video and computer games"
+    },
+    {
+      "No.": "420283",
+      "Goods and Services": "quantum computing"
+    },
+    {
+      "No.": "420284",
+      "Goods and Services": "culturing of cells for scientific research purposes"
+    },
+    {
+      "No.": "420285",
+      "Goods and Services": "computer programming services for data processing"
+    },
+    {
+      "No.": "420286",
+      "Goods and Services": "software engineering services for data processing"
+    },
+    {
+      "No.": "420287",
+      "Goods and Services": "logo design services"
+    },
+    {
+      "No.": "420288",
+      "Goods and Services": "golf course design"
+    },
+    {
+      "No.": "420289",
+      "Goods and Services": "providing scientific information, advice and consultancy relating to net zero emissions"
+    },
+    {
+      "No.": "420290",
+      "Goods and Services": "scientific research in the field of genetics"
+    },
+    {
+      "No.": "420291",
+      "Goods and Services": "inspection services for new and used vehicles before sale"
+    },
+    {
+      "No.": "420292",
+      "Goods and Services": "archaeological excavation"
+    },
+    {
+      "No.": "420293",
+      "Goods and Services": "testing and analysis of goods being imported or exported for quarantine clearance purposes"
+    },
+    {
+      "No.": "420294",
+      "Goods and Services": "rental of telescopes"
+    },
+    {
+      "No.": "420295",
+      "Goods and Services": "blockchain as a service [BaaS]"
+    },
+    {
+      "No.": "420296",
+      "Goods and Services": "hosting virtual environments"
+    },
+    {
+      "No.": "420297",
+      "Goods and Services": "rental of scientific microscopes"
+    },
+    {
+      "No.": "420298",
+      "Goods and Services": "neuromorphic engineering"
+    },
+    {
+      "No.": "420299",
+      "Goods and Services": "rental of user-programmable humanoid robots, not configured"
+    },
+    {
+      "No.": "420300",
+      "Goods and Services": "providing online non-downloadable computer software"
+    },
+    {
+      "No.": "420301",
+      "Goods and Services": "providing online non-downloadable computer software for minting non-fungible tokens [NFTs]"
+    },
+    {
+      "No.": "420302",
+      "Goods and Services": "computer programming of smart contracts on a blockchain"
+    },
+    {
+      "No.": "420303",
+      "Goods and Services": "hosting software platforms for virtual reality-based work collaboration"
+    },
+    {
+      "No.": "420304",
+      "Goods and Services": "digitization of photographs [scanning]"
+    },
+    {
+      "No.": "420305",
+      "Goods and Services": "rental of smartglasses"
+    },
+    {
+      "No.": "420306",
+      "Goods and Services": "drug screening for forensic purposes"
+    },
+    {
+      "No.": "420307",
+      "Goods and Services": "forensic pathological examination services"
+    },
+    {
+      "No.": "420308",
+      "Goods and Services": "pathological testing for forensic purposes"
+    },
+    {
+      "No.": "420309",
+      "Goods and Services": "design of chips [integrated circuits]"
+    },
+    {
+      "No.": "420310",
+      "Goods and Services": "energy performance testing of buildings"
+    },
+    {
+      "No.": "420311",
+      "Goods and Services": "electronic storage of cryptocurrency"
+    },
+    {
+      "No.": "420312",
+      "Goods and Services": "acoustic measuring services"
+    },
+    {
+      "No.": "420313",
+      "Goods and Services": "laboratory services for biomanufacturing"
+    },
+    {
+      "No.": "420314",
+      "Goods and Services": "paternity testing"
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "group_number": "39",
+  "meta": {
+    "Goods and Services": "Class Heading Transport; packaging and storage of goods; travel arrangement Explanatory Note Class 39 includes mainly services for the transport of people, animals or goods from one place to another by rail, road, water, air or pipeline and services necessarily connected with such transport, as well as the storing of goods in any kind of storage facility, warehouses or other types of building for their preservation or guarding. This Class includes, in particular: • operation of stations, bridges, railways, ferries and other transport facilities • rental of vehicles for transportation, as well as chauffeuring and piloting services • rental services related to transport, storage and travel, for example, parking place rental, garage rental, rental of storage containers • operation of maritime tugs, unloading, operation of ports and docks, and salvaging of wrecked ships and their cargoes • packaging, bottling, wrapping and delivering of goods • replenishing vending machines and automated teller machines • services for providing information about journeys or the transport of goods by brokers and tourist agencies, as well as for providing information relating to fares, timetables and methods of transport • inspection of vehicles or goods for the purpose of transport • distribution of energy and electricity, as well as distribution and supply of water This Class does not include, in particular: • advertising travel or transport (Cl. 35) • insurance services during the transport of people or goods (Cl. 36) • maintenance and repair of vehicles or other items connected with the transport of people or goods (Cl. 37) • conducting guided tours (Cl. 41) • electronic data storage (Cl. 42) • reservation of hotel rooms or other temporary accommodation by travel agents or brokers (Cl. 43)"
+  },
+  "items": [
+    {
+      "No.": "390002",
+      "Goods and Services": "escorting of travellers"
+    },
+    {
+      "No.": "390003",
+      "Goods and Services": "water supplying"
+    },
+    {
+      "No.": "390004",
+      "Goods and Services": "air transport"
+    },
+    {
+      "No.": "390006",
+      "Goods and Services": "ambulance transport"
+    },
+    {
+      "No.": "390007",
+      "Goods and Services": "vehicle breakdown towing services"
+    },
+    {
+      "No.": "390008",
+      "Goods and Services": "car rental"
+    },
+    {
+      "No.": "390009",
+      "Goods and Services": "car transport"
+    },
+    {
+      "No.": "390010",
+      "Goods and Services": "bus transport"
+    },
+    {
+      "No.": "390011",
+      "Goods and Services": "pleasure boat transport"
+    },
+    {
+      "No.": "390012",
+      "Goods and Services": "boat rental"
+    },
+    {
+      "No.": "390013",
+      "Goods and Services": "ice-breaking"
+    },
+    {
+      "No.": "390014",
+      "Goods and Services": "hauling"
+    },
+    {
+      "No.": "390015",
+      "Goods and Services": "salvage of ships"
+    },
+    {
+      "No.": "390016",
+      "Goods and Services": "lighterage services"
+    },
+    {
+      "No.": "390017",
+      "Goods and Services": "carting"
+    },
+    {
+      "No.": "390018",
+      "Goods and Services": "railway transport"
+    },
+    {
+      "No.": "390019",
+      "Goods and Services": "rental of horses for transportation purposes"
+    },
+    {
+      "No.": "390020",
+      "Goods and Services": "parcel delivery"
+    },
+    {
+      "No.": "390021",
+      "Goods and Services": "porterage"
+    },
+    {
+      "No.": "390022",
+      "Goods and Services": "packaging of goods"
+    },
+    {
+      "No.": "390023",
+      "Goods and Services": "shipbrokerage"
+    },
+    {
+      "No.": "390024",
+      "Goods and Services": "arranging of cruises"
+    },
+    {
+      "No.": "390025",
+      "Goods and Services": "transport services for sightseeing tours"
+    },
+    {
+      "No.": "390026",
+      "Goods and Services": "unloading cargo"
+    },
+    {
+      "No.": "390027",
+      "Goods and Services": "delivery of goods"
+    },
+    {
+      "No.": "390028",
+      "Goods and Services": "storage of goods"
+    },
+    {
+      "No.": "390030",
+      "Goods and Services": "water distribution"
+    },
+    {
+      "No.": "390031",
+      "Goods and Services": "electricity distribution"
+    },
+    {
+      "No.": "390032",
+      "Goods and Services": "operating canal locks"
+    },
+    {
+      "No.": "390033",
+      "Goods and Services": "car park services / parking lot services"
+    },
+    {
+      "No.": "390034",
+      "Goods and Services": "storage / warehousing"
+    },
+    {
+      "No.": "390035",
+      "Goods and Services": "rental of warehouses"
+    },
+    {
+      "No.": "390036",
+      "Goods and Services": "ferry-boat transport"
+    },
+    {
+      "No.": "390037",
+      "Goods and Services": "river transport"
+    },
+    {
+      "No.": "390038",
+      "Goods and Services": "freight [shipping of goods]"
+    },
+    {
+      "No.": "390039",
+      "Goods and Services": "freighting"
+    },
+    {
+      "No.": "390040",
+      "Goods and Services": "garage rental"
+    },
+    {
+      "No.": "390041",
+      "Goods and Services": "transport by pipeline"
+    },
+    {
+      "No.": "390042",
+      "Goods and Services": "parking place rental"
+    },
+    {
+      "No.": "390043",
+      "Goods and Services": "refrigerator rental / frozen-food locker rental"
+    },
+    {
+      "No.": "390044",
+      "Goods and Services": "vehicle rental"
+    },
+    {
+      "No.": "390045",
+      "Goods and Services": "railway coach rental"
+    },
+    {
+      "No.": "390046",
+      "Goods and Services": "railway truck rental"
+    },
+    {
+      "No.": "390047",
+      "Goods and Services": "transporting furniture"
+    },
+    {
+      "No.": "390048",
+      "Goods and Services": "transport"
+    },
+    {
+      "No.": "390049",
+      "Goods and Services": "boat transport"
+    },
+    {
+      "No.": "390050",
+      "Goods and Services": "arranging of transportation for travel tours"
+    },
+    {
+      "No.": "390051",
+      "Goods and Services": "passenger transport"
+    },
+    {
+      "No.": "390052",
+      "Goods and Services": "piloting"
+    },
+    {
+      "No.": "390054",
+      "Goods and Services": "towing"
+    },
+    {
+      "No.": "390055",
+      "Goods and Services": "refloating of ships"
+    },
+    {
+      "No.": "390056",
+      "Goods and Services": "booking of seats for travel"
+    },
+    {
+      "No.": "390057",
+      "Goods and Services": "salvaging"
+    },
+    {
+      "No.": "390058",
+      "Goods and Services": "taxi transport"
+    },
+    {
+      "No.": "390059",
+      "Goods and Services": "tram transport / streetcar transport"
+    },
+    {
+      "No.": "390060",
+      "Goods and Services": "freight forwarding"
+    },
+    {
+      "No.": "390061",
+      "Goods and Services": "marine transport"
+    },
+    {
+      "No.": "390062",
+      "Goods and Services": "armoured-car transport / armored-car transport"
+    },
+    {
+      "No.": "390063",
+      "Goods and Services": "transport of travellers"
+    },
+    {
+      "No.": "390064",
+      "Goods and Services": "transport and storage of waste / transport and storage of trash"
+    },
+    {
+      "No.": "390065",
+      "Goods and Services": "removal services"
+    },
+    {
+      "No.": "390071",
+      "Goods and Services": "boat storage"
+    },
+    {
+      "No.": "390072",
+      "Goods and Services": "freight brokerage [forwarding (Am.)] / freight brokerage"
+    },
+    {
+      "No.": "390073",
+      "Goods and Services": "transport brokerage"
+    },
+    {
+      "No.": "390074",
+      "Goods and Services": "chauffeur services"
+    },
+    {
+      "No.": "390075",
+      "Goods and Services": "courier services [messages or merchandise]"
+    },
+    {
+      "No.": "390076",
+      "Goods and Services": "providing information relating to storage services"
+    },
+    {
+      "No.": "390077",
+      "Goods and Services": "providing transportation information"
+    },
+    {
+      "No.": "390078",
+      "Goods and Services": "rental of diving bells"
+    },
+    {
+      "No.": "390079",
+      "Goods and Services": "rental of atmospheric diving suits"
+    },
+    {
+      "No.": "390080",
+      "Goods and Services": "rental of storage containers"
+    },
+    {
+      "No.": "390081",
+      "Goods and Services": "rental of vehicle roof racks"
+    },
+    {
+      "No.": "390082",
+      "Goods and Services": "rescue operations [transport]"
+    },
+    {
+      "No.": "390083",
+      "Goods and Services": "transport reservation"
+    },
+    {
+      "No.": "390084",
+      "Goods and Services": "travel reservation"
+    },
+    {
+      "No.": "390085",
+      "Goods and Services": "underwater salvage"
+    },
+    {
+      "No.": "390086",
+      "Goods and Services": "wrapping of goods"
+    },
+    {
+      "No.": "390087",
+      "Goods and Services": "message delivery"
+    },
+    {
+      "No.": "390088",
+      "Goods and Services": "delivery of newspapers / newspaper delivery"
+    },
+    {
+      "No.": "390089",
+      "Goods and Services": "delivery of goods by mail order"
+    },
+    {
+      "No.": "390090",
+      "Goods and Services": "distribution of energy"
+    },
+    {
+      "No.": "390091",
+      "Goods and Services": "rental of motor racing cars"
+    },
+    {
+      "No.": "390092",
+      "Goods and Services": "rental of wheelchairs"
+    },
+    {
+      "No.": "390093",
+      "Goods and Services": "stevedoring"
+    },
+    {
+      "No.": "390094",
+      "Goods and Services": "physical storage of electronically stored data or documents"
+    },
+    {
+      "No.": "390095",
+      "Goods and Services": "launching of satellites for others"
+    },
+    {
+      "No.": "390096",
+      "Goods and Services": "flower delivery"
+    },
+    {
+      "No.": "390097",
+      "Goods and Services": "franking of mail"
+    },
+    {
+      "No.": "390098",
+      "Goods and Services": "providing traffic information"
+    },
+    {
+      "No.": "390099",
+      "Goods and Services": "rental of freezers"
+    },
+    {
+      "No.": "390100",
+      "Goods and Services": "bottling services"
+    },
+    {
+      "No.": "390101",
+      "Goods and Services": "transportation logistics"
+    },
+    {
+      "No.": "390102",
+      "Goods and Services": "aircraft rental"
+    },
+    {
+      "No.": "390103",
+      "Goods and Services": "barge transport"
+    },
+    {
+      "No.": "390104",
+      "Goods and Services": "motor coach rental"
+    },
+    {
+      "No.": "390105",
+      "Goods and Services": "rental of aircraft engines"
+    },
+    {
+      "No.": "390106",
+      "Goods and Services": "guarded transport of valuables"
+    },
+    {
+      "No.": "390107",
+      "Goods and Services": "rental of navigational systems"
+    },
+    {
+      "No.": "390108",
+      "Goods and Services": "providing driving directions for travel purposes"
+    },
+    {
+      "No.": "390109",
+      "Goods and Services": "gift wrapping"
+    },
+    {
+      "No.": "390110",
+      "Goods and Services": "rental of tractors"
+    },
+    {
+      "No.": "390111",
+      "Goods and Services": "collection of recyclable goods [transport]"
+    },
+    {
+      "No.": "390112",
+      "Goods and Services": "rental of electric wine cellars"
+    },
+    {
+      "No.": "390113",
+      "Goods and Services": "cash replenishment of automated teller machines"
+    },
+    {
+      "No.": "390114",
+      "Goods and Services": "car sharing services"
+    },
+    {
+      "No.": "390115",
+      "Goods and Services": "replenishment of vending machines"
+    },
+    {
+      "No.": "390116",
+      "Goods and Services": "luggage storage"
+    },
+    {
+      "No.": "390117",
+      "Goods and Services": "arranging of passenger transportation services for others via an online application"
+    },
+    {
+      "No.": "390118",
+      "Goods and Services": "piloting of civilian drones"
+    },
+    {
+      "No.": "390119",
+      "Goods and Services": "arranging for travel visas and travel documents for persons travelling abroad"
+    },
+    {
+      "No.": "390120",
+      "Goods and Services": "carpooling services"
+    },
+    {
+      "No.": "390121",
+      "Goods and Services": "temporary storage of keys"
+    },
+    {
+      "No.": "390122",
+      "Goods and Services": "rental of photography drones"
+    },
+    {
+      "No.": "390124",
+      "Goods and Services": "collection of domestic and industrial waste and trash"
+    },
+    {
+      "No.": "390125",
+      "Goods and Services": "rental of storage lockers"
+    },
+    {
+      "No.": "390126",
+      "Goods and Services": "locating and tracking of people for transportation purposes"
+    },
+    {
+      "No.": "390127",
+      "Goods and Services": "services for transporting legal documents"
+    },
+    {
+      "No.": "390128",
+      "Goods and Services": "cable car transport"
+    },
+    {
+      "No.": "390129",
+      "Goods and Services": "rental of safety seats for children, for vehicles"
+    },
+    {
+      "No.": "390130",
+      "Goods and Services": "cloakroom services / coat check services"
+    },
+    {
+      "No.": "390131",
+      "Goods and Services": "rental of surveillance drones"
+    },
+    {
+      "No.": "390132",
+      "Goods and Services": "rental of security drones"
+    },
+    {
+      "No.": "390133",
+      "Goods and Services": "locating and tracking of cargo for transportation purposes"
+    },
+    {
+      "No.": "390134",
+      "Goods and Services": "transport of captured carbon dioxide for others"
+    },
+    {
+      "No.": "390135",
+      "Goods and Services": "storage of captured carbon dioxide for others"
+    },
+    {
+      "No.": "390136"
+    },
+    {
+      "No.": "390137",
+      "Goods and Services": "space transport"
+    }
+  ]
+}

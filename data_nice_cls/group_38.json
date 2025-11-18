@@ -1,0 +1,208 @@
+{
+  "group_number": "38",
+  "meta": {
+    "Goods and Services": "Class Heading Telecommunications services Explanatory Note Class 38 includes mainly services that allow at least one party to communicate with another, as well as services for the broadcasting and transmission of data. This Class includes, in particular: • transmission of digital files and electronic mail • providing user access to global computer networks • radio and television broadcasting • video-on-demand transmission • providing internet chatrooms and online forums • telephone and voice mail services • teleconferencing and videoconferencing services This Class does not include, in particular: • radio advertising (Cl. 35) • telemarketing services (Cl. 35) • content or subject matter that may be contained in the communication activity, for example, downloadable image files (Cl. 9), providing business information via a website (Cl. 35), providing films and television programmes, not downloadable, via video-on-demand services (Cl. 41) • services conducted using telecommunication connections, for example, online retail services for downloadable digital music (Cl. 35), online banking (Cl. 36) • production of radio and television programmes (Cl. 41) • telecommunications technology consultancy (Cl. 42) • online social networking services (Cl. 45)"
+  },
+  "items": [
+    {
+      "No.": "380003",
+      "Goods and Services": "radio broadcasting"
+    },
+    {
+      "No.": "380004",
+      "Goods and Services": "message sending"
+    },
+    {
+      "No.": "380005",
+      "Goods and Services": "television broadcasting"
+    },
+    {
+      "No.": "380006",
+      "Goods and Services": "transmission of telegrams"
+    },
+    {
+      "No.": "380007",
+      "Goods and Services": "telegraph services"
+    },
+    {
+      "No.": "380008",
+      "Goods and Services": "communications by telegrams"
+    },
+    {
+      "No.": "380009",
+      "Goods and Services": "telephone services"
+    },
+    {
+      "No.": "380010",
+      "Goods and Services": "communications by telephone"
+    },
+    {
+      "No.": "380011",
+      "Goods and Services": "telex services"
+    },
+    {
+      "No.": "380012",
+      "Goods and Services": "news agency services"
+    },
+    {
+      "No.": "380021",
+      "Goods and Services": "cable television broadcasting"
+    },
+    {
+      "No.": "380022",
+      "Goods and Services": "mobile telephone communication services / cell phone communication services"
+    },
+    {
+      "No.": "380023",
+      "Goods and Services": "communications by computer terminals"
+    },
+    {
+      "No.": "380024",
+      "Goods and Services": "computer aided transmission of messages and images"
+    },
+    {
+      "No.": "380025",
+      "Goods and Services": "transmission of electronic mail"
+    },
+    {
+      "No.": "380026",
+      "Goods and Services": "facsimile transmission"
+    },
+    {
+      "No.": "380027",
+      "Goods and Services": "providing information in the field of telecommunications"
+    },
+    {
+      "No.": "380028",
+      "Goods and Services": "paging services [radio, telephone or other means of electronic communication]"
+    },
+    {
+      "No.": "380029",
+      "Goods and Services": "rental of message sending apparatus"
+    },
+    {
+      "No.": "380030",
+      "Goods and Services": "communications by fibre optic networks / communications by fiber optic networks"
+    },
+    {
+      "No.": "380031",
+      "Goods and Services": "rental of facsimile apparatus"
+    },
+    {
+      "No.": "380032",
+      "Goods and Services": "rental of modems"
+    },
+    {
+      "No.": "380033",
+      "Goods and Services": "rental of telecommunication equipment"
+    },
+    {
+      "No.": "380034",
+      "Goods and Services": "rental of telephones"
+    },
+    {
+      "No.": "380035",
+      "Goods and Services": "satellite transmission"
+    },
+    {
+      "No.": "380036",
+      "Goods and Services": "electronic bulletin board services [telecommunications services]"
+    },
+    {
+      "No.": "380037",
+      "Goods and Services": "providing telecommunications connections to a global computer network"
+    },
+    {
+      "No.": "380038",
+      "Goods and Services": "telecommunications routing and junction services"
+    },
+    {
+      "No.": "380039",
+      "Goods and Services": "teleconferencing services"
+    },
+    {
+      "No.": "380040",
+      "Goods and Services": "providing user access to global computer networks"
+    },
+    {
+      "No.": "380041",
+      "Goods and Services": "rental of access time to global computer networks"
+    },
+    {
+      "No.": "380042",
+      "Goods and Services": "providing telecommunication channels for teleshopping services"
+    },
+    {
+      "No.": "380043",
+      "Goods and Services": "providing internet chatrooms"
+    },
+    {
+      "No.": "380044",
+      "Goods and Services": "providing access to databases"
+    },
+    {
+      "No.": "380045",
+      "Goods and Services": "voice mail services"
+    },
+    {
+      "No.": "380046",
+      "Goods and Services": "transmission of greeting cards online"
+    },
+    {
+      "No.": "380047",
+      "Goods and Services": "transmission of digital files"
+    },
+    {
+      "No.": "380048",
+      "Goods and Services": "wireless broadcasting"
+    },
+    {
+      "No.": "380049",
+      "Goods and Services": "videoconferencing services"
+    },
+    {
+      "No.": "380050",
+      "Goods and Services": "providing online forums"
+    },
+    {
+      "No.": "380051",
+      "Goods and Services": "streaming of data"
+    },
+    {
+      "No.": "380052",
+      "Goods and Services": "radio communications"
+    },
+    {
+      "No.": "380053",
+      "Goods and Services": "video-on-demand transmission"
+    },
+    {
+      "No.": "380054",
+      "Goods and Services": "transmission of podcasts"
+    },
+    {
+      "No.": "380055",
+      "Goods and Services": "rental of smartphones"
+    },
+    {
+      "No.": "380056",
+      "Goods and Services": "geolocation services [telecommunications services]"
+    },
+    {
+      "No.": "380057",
+      "Goods and Services": "providing access to blockchain networks"
+    },
+    {
+      "No.": "380058",
+      "Goods and Services": "providing chatrooms in virtual environments"
+    },
+    {
+      "No.": "380059",
+      "Goods and Services": "providing online virtual reality-based forums for work collaboration"
+    },
+    {
+      "No.": "380060",
+      "Goods and Services": "rental of telephone answering apparatus"
+    }
+  ]
+}

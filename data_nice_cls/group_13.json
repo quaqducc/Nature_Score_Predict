@@ -1,0 +1,320 @@
+{
+  "group_number": "13",
+  "meta": {
+    "Goods and Services": "Class Heading Firearms; ammunition and projectiles; explosives; fireworks Explanatory Note Class 13 includes mainly firearms and pyrotechnic products. This Class includes, in particular: • rescue flares, explosive or pyrotechnic • flare pistols • sprays for personal defence purposes • explosive fog signals, signal rocket flares • air pistols being weapons • bandoliers for weapons • sporting firearms, hunting firearms This Class does not include, in particular: • grease for weapons (Cl. 4) • blades being weapons (Cl. 8) • side arms, other than firearms (Cl. 8) • non-explosive fog signals, rescue laser signalling flares (Cl. 9) • telescopic sights for firearms (Cl. 9) • flaming torches (Cl. 11) • Christmas crackers (Cl. 28) • percussion caps being toys (Cl. 28) • toy air pistols (Cl. 28) • matches (Cl. 34)"
+  },
+  "items": [
+    {
+      "No.": "130001",
+      "Goods and Services": "acetyl-nitrocellulose"
+    },
+    {
+      "No.": "130002",
+      "Goods and Services": "gun carriages [artillery]"
+    },
+    {
+      "No.": "130003",
+      "Goods and Services": "explosive cartridges"
+    },
+    {
+      "No.": "130005",
+      "Goods and Services": "ammonium nitrate explosives"
+    },
+    {
+      "No.": "130006",
+      "Goods and Services": "detonators"
+    },
+    {
+      "No.": "130007",
+      "Goods and Services": "motorized weapons"
+    },
+    {
+      "No.": "130008",
+      "Goods and Services": "tear-gas weapons"
+    },
+    {
+      "No.": "130009",
+      "Goods and Services": "firearms"
+    },
+    {
+      "No.": "130010",
+      "Goods and Services": "cleaning brushes for firearms"
+    },
+    {
+      "No.": "130013",
+      "Goods and Services": "fireworks"
+    },
+    {
+      "No.": "130014",
+      "Goods and Services": "artillery guns [cannons]"
+    },
+    {
+      "No.": "130015",
+      "Goods and Services": "ballistic weapons / ballistic missiles"
+    },
+    {
+      "No.": "130016",
+      "Goods and Services": "apparatus for filling cartridge belts"
+    },
+    {
+      "No.": "130017",
+      "Goods and Services": "Bengal lights"
+    },
+    {
+      "No.": "130018",
+      "Goods and Services": "detonating plugs"
+    },
+    {
+      "No.": "130019",
+      "Goods and Services": "cartridge cases"
+    },
+    {
+      "No.": "130020",
+      "Goods and Services": "cannons"
+    },
+    {
+      "No.": "130021",
+      "Goods and Services": "rifle barrels / gun barrels"
+    },
+    {
+      "No.": "130022",
+      "Goods and Services": "rifles / carbines"
+    },
+    {
+      "No.": "130023",
+      "Goods and Services": "cartridges*"
+    },
+    {
+      "No.": "130024",
+      "Goods and Services": "cartridge loading apparatus"
+    },
+    {
+      "No.": "130025",
+      "Goods and Services": "cartridge pouches"
+    },
+    {
+      "No.": "130026",
+      "Goods and Services": "hunting firearms / sporting firearms"
+    },
+    {
+      "No.": "130027",
+      "Goods and Services": "ammunition"
+    },
+    {
+      "No.": "130028",
+      "Goods and Services": "hammers for guns and rifles / hammers for guns / hammers for rifles"
+    },
+    {
+      "No.": "130029",
+      "Goods and Services": "powder horns"
+    },
+    {
+      "No.": "130030",
+      "Goods and Services": "guncotton / pyroxylin"
+    },
+    {
+      "No.": "130031",
+      "Goods and Services": "breeches of firearms"
+    },
+    {
+      "No.": "130032",
+      "Goods and Services": "dynamite"
+    },
+    {
+      "No.": "130033",
+      "Goods and Services": "rifle cases / gun cases"
+    },
+    {
+      "No.": "130034",
+      "Goods and Services": "explosives"
+    },
+    {
+      "No.": "130035",
+      "Goods and Services": "signal rocket flares"
+    },
+    {
+      "No.": "130036",
+      "Goods and Services": "guns [weapons]"
+    },
+    {
+      "No.": "130037",
+      "Goods and Services": "gunstocks"
+    },
+    {
+      "No.": "130038",
+      "Goods and Services": "sighting mirrors for guns and rifles / sighting mirrors for guns / sighting mirrors for rifles"
+    },
+    {
+      "No.": "130040",
+      "Goods and Services": "trigger guards for guns and rifles / trigger guards for rifles"
+    },
+    {
+      "No.": "130041",
+      "Goods and Services": "lead shot for hunting"
+    },
+    {
+      "No.": "130042",
+      "Goods and Services": "ammunition for firearms"
+    },
+    {
+      "No.": "130043",
+      "Goods and Services": "rocket launchers"
+    },
+    {
+      "No.": "130044",
+      "Goods and Services": "fuses for explosives, for use in mines"
+    },
+    {
+      "No.": "130045",
+      "Goods and Services": "mines [explosives]"
+    },
+    {
+      "No.": "130046",
+      "Goods and Services": "machine guns"
+    },
+    {
+      "No.": "130047",
+      "Goods and Services": "mortars [firearms]"
+    },
+    {
+      "No.": "130048",
+      "Goods and Services": "shells [projectiles]"
+    },
+    {
+      "No.": "130049",
+      "Goods and Services": "pistols [arms]"
+    },
+    {
+      "No.": "130050",
+      "Goods and Services": "gunpowder"
+    },
+    {
+      "No.": "130051",
+      "Goods and Services": "explosive powders"
+    },
+    {
+      "No.": "130052",
+      "Goods and Services": "projectiles [weapons]"
+    },
+    {
+      "No.": "130053",
+      "Goods and Services": "pyrophoric substances"
+    },
+    {
+      "No.": "130054",
+      "Goods and Services": "pyrotechnic products"
+    },
+    {
+      "No.": "130055",
+      "Goods and Services": "revolvers"
+    },
+    {
+      "No.": "130056",
+      "Goods and Services": "trunnions for heavy weapons"
+    },
+    {
+      "No.": "130057",
+      "Goods and Services": "firing platforms"
+    },
+    {
+      "No.": "130058",
+      "Goods and Services": "sights, other than telescopic sights, for firearms"
+    },
+    {
+      "No.": "130059",
+      "Goods and Services": "air pistols [weapons]"
+    },
+    {
+      "No.": "130060",
+      "Goods and Services": "fuses for explosives"
+    },
+    {
+      "No.": "130061",
+      "Goods and Services": "primings [fuses]"
+    },
+    {
+      "No.": "130062",
+      "Goods and Services": "detonating fuses for explosives / firing lanyards for explosives"
+    },
+    {
+      "No.": "130063",
+      "Goods and Services": "shoulder straps for weapons / bandoliers for weapons"
+    },
+    {
+      "No.": "130064",
+      "Goods and Services": "fog signals, explosive"
+    },
+    {
+      "No.": "130065",
+      "Goods and Services": "sights, other than telescopic sights, for artillery"
+    },
+    {
+      "No.": "130066",
+      "Goods and Services": "detonating caps, other than toys / percussion caps, other than toys"
+    },
+    {
+      "No.": "130068",
+      "Goods and Services": "rockets [projectiles]"
+    },
+    {
+      "No.": "130069",
+      "Goods and Services": "harpoon guns"
+    },
+    {
+      "No.": "130070",
+      "Goods and Services": "noise-suppressors for guns"
+    },
+    {
+      "No.": "130071",
+      "Goods and Services": "tanks [weapons]"
+    },
+    {
+      "No.": "130072",
+      "Goods and Services": "firecrackers"
+    },
+    {
+      "No.": "130073",
+      "Goods and Services": "sprays for personal defence purposes / sprays for personal defense purposes"
+    },
+    {
+      "No.": "130074",
+      "Goods and Services": "belts adapted for ammunition"
+    },
+    {
+      "No.": "130075",
+      "Goods and Services": "automatic firearm ammunition belts"
+    },
+    {
+      "No.": "130076",
+      "Goods and Services": "torpedoes"
+    },
+    {
+      "No.": "130077",
+      "Goods and Services": "side arms [firearms]"
+    },
+    {
+      "No.": "130078",
+      "Goods and Services": "hand grenades"
+    },
+    {
+      "No.": "130079",
+      "Goods and Services": "flare pistols"
+    },
+    {
+      "No.": "130080",
+      "Goods and Services": "rescue flares, explosive or pyrotechnic"
+    },
+    {
+      "No.": "130081",
+      "Goods and Services": "starting pistols / starter pistols"
+    },
+    {
+      "No.": "130082",
+      "Goods and Services": "harpoons adapted for harpoon guns"
+    },
+    {
+      "No.": "130083",
+      "Goods and Services": "cruise missiles"
+    }
+  ]
+}

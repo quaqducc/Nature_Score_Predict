@@ -1,0 +1,1868 @@
+{
+  "group_number": "6",
+  "meta": {
+    "Goods and Services": "Class Heading Common metals and their alloys, ores; metal materials for building and construction; transportable buildings of metal; non-electric cables and wires of common metal; small items of metal hardware; metal containers for storage or transport; safes Explanatory Note Class 6 includes mainly unwrought and partly wrought common metals, including ores, as well as certain goods made of common metals. This Class includes, in particular: • metals in foil or powder form for further processing, for example, for 3D printers • metal building materials, for example, materials of metal for railway tracks, pipes and tubes of metal • small items of metal hardware, for example, bolts, screws, nails, furniture casters, window fasteners • transportable buildings or structures of metal, for example, prefabricated houses, swimming pools, cages for wild animals, skating rinks • certain dispensing apparatus of metal, automatic or non-automatic, for example, towel dispensers, queue ticket dispensers, dispensers for dog waste bags, toilet paper dispensers • certain goods made of common metals not otherwise classified by function or purpose, for example, all-purpose boxes of common metal, statues, busts and works of art of common metal This Class does not include, in particular: • metals and ores used as chemicals in industry or scientific research for their chemical properties, for example, bauxite, mercury, antimony, alkaline and alkaline-earth metals (Cl. 1) • metals in foil and powder form for use in painting, decorating, printing and art (Cl. 2) • certain dispensing apparatus that are classified according to their function or purpose, for example, fluid dispensing machines for industrial use (Cl. 7), ticket dispensing terminals, electronic (Cl. 9), dosage dispensers for medical use (Cl. 10), adhesive tape dispensers (Cl. 16) • electric cables (Cl. 9) and non-electric cables and ropes, not of metal (Cl. 22) • pipes being parts of sanitary installations (Cl. 11), flexible pipes, tubes and hoses, not of metal (Cl. 17) and rigid pipes, not of metal (Cl. 19) • cages for household pets (Cl. 21) • certain goods made of common metals that are classified according to their function or purpose, for example, hand tools, hand-operated (Cl. 8), paper clips (Cl. 16), furniture (Cl. 20), kitchen utensils (Cl. 21), household containers (Cl. 21)"
+  },
+  "items": [
+    {
+      "No.": "060001",
+      "Goods and Services": "steel, unwrought or semi-wrought"
+    },
+    {
+      "No.": "060002",
+      "Goods and Services": "steel alloys"
+    },
+    {
+      "No.": "060003",
+      "Goods and Services": "steel strip / hoop steel"
+    },
+    {
+      "No.": "060004",
+      "Goods and Services": "steel wire"
+    },
+    {
+      "No.": "060005",
+      "Goods and Services": "cast steel"
+    },
+    {
+      "No.": "060006",
+      "Goods and Services": "steel masts"
+    },
+    {
+      "No.": "060009",
+      "Goods and Services": "roller blinds of steel"
+    },
+    {
+      "No.": "060010",
+      "Goods and Services": "steel sheets"
+    },
+    {
+      "No.": "060011",
+      "Goods and Services": "steel pipes / steel tubes"
+    },
+    {
+      "No.": "060012",
+      "Goods and Services": "machine belt fasteners of metal"
+    },
+    {
+      "No.": "060013",
+      "Goods and Services": "railway points / railway switches"
+    },
+    {
+      "No.": "060014",
+      "Goods and Services": "nozzles of metal"
+    },
+    {
+      "No.": "060016",
+      "Goods and Services": "nickel silver / German silver"
+    },
+    {
+      "No.": "060017",
+      "Goods and Services": "aluminium"
+    },
+    {
+      "No.": "060018",
+      "Goods and Services": "bronze"
+    },
+    {
+      "No.": "060019",
+      "Goods and Services": "aluminium wire"
+    },
+    {
+      "No.": "060020",
+      "Goods and Services": "anchor plates / tie plates"
+    },
+    {
+      "No.": "060021",
+      "Goods and Services": "jets of metal"
+    },
+    {
+      "No.": "060022",
+      "Goods and Services": "latch bars of metal"
+    },
+    {
+      "No.": "060023",
+      "Goods and Services": "masts of metal"
+    },
+    {
+      "No.": "060024",
+      "Goods and Services": "poles of metal"
+    },
+    {
+      "No.": "060025",
+      "Goods and Services": "traps for wild animals*"
+    },
+    {
+      "No.": "060026",
+      "Goods and Services": "braces of metal for handling loads / harness of metal for handling loads"
+    },
+    {
+      "No.": "060027",
+      "Goods and Services": "anti-friction metal"
+    },
+    {
+      "No.": "060028",
+      "Goods and Services": "tree protectors of metal"
+    },
+    {
+      "No.": "060029",
+      "Goods and Services": "cashboxes [metal or non-metal]"
+    },
+    {
+      "No.": "060030",
+      "Goods and Services": "silver solder"
+    },
+    {
+      "No.": "060032",
+      "Goods and Services": "silver-plated tin alloys"
+    },
+    {
+      "No.": "060033",
+      "Goods and Services": "reinforcing materials, of metal, for concrete"
+    },
+    {
+      "No.": "060034",
+      "Goods and Services": "safes [metal or non-metal] / strongboxes [metal or non-metal]"
+    },
+    {
+      "No.": "060035",
+      "Goods and Services": "window stops of metal"
+    },
+    {
+      "No.": "060036",
+      "Goods and Services": "door stops of metal"
+    },
+    {
+      "No.": "060037",
+      "Goods and Services": "washers of metal"
+    },
+    {
+      "No.": "060038",
+      "Goods and Services": "rings of metal* / stop collars of metal"
+    },
+    {
+      "No.": "060039",
+      "Goods and Services": "strap-hinges of metal"
+    },
+    {
+      "No.": "060040",
+      "Goods and Services": "floor tiles of metal"
+    },
+    {
+      "No.": "060041",
+      "Goods and Services": "barbed wire"
+    },
+    {
+      "No.": "060042",
+      "Goods and Services": "bars for metal railings"
+    },
+    {
+      "No.": "060043",
+      "Goods and Services": "beryllium [glucinium] / glucinium [beryllium]"
+    },
+    {
+      "No.": "060044",
+      "Goods and Services": "cattle chains"
+    },
+    {
+      "No.": "060045",
+      "Goods and Services": "beak-irons / bick-irons"
+    },
+    {
+      "No.": "060046",
+      "Goods and Services": "white metal"
+    },
+    {
+      "No.": "060047",
+      "Goods and Services": "armour-plating of metal / armor-plating of metal"
+    },
+    {
+      "No.": "060048",
+      "Goods and Services": "box fasteners of metal"
+    },
+    {
+      "No.": "060049",
+      "Goods and Services": "bolts of metal"
+    },
+    {
+      "No.": "060050",
+      "Goods and Services": "bottles [containers] of metal for compressed gas or liquid air"
+    },
+    {
+      "No.": "060051",
+      "Goods and Services": "identification bracelets of metal"
+    },
+    {
+      "No.": "060052",
+      "Goods and Services": "iron slabs"
+    },
+    {
+      "No.": "060053",
+      "Goods and Services": "brazing alloys"
+    },
+    {
+      "No.": "060054",
+      "Goods and Services": "flanges of metal [collars]"
+    },
+    {
+      "No.": "060055",
+      "Goods and Services": "bronzes for tombstones / monuments of bronze for tombs"
+    },
+    {
+      "No.": "060056",
+      "Goods and Services": "bronzes [works of art]"
+    },
+    {
+      "No.": "060057",
+      "Goods and Services": "telpher cables"
+    },
+    {
+      "No.": "060058",
+      "Goods and Services": "rope thimbles of metal"
+    },
+    {
+      "No.": "060059",
+      "Goods and Services": "cable joints of metal, non-electric / cable linkages of metal, non-electric"
+    },
+    {
+      "No.": "060061",
+      "Goods and Services": "cadmium"
+    },
+    {
+      "No.": "060062",
+      "Goods and Services": "padlocks of metal, other than electronic"
+    },
+    {
+      "No.": "060063",
+      "Goods and Services": "shims"
+    },
+    {
+      "No.": "060064",
+      "Goods and Services": "ferrules of metal for walking sticks"
+    },
+    {
+      "No.": "060065",
+      "Goods and Services": "containers of metal for storing acids"
+    },
+    {
+      "No.": "060066",
+      "Goods and Services": "safety cashboxes"
+    },
+    {
+      "No.": "060067",
+      "Goods and Services": "celtium [hafnium] / hafnium [celtium]"
+    },
+    {
+      "No.": "060068",
+      "Goods and Services": "chains of metal*"
+    },
+    {
+      "No.": "060071",
+      "Goods and Services": "safety chains of metal"
+    },
+    {
+      "No.": "060073",
+      "Goods and Services": "couplings of metal for chains"
+    },
+    {
+      "No.": "060074",
+      "Goods and Services": "frames of metal for building"
+    },
+    {
+      "No.": "060075",
+      "Goods and Services": "window pulleys of metal / sash pulleys of metal"
+    },
+    {
+      "No.": "060076",
+      "Goods and Services": "ducts of metal, for central heating installations / pipes of metal, for central heating installations / ducts and pipes of metal for central heating installations"
+    },
+    {
+      "No.": "060077",
+      "Goods and Services": "horseshoe nails"
+    },
+    {
+      "No.": "060078",
+      "Goods and Services": "dowels of metal / pegs [pins] of metal / pins [pegs] of metal"
+    },
+    {
+      "No.": "060079",
+      "Goods and Services": "chromium"
+    },
+    {
+      "No.": "060080",
+      "Goods and Services": "chrome iron"
+    },
+    {
+      "No.": "060081",
+      "Goods and Services": "chrome ores"
+    },
+    {
+      "No.": "060082",
+      "Goods and Services": "cotter pins of metal"
+    },
+    {
+      "No.": "060083",
+      "Goods and Services": "keys of metal"
+    },
+    {
+      "No.": "060085",
+      "Goods and Services": "nails of metal"
+    },
+    {
+      "No.": "060086",
+      "Goods and Services": "tacks of metal / brads of metal"
+    },
+    {
+      "No.": "060087",
+      "Goods and Services": "wall plugs of metal"
+    },
+    {
+      "No.": "060088",
+      "Goods and Services": "cobalt, raw"
+    },
+    {
+      "No.": "060089",
+      "Goods and Services": "railway material of metal"
+    },
+    {
+      "No.": "060090",
+      "Goods and Services": "pillars of metal for building"
+    },
+    {
+      "No.": "060091",
+      "Goods and Services": "water-pipes of metal"
+    },
+    {
+      "No.": "060092",
+      "Goods and Services": "sleeves [metal hardware]"
+    },
+    {
+      "No.": "060093",
+      "Goods and Services": "preserve tins / tin cans"
+    },
+    {
+      "No.": "060094",
+      "Goods and Services": "containers of metal [storage, transport]"
+    },
+    {
+      "No.": "060095",
+      "Goods and Services": "check rails of metal for railways / guard rails of metal for railways"
+    },
+    {
+      "No.": "060096",
+      "Goods and Services": "chill-moulds [foundry] / chill-molds [foundry]"
+    },
+    {
+      "No.": "060097",
+      "Goods and Services": "anvils"
+    },
+    {
+      "No.": "060098",
+      "Goods and Services": "roof flashing of metal"
+    },
+    {
+      "No.": "060099",
+      "Goods and Services": "elbows of metal for pipes"
+    },
+    {
+      "No.": "060100",
+      "Goods and Services": "doors of metal*"
+    },
+    {
+      "No.": "060101",
+      "Goods and Services": "belt stretchers of metal"
+    },
+    {
+      "No.": "060102",
+      "Goods and Services": "cramps of metal [crampons] / crampons of metal [cramps]"
+    },
+    {
+      "No.": "060103",
+      "Goods and Services": "pot hooks of metal"
+    },
+    {
+      "No.": "060104",
+      "Goods and Services": "window casement bolts"
+    },
+    {
+      "No.": "060105",
+      "Goods and Services": "hooks [metal hardware]"
+    },
+    {
+      "No.": "060106",
+      "Goods and Services": "ironwork for windows"
+    },
+    {
+      "No.": "060108",
+      "Goods and Services": "wire of common metal"
+    },
+    {
+      "No.": "060109",
+      "Goods and Services": "copper, unwrought or semi-wrought"
+    },
+    {
+      "No.": "060110",
+      "Goods and Services": "copper rings"
+    },
+    {
+      "No.": "060111",
+      "Goods and Services": "tubbing of metal"
+    },
+    {
+      "No.": "060112",
+      "Goods and Services": "containers of metal for compressed gas or liquid air"
+    },
+    {
+      "No.": "060113",
+      "Goods and Services": "door scrapers"
+    },
+    {
+      "No.": "060114",
+      "Goods and Services": "drain pipes of metal"
+    },
+    {
+      "No.": "060115",
+      "Goods and Services": "iron, unwrought or semi-wrought"
+    },
+    {
+      "No.": "060116",
+      "Goods and Services": "fish plates [rails]"
+    },
+    {
+      "No.": "060118",
+      "Goods and Services": "screws of metal"
+    },
+    {
+      "No.": "060119",
+      "Goods and Services": "tinplate packings"
+    },
+    {
+      "No.": "060120",
+      "Goods and Services": "letter boxes of metal"
+    },
+    {
+      "No.": "060121",
+      "Goods and Services": "door bells of metal, non-electric"
+    },
+    {
+      "No.": "060122",
+      "Goods and Services": "spurs"
+    },
+    {
+      "No.": "060123",
+      "Goods and Services": "brackets of metal for building"
+    },
+    {
+      "No.": "060124",
+      "Goods and Services": "staircases of metal"
+    },
+    {
+      "No.": "060125",
+      "Goods and Services": "window fasteners of metal"
+    },
+    {
+      "No.": "060127",
+      "Goods and Services": "pipes of metal / tubes of metal"
+    },
+    {
+      "No.": "060129",
+      "Goods and Services": "rails of metal"
+    },
+    {
+      "No.": "060130",
+      "Goods and Services": "fittings of metal for windows"
+    },
+    {
+      "No.": "060131",
+      "Goods and Services": "iron strip / hoop iron"
+    },
+    {
+      "No.": "060132",
+      "Goods and Services": "iron wire"
+    },
+    {
+      "No.": "060133",
+      "Goods and Services": "cast iron, unwrought or semi-wrought"
+    },
+    {
+      "No.": "060134",
+      "Goods and Services": "iron ores"
+    },
+    {
+      "No.": "060135",
+      "Goods and Services": "door closers of metal, non-electric / door springs of metal, non-electric"
+    },
+    {
+      "No.": "060136",
+      "Goods and Services": "molybdenum iron"
+    },
+    {
+      "No.": "060137",
+      "Goods and Services": "silicon iron"
+    },
+    {
+      "No.": "060138",
+      "Goods and Services": "titanium iron / ferrotitanium"
+    },
+    {
+      "No.": "060139",
+      "Goods and Services": "tungsten iron"
+    },
+    {
+      "No.": "060140",
+      "Goods and Services": "fittings of metal for building"
+    },
+    {
+      "No.": "060141",
+      "Goods and Services": "pins [metal hardware]"
+    },
+    {
+      "No.": "060143",
+      "Goods and Services": "eye bolts / screw rings"
+    },
+    {
+      "No.": "060144",
+      "Goods and Services": "locks of metal, other than electric"
+    },
+    {
+      "No.": "060145",
+      "Goods and Services": "galena [ore]"
+    },
+    {
+      "No.": "060146",
+      "Goods and Services": "lead seals"
+    },
+    {
+      "No.": "060147",
+      "Goods and Services": "germanium"
+    },
+    {
+      "No.": "060148",
+      "Goods and Services": "weather- or wind-vanes of metal / weather vanes of metal / wind vanes of metal"
+    },
+    {
+      "No.": "060149",
+      "Goods and Services": "crampons [climbing irons]"
+    },
+    {
+      "No.": "060150",
+      "Goods and Services": "ice moulds of metal"
+    },
+    {
+      "No.": "060151",
+      "Goods and Services": "grease nipples"
+    },
+    {
+      "No.": "060152",
+      "Goods and Services": "gratings of metal / grilles of metal"
+    },
+    {
+      "No.": "060153",
+      "Goods and Services": "spring locks"
+    },
+    {
+      "No.": "060154",
+      "Goods and Services": "indium"
+    },
+    {
+      "No.": "060155",
+      "Goods and Services": "badges of metal for vehicles"
+    },
+    {
+      "No.": "060156",
+      "Goods and Services": "jalousies of metal"
+    },
+    {
+      "No.": "060157",
+      "Goods and Services": "brass, unwrought or semi-wrought"
+    },
+    {
+      "No.": "060158",
+      "Goods and Services": "outdoor blinds of metal"
+    },
+    {
+      "No.": "060159",
+      "Goods and Services": "rocket launching platforms of metal"
+    },
+    {
+      "No.": "060160",
+      "Goods and Services": "laths of metal"
+    },
+    {
+      "No.": "060161",
+      "Goods and Services": "filings of metal"
+    },
+    {
+      "No.": "060162",
+      "Goods and Services": "stringers [parts of staircases] of metal"
+    },
+    {
+      "No.": "060163",
+      "Goods and Services": "limonite"
+    },
+    {
+      "No.": "060164",
+      "Goods and Services": "ingots of common metal"
+    },
+    {
+      "No.": "060165",
+      "Goods and Services": "lintels of metal"
+    },
+    {
+      "No.": "060166",
+      "Goods and Services": "bed casters of metal"
+    },
+    {
+      "No.": "060167",
+      "Goods and Services": "latches of metal"
+    },
+    {
+      "No.": "060168",
+      "Goods and Services": "blooms [metallurgy]"
+    },
+    {
+      "No.": "060169",
+      "Goods and Services": "magnesium"
+    },
+    {
+      "No.": "060170",
+      "Goods and Services": "buildings, transportable, of metal"
+    },
+    {
+      "No.": "060172",
+      "Goods and Services": "ferrules of metal for handles"
+    },
+    {
+      "No.": "060173",
+      "Goods and Services": "pipe muffs of metal"
+    },
+    {
+      "No.": "060174",
+      "Goods and Services": "manganese"
+    },
+    {
+      "No.": "060175",
+      "Goods and Services": "handling pallets of metal"
+    },
+    {
+      "No.": "060176",
+      "Goods and Services": "transport pallets of metal"
+    },
+    {
+      "No.": "060177",
+      "Goods and Services": "steps [ladders] of metal"
+    },
+    {
+      "No.": "060179",
+      "Goods and Services": "porches [structures] of metal"
+    },
+    {
+      "No.": "060180",
+      "Goods and Services": "door knockers of metal"
+    },
+    {
+      "No.": "060181",
+      "Goods and Services": "handcuffs"
+    },
+    {
+      "No.": "060182",
+      "Goods and Services": "common metals, unwrought or semi-wrought"
+    },
+    {
+      "No.": "060183",
+      "Goods and Services": "ores of metal"
+    },
+    {
+      "No.": "060184",
+      "Goods and Services": "wire cloth / wire gauze"
+    },
+    {
+      "No.": "060185",
+      "Goods and Services": "pyrophoric metals"
+    },
+    {
+      "No.": "060187",
+      "Goods and Services": "furniture casters of metal"
+    },
+    {
+      "No.": "060188",
+      "Goods and Services": "sheet piles of metal / pilings of metal"
+    },
+    {
+      "No.": "060189",
+      "Goods and Services": "molybdenum"
+    },
+    {
+      "No.": "060190",
+      "Goods and Services": "monuments of metal"
+    },
+    {
+      "No.": "060191",
+      "Goods and Services": "vice claws of metal"
+    },
+    {
+      "No.": "060192",
+      "Goods and Services": "wall claddings of metal for building"
+    },
+    {
+      "No.": "060193",
+      "Goods and Services": "nickel"
+    },
+    {
+      "No.": "060194",
+      "Goods and Services": "niobium"
+    },
+    {
+      "No.": "060195",
+      "Goods and Services": "flashing of metal for building"
+    },
+    {
+      "No.": "060196",
+      "Goods and Services": "house numbers of metal, non-luminous"
+    },
+    {
+      "No.": "060197",
+      "Goods and Services": "shutters of metal"
+    },
+    {
+      "No.": "060198",
+      "Goods and Services": "palings of metal"
+    },
+    {
+      "No.": "060199",
+      "Goods and Services": "baskets of metal"
+    },
+    {
+      "No.": "060200",
+      "Goods and Services": "signalling panels, non-luminous and non-mechanical, of metal"
+    },
+    {
+      "No.": "060201",
+      "Goods and Services": "wall linings of metal for building"
+    },
+    {
+      "No.": "060202",
+      "Goods and Services": "clothes hooks of metal"
+    },
+    {
+      "No.": "060203",
+      "Goods and Services": "skating rinks [structures] of metal"
+    },
+    {
+      "No.": "060204",
+      "Goods and Services": "lock bolts"
+    },
+    {
+      "No.": "060205",
+      "Goods and Services": "posts of metal"
+    },
+    {
+      "No.": "060206",
+      "Goods and Services": "springs [metal hardware]"
+    },
+    {
+      "No.": "060207",
+      "Goods and Services": "pulleys of metal, other than for machines"
+    },
+    {
+      "No.": "060208",
+      "Goods and Services": "tent pegs of metal"
+    },
+    {
+      "No.": "060209",
+      "Goods and Services": "ceilings of metal"
+    },
+    {
+      "No.": "060210",
+      "Goods and Services": "floors of metal"
+    },
+    {
+      "No.": "060211",
+      "Goods and Services": "linings of metal for building"
+    },
+    {
+      "No.": "060212",
+      "Goods and Services": "turntables [railways]"
+    },
+    {
+      "No.": "060213",
+      "Goods and Services": "roofing tiles of metal"
+    },
+    {
+      "No.": "060214",
+      "Goods and Services": "lead, unwrought or semi-wrought"
+    },
+    {
+      "No.": "060215",
+      "Goods and Services": "diving boards of metal"
+    },
+    {
+      "No.": "060216",
+      "Goods and Services": "door handles of metal"
+    },
+    {
+      "No.": "060217",
+      "Goods and Services": "rivets of metal"
+    },
+    {
+      "No.": "060218",
+      "Goods and Services": "gates of metal"
+    },
+    {
+      "No.": "060219",
+      "Goods and Services": "door panels of metal"
+    },
+    {
+      "No.": "060220",
+      "Goods and Services": "door bolts of metal"
+    },
+    {
+      "No.": "060221",
+      "Goods and Services": "split rings of common metal for keys"
+    },
+    {
+      "No.": "060222",
+      "Goods and Services": "telegraph posts of metal"
+    },
+    {
+      "No.": "060223",
+      "Goods and Services": "zinc"
+    },
+    {
+      "No.": "060224",
+      "Goods and Services": "beams of metal / girders of metal"
+    },
+    {
+      "No.": "060225",
+      "Goods and Services": "joists of metal"
+    },
+    {
+      "No.": "060226",
+      "Goods and Services": "platforms, prefabricated, of metal"
+    },
+    {
+      "No.": "060227",
+      "Goods and Services": "ironmongery* / hardware* of metal, small"
+    },
+    {
+      "No.": "060228",
+      "Goods and Services": "road signs, non-luminous and non-mechanical, of metal"
+    },
+    {
+      "No.": "060229",
+      "Goods and Services": "junctions of metal for pipes"
+    },
+    {
+      "No.": "060230",
+      "Goods and Services": "wire stretchers [tension links]"
+    },
+    {
+      "No.": "060231",
+      "Goods and Services": "packaging containers of metal"
+    },
+    {
+      "No.": "060232",
+      "Goods and Services": "tanks of metal / reservoirs of metal"
+    },
+    {
+      "No.": "060233",
+      "Goods and Services": "sills of metal"
+    },
+    {
+      "No.": "060235",
+      "Goods and Services": "signs, non-luminous and non-mechanical, of metal"
+    },
+    {
+      "No.": "060236",
+      "Goods and Services": "greenhouses of metal, transportable"
+    },
+    {
+      "No.": "060237",
+      "Goods and Services": "locks of metal for vehicles"
+    },
+    {
+      "No.": "060238",
+      "Goods and Services": "stops of metal"
+    },
+    {
+      "No.": "060239",
+      "Goods and Services": "silos of metal"
+    },
+    {
+      "No.": "060240",
+      "Goods and Services": "bells for animals"
+    },
+    {
+      "No.": "060241",
+      "Goods and Services": "bells*"
+    },
+    {
+      "No.": "060242",
+      "Goods and Services": "soldering wire of metal"
+    },
+    {
+      "No.": "060243",
+      "Goods and Services": "valves of metal, other than parts of machines"
+    },
+    {
+      "No.": "060244",
+      "Goods and Services": "statues of common metal"
+    },
+    {
+      "No.": "060245",
+      "Goods and Services": "railway sleepers of metal / railroad ties of metal"
+    },
+    {
+      "No.": "060246",
+      "Goods and Services": "tantalum [metal]"
+    },
+    {
+      "No.": "060247",
+      "Goods and Services": "bolts, flat"
+    },
+    {
+      "No.": "060248",
+      "Goods and Services": "anvils [portable]"
+    },
+    {
+      "No.": "060249",
+      "Goods and Services": "tension links"
+    },
+    {
+      "No.": "060251",
+      "Goods and Services": "titanium"
+    },
+    {
+      "No.": "060252",
+      "Goods and Services": "roofing of metal"
+    },
+    {
+      "No.": "060253",
+      "Goods and Services": "tombac"
+    },
+    {
+      "No.": "060254",
+      "Goods and Services": "tombs of metal"
+    },
+    {
+      "No.": "060255",
+      "Goods and Services": "turnstiles of metal"
+    },
+    {
+      "No.": "060256",
+      "Goods and Services": "latticework of metal / trellis of metal"
+    },
+    {
+      "No.": "060257",
+      "Goods and Services": "tungsten"
+    },
+    {
+      "No.": "060258",
+      "Goods and Services": "pipework of metal"
+    },
+    {
+      "No.": "060259",
+      "Goods and Services": "vanadium"
+    },
+    {
+      "No.": "060260",
+      "Goods and Services": "window ventlights of metal"
+    },
+    {
+      "No.": "060262",
+      "Goods and Services": "ferrules of metal"
+    },
+    {
+      "No.": "060263",
+      "Goods and Services": "aviaries [structures] of metal"
+    },
+    {
+      "No.": "060264",
+      "Goods and Services": "zirconium"
+    },
+    {
+      "No.": "060265",
+      "Goods and Services": "balls of steel"
+    },
+    {
+      "No.": "060266",
+      "Goods and Services": "steel buildings"
+    },
+    {
+      "No.": "060267",
+      "Goods and Services": "fittings of metal for compressed air lines"
+    },
+    {
+      "No.": "060268",
+      "Goods and Services": "wire of common metal alloys, except fuse wire"
+    },
+    {
+      "No.": "060269",
+      "Goods and Services": "alloys of common metal"
+    },
+    {
+      "No.": "060270",
+      "Goods and Services": "aluminium foil"
+    },
+    {
+      "No.": "060271",
+      "Goods and Services": "mooring bollards of metal"
+    },
+    {
+      "No.": "060272",
+      "Goods and Services": "floating docks of metal, for mooring boats"
+    },
+    {
+      "No.": "060273",
+      "Goods and Services": "anchors*"
+    },
+    {
+      "No.": "060274",
+      "Goods and Services": "wainscotting of metal"
+    },
+    {
+      "No.": "060275",
+      "Goods and Services": "reinforcing materials of metal for pipes"
+    },
+    {
+      "No.": "060276",
+      "Goods and Services": "reinforcing materials of metal for building"
+    },
+    {
+      "No.": "060277",
+      "Goods and Services": "reinforcing materials of metal for machine belts"
+    },
+    {
+      "No.": "060278",
+      "Goods and Services": "works of art of common metal"
+    },
+    {
+      "No.": "060279",
+      "Goods and Services": "troughs of metal for mixing mortar"
+    },
+    {
+      "No.": "060280",
+      "Goods and Services": "bird baths [structures] of metal"
+    },
+    {
+      "No.": "060282",
+      "Goods and Services": "beacons of metal, non-luminous"
+    },
+    {
+      "No.": "060284",
+      "Goods and Services": "stretchers for iron bands [tension links]"
+    },
+    {
+      "No.": "060285",
+      "Goods and Services": "bands of metal for tying-up purposes / wrapping or binding bands of metal"
+    },
+    {
+      "No.": "060286",
+      "Goods and Services": "thread of metal for tying-up purposes"
+    },
+    {
+      "No.": "060287",
+      "Goods and Services": "barrels of metal"
+    },
+    {
+      "No.": "060288",
+      "Goods and Services": "barrel hoops of metal"
+    },
+    {
+      "No.": "060289",
+      "Goods and Services": "casks of metal"
+    },
+    {
+      "No.": "060290",
+      "Goods and Services": "swimming pools [structures] of metal"
+    },
+    {
+      "No.": "060291",
+      "Goods and Services": "building materials of metal / construction materials of metal"
+    },
+    {
+      "No.": "060292",
+      "Goods and Services": "shuttering of metal for concrete"
+    },
+    {
+      "No.": "060293",
+      "Goods and Services": "bicycle parking installations of metal"
+    },
+    {
+      "No.": "060294",
+      "Goods and Services": "paving blocks of metal"
+    },
+    {
+      "No.": "060295",
+      "Goods and Services": "boxes of common metal"
+    },
+    {
+      "No.": "060296",
+      "Goods and Services": "plugs of metal / bungs of metal"
+    },
+    {
+      "No.": "060297",
+      "Goods and Services": "sealing caps of metal"
+    },
+    {
+      "No.": "060298",
+      "Goods and Services": "buckles of common metal [hardware]"
+    },
+    {
+      "No.": "060299",
+      "Goods and Services": "bottle caps of metal"
+    },
+    {
+      "No.": "060300",
+      "Goods and Services": "bottle closures of metal / bottle fasteners of metal"
+    },
+    {
+      "No.": "060301",
+      "Goods and Services": "knobs of metal"
+    },
+    {
+      "No.": "060302",
+      "Goods and Services": "rods of metal for brazing"
+    },
+    {
+      "No.": "060303",
+      "Goods and Services": "rods of metal for brazing and welding"
+    },
+    {
+      "No.": "060304",
+      "Goods and Services": "rods of metal for welding"
+    },
+    {
+      "No.": "060305",
+      "Goods and Services": "straps of metal for handling loads / belts of metal for handling loads"
+    },
+    {
+      "No.": "060306",
+      "Goods and Services": "slings of metal for handling loads"
+    },
+    {
+      "No.": "060307",
+      "Goods and Services": "busts of common metal"
+    },
+    {
+      "No.": "060308",
+      "Goods and Services": "cabanas of metal"
+    },
+    {
+      "No.": "060310",
+      "Goods and Services": "paint spraying booths of metal / booths of metal for spraying paint"
+    },
+    {
+      "No.": "060311",
+      "Goods and Services": "cables of metal, non-electric"
+    },
+    {
+      "No.": "060312",
+      "Goods and Services": "collars of metal for fastening pipes"
+    },
+    {
+      "No.": "060313",
+      "Goods and Services": "clips of metal for cables and pipes"
+    },
+    {
+      "No.": "060314",
+      "Goods and Services": "binding screws of metal for cables"
+    },
+    {
+      "No.": "060315",
+      "Goods and Services": "window frames of metal"
+    },
+    {
+      "No.": "060316",
+      "Goods and Services": "greenhouse frames of metal"
+    },
+    {
+      "No.": "060317",
+      "Goods and Services": "duckboards of metal"
+    },
+    {
+      "No.": "060318",
+      "Goods and Services": "chimney cowls of metal"
+    },
+    {
+      "No.": "060319",
+      "Goods and Services": "binding thread of metal for agricultural purposes"
+    },
+    {
+      "No.": "060320",
+      "Goods and Services": "door openers of metal, non-electric"
+    },
+    {
+      "No.": "060321",
+      "Goods and Services": "tiles of metal for building"
+    },
+    {
+      "No.": "060322",
+      "Goods and Services": "tile floorings of metal"
+    },
+    {
+      "No.": "060323",
+      "Goods and Services": "burial vaults of metal"
+    },
+    {
+      "No.": "060324",
+      "Goods and Services": "fittings of metal for coffins"
+    },
+    {
+      "No.": "060325",
+      "Goods and Services": "loading pallets of metal"
+    },
+    {
+      "No.": "060326",
+      "Goods and Services": "loading gauge rods of metal for railway wagons"
+    },
+    {
+      "No.": "060327",
+      "Goods and Services": "hinges of metal"
+    },
+    {
+      "No.": "060328",
+      "Goods and Services": "framework of metal for building"
+    },
+    {
+      "No.": "060329",
+      "Goods and Services": "door frames of metal / door casings of metal"
+    },
+    {
+      "No.": "060330",
+      "Goods and Services": "materials of metal for funicular railway permanent ways"
+    },
+    {
+      "No.": "060331",
+      "Goods and Services": "chimney pots of metal"
+    },
+    {
+      "No.": "060332",
+      "Goods and Services": "roof gutters of metal"
+    },
+    {
+      "No.": "060335",
+      "Goods and Services": "drain traps [valves] of metal"
+    },
+    {
+      "No.": "060336",
+      "Goods and Services": "partitions of metal"
+    },
+    {
+      "No.": "060337",
+      "Goods and Services": "casings of metal for oilwells"
+    },
+    {
+      "No.": "060338",
+      "Goods and Services": "containers of metal for liquid fuel"
+    },
+    {
+      "No.": "060339",
+      "Goods and Services": "buildings of metal"
+    },
+    {
+      "No.": "060340",
+      "Goods and Services": "floating containers of metal"
+    },
+    {
+      "No.": "060341",
+      "Goods and Services": "ropes of metal"
+    },
+    {
+      "No.": "060343",
+      "Goods and Services": "cornices of metal"
+    },
+    {
+      "No.": "060344",
+      "Goods and Services": "mouldings of metal for cornices / moldings of metal for cornices"
+    },
+    {
+      "No.": "060345",
+      "Goods and Services": "angle irons of metal"
+    },
+    {
+      "No.": "060346",
+      "Goods and Services": "windows of metal"
+    },
+    {
+      "No.": "060347",
+      "Goods and Services": "ironwork for doors"
+    },
+    {
+      "No.": "060348",
+      "Goods and Services": "runners of metal for sliding doors"
+    },
+    {
+      "No.": "060349",
+      "Goods and Services": "manhole covers of metal"
+    },
+    {
+      "No.": "060350",
+      "Goods and Services": "roof coverings of metal"
+    },
+    {
+      "No.": "060351",
+      "Goods and Services": "hooks of metal for roofing slates"
+    },
+    {
+      "No.": "060352",
+      "Goods and Services": "hooks of metal for clothes rails"
+    },
+    {
+      "No.": "060353",
+      "Goods and Services": "copper wire, not insulated"
+    },
+    {
+      "No.": "060354",
+      "Goods and Services": "vats of metal"
+    },
+    {
+      "No.": "060355",
+      "Goods and Services": "stair treads [steps] of metal"
+    },
+    {
+      "No.": "060356",
+      "Goods and Services": "gutter pipes of metal"
+    },
+    {
+      "No.": "060357",
+      "Goods and Services": "reels of metal, non-mechanical, for flexible hoses"
+    },
+    {
+      "No.": "060358",
+      "Goods and Services": "towel dispensers of metal"
+    },
+    {
+      "No.": "060359",
+      "Goods and Services": "water-pipe valves of metal"
+    },
+    {
+      "No.": "060360",
+      "Goods and Services": "scaffolding of metal"
+    },
+    {
+      "No.": "060361",
+      "Goods and Services": "ladders of metal"
+    },
+    {
+      "No.": "060362",
+      "Goods and Services": "mobile boarding stairs of metal for passengers"
+    },
+    {
+      "No.": "060363",
+      "Goods and Services": "bindings of metal"
+    },
+    {
+      "No.": "060364",
+      "Goods and Services": "nuts of metal"
+    },
+    {
+      "No.": "060365",
+      "Goods and Services": "posts of metal for power lines / poles of metal for power lines"
+    },
+    {
+      "No.": "060366",
+      "Goods and Services": "branching pipes of metal"
+    },
+    {
+      "No.": "060367",
+      "Goods and Services": "enclosures of metal for tombs"
+    },
+    {
+      "No.": "060368",
+      "Goods and Services": "fences of metal"
+    },
+    {
+      "No.": "060370",
+      "Goods and Services": "signboards of metal"
+    },
+    {
+      "No.": "060372",
+      "Goods and Services": "props of metal"
+    },
+    {
+      "No.": "060373",
+      "Goods and Services": "tin"
+    },
+    {
+      "No.": "060374",
+      "Goods and Services": "tinplate"
+    },
+    {
+      "No.": "060375",
+      "Goods and Services": "tinfoil"
+    },
+    {
+      "No.": "060376",
+      "Goods and Services": "sheets and plates of metal"
+    },
+    {
+      "No.": "060379",
+      "Goods and Services": "locks of metal for bags"
+    },
+    {
+      "No.": "060380",
+      "Goods and Services": "fittings of metal for furniture"
+    },
+    {
+      "No.": "060381",
+      "Goods and Services": "building panels of metal"
+    },
+    {
+      "No.": "060382",
+      "Goods and Services": "figurines of common metal / statuettes of common metal"
+    },
+    {
+      "No.": "060383",
+      "Goods and Services": "stretchers for metal bands [tension links]"
+    },
+    {
+      "No.": "060384",
+      "Goods and Services": "foundry moulds of metal / foundry molds of metal"
+    },
+    {
+      "No.": "060385",
+      "Goods and Services": "grave slabs of metal / tomb slabs of metal"
+    },
+    {
+      "No.": "060386",
+      "Goods and Services": "monuments of metal for tombs"
+    },
+    {
+      "No.": "060387",
+      "Goods and Services": "tombstone plaques of metal"
+    },
+    {
+      "No.": "060388",
+      "Goods and Services": "tombstone stelae of metal"
+    },
+    {
+      "No.": "060389",
+      "Goods and Services": "memorial plaques of metal"
+    },
+    {
+      "No.": "060390",
+      "Goods and Services": "furnace fireguards of metal"
+    },
+    {
+      "No.": "060391",
+      "Goods and Services": "cask stands of metal"
+    },
+    {
+      "No.": "060393",
+      "Goods and Services": "fittings of metal for beds"
+    },
+    {
+      "No.": "060394",
+      "Goods and Services": "door fittings of metal"
+    },
+    {
+      "No.": "060395",
+      "Goods and Services": "closures of metal for containers"
+    },
+    {
+      "No.": "060396",
+      "Goods and Services": "sheaf binders of metal"
+    },
+    {
+      "No.": "060397",
+      "Goods and Services": "crash barriers of metal for roads"
+    },
+    {
+      "No.": "060398",
+      "Goods and Services": "chests of metal / bins of metal"
+    },
+    {
+      "No.": "060399",
+      "Goods and Services": "nameplates of metal / identity plates of metal"
+    },
+    {
+      "No.": "060400",
+      "Goods and Services": "registration plates of metal / numberplates of metal"
+    },
+    {
+      "No.": "060401",
+      "Goods and Services": "cermets"
+    },
+    {
+      "No.": "060402",
+      "Goods and Services": "taps of metal for casks / faucets of metal for casks"
+    },
+    {
+      "No.": "060411",
+      "Goods and Services": "advertisement columns of metal"
+    },
+    {
+      "No.": "060412",
+      "Goods and Services": "mooring buoys of metal"
+    },
+    {
+      "No.": "060413",
+      "Goods and Services": "chimneys of metal"
+    },
+    {
+      "No.": "060414",
+      "Goods and Services": "chimney shafts of metal"
+    },
+    {
+      "No.": "060415",
+      "Goods and Services": "ducts of metal for ventilating and air-conditioning installations"
+    },
+    {
+      "No.": "060416",
+      "Goods and Services": "foils of metal for wrapping and packaging"
+    },
+    {
+      "No.": "060417",
+      "Goods and Services": "gold solder"
+    },
+    {
+      "No.": "060418",
+      "Goods and Services": "hoppers of metal, non-mechanical"
+    },
+    {
+      "No.": "060419",
+      "Goods and Services": "letters and numerals of common metal, except type"
+    },
+    {
+      "No.": "060420",
+      "Goods and Services": "manifolds of metal for pipelines"
+    },
+    {
+      "No.": "060421",
+      "Goods and Services": "penstock pipes of metal"
+    },
+    {
+      "No.": "060422",
+      "Goods and Services": "telephone booths of metal / telephone boxes of metal"
+    },
+    {
+      "No.": "060423",
+      "Goods and Services": "tool boxes of metal, empty"
+    },
+    {
+      "No.": "060424",
+      "Goods and Services": "tool chests of metal, empty"
+    },
+    {
+      "No.": "060425",
+      "Goods and Services": "chicken-houses of metal"
+    },
+    {
+      "No.": "060426",
+      "Goods and Services": "wheel clamps [boots]"
+    },
+    {
+      "No.": "060427",
+      "Goods and Services": "wire rope"
+    },
+    {
+      "No.": "060428",
+      "Goods and Services": "insect screens of metal"
+    },
+    {
+      "No.": "060430",
+      "Goods and Services": "pitons of metal"
+    },
+    {
+      "No.": "060431",
+      "Goods and Services": "firedogs [andirons]"
+    },
+    {
+      "No.": "060432",
+      "Goods and Services": "wind-driven bird-repelling devices made of metal"
+    },
+    {
+      "No.": "060433",
+      "Goods and Services": "metal cages for wild animals"
+    },
+    {
+      "No.": "060434",
+      "Goods and Services": "metals in powder form*"
+    },
+    {
+      "No.": "060435",
+      "Goods and Services": "refractory construction materials of metal"
+    },
+    {
+      "No.": "060436",
+      "Goods and Services": "arbours [structures] of metal"
+    },
+    {
+      "No.": "060437",
+      "Goods and Services": "stables of metal"
+    },
+    {
+      "No.": "060438",
+      "Goods and Services": "pigsties of metal"
+    },
+    {
+      "No.": "060439",
+      "Goods and Services": "prefabricated houses [ready-to-assemble] of metal"
+    },
+    {
+      "No.": "060440",
+      "Goods and Services": "trays of metal*"
+    },
+    {
+      "No.": "060441",
+      "Goods and Services": "street gutters of metal"
+    },
+    {
+      "No.": "060442",
+      "Goods and Services": "screw tops of metal for bottles"
+    },
+    {
+      "No.": "060443",
+      "Goods and Services": "window openers of metal, non-electric"
+    },
+    {
+      "No.": "060444",
+      "Goods and Services": "window closers of metal, non-electric"
+    },
+    {
+      "No.": "060445",
+      "Goods and Services": "wall tiles of metal"
+    },
+    {
+      "No.": "060446",
+      "Goods and Services": "paving slabs of metal"
+    },
+    {
+      "No.": "060447",
+      "Goods and Services": "slabs of metal for building"
+    },
+    {
+      "No.": "060448",
+      "Goods and Services": "step stools of metal"
+    },
+    {
+      "No.": "060449",
+      "Goods and Services": "roofing of metal, incorporating photovoltaic cells"
+    },
+    {
+      "No.": "060450",
+      "Goods and Services": "armoured doors of metal / armored doors of metal"
+    },
+    {
+      "No.": "060451",
+      "Goods and Services": "bathtub grab bars of metal"
+    },
+    {
+      "No.": "060452",
+      "Goods and Services": "dispensers of metal for dog waste bags"
+    },
+    {
+      "No.": "060453",
+      "Goods and Services": "metals in foil or powder form for 3D printers"
+    },
+    {
+      "No.": "060454",
+      "Goods and Services": "sash fasteners of metal for windows"
+    },
+    {
+      "No.": "060455",
+      "Goods and Services": "door fasteners of metal"
+    },
+    {
+      "No.": "060456",
+      "Goods and Services": "pantiles of metal"
+    },
+    {
+      "No.": "060457",
+      "Goods and Services": "balustrades of metal"
+    },
+    {
+      "No.": "060458",
+      "Goods and Services": "cladding of metal for building"
+    },
+    {
+      "No.": "060459",
+      "Goods and Services": "hot-rolled steel bars"
+    },
+    {
+      "No.": "060460",
+      "Goods and Services": "bright steel bars"
+    },
+    {
+      "No.": "060461",
+      "Goods and Services": "peeled metal bars"
+    },
+    {
+      "No.": "060462",
+      "Goods and Services": "drawn and polished metal bars"
+    },
+    {
+      "No.": "060463",
+      "Goods and Services": "bag hangers of metal"
+    },
+    {
+      "No.": "060464",
+      "Goods and Services": "brackets of metal for furniture"
+    },
+    {
+      "No.": "060465",
+      "Goods and Services": "labels of metal"
+    },
+    {
+      "No.": "060466",
+      "Goods and Services": "jerrycans of metal"
+    },
+    {
+      "No.": "060467",
+      "Goods and Services": "stakes of metal for plants or trees"
+    },
+    {
+      "No.": "060468",
+      "Goods and Services": "flagpoles [structures] of metal"
+    },
+    {
+      "No.": "060469",
+      "Goods and Services": "clips of metal for sealing bags"
+    },
+    {
+      "No.": "060470",
+      "Goods and Services": "shoe pegs of metal"
+    },
+    {
+      "No.": "060471",
+      "Goods and Services": "shoe dowels of metal"
+    },
+    {
+      "No.": "060472",
+      "Goods and Services": "safes, electronic"
+    },
+    {
+      "No.": "060473",
+      "Goods and Services": "folding doors of metal"
+    },
+    {
+      "No.": "060474",
+      "Goods and Services": "mouldings of metal for building / moldings of metal for building"
+    },
+    {
+      "No.": "060475",
+      "Goods and Services": "fireplace mantles of metal"
+    },
+    {
+      "No.": "060476",
+      "Goods and Services": "metal ramps for use with vehicles"
+    },
+    {
+      "No.": "060477",
+      "Goods and Services": "crucifixes of common metal, other than jewellery / crucifixes of common metal, other than jewelry"
+    },
+    {
+      "No.": "060478",
+      "Goods and Services": "swing doors of metal"
+    },
+    {
+      "No.": "060479",
+      "Goods and Services": "oil drainage containers of metal"
+    },
+    {
+      "No.": "060480",
+      "Goods and Services": "hand-held flagpoles of metal"
+    },
+    {
+      "No.": "060481",
+      "Goods and Services": "stoppers of metal"
+    },
+    {
+      "No.": "060482",
+      "Goods and Services": "accordion doors of metal"
+    },
+    {
+      "No.": "060483",
+      "Goods and Services": "fireplace grates of metal"
+    },
+    {
+      "No.": "060484",
+      "Goods and Services": "soundproof booths, transportable, of metal"
+    },
+    {
+      "No.": "060485",
+      "Goods and Services": "acoustic panels of metal"
+    },
+    {
+      "No.": "060486",
+      "Goods and Services": "horticultural frames of metal / cold frames of metal"
+    },
+    {
+      "No.": "060487",
+      "Goods and Services": "zip ties of metal / cable ties of metal"
+    },
+    {
+      "No.": "060488",
+      "Goods and Services": "waste dumpsters of metal, other than for medical use"
+    },
+    {
+      "No.": "060489",
+      "Goods and Services": "commemorative statuary cups of common metal"
+    },
+    {
+      "No.": "060490",
+      "Goods and Services": "prize cups of common metal"
+    },
+    {
+      "No.": "060491",
+      "Goods and Services": "covers specially made for handling and transport of metal bottles for compressed gas"
+    },
+    {
+      "No.": "060492",
+      "Goods and Services": "recycling bins of metal"
+    },
+    {
+      "No.": "060493",
+      "Goods and Services": "sew-on tags of metal for clothing"
+    },
+    {
+      "No.": "060494",
+      "Goods and Services": "adhesive tags of metal for bags"
+    },
+    {
+      "No.": "060495",
+      "Goods and Services": "floating floor boards of metal"
+    },
+    {
+      "No.": "060496",
+      "Goods and Services": "queue ticket dispensers of metal"
+    },
+    {
+      "No.": "060497",
+      "Goods and Services": "boxes of metal for dispensing paper towels"
+    },
+    {
+      "No.": "060498",
+      "Goods and Services": "toilet paper dispensers of metal"
+    },
+    {
+      "No.": "060499",
+      "Goods and Services": "casement windows of metal"
+    },
+    {
+      "No.": "060500",
+      "Goods and Services": "rockfall prevention nets of metal"
+    },
+    {
+      "No.": "060501",
+      "Goods and Services": "building materials of metal with soundproofing qualities / construction materials of metal with soundproofing qualities"
+    },
+    {
+      "No.": "060502",
+      "Goods and Services": "aluminium foil for cooking purposes / aluminum foil for cooking purposes"
+    },
+    {
+      "No.": "060503",
+      "Goods and Services": "hand-held supermarket shopping baskets of metal"
+    },
+    {
+      "No.": "060504",
+      "Goods and Services": "mounting frames of metal for solar panels"
+    },
+    {
+      "No.": "060505",
+      "Goods and Services": "dustbins of metal, other than for household purposes / garbage cans of metal, other than for household purposes / refuse bins of metal, other than for household purposes / trash cans of metal, other than for household purposes"
+    }
+  ]
+}

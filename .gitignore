@@ -12,9 +12,9 @@ env/
 Thumbs.db
 
 # Do not commit dataset files
-data/**/*.json
-data/**/*.csv
-data_nice_cls/**/*.json
-data_nice_cls/**/*.csv
+# data/**/*.json
+# data/**/*.csv
+# data_nice_cls/**/*.json
+# data_nice_cls/**/*.csv
 
 

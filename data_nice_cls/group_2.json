@@ -1,0 +1,500 @@
+{
+  "group_number": "2",
+  "meta": {
+    "Goods and Services": "Class Heading Paints, varnishes, lacquers; preservatives against rust and against deterioration of wood; colorants, dyes; inks for printing, marking and engraving; raw natural resins; metals in foil and powder form for use in painting, decorating, printing and art Explanatory Note Class 2 includes mainly paints, colorants and preparations used for protection against corrosion. This Class includes, in particular: • paints, varnishes and lacquers for industry, handicrafts and arts • thinners, thickeners, fixatives and siccatives for paints, varnishes and lacquers • mordants for wood and leather • anti-rust oils and oils for the preservation of wood • dyestuffs for clothing • colorants for foodstuffs and beverages This Class does not include, in particular: • unprocessed artificial resins (Cl. 1), semi-processed resins (Cl. 17) • mordants for metals (Cl. 1) • laundry blueing and laundry bleaching preparations (Cl. 3) • cosmetic dyes (Cl. 3) • paint boxes (articles for use in school) (Cl. 16) • inks for stationery purposes (Cl. 16) • insulating paints and varnishes (Cl. 17)"
+  },
+  "items": [
+    {
+      "No.": "020001",
+      "Goods and Services": "paints*"
+    },
+    {
+      "No.": "020002",
+      "Goods and Services": "mordants*"
+    },
+    {
+      "No.": "020003",
+      "Goods and Services": "varnishes*"
+    },
+    {
+      "No.": "020004",
+      "Goods and Services": "colourings for beverages / colorings for beverages"
+    },
+    {
+      "No.": "020005",
+      "Goods and Services": "food colouring / food coloring"
+    },
+    {
+      "No.": "020006",
+      "Goods and Services": "alizarine dyes"
+    },
+    {
+      "No.": "020007",
+      "Goods and Services": "aluminium paints"
+    },
+    {
+      "No.": "020008",
+      "Goods and Services": "aluminium powder for painting"
+    },
+    {
+      "No.": "020009",
+      "Goods and Services": "asbestos paints"
+    },
+    {
+      "No.": "020010",
+      "Goods and Services": "anti-corrosive preparations"
+    },
+    {
+      "No.": "020011",
+      "Goods and Services": "fixatives for watercolours / fixatives for watercolors"
+    },
+    {
+      "No.": "020014",
+      "Goods and Services": "silver paste"
+    },
+    {
+      "No.": "020015",
+      "Goods and Services": "silver emulsions [pigments]"
+    },
+    {
+      "No.": "020016",
+      "Goods and Services": "silvering powders"
+    },
+    {
+      "No.": "020017",
+      "Goods and Services": "black japan"
+    },
+    {
+      "No.": "020018",
+      "Goods and Services": "auramine"
+    },
+    {
+      "No.": "020019",
+      "Goods and Services": "bactericidal paints"
+    },
+    {
+      "No.": "020020",
+      "Goods and Services": "badigeon"
+    },
+    {
+      "No.": "020021",
+      "Goods and Services": "anti-corrosive bands"
+    },
+    {
+      "No.": "020022",
+      "Goods and Services": "Canada balsam"
+    },
+    {
+      "No.": "020023",
+      "Goods and Services": "colourings for butter / colorings for butter"
+    },
+    {
+      "No.": "020024",
+      "Goods and Services": "colourings for beer / colorings for beer"
+    },
+    {
+      "No.": "020025",
+      "Goods and Services": "bitumen varnish"
+    },
+    {
+      "No.": "020026",
+      "Goods and Services": "wood coatings [paints]"
+    },
+    {
+      "No.": "020027",
+      "Goods and Services": "wood mordants"
+    },
+    {
+      "No.": "020028",
+      "Goods and Services": "wood stains"
+    },
+    {
+      "No.": "020029",
+      "Goods and Services": "sienna earth"
+    },
+    {
+      "No.": "020031",
+      "Goods and Services": "bronzing lacquers"
+    },
+    {
+      "No.": "020032",
+      "Goods and Services": "bronze powder for painting"
+    },
+    {
+      "No.": "020033",
+      "Goods and Services": "ink for leather"
+    },
+    {
+      "No.": "020034",
+      "Goods and Services": "caramel [food colouring] / caramel [food coloring]"
+    },
+    {
+      "No.": "020035",
+      "Goods and Services": "malt caramel [food colouring] / malt caramel [food coloring]"
+    },
+    {
+      "No.": "020036",
+      "Goods and Services": "coatings for roofing felt [paints]"
+    },
+    {
+      "No.": "020037",
+      "Goods and Services": "ceramic paints"
+    },
+    {
+      "No.": "020038",
+      "Goods and Services": "white lead"
+    },
+    {
+      "No.": "020039",
+      "Goods and Services": "carbon black [pigment]"
+    },
+    {
+      "No.": "020040",
+      "Goods and Services": "undercoating for vehicle chassis / undersealing for vehicle chassis"
+    },
+    {
+      "No.": "020041",
+      "Goods and Services": "shoe dyes"
+    },
+    {
+      "No.": "020042",
+      "Goods and Services": "lime wash"
+    },
+    {
+      "No.": "020043",
+      "Goods and Services": "printers' pastes [ink]"
+    },
+    {
+      "No.": "020044",
+      "Goods and Services": "cobalt oxide [colorant]"
+    },
+    {
+      "No.": "020045",
+      "Goods and Services": "cochineal carmine"
+    },
+    {
+      "No.": "020046",
+      "Goods and Services": "colophony*"
+    },
+    {
+      "No.": "020047",
+      "Goods and Services": "colorants*"
+    },
+    {
+      "No.": "020048",
+      "Goods and Services": "malt colorants"
+    },
+    {
+      "No.": "020049",
+      "Goods and Services": "wood preservatives"
+    },
+    {
+      "No.": "020050",
+      "Goods and Services": "copal"
+    },
+    {
+      "No.": "020052",
+      "Goods and Services": "aniline dyes"
+    },
+    {
+      "No.": "020053",
+      "Goods and Services": "thinners for paints"
+    },
+    {
+      "No.": "020054",
+      "Goods and Services": "thinners for lacquers"
+    },
+    {
+      "No.": "020055",
+      "Goods and Services": "thickeners for paints"
+    },
+    {
+      "No.": "020056",
+      "Goods and Services": "creosote for wood preservation"
+    },
+    {
+      "No.": "020057",
+      "Goods and Services": "stains for leather / mordants for leather"
+    },
+    {
+      "No.": "020058",
+      "Goods and Services": "dyes*"
+    },
+    {
+      "No.": "020059",
+      "Goods and Services": "pigments"
+    },
+    {
+      "No.": "020060",
+      "Goods and Services": "turmeric [colorant]"
+    },
+    {
+      "No.": "020061",
+      "Goods and Services": "natural resins, raw"
+    },
+    {
+      "No.": "020062",
+      "Goods and Services": "distempers"
+    },
+    {
+      "No.": "020064",
+      "Goods and Services": "enamels [varnishes]"
+    },
+    {
+      "No.": "020065",
+      "Goods and Services": "enamels for painting / enamel paints"
+    },
+    {
+      "No.": "020066",
+      "Goods and Services": "printing ink"
+    },
+    {
+      "No.": "020067",
+      "Goods and Services": "marking ink for animals"
+    },
+    {
+      "No.": "020068",
+      "Goods and Services": "siccatives [drying agents] for paints"
+    },
+    {
+      "No.": "020070",
+      "Goods and Services": "coatings [paints]"
+    },
+    {
+      "No.": "020072",
+      "Goods and Services": "fixatives [varnishes]"
+    },
+    {
+      "No.": "020073",
+      "Goods and Services": "lamp black [pigment]"
+    },
+    {
+      "No.": "020074",
+      "Goods and Services": "yellowwood [colorant]"
+    },
+    {
+      "No.": "020075",
+      "Goods and Services": "glazes [paints, lacquers]"
+    },
+    {
+      "No.": "020076",
+      "Goods and Services": "gamboge for painting"
+    },
+    {
+      "No.": "020077",
+      "Goods and Services": "gum-lac / shellac"
+    },
+    {
+      "No.": "020078",
+      "Goods and Services": "gum resins"
+    },
+    {
+      "No.": "020079",
+      "Goods and Services": "anti-rust greases"
+    },
+    {
+      "No.": "020080",
+      "Goods and Services": "engraving ink"
+    },
+    {
+      "No.": "020081",
+      "Goods and Services": "zinc oxide [pigment]"
+    },
+    {
+      "No.": "020082",
+      "Goods and Services": "oils for the preservation of wood"
+    },
+    {
+      "No.": "020083",
+      "Goods and Services": "anti-rust oils"
+    },
+    {
+      "No.": "020085",
+      "Goods and Services": "fireproof paints"
+    },
+    {
+      "No.": "020086",
+      "Goods and Services": "indigo [colorant]"
+    },
+    {
+      "No.": "020087",
+      "Goods and Services": "binding preparations for paints / agglutinants for paints"
+    },
+    {
+      "No.": "020088",
+      "Goods and Services": "colourings for liqueurs / colorings for liqueurs"
+    },
+    {
+      "No.": "020089",
+      "Goods and Services": "orange lead / litharge"
+    },
+    {
+      "No.": "020090",
+      "Goods and Services": "metals in powder form for use in painting, decorating, printing and art"
+    },
+    {
+      "No.": "020091",
+      "Goods and Services": "mastic [natural resin]"
+    },
+    {
+      "No.": "020092",
+      "Goods and Services": "metal foil for use in painting, decorating, printing and art"
+    },
+    {
+      "No.": "020093",
+      "Goods and Services": "anti-tarnishing preparations for metals"
+    },
+    {
+      "No.": "020094",
+      "Goods and Services": "protective preparations for metals"
+    },
+    {
+      "No.": "020095",
+      "Goods and Services": "red lead / minium"
+    },
+    {
+      "No.": "020096",
+      "Goods and Services": "paper for dyeing Easter eggs"
+    },
+    {
+      "No.": "020098",
+      "Goods and Services": "annotto [dyestuff] / annatto [dyestuff]"
+    },
+    {
+      "No.": "020099",
+      "Goods and Services": "saffron [colorant]"
+    },
+    {
+      "No.": "020100",
+      "Goods and Services": "sandarac"
+    },
+    {
+      "No.": "020101",
+      "Goods and Services": "soot [colorant]"
+    },
+    {
+      "No.": "020102",
+      "Goods and Services": "sumac for varnishes"
+    },
+    {
+      "No.": "020106",
+      "Goods and Services": "titanium dioxide [pigment]"
+    },
+    {
+      "No.": "020107",
+      "Goods and Services": "anti-rust preparations"
+    },
+    {
+      "No.": "020108",
+      "Goods and Services": "primers"
+    },
+    {
+      "No.": "020110",
+      "Goods and Services": "whitewash"
+    },
+    {
+      "No.": "020111",
+      "Goods and Services": "dyewood / dye-wood"
+    },
+    {
+      "No.": "020112",
+      "Goods and Services": "dyewood extracts / wood dyestuffs"
+    },
+    {
+      "No.": "020113",
+      "Goods and Services": "carbonyl for wood preservation"
+    },
+    {
+      "No.": "020114",
+      "Goods and Services": "copal varnish"
+    },
+    {
+      "No.": "020115",
+      "Goods and Services": "lacquers*"
+    },
+    {
+      "No.": "020121",
+      "Goods and Services": "ink for printers and photocopiers"
+    },
+    {
+      "No.": "020122",
+      "Goods and Services": "anti-fouling paints"
+    },
+    {
+      "No.": "020123",
+      "Goods and Services": "toner cartridges, filled, for printers and photocopiers"
+    },
+    {
+      "No.": "020124",
+      "Goods and Services": "turpentine [thinner for paints]"
+    },
+    {
+      "No.": "020125",
+      "Goods and Services": "repositionable paint patches"
+    },
+    {
+      "No.": "020126",
+      "Goods and Services": "watercolour paints for use in art / watercolor paints for use in art"
+    },
+    {
+      "No.": "020127",
+      "Goods and Services": "oil paints for use in art"
+    },
+    {
+      "No.": "020128",
+      "Goods and Services": "edible inks"
+    },
+    {
+      "No.": "020129",
+      "Goods and Services": "edible ink cartridges, filled, for printers"
+    },
+    {
+      "No.": "020130",
+      "Goods and Services": "colorants for the restoration of furniture in the form of markers"
+    },
+    {
+      "No.": "020131",
+      "Goods and Services": "anti-graffiti coatings [paints]"
+    },
+    {
+      "No.": "020132",
+      "Goods and Services": "toner for printers and photocopiers"
+    },
+    {
+      "No.": "020133",
+      "Goods and Services": "ink cartridges, filled, for printers and photocopiers"
+    },
+    {
+      "No.": "020134",
+      "Goods and Services": "wood floor finishes"
+    },
+    {
+      "No.": "020135",
+      "Goods and Services": "anti-urine paints"
+    },
+    {
+      "No.": "020136",
+      "Goods and Services": "conductive paints"
+    },
+    {
+      "No.": "020137",
+      "Goods and Services": "conductive inks"
+    },
+    {
+      "No.": "020138",
+      "Goods and Services": "tattooing ink"
+    },
+    {
+      "No.": "020139",
+      "Goods and Services": "dyestuffs"
+    },
+    {
+      "No.": "020140",
+      "Goods and Services": "glitter for use in paint"
+    },
+    {
+      "No.": "020141",
+      "Goods and Services": "masking fluid for use in watercolour painting / masking fluid for use in watercolor painting"
+    }
+  ]
+}

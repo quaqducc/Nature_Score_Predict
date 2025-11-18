@@ -1,0 +1,691 @@
+{
+  "group_number": "35",
+  "meta": {
+    "Goods and Services": "Class Heading Advertising; business management, organization and administration; office functions Explanatory Note Class 35 includes mainly services involving business management, operation, organization and administration of a commercial or industrial enterprise, as well as advertising, marketing and promotional services. For the purposes of classification, the sale of goods is not considered to be a service. This Class includes, in particular: • the bringing together, for the benefit of others, of a variety of goods, excluding the transport thereof, enabling customers to conveniently view and purchase those goods; such services may be provided by retail stores, wholesale outlets, through vending machines, mail order catalogues or by means of electronic media, for example, through websites or television shopping programmes • advertising, marketing and promotional services, for example, distribution of samples, development of advertising concepts, writing and publication of publicity texts • shop window dressing • public relations services • production of teleshopping programmes • organization of trade fairs and exhibitions for commercial or advertising purposes • search engine optimization for sales promotion • commercial assistance services, for example, personnel recruitment, negotiation of business contracts for others, cost price analysis, import-export agency services • administration services relating to business transactions and financial records, for example, book-keeping, drawing up of statements of accounts, business and financial auditing, business appraisals, tax preparation and filing services • commercial administration of the licensing of the goods and services of others • services consisting of the registration, transcription, composition, compilation or systematization of written communications and registrations, and also the compilation of mathematical or statistical data • office functions, for example, appointment scheduling and reminder services, data search in computer files for others, computerized file management, telephone switchboard services This Class does not include, in particular: • financial services, for example, financial analysis, financial management, financial sponsorship (Cl. 36) • real estate management (Cl. 36) • stock brokerage services (Cl. 36) • transportation logistics (Cl. 39) • energy auditing (Cl. 42) • graphic design of promotional materials (Cl. 42) • legal services in relation to the negotiation of contracts for others (Cl. 45) • licensing of intellectual property, legal administration of licences, copyright management (Cl. 45) • registration of domain names (Cl. 45)"
+  },
+  "items": [
+    {
+      "No.": "350001",
+      "Goods and Services": "business management assistance"
+    },
+    {
+      "No.": "350002",
+      "Goods and Services": "business inquiries"
+    },
+    {
+      "No.": "350003",
+      "Goods and Services": "bill-posting"
+    },
+    {
+      "No.": "350005",
+      "Goods and Services": "import-export agency services"
+    },
+    {
+      "No.": "350006",
+      "Goods and Services": "commercial information agency services"
+    },
+    {
+      "No.": "350007",
+      "Goods and Services": "cost price analysis"
+    },
+    {
+      "No.": "350008",
+      "Goods and Services": "dissemination of advertising matter"
+    },
+    {
+      "No.": "350009",
+      "Goods and Services": "photocopying services"
+    },
+    {
+      "No.": "350012",
+      "Goods and Services": "employment agency services"
+    },
+    {
+      "No.": "350013",
+      "Goods and Services": "office machines and equipment rental*"
+    },
+    {
+      "No.": "350015",
+      "Goods and Services": "book-keeping / accounting"
+    },
+    {
+      "No.": "350016",
+      "Goods and Services": "drawing up of statements of accounts"
+    },
+    {
+      "No.": "350017",
+      "Goods and Services": "business auditing"
+    },
+    {
+      "No.": "350018"
+    },
+    {
+      "No.": "350019",
+      "Goods and Services": "personnel management consultancy"
+    },
+    {
+      "No.": "350020",
+      "Goods and Services": "business management consultancy"
+    },
+    {
+      "No.": "350022",
+      "Goods and Services": "typing"
+    },
+    {
+      "No.": "350023",
+      "Goods and Services": "demonstration of goods"
+    },
+    {
+      "No.": "350024",
+      "Goods and Services": "direct mail advertising"
+    },
+    {
+      "No.": "350025",
+      "Goods and Services": "commercial or industrial management assistance"
+    },
+    {
+      "No.": "350027",
+      "Goods and Services": "updating of advertising material"
+    },
+    {
+      "No.": "350028",
+      "Goods and Services": "distribution of samples"
+    },
+    {
+      "No.": "350029",
+      "Goods and Services": "business efficiency expert services"
+    },
+    {
+      "No.": "350030",
+      "Goods and Services": "auctioneering"
+    },
+    {
+      "No.": "350031",
+      "Goods and Services": "market studies"
+    },
+    {
+      "No.": "350032",
+      "Goods and Services": "business appraisals"
+    },
+    {
+      "No.": "350033",
+      "Goods and Services": "business investigations"
+    },
+    {
+      "No.": "350035",
+      "Goods and Services": "publicity material rental"
+    },
+    {
+      "No.": "350036",
+      "Goods and Services": "business organization consultancy"
+    },
+    {
+      "No.": "350038",
+      "Goods and Services": "publication of publicity texts"
+    },
+    {
+      "No.": "350039",
+      "Goods and Services": "advertising / publicity"
+    },
+    {
+      "No.": "350040",
+      "Goods and Services": "radio advertising"
+    },
+    {
+      "No.": "350041",
+      "Goods and Services": "business research"
+    },
+    {
+      "No.": "350042",
+      "Goods and Services": "public relations"
+    },
+    {
+      "No.": "350043",
+      "Goods and Services": "shorthand"
+    },
+    {
+      "No.": "350044",
+      "Goods and Services": "television advertising"
+    },
+    {
+      "No.": "350045",
+      "Goods and Services": "transcription of communications [office functions]"
+    },
+    {
+      "No.": "350046",
+      "Goods and Services": "shop window dressing"
+    },
+    {
+      "No.": "350047",
+      "Goods and Services": "advertising agency services / publicity agency services"
+    },
+    {
+      "No.": "350048",
+      "Goods and Services": "advisory services for business management"
+    },
+    {
+      "No.": "350049",
+      "Goods and Services": "modelling for advertising or sales promotion"
+    },
+    {
+      "No.": "350051",
+      "Goods and Services": "marketing research"
+    },
+    {
+      "No.": "350061",
+      "Goods and Services": "computerized file management"
+    },
+    {
+      "No.": "350062",
+      "Goods and Services": "professional business consultancy"
+    },
+    {
+      "No.": "350063",
+      "Goods and Services": "economic forecasting"
+    },
+    {
+      "No.": "350064",
+      "Goods and Services": "organization of exhibitions for commercial or advertising purposes"
+    },
+    {
+      "No.": "350065",
+      "Goods and Services": "providing business information"
+    },
+    {
+      "No.": "350066",
+      "Goods and Services": "opinion polling"
+    },
+    {
+      "No.": "350067",
+      "Goods and Services": "payroll preparation"
+    },
+    {
+      "No.": "350068",
+      "Goods and Services": "personnel recruitment"
+    },
+    {
+      "No.": "350069",
+      "Goods and Services": "administrative services for the relocation of businesses"
+    },
+    {
+      "No.": "350070",
+      "Goods and Services": "rental of advertising space"
+    },
+    {
+      "No.": "350071",
+      "Goods and Services": "sales promotion for others"
+    },
+    {
+      "No.": "350072",
+      "Goods and Services": "secretarial services"
+    },
+    {
+      "No.": "350073",
+      "Goods and Services": "tax preparation"
+    },
+    {
+      "No.": "350074",
+      "Goods and Services": "telephone answering for unavailable subscribers"
+    },
+    {
+      "No.": "350075",
+      "Goods and Services": "word processing"
+    },
+    {
+      "No.": "350076",
+      "Goods and Services": "arranging newspaper subscriptions for others"
+    },
+    {
+      "No.": "350077",
+      "Goods and Services": "advertising by mail order"
+    },
+    {
+      "No.": "350078",
+      "Goods and Services": "business management of hotels"
+    },
+    {
+      "No.": "350079",
+      "Goods and Services": "business management of performing artists"
+    },
+    {
+      "No.": "350080",
+      "Goods and Services": "compilation of information into computer databases"
+    },
+    {
+      "No.": "350081",
+      "Goods and Services": "systemization of information into computer databases"
+    },
+    {
+      "No.": "350082",
+      "Goods and Services": "organization of trade fairs"
+    },
+    {
+      "No.": "350083",
+      "Goods and Services": "rental of photocopying machines"
+    },
+    {
+      "No.": "350084",
+      "Goods and Services": "online advertising on a computer network"
+    },
+    {
+      "No.": "350085",
+      "Goods and Services": "procurement services for others [purchasing goods and services for other businesses]"
+    },
+    {
+      "No.": "350086",
+      "Goods and Services": "data search in computer files for others"
+    },
+    {
+      "No.": "350087",
+      "Goods and Services": "rental of advertising time on communication media"
+    },
+    {
+      "No.": "350088",
+      "Goods and Services": "news clipping services"
+    },
+    {
+      "No.": "350089",
+      "Goods and Services": "rental of vending machines"
+    },
+    {
+      "No.": "350090",
+      "Goods and Services": "psychological testing for the selection of personnel"
+    },
+    {
+      "No.": "350091",
+      "Goods and Services": "price comparison services"
+    },
+    {
+      "No.": "350092",
+      "Goods and Services": "presentation of goods on communication media, for retail purposes"
+    },
+    {
+      "No.": "350093",
+      "Goods and Services": "providing commercial information and advice for consumers in the choice of products and services"
+    },
+    {
+      "No.": "350094",
+      "Goods and Services": "arranging subscriptions to telecommunication services for others"
+    },
+    {
+      "No.": "350095",
+      "Goods and Services": "administrative processing of purchase orders"
+    },
+    {
+      "No.": "350096",
+      "Goods and Services": "commercial administration of the licensing of the goods and services of others"
+    },
+    {
+      "No.": "350097",
+      "Goods and Services": "outsourcing services [business assistance]"
+    },
+    {
+      "No.": "350098",
+      "Goods and Services": "invoicing"
+    },
+    {
+      "No.": "350099",
+      "Goods and Services": "writing of publicity texts"
+    },
+    {
+      "No.": "350100",
+      "Goods and Services": "compilation of statistics"
+    },
+    {
+      "No.": "350101",
+      "Goods and Services": "layout services for advertising purposes"
+    },
+    {
+      "No.": "350102",
+      "Goods and Services": "sponsorship search"
+    },
+    {
+      "No.": "350103",
+      "Goods and Services": "organization of fashion shows for promotional purposes"
+    },
+    {
+      "No.": "350104",
+      "Goods and Services": "production of advertising films"
+    },
+    {
+      "No.": "350105",
+      "Goods and Services": "business management of sports people"
+    },
+    {
+      "No.": "350106",
+      "Goods and Services": "marketing"
+    },
+    {
+      "No.": "350107",
+      "Goods and Services": "telemarketing services"
+    },
+    {
+      "No.": "350108",
+      "Goods and Services": "retail services for pharmaceutical, veterinary and sanitary preparations and medical supplies"
+    },
+    {
+      "No.": "350109",
+      "Goods and Services": "rental of sales stands"
+    },
+    {
+      "No.": "350110",
+      "Goods and Services": "providing commercial and business contact information"
+    },
+    {
+      "No.": "350111",
+      "Goods and Services": "search engine optimization for sales promotion / search engine optimisation for sales promotion"
+    },
+    {
+      "No.": "350112",
+      "Goods and Services": "website traffic optimization / website traffic optimisation"
+    },
+    {
+      "No.": "350113",
+      "Goods and Services": "pay per click advertising"
+    },
+    {
+      "No.": "350114",
+      "Goods and Services": "commercial intermediation services"
+    },
+    {
+      "No.": "350115",
+      "Goods and Services": "business management for freelance service providers"
+    },
+    {
+      "No.": "350116",
+      "Goods and Services": "negotiation and conclusion of commercial transactions for third parties"
+    },
+    {
+      "No.": "350117",
+      "Goods and Services": "updating and maintenance of data in computer databases"
+    },
+    {
+      "No.": "350118",
+      "Goods and Services": "business project management services for construction projects"
+    },
+    {
+      "No.": "350119",
+      "Goods and Services": "providing business information via a website"
+    },
+    {
+      "No.": "350120",
+      "Goods and Services": "provision of an online marketplace for buyers and sellers of goods and services"
+    },
+    {
+      "No.": "350121",
+      "Goods and Services": "development of advertising concepts"
+    },
+    {
+      "No.": "350122",
+      "Goods and Services": "outsourced administrative management for companies"
+    },
+    {
+      "No.": "350123",
+      "Goods and Services": "tax filing services"
+    },
+    {
+      "No.": "350124",
+      "Goods and Services": "business management of reimbursement programmes for others / business management of reimbursement programs for others"
+    },
+    {
+      "No.": "350125",
+      "Goods and Services": "rental of billboards [advertising boards]"
+    },
+    {
+      "No.": "350126",
+      "Goods and Services": "writing of curriculum vitae for others / writing of résumés for others"
+    },
+    {
+      "No.": "350127",
+      "Goods and Services": "web indexing for commercial or advertising purposes"
+    },
+    {
+      "No.": "350128",
+      "Goods and Services": "administration of frequent flyer programs"
+    },
+    {
+      "No.": "350129",
+      "Goods and Services": "appointment scheduling services [office functions]"
+    },
+    {
+      "No.": "350130",
+      "Goods and Services": "appointment reminder services [office functions]"
+    },
+    {
+      "No.": "350131",
+      "Goods and Services": "administration of consumer loyalty programs"
+    },
+    {
+      "No.": "350132",
+      "Goods and Services": "scriptwriting for advertising purposes"
+    },
+    {
+      "No.": "350133",
+      "Goods and Services": "registration of written communications and data"
+    },
+    {
+      "No.": "350134",
+      "Goods and Services": "updating and maintenance of information in registries"
+    },
+    {
+      "No.": "350135",
+      "Goods and Services": "compiling indexes of information for commercial or advertising purposes"
+    },
+    {
+      "No.": "350136",
+      "Goods and Services": "business intermediary services relating to the matching of potential private investors with entrepreneurs needing funding"
+    },
+    {
+      "No.": "350137",
+      "Goods and Services": "production of teleshopping programmes / production of teleshopping programs"
+    },
+    {
+      "No.": "350138",
+      "Goods and Services": "consultancy regarding public relations communication strategies"
+    },
+    {
+      "No.": "350139",
+      "Goods and Services": "consultancy regarding advertising communication strategies"
+    },
+    {
+      "No.": "350140",
+      "Goods and Services": "negotiation of business contracts for others"
+    },
+    {
+      "No.": "350141",
+      "Goods and Services": "promotion of goods and services through sponsorship of sports events"
+    },
+    {
+      "No.": "350142",
+      "Goods and Services": "competitive intelligence services"
+    },
+    {
+      "No.": "350143",
+      "Goods and Services": "market intelligence services"
+    },
+    {
+      "No.": "350144",
+      "Goods and Services": "financial auditing"
+    },
+    {
+      "No.": "350145",
+      "Goods and Services": "online retail services for downloadable digital music"
+    },
+    {
+      "No.": "350146",
+      "Goods and Services": "online retail services for downloadable ring tones"
+    },
+    {
+      "No.": "350147",
+      "Goods and Services": "online retail services for downloadable and pre-recorded music and movies"
+    },
+    {
+      "No.": "350148",
+      "Goods and Services": "wholesale services for pharmaceutical, veterinary and sanitary preparations and medical supplies"
+    },
+    {
+      "No.": "350149",
+      "Goods and Services": "gift registry services"
+    },
+    {
+      "No.": "350150",
+      "Goods and Services": "targeted marketing"
+    },
+    {
+      "No.": "350151",
+      "Goods and Services": "interim business management"
+    },
+    {
+      "No.": "350152",
+      "Goods and Services": "outdoor advertising"
+    },
+    {
+      "No.": "350153",
+      "Goods and Services": "retail services for works of art provided by art galleries"
+    },
+    {
+      "No.": "350154",
+      "Goods and Services": "administrative assistance in responding to calls for tenders / administrative assistance in responding to requests for proposals [RFPs]"
+    },
+    {
+      "No.": "350155",
+      "Goods and Services": "marketing in the framework of software publishing"
+    },
+    {
+      "No.": "350156",
+      "Goods and Services": "media relations services"
+    },
+    {
+      "No.": "350157",
+      "Goods and Services": "corporate communications services"
+    },
+    {
+      "No.": "350158",
+      "Goods and Services": "rental of office equipment in co-working facilities"
+    },
+    {
+      "No.": "350159",
+      "Goods and Services": "commercial lobbying services"
+    },
+    {
+      "No.": "350160",
+      "Goods and Services": "providing user reviews for commercial or advertising purposes"
+    },
+    {
+      "No.": "350161",
+      "Goods and Services": "providing user rankings for commercial or advertising purposes / providing user ratings for commercial or advertising purposes"
+    },
+    {
+      "No.": "350162",
+      "Goods and Services": "telephone switchboard services"
+    },
+    {
+      "No.": "350163",
+      "Goods and Services": "retail services relating to bakery products"
+    },
+    {
+      "No.": "350164",
+      "Goods and Services": "consumer profiling for commercial or marketing purposes"
+    },
+    {
+      "No.": "350165",
+      "Goods and Services": "administrative services for medical referrals"
+    },
+    {
+      "No.": "350166",
+      "Goods and Services": "business consultancy services for digital transformation"
+    },
+    {
+      "No.": "350167",
+      "Goods and Services": "business intermediary services relating to the matching of various professionals with clients"
+    },
+    {
+      "No.": "350168",
+      "Goods and Services": "reception services for visitors [office functions]"
+    },
+    {
+      "No.": "350169",
+      "Goods and Services": "preparation of business profitability studies"
+    },
+    {
+      "No.": "350170",
+      "Goods and Services": "providing telephone directory information"
+    },
+    {
+      "No.": "350171",
+      "Goods and Services": "arranging subscriptions to electronic toll collection [ETC] services for others"
+    },
+    {
+      "No.": "350172",
+      "Goods and Services": "arranging and conducting of commercial events"
+    },
+    {
+      "No.": "350173",
+      "Goods and Services": "data processing services [office functions]"
+    },
+    {
+      "No.": "350174",
+      "Goods and Services": "rental of cash registers"
+    },
+    {
+      "No.": "350175",
+      "Goods and Services": "lead generation services"
+    },
+    {
+      "No.": "350176",
+      "Goods and Services": "computerized management of medical records and files"
+    },
+    {
+      "No.": "350177",
+      "Goods and Services": "online ordering services in the field of restaurant take-out and delivery"
+    },
+    {
+      "No.": "350178",
+      "Goods and Services": "advertising services to create brand identity for others"
+    },
+    {
+      "No.": "350179",
+      "Goods and Services": "promotion of goods through influencers"
+    },
+    {
+      "No.": "350180",
+      "Goods and Services": "influencer marketing"
+    },
+    {
+      "No.": "350181",
+      "Goods and Services": "sales prospecting for others"
+    },
+    {
+      "No.": "350182",
+      "Goods and Services": "development of marketing concepts"
+    },
+    {
+      "No.": "350183",
+      "Goods and Services": "online retail services for downloadable virtual clothing"
+    },
+    {
+      "No.": "350184",
+      "Goods and Services": "development of business organization strategies relating to corporate social responsibility"
+    },
+    {
+      "No.": "350185",
+      "Goods and Services": "retail services relating to downloadable digital image files authenticated by non-fungible tokens [NFTs]"
+    },
+    {
+      "No.": "350186",
+      "Goods and Services": "business partnership search"
+    },
+    {
+      "No.": "350187",
+      "Goods and Services": "marketing through product placement for others in virtual environments"
+    },
+    {
+      "No.": "350188",
+      "Goods and Services": "provision of an online marketplace for buyers and sellers of downloadable digital image files authenticated by non-fungible tokens [NFTs]"
+    },
+    {
+      "No.": "350189",
+      "Goods and Services": "development of market surveys"
+    }
+  ]
+}

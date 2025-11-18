@@ -1,0 +1,716 @@
+{
+  "group_number": "41",
+  "meta": {
+    "Goods and Services": "Class Heading Education; providing of training; entertainment; sporting and cultural activities Explanatory Note Class 41 includes mainly services consisting of all forms of education or training, services having the basic aim of the entertainment, amusement or recreation of people, as well as the presentation of works of visual art or literature to the public for cultural or educational purposes. This Class includes, in particular: • organization of exhibitions for cultural or educational purposes, arranging and conducting of conferences, congresses and symposiums • translation and language interpretation services • publication of books and texts, other than publicity texts • news reporters services, photographic reporting • photography • film direction and production services, other than for advertising films • cultural, educational or entertainment services provided by amusement parks, circuses, zoos, art galleries and museums • sports and fitness training services • training of animals • online gaming services • gambling services, organization of lotteries • ticket reservation and booking services for entertainment, educational and sporting events • certain writing services, for example, screenplay writing, songwriting This Class does not include, in particular: • organization of exhibitions for commercial or advertising purposes (Cl. 35) • writing and publication of publicity texts (Cl. 35) • news agency services (Cl. 38) • radio and television broadcasting (Cl. 38) • videoconferencing services (Cl. 38) • technical writing (Cl. 42) • day-nursery and crèche services (Cl. 43) • health spa services (Cl. 44) • planning and arranging wedding ceremonies (Cl. 45)"
+  },
+  "items": [
+    {
+      "No.": "410002",
+      "Goods and Services": "academies [education]"
+    },
+    {
+      "No.": "410003",
+      "Goods and Services": "amusement park services"
+    },
+    {
+      "No.": "410004",
+      "Goods and Services": "entertainment services"
+    },
+    {
+      "No.": "410005",
+      "Goods and Services": "animal training"
+    },
+    {
+      "No.": "410006",
+      "Goods and Services": "rental of cinematographic apparatus"
+    },
+    {
+      "No.": "410007",
+      "Goods and Services": "entertainer services"
+    },
+    {
+      "No.": "410008",
+      "Goods and Services": "movie studio services"
+    },
+    {
+      "No.": "410009",
+      "Goods and Services": "presentation of circus performances"
+    },
+    {
+      "No.": "410010",
+      "Goods and Services": "organization of competitions [education or entertainment]"
+    },
+    {
+      "No.": "410011",
+      "Goods and Services": "correspondence courses"
+    },
+    {
+      "No.": "410012",
+      "Goods and Services": "physical education"
+    },
+    {
+      "No.": "410013",
+      "Goods and Services": "rental of show scenery"
+    },
+    {
+      "No.": "410014",
+      "Goods and Services": "providing recreation facilities"
+    },
+    {
+      "No.": "410015",
+      "Goods and Services": "radio entertainment"
+    },
+    {
+      "No.": "410016",
+      "Goods and Services": "publication of texts, other than publicity texts"
+    },
+    {
+      "No.": "410017",
+      "Goods and Services": "teaching / educational services / instruction services"
+    },
+    {
+      "No.": "410018",
+      "Goods and Services": "rental of sound recordings"
+    },
+    {
+      "No.": "410019",
+      "Goods and Services": "rental of motion pictures"
+    },
+    {
+      "No.": "410020",
+      "Goods and Services": "film production, other than advertising films"
+    },
+    {
+      "No.": "410021",
+      "Goods and Services": "gymnastic instruction"
+    },
+    {
+      "No.": "410023",
+      "Goods and Services": "lending library services"
+    },
+    {
+      "No.": "410024",
+      "Goods and Services": "publication of books"
+    },
+    {
+      "No.": "410025",
+      "Goods and Services": "rental of radio and television sets"
+    },
+    {
+      "No.": "410026",
+      "Goods and Services": "production of radio and television programmes"
+    },
+    {
+      "No.": "410027",
+      "Goods and Services": "presentation of variety shows"
+    },
+    {
+      "No.": "410028",
+      "Goods and Services": "orchestra services"
+    },
+    {
+      "No.": "410029",
+      "Goods and Services": "theatre productions"
+    },
+    {
+      "No.": "410030",
+      "Goods and Services": "production of shows"
+    },
+    {
+      "No.": "410031",
+      "Goods and Services": "television entertainment"
+    },
+    {
+      "No.": "410032",
+      "Goods and Services": "rental of stage scenery"
+    },
+    {
+      "No.": "410033",
+      "Goods and Services": "zoological garden services"
+    },
+    {
+      "No.": "410035",
+      "Goods and Services": "providing sports facilities"
+    },
+    {
+      "No.": "410036",
+      "Goods and Services": "modelling for artists"
+    },
+    {
+      "No.": "410041",
+      "Goods and Services": "mobile library services / bookmobile services"
+    },
+    {
+      "No.": "410042",
+      "Goods and Services": "providing casino facilities [gambling]"
+    },
+    {
+      "No.": "410044",
+      "Goods and Services": "arranging and conducting of colloquiums"
+    },
+    {
+      "No.": "410045",
+      "Goods and Services": "arranging and conducting of conferences"
+    },
+    {
+      "No.": "410046",
+      "Goods and Services": "arranging and conducting of congresses"
+    },
+    {
+      "No.": "410047",
+      "Goods and Services": "discotheque services"
+    },
+    {
+      "No.": "410048",
+      "Goods and Services": "providing information in the field of education"
+    },
+    {
+      "No.": "410049",
+      "Goods and Services": "educational examination"
+    },
+    {
+      "No.": "410050",
+      "Goods and Services": "providing information in the field of entertainment"
+    },
+    {
+      "No.": "410051",
+      "Goods and Services": "organization of exhibitions for cultural or educational purposes"
+    },
+    {
+      "No.": "410052",
+      "Goods and Services": "gambling services"
+    },
+    {
+      "No.": "410053",
+      "Goods and Services": "providing golf facilities"
+    },
+    {
+      "No.": "410054",
+      "Goods and Services": "health club services [health and fitness training]"
+    },
+    {
+      "No.": "410055",
+      "Goods and Services": "holiday camp services [entertainment]"
+    },
+    {
+      "No.": "410056",
+      "Goods and Services": "presentation of live performances"
+    },
+    {
+      "No.": "410057",
+      "Goods and Services": "cinema presentations / movie theatre presentations"
+    },
+    {
+      "No.": "410058",
+      "Goods and Services": "nursery schools"
+    },
+    {
+      "No.": "410059",
+      "Goods and Services": "organization of sports competitions"
+    },
+    {
+      "No.": "410060",
+      "Goods and Services": "party planning [entertainment]"
+    },
+    {
+      "No.": "410061",
+      "Goods and Services": "practical training [demonstration]"
+    },
+    {
+      "No.": "410062",
+      "Goods and Services": "providing museum facilities"
+    },
+    {
+      "No.": "410063",
+      "Goods and Services": "recording studio services"
+    },
+    {
+      "No.": "410064",
+      "Goods and Services": "providing information relating to recreational activities"
+    },
+    {
+      "No.": "410065",
+      "Goods and Services": "rental of skin diving equipment"
+    },
+    {
+      "No.": "410066",
+      "Goods and Services": "rental of sports equipment, except vehicles"
+    },
+    {
+      "No.": "410067",
+      "Goods and Services": "rental of stadium facilities"
+    },
+    {
+      "No.": "410068",
+      "Goods and Services": "rental of video cassette recorders"
+    },
+    {
+      "No.": "410069",
+      "Goods and Services": "rental of videotapes"
+    },
+    {
+      "No.": "410070",
+      "Goods and Services": "arranging and conducting of seminars"
+    },
+    {
+      "No.": "410071",
+      "Goods and Services": "sport camp services"
+    },
+    {
+      "No.": "410072",
+      "Goods and Services": "arranging and conducting of symposiums"
+    },
+    {
+      "No.": "410073",
+      "Goods and Services": "timing of sports events"
+    },
+    {
+      "No.": "410075",
+      "Goods and Services": "boarding school education"
+    },
+    {
+      "No.": "410076",
+      "Goods and Services": "arranging and conducting of workshops [training]"
+    },
+    {
+      "No.": "410077",
+      "Goods and Services": "arranging of beauty contests"
+    },
+    {
+      "No.": "410078",
+      "Goods and Services": "booking of seats for shows"
+    },
+    {
+      "No.": "410079",
+      "Goods and Services": "dubbing"
+    },
+    {
+      "No.": "410080",
+      "Goods and Services": "religious education"
+    },
+    {
+      "No.": "410081",
+      "Goods and Services": "organization of lotteries"
+    },
+    {
+      "No.": "410082",
+      "Goods and Services": "organization of balls"
+    },
+    {
+      "No.": "410083",
+      "Goods and Services": "organization of shows [impresario services]"
+    },
+    {
+      "No.": "410084",
+      "Goods and Services": "providing amusement arcade services"
+    },
+    {
+      "No.": "410085",
+      "Goods and Services": "rental of audio equipment"
+    },
+    {
+      "No.": "410086",
+      "Goods and Services": "rental of lighting apparatus for theatrical sets or television studios"
+    },
+    {
+      "No.": "410087",
+      "Goods and Services": "rental of tennis courts"
+    },
+    {
+      "No.": "410088",
+      "Goods and Services": "rental of video cameras / rental of camcorders"
+    },
+    {
+      "No.": "410089",
+      "Goods and Services": "scriptwriting, other than for advertising purposes"
+    },
+    {
+      "No.": "410090",
+      "Goods and Services": "videotape editing"
+    },
+    {
+      "No.": "410091",
+      "Goods and Services": "online publication of electronic books and journals"
+    },
+    {
+      "No.": "410092",
+      "Goods and Services": "electronic desktop publishing"
+    },
+    {
+      "No.": "410093",
+      "Goods and Services": "subtitling"
+    },
+    {
+      "No.": "410094",
+      "Goods and Services": "game services provided online from a computer network"
+    },
+    {
+      "No.": "410095",
+      "Goods and Services": "karaoke services"
+    },
+    {
+      "No.": "410097",
+      "Goods and Services": "music composition services"
+    },
+    {
+      "No.": "410098",
+      "Goods and Services": "nightclub services [entertainment]"
+    },
+    {
+      "No.": "410099",
+      "Goods and Services": "providing online electronic publications, not downloadable"
+    },
+    {
+      "No.": "410100",
+      "Goods and Services": "photographic reporting"
+    },
+    {
+      "No.": "410101",
+      "Goods and Services": "photography"
+    },
+    {
+      "No.": "410102",
+      "Goods and Services": "vocational guidance [education or training advice]"
+    },
+    {
+      "No.": "410103",
+      "Goods and Services": "news reporters services"
+    },
+    {
+      "No.": "410104",
+      "Goods and Services": "translation"
+    },
+    {
+      "No.": "410105",
+      "Goods and Services": "sign language interpretation"
+    },
+    {
+      "No.": "410106",
+      "Goods and Services": "videotaping"
+    },
+    {
+      "No.": "410182",
+      "Goods and Services": "microfilming"
+    },
+    {
+      "No.": "410183",
+      "Goods and Services": "ticket agency services [entertainment]"
+    },
+    {
+      "No.": "410184",
+      "Goods and Services": "writing of texts*"
+    },
+    {
+      "No.": "410185",
+      "Goods and Services": "arranging and conducting of concerts"
+    },
+    {
+      "No.": "410186",
+      "Goods and Services": "calligraphy services"
+    },
+    {
+      "No.": "410187",
+      "Goods and Services": "layout services, other than for advertising purposes"
+    },
+    {
+      "No.": "410188",
+      "Goods and Services": "organization of fashion shows for entertainment purposes"
+    },
+    {
+      "No.": "410189",
+      "Goods and Services": "coaching [training]"
+    },
+    {
+      "No.": "410190",
+      "Goods and Services": "rental of sports grounds"
+    },
+    {
+      "No.": "410191",
+      "Goods and Services": "disc jockey services"
+    },
+    {
+      "No.": "410192",
+      "Goods and Services": "language interpretation"
+    },
+    {
+      "No.": "410193",
+      "Goods and Services": "personal trainer services [fitness training]"
+    },
+    {
+      "No.": "410194",
+      "Goods and Services": "conducting fitness classes"
+    },
+    {
+      "No.": "410195",
+      "Goods and Services": "vocational retraining"
+    },
+    {
+      "No.": "410196",
+      "Goods and Services": "production of music"
+    },
+    {
+      "No.": "410197",
+      "Goods and Services": "toy rental"
+    },
+    {
+      "No.": "410198",
+      "Goods and Services": "games equipment rental"
+    },
+    {
+      "No.": "410199",
+      "Goods and Services": "educational services provided by schools"
+    },
+    {
+      "No.": "410200",
+      "Goods and Services": "providing online music, not downloadable"
+    },
+    {
+      "No.": "410201",
+      "Goods and Services": "providing online videos, not downloadable"
+    },
+    {
+      "No.": "410202",
+      "Goods and Services": "tutoring"
+    },
+    {
+      "No.": "410203",
+      "Goods and Services": "arranging and conducting of in-person educational forums"
+    },
+    {
+      "No.": "410204",
+      "Goods and Services": "songwriting"
+    },
+    {
+      "No.": "410205",
+      "Goods and Services": "screenplay writing"
+    },
+    {
+      "No.": "410206",
+      "Goods and Services": "conducting guided tours"
+    },
+    {
+      "No.": "410207",
+      "Goods and Services": "training services provided via simulators"
+    },
+    {
+      "No.": "410208",
+      "Goods and Services": "providing films, not downloadable, via video-on-demand services"
+    },
+    {
+      "No.": "410209",
+      "Goods and Services": "providing television programmes, not downloadable, via video-on-demand services / providing television programs, not downloadable, via video-on-demand services"
+    },
+    {
+      "No.": "410210",
+      "Goods and Services": "sado instruction [tea ceremony instruction]"
+    },
+    {
+      "No.": "410211",
+      "Goods and Services": "aikido instruction"
+    },
+    {
+      "No.": "410212",
+      "Goods and Services": "rental of artwork"
+    },
+    {
+      "No.": "410213",
+      "Goods and Services": "rental of indoor aquaria"
+    },
+    {
+      "No.": "410214",
+      "Goods and Services": "conducting guided climbing tours"
+    },
+    {
+      "No.": "410215",
+      "Goods and Services": "organization of cosplay entertainment events"
+    },
+    {
+      "No.": "410216",
+      "Goods and Services": "cultural, educational or entertainment services provided by art galleries"
+    },
+    {
+      "No.": "410217",
+      "Goods and Services": "film distribution"
+    },
+    {
+      "No.": "410218",
+      "Goods and Services": "know-how transfer [training]"
+    },
+    {
+      "No.": "410219",
+      "Goods and Services": "educational assistance services for persons with individual needs"
+    },
+    {
+      "No.": "410220",
+      "Goods and Services": "martial arts instruction"
+    },
+    {
+      "No.": "410221",
+      "Goods and Services": "educational examination for users to qualify to pilot drones"
+    },
+    {
+      "No.": "410222",
+      "Goods and Services": "sound engineering services for events"
+    },
+    {
+      "No.": "410223",
+      "Goods and Services": "video editing services for events"
+    },
+    {
+      "No.": "410224",
+      "Goods and Services": "lighting technician services for events"
+    },
+    {
+      "No.": "410225",
+      "Goods and Services": "film directing, other than advertising films"
+    },
+    {
+      "No.": "410226",
+      "Goods and Services": "providing user reviews for entertainment or cultural purposes"
+    },
+    {
+      "No.": "410227",
+      "Goods and Services": "providing user rankings for entertainment or cultural purposes / providing user ratings for entertainment or cultural purposes"
+    },
+    {
+      "No.": "410228",
+      "Goods and Services": "rental of training simulators"
+    },
+    {
+      "No.": "410229",
+      "Goods and Services": "physical fitness assessment services for training purposes"
+    },
+    {
+      "No.": "410230",
+      "Goods and Services": "face painting"
+    },
+    {
+      "No.": "410231",
+      "Goods and Services": "organization of electronic sports competitions"
+    },
+    {
+      "No.": "410232",
+      "Goods and Services": "directing of shows"
+    },
+    {
+      "No.": "410233",
+      "Goods and Services": "e-sports services"
+    },
+    {
+      "No.": "410234",
+      "Goods and Services": "games library services"
+    },
+    {
+      "No.": "410235",
+      "Goods and Services": "multimedia library services"
+    },
+    {
+      "No.": "410236",
+      "Goods and Services": "photographic imaging services by drone"
+    },
+    {
+      "No.": "410237",
+      "Goods and Services": "video imaging services by drone"
+    },
+    {
+      "No.": "410238",
+      "Goods and Services": "transfer of business knowledge and know-how [training]"
+    },
+    {
+      "No.": "410239",
+      "Goods and Services": "providing training and educational examination for certification purposes"
+    },
+    {
+      "No.": "410240",
+      "Goods and Services": "research in the field of education"
+    },
+    {
+      "No.": "410241",
+      "Goods and Services": "rental of electronic book readers"
+    },
+    {
+      "No.": "410242",
+      "Goods and Services": "arranging and conducting of entertainment events"
+    },
+    {
+      "No.": "410243",
+      "Goods and Services": "arranging and conducting of sports events"
+    },
+    {
+      "No.": "410244",
+      "Goods and Services": "music education"
+    },
+    {
+      "No.": "410245",
+      "Goods and Services": "captioning"
+    },
+    {
+      "No.": "410247",
+      "Goods and Services": "escape room [entertainment] / escape game [entertainment]"
+    },
+    {
+      "No.": "410248",
+      "Goods and Services": "presenting museum exhibitions"
+    },
+    {
+      "No.": "410249",
+      "Goods and Services": "production of podcasts"
+    },
+    {
+      "No.": "410250",
+      "Goods and Services": "rental of movie props"
+    },
+    {
+      "No.": "410251",
+      "Goods and Services": "scheduling of radio and television programmes"
+    },
+    {
+      "No.": "410252",
+      "Goods and Services": "providing online images, not downloadable"
+    },
+    {
+      "No.": "410253",
+      "Goods and Services": "providing online virtual guided tours"
+    },
+    {
+      "No.": "410254",
+      "Goods and Services": "providing facilities for playing Live Action Role Playing [LARP] games"
+    },
+    {
+      "No.": "410255",
+      "Goods and Services": "simulated travel services provided in virtual environments for entertainment purposes"
+    },
+    {
+      "No.": "410256",
+      "Goods and Services": "entertainment services provided in virtual environments"
+    },
+    {
+      "No.": "410257",
+      "Goods and Services": "organization of animal racing events"
+    },
+    {
+      "No.": "410258",
+      "Goods and Services": "arranging of beauty contests for animals"
+    },
+    {
+      "No.": "410259",
+      "Goods and Services": "rental of humanoid robots having communication and learning functions for entertaining people"
+    },
+    {
+      "No.": "410260",
+      "Goods and Services": "organization of swingers' parties"
+    },
+    {
+      "No.": "410261",
+      "Goods and Services": "providing playgrounds for pets"
+    },
+    {
+      "No.": "410262",
+      "Goods and Services": "simulated restaurant services provided in virtual environments for entertainment purposes"
+    },
+    {
+      "No.": "410263",
+      "Goods and Services": "rental of digital image files authenticated by non-fungible tokens [NFTs]"
+    }
+  ]
+}

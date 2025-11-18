@@ -1,0 +1,208 @@
+{
+  "group_number": "43",
+  "meta": {
+    "Goods and Services": "Class Heading Services for providing food and drink; temporary accommodation Explanatory Note Class 43 includes mainly services provided in relation to the preparation of food and drink for consumption, as well as services for providing temporary accommodation. This Class includes, in particular: • temporary accommodation reservations, for example, hotel reservations • boarding for animals • rental of meeting rooms, tents and transportable buildings • retirement home services • day-nursery and crèche services • decorating of food, food sculpting • rental of cooking apparatus • rental of chairs, tables, table linen, glassware • hookah lounge services • personal chef services This Class does not include, in particular: • business management of hotels (Cl. 35) • rental services for real estate, such as houses or flats, for residential use (Cl. 36) • housekeeping (cleaning) services (Cl. 37) • travel and transport reservation services (Cl. 39) • beer brewing and wine making for others, custom manufacturing of bread (Cl. 40) • food smoking, food and drink preservation (Cl. 40) • educational, instruction and entertainment services, including those that might involve ancillary lodging or food and drink, provided by, for example, boarding schools, nursery schools, sport camps, discotheques and nightclubs (Cl. 41) • providing museum facilities (Cl. 41) • convalescent home and rest home services (Cl. 44) • babysitting, pet sitting (Cl. 45)"
+  },
+  "items": [
+    {
+      "No.": "430004",
+      "Goods and Services": "accommodation bureau services [hotels, boarding houses]"
+    },
+    {
+      "No.": "430010",
+      "Goods and Services": "food and drink catering"
+    },
+    {
+      "No.": "430013",
+      "Goods and Services": "retirement home services"
+    },
+    {
+      "No.": "430024",
+      "Goods and Services": "café services"
+    },
+    {
+      "No.": "430025",
+      "Goods and Services": "cafeteria services"
+    },
+    {
+      "No.": "430026",
+      "Goods and Services": "providing campground facilities"
+    },
+    {
+      "No.": "430027",
+      "Goods and Services": "canteen services"
+    },
+    {
+      "No.": "430028",
+      "Goods and Services": "rental of temporary accommodation"
+    },
+    {
+      "No.": "430066",
+      "Goods and Services": "boarding house services"
+    },
+    {
+      "No.": "430071",
+      "Goods and Services": "tourist home services"
+    },
+    {
+      "No.": "430073",
+      "Goods and Services": "hotel accommodation services"
+    },
+    {
+      "No.": "430098",
+      "Goods and Services": "day-nursery [crèche] services"
+    },
+    {
+      "No.": "430102",
+      "Goods and Services": "restaurant services"
+    },
+    {
+      "No.": "430104",
+      "Goods and Services": "boarding house bookings"
+    },
+    {
+      "No.": "430105",
+      "Goods and Services": "hotel reservations"
+    },
+    {
+      "No.": "430107",
+      "Goods and Services": "self-service restaurant services"
+    },
+    {
+      "No.": "430108",
+      "Goods and Services": "snack-bar services"
+    },
+    {
+      "No.": "430134",
+      "Goods and Services": "boarding for animals"
+    },
+    {
+      "No.": "430138",
+      "Goods and Services": "bar services"
+    },
+    {
+      "No.": "430145",
+      "Goods and Services": "holiday camp services [lodging]"
+    },
+    {
+      "No.": "430160",
+      "Goods and Services": "rental of transportable buildings"
+    },
+    {
+      "No.": "430162",
+      "Goods and Services": "temporary accommodation reservations"
+    },
+    {
+      "No.": "430183",
+      "Goods and Services": "motel services"
+    },
+    {
+      "No.": "430186",
+      "Goods and Services": "rental of chairs, tables, table linen, glassware"
+    },
+    {
+      "No.": "430187",
+      "Goods and Services": "rental of meeting rooms"
+    },
+    {
+      "No.": "430189",
+      "Goods and Services": "rental of tents"
+    },
+    {
+      "No.": "430190",
+      "Goods and Services": "rental of cooking apparatus"
+    },
+    {
+      "No.": "430191",
+      "Goods and Services": "rental of drinking water dispensers"
+    },
+    {
+      "No.": "430192",
+      "Goods and Services": "rental of lighting apparatus*"
+    },
+    {
+      "No.": "430193",
+      "Goods and Services": "food sculpting"
+    },
+    {
+      "No.": "430194",
+      "Goods and Services": "reception services for temporary accommodation [management of arrivals and departures]"
+    },
+    {
+      "No.": "430195",
+      "Goods and Services": "washoku restaurant services"
+    },
+    {
+      "No.": "430196",
+      "Goods and Services": "udon and soba restaurant services"
+    },
+    {
+      "No.": "430197",
+      "Goods and Services": "decorating of food"
+    },
+    {
+      "No.": "430198",
+      "Goods and Services": "cake decorating"
+    },
+    {
+      "No.": "430199",
+      "Goods and Services": "information and advice in relation to the preparation of meals"
+    },
+    {
+      "No.": "430200",
+      "Goods and Services": "personal chef services"
+    },
+    {
+      "No.": "430201",
+      "Goods and Services": "hookah lounge services"
+    },
+    {
+      "No.": "430202",
+      "Goods and Services": "reception services for temporary accommodation [conferment of keys]"
+    },
+    {
+      "No.": "430203",
+      "Goods and Services": "animal pound services"
+    },
+    {
+      "No.": "430204",
+      "Goods and Services": "temporary accommodation provided by halfway houses"
+    },
+    {
+      "No.": "430205",
+      "Goods and Services": "rental of holiday accommodation / rental of vacation accommodation"
+    },
+    {
+      "No.": "430206",
+      "Goods and Services": "rental of kitchen sinks"
+    },
+    {
+      "No.": "430207",
+      "Goods and Services": "rental of portable dressing rooms"
+    },
+    {
+      "No.": "430208",
+      "Goods and Services": "food reviewing services [provision of information about food and drinks]"
+    },
+    {
+      "No.": "430209",
+      "Goods and Services": "take-away restaurant services"
+    },
+    {
+      "No.": "430210",
+      "Goods and Services": "rental of furniture"
+    },
+    {
+      "No.": "430211",
+      "Goods and Services": "rental of office furniture"
+    },
+    {
+      "No.": "430212",
+      "Goods and Services": "rental of robots for preparing beverages"
+    },
+    {
+      "No.": "430213",
+      "Goods and Services": "ghost kitchen services"
+    }
+  ]
+}

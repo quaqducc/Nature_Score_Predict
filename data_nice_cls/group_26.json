@@ -1,0 +1,568 @@
+{
+  "group_number": "26",
+  "meta": {
+    "Goods and Services": "Class Heading Lace, braid and embroidery, and haberdashery ribbons and bows; buttons, hooks and eyes, pins and needles; artificial flowers; hair decorations; false hair Explanatory Note Class 26 includes mainly dressmakers' articles, natural or synthetic hair for wear, and hair adornments, as well as small decorative items intended to adorn a variety of objects, not included in other classes. This Class includes, in particular: • wigs, toupees, false beards • barrettes, hair bands • ribbons and bows being haberdashery or used as hair decorations, made of any material • ribbons and bows for gift wrapping, not of paper • hair nets • buckles, zippers • charms, other than for jewellery, key rings or key chains • artificial Christmas garlands and wreaths, including those incorporating lights • certain articles for curling hair, for example, electric and non-electric hair curlers, other than hand implements, hair curling pins, hair curling paper This Class does not include, in particular: • false eyelashes (Cl. 3) • hooks being small items of metal hardware (Cl. 6) or hardware, not of metal (Cl. 20), curtain hooks (Cl. 20) • certain special types of needles, for example, tattoo needles (Cl. 8), needles for surveying compasses (Cl. 9), needles for medical purposes (Cl. 10), needles for pumps for inflating balls for games (Cl. 28) • hand implements for curling hair, for example, curling tongs, eyelash curlers (Cl. 8) • hair prostheses (Cl. 10) • jewellery charms, charms for key rings or key chains (Cl. 14) • certain ribbons and bows, for example, paper ribbons and bows, other than haberdashery or hair decorations (Cl. 16), rhythmic gymnastics ribbons (Cl. 28) • yarns and threads for textile use (Cl. 23) • Christmas trees of synthetic material (Cl. 28)"
+  },
+  "items": [
+    {
+      "No.": "260001",
+      "Goods and Services": "shoe fasteners"
+    },
+    {
+      "No.": "260002",
+      "Goods and Services": "needles*"
+    },
+    {
+      "No.": "260003",
+      "Goods and Services": "shoemakers' needles"
+    },
+    {
+      "No.": "260004",
+      "Goods and Services": "sewing needles"
+    },
+    {
+      "No.": "260006",
+      "Goods and Services": "binding needles"
+    },
+    {
+      "No.": "260007",
+      "Goods and Services": "darning needles"
+    },
+    {
+      "No.": "260008",
+      "Goods and Services": "saddlers' needles"
+    },
+    {
+      "No.": "260009",
+      "Goods and Services": "knitting needles"
+    },
+    {
+      "No.": "260010",
+      "Goods and Services": "fastenings for clothing"
+    },
+    {
+      "No.": "260011",
+      "Goods and Services": "ostrich feathers [clothing accessories]"
+    },
+    {
+      "No.": "260012",
+      "Goods and Services": "corset busks / whalebones for corsets"
+    },
+    {
+      "No.": "260013",
+      "Goods and Services": "hair bands"
+    },
+    {
+      "No.": "260014",
+      "Goods and Services": "false beards"
+    },
+    {
+      "No.": "260015",
+      "Goods and Services": "hair grips / bobby pins"
+    },
+    {
+      "No.": "260016",
+      "Goods and Services": "hat trimmings"
+    },
+    {
+      "No.": "260018",
+      "Goods and Services": "edgings for clothing"
+    },
+    {
+      "No.": "260019",
+      "Goods and Services": "lace for edgings"
+    },
+    {
+      "No.": "260020",
+      "Goods and Services": "darning lasts"
+    },
+    {
+      "No.": "260021",
+      "Goods and Services": "buttons*"
+    },
+    {
+      "No.": "260022",
+      "Goods and Services": "snap fasteners"
+    },
+    {
+      "No.": "260023",
+      "Goods and Services": "expanding bands for holding sleeves"
+    },
+    {
+      "No.": "260024",
+      "Goods and Services": "brassards / arm bands [clothing accessories]"
+    },
+    {
+      "No.": "260026",
+      "Goods and Services": "fastenings for suspenders / fastenings for braces"
+    },
+    {
+      "No.": "260027",
+      "Goods and Services": "brooches [clothing accessories]"
+    },
+    {
+      "No.": "260028",
+      "Goods and Services": "embroidery / fancy goods [embroidery]"
+    },
+    {
+      "No.": "260031",
+      "Goods and Services": "belt clasps"
+    },
+    {
+      "No.": "260033",
+      "Goods and Services": "shoe hooks"
+    },
+    {
+      "No.": "260034",
+      "Goods and Services": "shoe laces"
+    },
+    {
+      "No.": "260035",
+      "Goods and Services": "shoe trimmings"
+    },
+    {
+      "No.": "260036",
+      "Goods and Services": "shoe eyelets"
+    },
+    {
+      "No.": "260037",
+      "Goods and Services": "chenille [passementerie]"
+    },
+    {
+      "No.": "260038",
+      "Goods and Services": "decorative articles for the hair"
+    },
+    {
+      "No.": "260039",
+      "Goods and Services": "hair curling pins"
+    },
+    {
+      "No.": "260040",
+      "Goods and Services": "hair barrettes / hair slides"
+    },
+    {
+      "No.": "260041",
+      "Goods and Services": "hair pins"
+    },
+    {
+      "No.": "260042",
+      "Goods and Services": "hair nets"
+    },
+    {
+      "No.": "260043",
+      "Goods and Services": "false hair"
+    },
+    {
+      "No.": "260044",
+      "Goods and Services": "plaited hair / tresses of hair"
+    },
+    {
+      "No.": "260045",
+      "Goods and Services": "numerals for marking linen"
+    },
+    {
+      "No.": "260046",
+      "Goods and Services": "collar supports"
+    },
+    {
+      "No.": "260047",
+      "Goods and Services": "cords for clothing"
+    },
+    {
+      "No.": "260048",
+      "Goods and Services": "blouse fasteners / dress body fasteners"
+    },
+    {
+      "No.": "260049",
+      "Goods and Services": "sewing boxes"
+    },
+    {
+      "No.": "260050",
+      "Goods and Services": "sewing thimbles"
+    },
+    {
+      "No.": "260051",
+      "Goods and Services": "crochet hooks / crochet needles"
+    },
+    {
+      "No.": "260052",
+      "Goods and Services": "hooks [haberdashery]"
+    },
+    {
+      "No.": "260053",
+      "Goods and Services": "zip fasteners / slide fasteners [zippers] / zippers"
+    },
+    {
+      "No.": "260055",
+      "Goods and Services": "pin cushions"
+    },
+    {
+      "No.": "260056",
+      "Goods and Services": "false hems"
+    },
+    {
+      "No.": "260057",
+      "Goods and Services": "festoons [embroidery]"
+    },
+    {
+      "No.": "260058",
+      "Goods and Services": "shuttles for making fishing nets"
+    },
+    {
+      "No.": "260059",
+      "Goods and Services": "artificial flowers"
+    },
+    {
+      "No.": "260060",
+      "Goods and Services": "fringes"
+    },
+    {
+      "No.": "260061",
+      "Goods and Services": "artificial fruit"
+    },
+    {
+      "No.": "260062",
+      "Goods and Services": "braids"
+    },
+    {
+      "No.": "260063",
+      "Goods and Services": "tassels [haberdashery]"
+    },
+    {
+      "No.": "260064",
+      "Goods and Services": "trimmings for clothing"
+    },
+    {
+      "No.": "260065",
+      "Goods and Services": "artificial garlands"
+    },
+    {
+      "No.": "260066",
+      "Goods and Services": "frills [lacework]"
+    },
+    {
+      "No.": "260067",
+      "Goods and Services": "woollen laces"
+    },
+    {
+      "No.": "260068",
+      "Goods and Services": "lace trimmings / passementerie"
+    },
+    {
+      "No.": "260069",
+      "Goods and Services": "letters for marking linen"
+    },
+    {
+      "No.": "260070",
+      "Goods and Services": "haberdashery [dressmakers' articles]*, except thread"
+    },
+    {
+      "No.": "260071",
+      "Goods and Services": "mica spangles"
+    },
+    {
+      "No.": "260072",
+      "Goods and Services": "false moustaches"
+    },
+    {
+      "No.": "260073",
+      "Goods and Services": "eyelets for clothing"
+    },
+    {
+      "No.": "260074",
+      "Goods and Services": "birds' feathers [clothing accessories]"
+    },
+    {
+      "No.": "260076",
+      "Goods and Services": "haberdashery ribbons"
+    },
+    {
+      "No.": "260077",
+      "Goods and Services": "spangles for clothing"
+    },
+    {
+      "No.": "260078",
+      "Goods and Services": "needle cushions"
+    },
+    {
+      "No.": "260079",
+      "Goods and Services": "wigs"
+    },
+    {
+      "No.": "260080",
+      "Goods and Services": "picot [lace]"
+    },
+    {
+      "No.": "260081",
+      "Goods and Services": "heat adhesive patches for repairing textile articles"
+    },
+    {
+      "No.": "260082",
+      "Goods and Services": "feathers [clothing accessories]"
+    },
+    {
+      "No.": "260083",
+      "Goods and Services": "top-knots [pompoms]"
+    },
+    {
+      "No.": "260084",
+      "Goods and Services": "skirt flounces"
+    },
+    {
+      "No.": "260085",
+      "Goods and Services": "rosettes [haberdashery]"
+    },
+    {
+      "No.": "260086",
+      "Goods and Services": "frills for clothing"
+    },
+    {
+      "No.": "260087",
+      "Goods and Services": "zippers for bags / zip fasteners for bags"
+    },
+    {
+      "No.": "260088",
+      "Goods and Services": "shoe buckles"
+    },
+    {
+      "No.": "260089",
+      "Goods and Services": "toupees"
+    },
+    {
+      "No.": "260090",
+      "Goods and Services": "bodkins"
+    },
+    {
+      "No.": "260091",
+      "Goods and Services": "needle cases"
+    },
+    {
+      "No.": "260092",
+      "Goods and Services": "boxes for needles"
+    },
+    {
+      "No.": "260093",
+      "Goods and Services": "silver embroidery"
+    },
+    {
+      "No.": "260094",
+      "Goods and Services": "gold embroidery"
+    },
+    {
+      "No.": "260095",
+      "Goods and Services": "elastic ribbons"
+    },
+    {
+      "No.": "260096",
+      "Goods and Services": "cords for trimming"
+    },
+    {
+      "No.": "260097",
+      "Goods and Services": "buckles [clothing accessories]"
+    },
+    {
+      "No.": "260098",
+      "Goods and Services": "hooks for corsets"
+    },
+    {
+      "No.": "260099",
+      "Goods and Services": "wreaths of artificial flowers"
+    },
+    {
+      "No.": "260100",
+      "Goods and Services": "pins, other than jewellery / pins, other than jewelry"
+    },
+    {
+      "No.": "260101",
+      "Goods and Services": "badges for wear, not of precious metal"
+    },
+    {
+      "No.": "260111",
+      "Goods and Services": "heat adhesive patches for decoration of textile articles [haberdashery]"
+    },
+    {
+      "No.": "260112",
+      "Goods and Services": "competitors' numbers"
+    },
+    {
+      "No.": "260113",
+      "Goods and Services": "ornamental novelty badges [buttons]"
+    },
+    {
+      "No.": "260114",
+      "Goods and Services": "bows for the hair"
+    },
+    {
+      "No.": "260115",
+      "Goods and Services": "hair colouring caps / hair coloring caps"
+    },
+    {
+      "No.": "260116",
+      "Goods and Services": "hook and pile fastening tapes"
+    },
+    {
+      "No.": "260117",
+      "Goods and Services": "prize ribbons"
+    },
+    {
+      "No.": "260118",
+      "Goods and Services": "shoulder pads for clothing"
+    },
+    {
+      "No.": "260119",
+      "Goods and Services": "trouser clips for cyclists"
+    },
+    {
+      "No.": "260120",
+      "Goods and Services": "tapes for curtain headings"
+    },
+    {
+      "No.": "260121",
+      "Goods and Services": "hair curling papers"
+    },
+    {
+      "No.": "260122",
+      "Goods and Services": "rug hooks"
+    },
+    {
+      "No.": "260123",
+      "Goods and Services": "beads, other than for making jewellery / beads, other than for making jewelry"
+    },
+    {
+      "No.": "260124",
+      "Goods and Services": "bobbins for retaining embroidery floss or wool [not parts of machines]"
+    },
+    {
+      "No.": "260125",
+      "Goods and Services": "hair extensions"
+    },
+    {
+      "No.": "260126",
+      "Goods and Services": "human hair"
+    },
+    {
+      "No.": "260127",
+      "Goods and Services": "hair curlers, electric and non-electric, other than hand implements"
+    },
+    {
+      "No.": "260128",
+      "Goods and Services": "appliqués [haberdashery]"
+    },
+    {
+      "No.": "260129",
+      "Goods and Services": "artificial plants, other than Christmas trees"
+    },
+    {
+      "No.": "260130",
+      "Goods and Services": "sewing kits"
+    },
+    {
+      "No.": "260131",
+      "Goods and Services": "entomological pins"
+    },
+    {
+      "No.": "260132",
+      "Goods and Services": "embroidery needles"
+    },
+    {
+      "No.": "260133",
+      "Goods and Services": "charms, other than for jewellery, key rings or key chains / charms, other than for jewelry, key rings or key chains"
+    },
+    {
+      "No.": "260134",
+      "Goods and Services": "needle-threaders"
+    },
+    {
+      "No.": "260135",
+      "Goods and Services": "artificial Christmas garlands"
+    },
+    {
+      "No.": "260136",
+      "Goods and Services": "artificial Christmas garlands incorporating lights"
+    },
+    {
+      "No.": "260137",
+      "Goods and Services": "artificial Christmas wreaths"
+    },
+    {
+      "No.": "260138",
+      "Goods and Services": "artificial Christmas wreaths incorporating lights"
+    },
+    {
+      "No.": "260139",
+      "Goods and Services": "hatbands / hat bands"
+    },
+    {
+      "No.": "260140",
+      "Goods and Services": "ribbons for the hair"
+    },
+    {
+      "No.": "260141",
+      "Goods and Services": "ribbons and bows, not of paper, for gift wrapping"
+    },
+    {
+      "No.": "260142",
+      "Goods and Services": "haberdashery bows"
+    },
+    {
+      "No.": "260143",
+      "Goods and Services": "hat pins, other than jewellery / hatpins, other than jewelry"
+    },
+    {
+      "No.": "260144",
+      "Goods and Services": "breast lift tapes"
+    },
+    {
+      "No.": "260145",
+      "Goods and Services": "lingerie tapes"
+    },
+    {
+      "No.": "260146",
+      "Goods and Services": "fittings for lingerie [haberdashery]"
+    },
+    {
+      "No.": "260147",
+      "Goods and Services": "buckles for bags"
+    },
+    {
+      "No.": "260148",
+      "Goods and Services": "clasps for bags"
+    },
+    {
+      "No.": "260149",
+      "Goods and Services": "underwires for brassieres"
+    },
+    {
+      "No.": "260150",
+      "Goods and Services": "lanyard cords for clothing"
+    },
+    {
+      "No.": "260151",
+      "Goods and Services": "decorative charms for mobile telephones / decorative charms for cell phones"
+    },
+    {
+      "No.": "260152",
+      "Goods and Services": "clasps for coin purses"
+    },
+    {
+      "No.": "260153",
+      "Goods and Services": "knitting kits"
+    },
+    {
+      "No.": "260154",
+      "Goods and Services": "bra extenders"
+    },
+    {
+      "No.": "260155",
+      "Goods and Services": "bra strap extenders"
+    },
+    {
+      "No.": "260156",
+      "Goods and Services": "pinback buttons"
+    },
+    {
+      "No.": "260157",
+      "Goods and Services": "tracing wheels"
+    }
+  ]
+}

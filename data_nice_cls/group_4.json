@@ -1,0 +1,444 @@
+{
+  "group_number": "4",
+  "meta": {
+    "Goods and Services": "Class Heading Industrial oils and greases, wax; lubricants; dust absorbing, wetting and binding compositions; fuels and illuminants; candles and wicks for lighting Explanatory Note Class 4 includes mainly industrial oils and greases, fuels and illuminants. This Class includes, in particular: • oils for the preservation of masonry or of leather • raw wax, industrial wax • electrical energy • motor fuels, biofuels • non-chemical additives for fuels • wood for use as fuel This Class does not include, in particular: • certain special industrial oils and greases, for example, oils for tanning leather (Cl. 1), oils for the preservation of wood, anti-rust oils and greases (Cl. 2), essential oils (Cl. 3) • massage candles for cosmetic purposes (Cl. 3) and medicated massage candles (Cl. 5) • certain special waxes, for example, grafting wax for trees (Cl. 1), tailors' wax, polishing wax, depilatory wax (Cl. 3), dental wax (Cl. 5), sealing wax (Cl. 16) • wicks adapted for oil stoves (Cl. 11) and for cigarette lighters (Cl. 34)"
+  },
+  "items": [
+    {
+      "No.": "040001",
+      "Goods and Services": "beeswax*"
+    },
+    {
+      "No.": "040002",
+      "Goods and Services": "methylated spirit"
+    },
+    {
+      "No.": "040003",
+      "Goods and Services": "alcohol [fuel]"
+    },
+    {
+      "No.": "040004",
+      "Goods and Services": "fuel with an alcohol base"
+    },
+    {
+      "No.": "040005",
+      "Goods and Services": "paper spills for lighting fires"
+    },
+    {
+      "No.": "040006",
+      "Goods and Services": "wood shavings for lighting fires"
+    },
+    {
+      "No.": "040007",
+      "Goods and Services": "firelighters"
+    },
+    {
+      "No.": "040008",
+      "Goods and Services": "anthracite"
+    },
+    {
+      "No.": "040009",
+      "Goods and Services": "non-slipping preparations for belts"
+    },
+    {
+      "No.": "040010",
+      "Goods and Services": "Christmas tree candles"
+    },
+    {
+      "No.": "040011",
+      "Goods and Services": "grease for arms [weapons]"
+    },
+    {
+      "No.": "040012",
+      "Goods and Services": "dust binding compositions for sweeping"
+    },
+    {
+      "No.": "040013",
+      "Goods and Services": "firewood"
+    },
+    {
+      "No.": "040014",
+      "Goods and Services": "charcoal [fuel]"
+    },
+    {
+      "No.": "040015",
+      "Goods and Services": "candles* / tapers"
+    },
+    {
+      "No.": "040016",
+      "Goods and Services": "coal briquettes"
+    },
+    {
+      "No.": "040017",
+      "Goods and Services": "peat briquettes [fuel]"
+    },
+    {
+      "No.": "040018",
+      "Goods and Services": "wood briquettes"
+    },
+    {
+      "No.": "040019",
+      "Goods and Services": "combustible briquettes"
+    },
+    {
+      "No.": "040020",
+      "Goods and Services": "vaporized fuel mixtures"
+    },
+    {
+      "No.": "040021",
+      "Goods and Services": "carnauba wax"
+    },
+    {
+      "No.": "040022",
+      "Goods and Services": "ceresine"
+    },
+    {
+      "No.": "040023",
+      "Goods and Services": "coal"
+    },
+    {
+      "No.": "040024",
+      "Goods and Services": "peat [fuel]"
+    },
+    {
+      "No.": "040025",
+      "Goods and Services": "fuel*"
+    },
+    {
+      "No.": "040026",
+      "Goods and Services": "grease for footwear"
+    },
+    {
+      "No.": "040027",
+      "Goods and Services": "wax [raw material]"
+    },
+    {
+      "No.": "040028",
+      "Goods and Services": "belting wax"
+    },
+    {
+      "No.": "040029",
+      "Goods and Services": "wax for lighting"
+    },
+    {
+      "No.": "040030",
+      "Goods and Services": "industrial wax"
+    },
+    {
+      "No.": "040031",
+      "Goods and Services": "coke"
+    },
+    {
+      "No.": "040032",
+      "Goods and Services": "mineral fuel"
+    },
+    {
+      "No.": "040033",
+      "Goods and Services": "grease for belts"
+    },
+    {
+      "No.": "040034",
+      "Goods and Services": "grease for leather"
+    },
+    {
+      "No.": "040035",
+      "Goods and Services": "industrial grease"
+    },
+    {
+      "No.": "040036",
+      "Goods and Services": "oils for releasing form work [building]"
+    },
+    {
+      "No.": "040037",
+      "Goods and Services": "tallow"
+    },
+    {
+      "No.": "040038",
+      "Goods and Services": "dust removing preparations"
+    },
+    {
+      "No.": "040039",
+      "Goods and Services": "oils for lighting"
+    },
+    {
+      "No.": "040040",
+      "Goods and Services": "gas for lighting"
+    },
+    {
+      "No.": "040041",
+      "Goods and Services": "lighting fuel"
+    },
+    {
+      "No.": "040042",
+      "Goods and Services": "lubricating oil"
+    },
+    {
+      "No.": "040043",
+      "Goods and Services": "petrol / gasoline"
+    },
+    {
+      "No.": "040044",
+      "Goods and Services": "petroleum ether"
+    },
+    {
+      "No.": "040045",
+      "Goods and Services": "ligroin"
+    },
+    {
+      "No.": "040046",
+      "Goods and Services": "wicks for candles"
+    },
+    {
+      "No.": "040047",
+      "Goods and Services": "petroleum jelly for industrial purposes"
+    },
+    {
+      "No.": "040048",
+      "Goods and Services": "diesel oil / gas oil"
+    },
+    {
+      "No.": "040049",
+      "Goods and Services": "fuel gas"
+    },
+    {
+      "No.": "040050",
+      "Goods and Services": "oil-gas"
+    },
+    {
+      "No.": "040052",
+      "Goods and Services": "lubricating graphite"
+    },
+    {
+      "No.": "040053",
+      "Goods and Services": "coal tar oil"
+    },
+    {
+      "No.": "040054",
+      "Goods and Services": "coal naphtha"
+    },
+    {
+      "No.": "040055",
+      "Goods and Services": "oils for the preservation of masonry"
+    },
+    {
+      "No.": "040056",
+      "Goods and Services": "moistening oil"
+    },
+    {
+      "No.": "040057",
+      "Goods and Services": "fish oil for industrial purposes"
+    },
+    {
+      "No.": "040058",
+      "Goods and Services": "soya bean oil preparations for non-stick treatment of cooking utensils"
+    },
+    {
+      "No.": "040059",
+      "Goods and Services": "kerosene"
+    },
+    {
+      "No.": "040060",
+      "Goods and Services": "lubricating grease"
+    },
+    {
+      "No.": "040061",
+      "Goods and Services": "lamp wicks"
+    },
+    {
+      "No.": "040062",
+      "Goods and Services": "lignite"
+    },
+    {
+      "No.": "040063",
+      "Goods and Services": "lubricants"
+    },
+    {
+      "No.": "040064",
+      "Goods and Services": "mazut"
+    },
+    {
+      "No.": "040065",
+      "Goods and Services": "rape oil for industrial purposes / colza oil for industrial purposes"
+    },
+    {
+      "No.": "040066",
+      "Goods and Services": "naphtha"
+    },
+    {
+      "No.": "040067",
+      "Goods and Services": "bone oil for industrial purposes"
+    },
+    {
+      "No.": "040068",
+      "Goods and Services": "oleine"
+    },
+    {
+      "No.": "040069",
+      "Goods and Services": "ozokerite / ozocerite"
+    },
+    {
+      "No.": "040070",
+      "Goods and Services": "paraffin"
+    },
+    {
+      "No.": "040071",
+      "Goods and Services": "petroleum, raw or refined"
+    },
+    {
+      "No.": "040072",
+      "Goods and Services": "coal dust [fuel]"
+    },
+    {
+      "No.": "040073",
+      "Goods and Services": "stearine"
+    },
+    {
+      "No.": "040074",
+      "Goods and Services": "wool grease / lanolin"
+    },
+    {
+      "No.": "040075",
+      "Goods and Services": "sunflower oil for industrial purposes"
+    },
+    {
+      "No.": "040076",
+      "Goods and Services": "nightlights [candles]"
+    },
+    {
+      "No.": "040079",
+      "Goods and Services": "dust laying compositions"
+    },
+    {
+      "No.": "040080",
+      "Goods and Services": "textile oil"
+    },
+    {
+      "No.": "040081",
+      "Goods and Services": "carburants / motor fuel"
+    },
+    {
+      "No.": "040084",
+      "Goods and Services": "fuel oil / combustible oil"
+    },
+    {
+      "No.": "040085",
+      "Goods and Services": "additives, non-chemical, to motor fuel"
+    },
+    {
+      "No.": "040086",
+      "Goods and Services": "greases for the preservation of leather"
+    },
+    {
+      "No.": "040087",
+      "Goods and Services": "industrial oil"
+    },
+    {
+      "No.": "040088",
+      "Goods and Services": "solidified gases [fuel]"
+    },
+    {
+      "No.": "040089",
+      "Goods and Services": "castor oil for industrial purposes"
+    },
+    {
+      "No.": "040090",
+      "Goods and Services": "oils for the preservation of leather"
+    },
+    {
+      "No.": "040101",
+      "Goods and Services": "cutting fluids"
+    },
+    {
+      "No.": "040102",
+      "Goods and Services": "oils for paints"
+    },
+    {
+      "No.": "040103",
+      "Goods and Services": "producer gas"
+    },
+    {
+      "No.": "040104",
+      "Goods and Services": "motor oil"
+    },
+    {
+      "No.": "040105",
+      "Goods and Services": "perfumed candles"
+    },
+    {
+      "No.": "040106",
+      "Goods and Services": "electrical energy"
+    },
+    {
+      "No.": "040107",
+      "Goods and Services": "ethanol [fuel]"
+    },
+    {
+      "No.": "040108",
+      "Goods and Services": "tinder"
+    },
+    {
+      "No.": "040109",
+      "Goods and Services": "dust absorbing compositions"
+    },
+    {
+      "No.": "040110",
+      "Goods and Services": "benzine"
+    },
+    {
+      "No.": "040111",
+      "Goods and Services": "biomass fuel"
+    },
+    {
+      "No.": "040112",
+      "Goods and Services": "benzene fuel"
+    },
+    {
+      "No.": "040113",
+      "Goods and Services": "xylene fuel"
+    },
+    {
+      "No.": "040114",
+      "Goods and Services": "wax for skis"
+    },
+    {
+      "No.": "040115",
+      "Goods and Services": "lanolin for use in the manufacture of cosmetics"
+    },
+    {
+      "No.": "040116",
+      "Goods and Services": "beeswax for use in the manufacture of cosmetics"
+    },
+    {
+      "No.": "040117",
+      "Goods and Services": "hookah charcoal"
+    },
+    {
+      "No.": "040118",
+      "Goods and Services": "gear oil"
+    },
+    {
+      "No.": "040119",
+      "Goods and Services": "wood chips for use as fuel"
+    },
+    {
+      "No.": "040120",
+      "Goods and Services": "wood chips for smoking and flavouring foods / wood chips for smoking and flavoring foods"
+    },
+    {
+      "No.": "040121",
+      "Goods and Services": "soy candles"
+    },
+    {
+      "No.": "040122",
+      "Goods and Services": "dielectric oil for use in metalworking"
+    },
+    {
+      "No.": "040123",
+      "Goods and Services": "hydrogen fuel"
+    },
+    {
+      "No.": "040124",
+      "Goods and Services": "natural gas"
+    }
+  ]
+}

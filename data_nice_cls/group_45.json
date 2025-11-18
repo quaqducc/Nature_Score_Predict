@@ -1,0 +1,400 @@
+{
+  "group_number": "45",
+  "meta": {
+    "Goods and Services": "Class Heading Legal services; security services for the physical protection of tangible property and individuals; dating services, online social networking services; funerary services; babysitting Explanatory Note Class 45 includes mainly legal and security services, as well as certain personal and social services rendered by others to meet the needs of individuals. This Class includes, in particular: • arbitration and mediation services • registration of domain names • legal and regulatory compliance auditing services • investigation and surveillance services relating to the physical safety of individuals and security of tangible property, for example, guard services, detective agency services, personal background investigations, security screening of baggage • services provided to individuals in relation to social events, for example, chaperoning, planning and arranging of wedding ceremonies • conducting religious ceremonies, burial services • pet sitting, dog walking services • clothing rental This Class does not include, in particular: • certain rental services rendered by others to meet the needs of individuals, where the services provided by means of the rented objects belong to another class, for example, rental of apartments (Cl. 36), car rental (Cl. 39), rental of temporary accommodation (Cl. 43) • escorting of travellers (Cl. 39) • secure transport, for example, guarded transport of valuables, armoured car transport (Cl. 39) • party planning (Cl. 41) • services consisting of all forms of education, including religious education (Cl. 41) • services having the basic aim of the entertainment, amusement or recreation of people (Cl. 41) • computer and internet security consultancy and data encryption services (Cl. 42) • providing medical, hygienic or beauty care for human beings or animals (Cl. 44)"
+  },
+  "items": [
+    {
+      "No.": "450001",
+      "Goods and Services": "personal bodyguarding"
+    },
+    {
+      "No.": "450002",
+      "Goods and Services": "chaperoning / escorting in society [chaperoning]"
+    },
+    {
+      "No.": "450003",
+      "Goods and Services": "detective agency services"
+    },
+    {
+      "No.": "450005",
+      "Goods and Services": "dating services"
+    },
+    {
+      "No.": "450006",
+      "Goods and Services": "night guard services"
+    },
+    {
+      "No.": "450033",
+      "Goods and Services": "opening of security locks"
+    },
+    {
+      "No.": "450046",
+      "Goods and Services": "evening dress rental"
+    },
+    {
+      "No.": "450047",
+      "Goods and Services": "crematorium services"
+    },
+    {
+      "No.": "450053",
+      "Goods and Services": "missing person investigations"
+    },
+    {
+      "No.": "450056",
+      "Goods and Services": "burial services"
+    },
+    {
+      "No.": "450057",
+      "Goods and Services": "funerary undertaking"
+    },
+    {
+      "No.": "450081",
+      "Goods and Services": "clothing rental"
+    },
+    {
+      "No.": "450099",
+      "Goods and Services": "guard services"
+    },
+    {
+      "No.": "450112",
+      "Goods and Services": "marriage agency services"
+    },
+    {
+      "No.": "450117",
+      "Goods and Services": "physical security consultancy"
+    },
+    {
+      "No.": "450146",
+      "Goods and Services": "horoscope casting"
+    },
+    {
+      "No.": "450179",
+      "Goods and Services": "fire-fighting"
+    },
+    {
+      "No.": "450184",
+      "Goods and Services": "organization of religious meetings"
+    },
+    {
+      "No.": "450193",
+      "Goods and Services": "adoption agency services"
+    },
+    {
+      "No.": "450194",
+      "Goods and Services": "monitoring of burglar and security alarms"
+    },
+    {
+      "No.": "450195",
+      "Goods and Services": "babysitting"
+    },
+    {
+      "No.": "450196",
+      "Goods and Services": "security screening of baggage"
+    },
+    {
+      "No.": "450197",
+      "Goods and Services": "house sitting"
+    },
+    {
+      "No.": "450198",
+      "Goods and Services": "pet sitting"
+    },
+    {
+      "No.": "450199",
+      "Goods and Services": "personal background investigations"
+    },
+    {
+      "No.": "450200",
+      "Goods and Services": "lost property return"
+    },
+    {
+      "No.": "450201",
+      "Goods and Services": "mediation"
+    },
+    {
+      "No.": "450202",
+      "Goods and Services": "inspection of factories for safety purposes"
+    },
+    {
+      "No.": "450203",
+      "Goods and Services": "rental of fire alarms"
+    },
+    {
+      "No.": "450204",
+      "Goods and Services": "rental of fire extinguishers"
+    },
+    {
+      "No.": "450205",
+      "Goods and Services": "arbitration services"
+    },
+    {
+      "No.": "450206",
+      "Goods and Services": "intellectual property consultancy"
+    },
+    {
+      "No.": "450207",
+      "Goods and Services": "copyright management"
+    },
+    {
+      "No.": "450208",
+      "Goods and Services": "licensing of intellectual property"
+    },
+    {
+      "No.": "450209",
+      "Goods and Services": "monitoring intellectual property rights for legal advisory purposes"
+    },
+    {
+      "No.": "450210",
+      "Goods and Services": "legal research"
+    },
+    {
+      "No.": "450211",
+      "Goods and Services": "litigation services"
+    },
+    {
+      "No.": "450212",
+      "Goods and Services": "licensing of computer software [legal services]"
+    },
+    {
+      "No.": "450213",
+      "Goods and Services": "registration of domain names [legal services]"
+    },
+    {
+      "No.": "450214",
+      "Goods and Services": "alternative dispute resolution services"
+    },
+    {
+      "No.": "450215",
+      "Goods and Services": "rental of safes"
+    },
+    {
+      "No.": "450216",
+      "Goods and Services": "genealogical research"
+    },
+    {
+      "No.": "450217",
+      "Goods and Services": "planning and arranging of wedding ceremonies"
+    },
+    {
+      "No.": "450218",
+      "Goods and Services": "online social networking services"
+    },
+    {
+      "No.": "450219",
+      "Goods and Services": "releasing doves for special occasions"
+    },
+    {
+      "No.": "450220",
+      "Goods and Services": "embalming services"
+    },
+    {
+      "No.": "450221",
+      "Goods and Services": "legal document preparation services"
+    },
+    {
+      "No.": "450222",
+      "Goods and Services": "tracking of stolen property"
+    },
+    {
+      "No.": "450223",
+      "Goods and Services": "legal services relating to licences"
+    },
+    {
+      "No.": "450224",
+      "Goods and Services": "astrology consultancy"
+    },
+    {
+      "No.": "450225",
+      "Goods and Services": "spiritual consultancy"
+    },
+    {
+      "No.": "450226",
+      "Goods and Services": "cartomancy services"
+    },
+    {
+      "No.": "450227",
+      "Goods and Services": "personal wardrobe styling consultancy"
+    },
+    {
+      "No.": "450228",
+      "Goods and Services": "personal letter writing"
+    },
+    {
+      "No.": "450229",
+      "Goods and Services": "conducting funeral ceremonies"
+    },
+    {
+      "No.": "450230",
+      "Goods and Services": "legal services in relation to the negotiation of contracts for others"
+    },
+    {
+      "No.": "450231",
+      "Goods and Services": "conducting religious ceremonies"
+    },
+    {
+      "No.": "450232",
+      "Goods and Services": "dog walking services"
+    },
+    {
+      "No.": "450233",
+      "Goods and Services": "leasing of internet domain names"
+    },
+    {
+      "No.": "450234",
+      "Goods and Services": "kimono dressing assistance"
+    },
+    {
+      "No.": "450235",
+      "Goods and Services": "legal advice in responding to calls for tenders / legal advice in responding to requests for proposals [RFPs]"
+    },
+    {
+      "No.": "450236",
+      "Goods and Services": "licensing [legal services] in the framework of software publishing"
+    },
+    {
+      "No.": "450237",
+      "Goods and Services": "legal watching services"
+    },
+    {
+      "No.": "450238",
+      "Goods and Services": "organization of political meetings"
+    },
+    {
+      "No.": "450239",
+      "Goods and Services": "legal consultancy relating to patent mapping"
+    },
+    {
+      "No.": "450240",
+      "Goods and Services": "legal advocacy services"
+    },
+    {
+      "No.": "450241",
+      "Goods and Services": "concierge services"
+    },
+    {
+      "No.": "450242",
+      "Goods and Services": "bereavement counselling / bereavement counseling"
+    },
+    {
+      "No.": "450243",
+      "Goods and Services": "lifeguard services"
+    },
+    {
+      "No.": "450244",
+      "Goods and Services": "legal services in the field of immigration"
+    },
+    {
+      "No.": "450245",
+      "Goods and Services": "tarot card reading services for others"
+    },
+    {
+      "No.": "450246",
+      "Goods and Services": "regulatory compliance auditing"
+    },
+    {
+      "No.": "450247",
+      "Goods and Services": "legal compliance auditing"
+    },
+    {
+      "No.": "450248",
+      "Goods and Services": "legal conveyancing"
+    },
+    {
+      "No.": "450249",
+      "Goods and Services": "political lobbying services"
+    },
+    {
+      "No.": "450250",
+      "Goods and Services": "mortuary cosmetologists' services / desairologists' services"
+    },
+    {
+      "No.": "450251",
+      "Goods and Services": "surveillance services by drone"
+    },
+    {
+      "No.": "450252",
+      "Goods and Services": "law enforcement"
+    },
+    {
+      "No.": "450253",
+      "Goods and Services": "social introduction agency services"
+    },
+    {
+      "No.": "450254",
+      "Goods and Services": "personal shopping for others"
+    },
+    {
+      "No.": "450255",
+      "Goods and Services": "medical alarm monitoring"
+    },
+    {
+      "No.": "450256",
+      "Goods and Services": "security guarding of facilities via remote monitoring systems"
+    },
+    {
+      "No.": "450257",
+      "Goods and Services": "locating and tracking of missing persons"
+    },
+    {
+      "No.": "450258",
+      "Goods and Services": "legal process serving"
+    },
+    {
+      "No.": "450259",
+      "Goods and Services": "line sitting services"
+    },
+    {
+      "No.": "450260",
+      "Goods and Services": "legal research in the field of environmental protection"
+    },
+    {
+      "No.": "450261",
+      "Goods and Services": "doula services"
+    },
+    {
+      "No.": "450262",
+      "Goods and Services": "rental of video surveillance cameras"
+    },
+    {
+      "No.": "450263",
+      "Goods and Services": "locating and tracking of lost property"
+    },
+    {
+      "No.": "450264",
+      "Goods and Services": "animal adoption services"
+    },
+    {
+      "No.": "450265",
+      "Goods and Services": "providing non-medical in-home care services for individuals"
+    },
+    {
+      "No.": "450266",
+      "Goods and Services": "content moderation for internet chatrooms"
+    },
+    {
+      "No.": "450267",
+      "Goods and Services": "occupational safety consultancy"
+    },
+    {
+      "No.": "450268",
+      "Goods and Services": "individual colour analysis services relating to clothing selection / individual color analysis services relating to clothing selection"
+    },
+    {
+      "No.": "450269",
+      "Goods and Services": "legal services in the field of child protection"
+    },
+    {
+      "No.": "450270",
+      "Goods and Services": "rental of spectacles for fashion purposes, other than for vision correction / rental of eyeglasses for fashion purposes, other than for vision correction"
+    },
+    {
+      "No.": "450271",
+      "Goods and Services": "legal drafting"
+    },
+    {
+      "No.": "450272",
+      "Goods and Services": "rental of sunglasses for fashion purposes, other than for vision correction"
+    }
+  ]
+}

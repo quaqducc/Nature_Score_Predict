@@ -1,0 +1,1764 @@
+{
+  "group_number": "21",
+  "meta": {
+    "Goods and Services": "Class Heading Household or kitchen utensils and containers; cookware and tableware, except forks, knives and spoons; combs and sponges; brushes, except paintbrushes; brush-making materials; articles for cleaning purposes; unworked or semi-worked glass, except building glass; glassware, porcelain and earthenware Explanatory Note Class 21 includes mainly small, hand-operated utensils and apparatus for household and kitchen use, as well as cosmetic utensils, glassware and certain goods made of porcelain, ceramic, earthenware, terra-cotta or glass. This Class includes, in particular: • household and kitchen utensils, for example, fly swatters, clothes-pegs, mixing spoons, basting spoons and corkscrews, as well as serving utensils, for example, sugar tongs, ice tongs, pie servers and serving ladles • household, kitchen and cooking containers, for example, vases, bottles, piggy banks, pails, cocktail shakers, and non-electric kettles, pressure cookers, cooking pots and pans • small hand-operated kitchen apparatus for mincing, grinding, pressing or crushing, for example, garlic presses, nutcrackers, pestles and mortars • dish stands and decanter stands • cosmetic utensils, for example, electric and non-electric combs and toothbrushes, dental floss, foam toe separators for use in pedicures, powder puffs, fitted vanity cases • gardening articles, for example, gardening gloves, window-boxes, watering cans and nozzles for watering hose • indoor aquaria, terrariums and vivariums This Class does not include, in particular: • cleaning preparations (Cl. 3) • containers for storage and transport of goods, of metal (Cl. 6), not of metal (Cl. 20) • small apparatus for mincing, grinding, pressing or crushing, which are driven by electricity (Cl. 7) • razors and shaving apparatus, hair and nail clippers, electric and non-electric implements for manicure and pedicure, for example, manicure sets, emery boards, cuticle nippers (Cl. 8) • table cutlery (Cl. 8) and hand-operated cutting tools for kitchen use, for example, vegetable shredders, pizza cutters, cheese slicers (Cl. 8) • lice combs, tongue scrapers (Cl. 10) • cooking utensils, electric (Cl. 11) • toilet mirrors (Cl. 20) • certain goods made of glass, porcelain and earthenware that are classified according to their function or purpose, for example, porcelain for dental prostheses (Cl. 5), spectacle lenses (Cl. 9), glass wool for insulation, acrylic or organic glass, semi-processed (Cl. 17), earthenware tiles (Cl. 19), building glass (Cl. 19), glass fibres for textile use (Cl. 22)"
+  },
+  "items": [
+    {
+      "No.": "210001",
+      "Goods and Services": "drinking troughs"
+    },
+    {
+      "No.": "210002",
+      "Goods and Services": "feeding troughs"
+    },
+    {
+      "No.": "210005",
+      "Goods and Services": "steel wool for cleaning"
+    },
+    {
+      "No.": "210006",
+      "Goods and Services": "washing boards"
+    },
+    {
+      "No.": "210007",
+      "Goods and Services": "thermally insulated containers for food"
+    },
+    {
+      "No.": "210008",
+      "Goods and Services": "carpet beaters [hand instruments]"
+    },
+    {
+      "No.": "210009",
+      "Goods and Services": "glass bulbs [receptacles] / glass vials [receptacles]"
+    },
+    {
+      "No.": "210010",
+      "Goods and Services": "animal bristles [brushware]"
+    },
+    {
+      "No.": "210011",
+      "Goods and Services": "poultry rings"
+    },
+    {
+      "No.": "210012",
+      "Goods and Services": "nozzles for watering hose"
+    },
+    {
+      "No.": "210013",
+      "Goods and Services": "watering devices / sprinkling devices"
+    },
+    {
+      "No.": "210014",
+      "Goods and Services": "brushes*"
+    },
+    {
+      "No.": "210015",
+      "Goods and Services": "sprinklers*"
+    },
+    {
+      "No.": "210016",
+      "Goods and Services": "watering cans"
+    },
+    {
+      "No.": "210017",
+      "Goods and Services": "bread baskets for household purposes"
+    },
+    {
+      "No.": "210018",
+      "Goods and Services": "rings for birds"
+    },
+    {
+      "No.": "210019",
+      "Goods and Services": "bird baths*"
+    },
+    {
+      "No.": "210020",
+      "Goods and Services": "brooms"
+    },
+    {
+      "No.": "210021",
+      "Goods and Services": "carpet sweepers"
+    },
+    {
+      "No.": "210022",
+      "Goods and Services": "glass flasks [containers]"
+    },
+    {
+      "No.": "210023",
+      "Goods and Services": "buckets / pails"
+    },
+    {
+      "No.": "210025",
+      "Goods and Services": "basins [receptacles]"
+    },
+    {
+      "No.": "210027",
+      "Goods and Services": "pouring spouts"
+    },
+    {
+      "No.": "210028",
+      "Goods and Services": "currycombs"
+    },
+    {
+      "No.": "210030",
+      "Goods and Services": "butter dishes"
+    },
+    {
+      "No.": "210031",
+      "Goods and Services": "butter-dish covers"
+    },
+    {
+      "No.": "210032",
+      "Goods and Services": "beer mugs"
+    },
+    {
+      "No.": "210033",
+      "Goods and Services": "glass jars [carboys]"
+    },
+    {
+      "No.": "210034",
+      "Goods and Services": "drinking vessels"
+    },
+    {
+      "No.": "210035",
+      "Goods and Services": "heat-insulated containers for beverages"
+    },
+    {
+      "No.": "210037",
+      "Goods and Services": "soap boxes"
+    },
+    {
+      "No.": "210038",
+      "Goods and Services": "tea caddies"
+    },
+    {
+      "No.": "210039",
+      "Goods and Services": "bowls [basins] / basins [bowls]"
+    },
+    {
+      "No.": "210040",
+      "Goods and Services": "demijohns / carboys"
+    },
+    {
+      "No.": "210041",
+      "Goods and Services": "boot jacks"
+    },
+    {
+      "No.": "210042",
+      "Goods and Services": "glass stoppers"
+    },
+    {
+      "No.": "210043",
+      "Goods and Services": "corkscrews, electric and non-electric"
+    },
+    {
+      "No.": "210044",
+      "Goods and Services": "decorative glass spheres"
+    },
+    {
+      "No.": "210045",
+      "Goods and Services": "bottles"
+    },
+    {
+      "No.": "210046",
+      "Goods and Services": "insulating flasks / vacuum bottles"
+    },
+    {
+      "No.": "210047",
+      "Goods and Services": "refrigerating bottles"
+    },
+    {
+      "No.": "210048",
+      "Goods and Services": "bottle openers, electric and non-electric"
+    },
+    {
+      "No.": "210049",
+      "Goods and Services": "cooking skewers of metal / cooking pins of metal"
+    },
+    {
+      "No.": "210050",
+      "Goods and Services": "nail brushes"
+    },
+    {
+      "No.": "210051",
+      "Goods and Services": "toilet brushes"
+    },
+    {
+      "No.": "210052",
+      "Goods and Services": "lamp-glass brushes"
+    },
+    {
+      "No.": "210054",
+      "Goods and Services": "material for brush-making"
+    },
+    {
+      "No.": "210055",
+      "Goods and Services": "hair for brushes"
+    },
+    {
+      "No.": "210056",
+      "Goods and Services": "perfume burners, electric and non-electric"
+    },
+    {
+      "No.": "210057",
+      "Goods and Services": "cruets"
+    },
+    {
+      "No.": "210058",
+      "Goods and Services": "cabarets [trays]"
+    },
+    {
+      "No.": "210059",
+      "Goods and Services": "birdcages"
+    },
+    {
+      "No.": "210061",
+      "Goods and Services": "sifters [household utensils]"
+    },
+    {
+      "No.": "210062",
+      "Goods and Services": "heat-insulated containers"
+    },
+    {
+      "No.": "210063",
+      "Goods and Services": "decanters"
+    },
+    {
+      "No.": "210064",
+      "Goods and Services": "menu card holders"
+    },
+    {
+      "No.": "210065",
+      "Goods and Services": "stew-pans"
+    },
+    {
+      "No.": "210066",
+      "Goods and Services": "saucepan scourers of metal"
+    },
+    {
+      "No.": "210067",
+      "Goods and Services": "cinder sifters [household utensils]"
+    },
+    {
+      "No.": "210068",
+      "Goods and Services": "ceramics for household purposes"
+    },
+    {
+      "No.": "210069",
+      "Goods and Services": "fly swatters"
+    },
+    {
+      "No.": "210070",
+      "Goods and Services": "cauldrons"
+    },
+    {
+      "No.": "210071",
+      "Goods and Services": "shoe brushes"
+    },
+    {
+      "No.": "210073",
+      "Goods and Services": "horse brushes"
+    },
+    {
+      "No.": "210074",
+      "Goods and Services": "mangers for animals"
+    },
+    {
+      "No.": "210075",
+      "Goods and Services": "combs for animals"
+    },
+    {
+      "No.": "210076",
+      "Goods and Services": "combs*"
+    },
+    {
+      "No.": "210077",
+      "Goods and Services": "cloths for cleaning / rags for cleaning"
+    },
+    {
+      "No.": "210078",
+      "Goods and Services": "china ornaments"
+    },
+    {
+      "No.": "210079",
+      "Goods and Services": "moulds [kitchen utensils] / molds [kitchen utensils]"
+    },
+    {
+      "No.": "210080",
+      "Goods and Services": "apparatus for wax-polishing, non-electric"
+    },
+    {
+      "No.": "210082",
+      "Goods and Services": "cocktail shakers"
+    },
+    {
+      "No.": "210084",
+      "Goods and Services": "glue pots, non-electric"
+    },
+    {
+      "No.": "210085",
+      "Goods and Services": "glasses [receptacles]"
+    },
+    {
+      "No.": "210086",
+      "Goods and Services": "drinking horns"
+    },
+    {
+      "No.": "210087",
+      "Goods and Services": "cosmetic utensils"
+    },
+    {
+      "No.": "210088",
+      "Goods and Services": "strainers for household purposes"
+    },
+    {
+      "No.": "210089",
+      "Goods and Services": "fruit bowls"
+    },
+    {
+      "No.": "210090",
+      "Goods and Services": "knife rests for the table"
+    },
+    {
+      "No.": "210091",
+      "Goods and Services": "closures for pot lids"
+    },
+    {
+      "No.": "210092",
+      "Goods and Services": "pot lids"
+    },
+    {
+      "No.": "210093",
+      "Goods and Services": "ironing board covers, shaped"
+    },
+    {
+      "No.": "210094",
+      "Goods and Services": "tie presses"
+    },
+    {
+      "No.": "210096",
+      "Goods and Services": "blenders, non-electric, for household purposes"
+    },
+    {
+      "No.": "210097",
+      "Goods and Services": "sieves [household utensils]"
+    },
+    {
+      "No.": "210098",
+      "Goods and Services": "crystal [glassware]"
+    },
+    {
+      "No.": "210099",
+      "Goods and Services": "ice cube moulds / ice cube molds"
+    },
+    {
+      "No.": "210100",
+      "Goods and Services": "polishing leather"
+    },
+    {
+      "No.": "210101",
+      "Goods and Services": "cooking pots, non-electric"
+    },
+    {
+      "No.": "210102",
+      "Goods and Services": "scoops for household purposes"
+    },
+    {
+      "No.": "210103",
+      "Goods and Services": "cookery moulds / cookery molds"
+    },
+    {
+      "No.": "210104",
+      "Goods and Services": "cleaning instruments, hand-operated"
+    },
+    {
+      "No.": "210105",
+      "Goods and Services": "toothpicks"
+    },
+    {
+      "No.": "210106",
+      "Goods and Services": "washtubs"
+    },
+    {
+      "No.": "210107",
+      "Goods and Services": "plates to prevent milk boiling over"
+    },
+    {
+      "No.": "210108",
+      "Goods and Services": "cutting boards for the kitchen"
+    },
+    {
+      "No.": "210110",
+      "Goods and Services": "large-toothed combs for the hair"
+    },
+    {
+      "No.": "210111",
+      "Goods and Services": "dusting apparatus, non-electric"
+    },
+    {
+      "No.": "210112",
+      "Goods and Services": "stands for clothes irons"
+    },
+    {
+      "No.": "210114",
+      "Goods and Services": "powdered glass for decoration"
+    },
+    {
+      "No.": "210115",
+      "Goods and Services": "toilet cases / fitted vanity cases"
+    },
+    {
+      "No.": "210117",
+      "Goods and Services": "soap dispensing bottles"
+    },
+    {
+      "No.": "210118",
+      "Goods and Services": "siphon bottles for carbonated water / siphon bottles for aerated water"
+    },
+    {
+      "No.": "210119",
+      "Goods and Services": "enamelled glass, not for building"
+    },
+    {
+      "No.": "210120",
+      "Goods and Services": "shoe trees"
+    },
+    {
+      "No.": "210121",
+      "Goods and Services": "funnels"
+    },
+    {
+      "No.": "210122",
+      "Goods and Services": "spice sets"
+    },
+    {
+      "No.": "210123",
+      "Goods and Services": "bath sponges"
+    },
+    {
+      "No.": "210124",
+      "Goods and Services": "sponge holders"
+    },
+    {
+      "No.": "210125",
+      "Goods and Services": "furniture dusters"
+    },
+    {
+      "No.": "210126",
+      "Goods and Services": "drying racks for laundry"
+    },
+    {
+      "No.": "210127",
+      "Goods and Services": "buckets made of woven fabrics"
+    },
+    {
+      "No.": "210128",
+      "Goods and Services": "comb cases"
+    },
+    {
+      "No.": "210129",
+      "Goods and Services": "earthenware / crockery"
+    },
+    {
+      "No.": "210132",
+      "Goods and Services": "holders for flowers and plants [flower arranging]"
+    },
+    {
+      "No.": "210133",
+      "Goods and Services": "flower pots"
+    },
+    {
+      "No.": "210134",
+      "Goods and Services": "whisks, non-electric, for household purposes"
+    },
+    {
+      "No.": "210135",
+      "Goods and Services": "mops*"
+    },
+    {
+      "No.": "210136",
+      "Goods and Services": "frying pans, non-electric"
+    },
+    {
+      "No.": "210137",
+      "Goods and Services": "scrubbing brushes"
+    },
+    {
+      "No.": "210138",
+      "Goods and Services": "fruit presses, non-electric, for household purposes"
+    },
+    {
+      "No.": "210139",
+      "Goods and Services": "smoke absorbers for household purposes"
+    },
+    {
+      "No.": "210140",
+      "Goods and Services": "mess-tins"
+    },
+    {
+      "No.": "210141",
+      "Goods and Services": "glove stretchers"
+    },
+    {
+      "No.": "210142",
+      "Goods and Services": "cake moulds / cake molds"
+    },
+    {
+      "No.": "210143",
+      "Goods and Services": "plate glass [raw material]"
+    },
+    {
+      "No.": "210144",
+      "Goods and Services": "drinking bottles for sports"
+    },
+    {
+      "No.": "210145",
+      "Goods and Services": "grills [cooking utensils] / griddles [cooking utensils]"
+    },
+    {
+      "No.": "210146",
+      "Goods and Services": "grill supports / gridiron supports"
+    },
+    {
+      "No.": "210147",
+      "Goods and Services": "tar-brushes, long handled"
+    },
+    {
+      "No.": "210148",
+      "Goods and Services": "powder puffs"
+    },
+    {
+      "No.": "210149",
+      "Goods and Services": "glass, unworked or semi-worked, except building glass"
+    },
+    {
+      "No.": "210150",
+      "Goods and Services": "insect traps"
+    },
+    {
+      "No.": "210152",
+      "Goods and Services": "glass wool, other than for insulation"
+    },
+    {
+      "No.": "210153",
+      "Goods and Services": "pots"
+    },
+    {
+      "No.": "210154",
+      "Goods and Services": "vegetable dishes"
+    },
+    {
+      "No.": "210155",
+      "Goods and Services": "liqueur sets"
+    },
+    {
+      "No.": "210156",
+      "Goods and Services": "basting spoons [cooking utensils]"
+    },
+    {
+      "No.": "210157",
+      "Goods and Services": "majolica"
+    },
+    {
+      "No.": "210158",
+      "Goods and Services": "kitchen grinders, non-electric"
+    },
+    {
+      "No.": "210159",
+      "Goods and Services": "utensils for household purposes"
+    },
+    {
+      "No.": "210160",
+      "Goods and Services": "crumb trays"
+    },
+    {
+      "No.": "210161",
+      "Goods and Services": "mosaics of glass, not for building"
+    },
+    {
+      "No.": "210162",
+      "Goods and Services": "mills for household purposes, hand-operated"
+    },
+    {
+      "No.": "210163",
+      "Goods and Services": "wool waste for cleaning"
+    },
+    {
+      "No.": "210164",
+      "Goods and Services": "nest eggs, artificial"
+    },
+    {
+      "No.": "210165",
+      "Goods and Services": "egg cups"
+    },
+    {
+      "No.": "210166",
+      "Goods and Services": "opal glass"
+    },
+    {
+      "No.": "210167",
+      "Goods and Services": "opaline glass"
+    },
+    {
+      "No.": "210168",
+      "Goods and Services": "scouring pads"
+    },
+    {
+      "No.": "210169",
+      "Goods and Services": "bread boards"
+    },
+    {
+      "No.": "210170",
+      "Goods and Services": "fitted picnic baskets, including dishes"
+    },
+    {
+      "No.": "210171",
+      "Goods and Services": "trouser presses"
+    },
+    {
+      "No.": "210173",
+      "Goods and Services": "paper plates"
+    },
+    {
+      "No.": "210175",
+      "Goods and Services": "rolling pins, domestic"
+    },
+    {
+      "No.": "210176",
+      "Goods and Services": "electric combs"
+    },
+    {
+      "No.": "210177",
+      "Goods and Services": "pie servers / tart scoops"
+    },
+    {
+      "No.": "210178",
+      "Goods and Services": "wine-tasting pipettes / wine-tasting siphons"
+    },
+    {
+      "No.": "210179",
+      "Goods and Services": "ironing boards"
+    },
+    {
+      "No.": "210180",
+      "Goods and Services": "trays of paper, for household purposes"
+    },
+    {
+      "No.": "210181",
+      "Goods and Services": "earthenware saucepans"
+    },
+    {
+      "No.": "210183",
+      "Goods and Services": "nozzles for watering cans / roses for watering cans"
+    },
+    {
+      "No.": "210184",
+      "Goods and Services": "pepper mills, hand-operated"
+    },
+    {
+      "No.": "210185",
+      "Goods and Services": "pepper pots"
+    },
+    {
+      "No.": "210186",
+      "Goods and Services": "polishing apparatus and machines, for household purposes, non-electric"
+    },
+    {
+      "No.": "210187",
+      "Goods and Services": "polishing materials for making shiny, except preparations, paper and stone"
+    },
+    {
+      "No.": "210189",
+      "Goods and Services": "porcelain ware"
+    },
+    {
+      "No.": "210190",
+      "Goods and Services": "vases"
+    },
+    {
+      "No.": "210191",
+      "Goods and Services": "soap holders / dishes for soap"
+    },
+    {
+      "No.": "210192",
+      "Goods and Services": "chamber pots"
+    },
+    {
+      "No.": "210193",
+      "Goods and Services": "pottery"
+    },
+    {
+      "No.": "210194",
+      "Goods and Services": "dustbins for household purposes / garbage cans for household purposes / refuse bins for household purposes / trash cans for household purposes"
+    },
+    {
+      "No.": "210195",
+      "Goods and Services": "powder compacts, empty"
+    },
+    {
+      "No.": "210196",
+      "Goods and Services": "ice buckets / coolers [ice pails] / ice pails"
+    },
+    {
+      "No.": "210197",
+      "Goods and Services": "graters for kitchen use"
+    },
+    {
+      "No.": "210198",
+      "Goods and Services": "rat traps"
+    },
+    {
+      "No.": "210199",
+      "Goods and Services": "containers for household or kitchen use"
+    },
+    {
+      "No.": "210200",
+      "Goods and Services": "napkin rings"
+    },
+    {
+      "No.": "210203",
+      "Goods and Services": "salad bowls"
+    },
+    {
+      "No.": "210204",
+      "Goods and Services": "salt cellars / salt shakers"
+    },
+    {
+      "No.": "210206",
+      "Goods and Services": "syringes for watering flowers and plants / sprinklers for watering flowers and plants"
+    },
+    {
+      "No.": "210208",
+      "Goods and Services": "dishes"
+    },
+    {
+      "No.": "210209",
+      "Goods and Services": "tea services [tableware]"
+    },
+    {
+      "No.": "210210",
+      "Goods and Services": "table napkin holders"
+    },
+    {
+      "No.": "210211",
+      "Goods and Services": "vessels for making ices and ice cream, non-electric"
+    },
+    {
+      "No.": "210212",
+      "Goods and Services": "saucers"
+    },
+    {
+      "No.": "210213",
+      "Goods and Services": "shoe horns"
+    },
+    {
+      "No.": "210214",
+      "Goods and Services": "soup tureens"
+    },
+    {
+      "No.": "210215",
+      "Goods and Services": "eyebrow brushes"
+    },
+    {
+      "No.": "210216",
+      "Goods and Services": "mouse traps"
+    },
+    {
+      "No.": "210217",
+      "Goods and Services": "statues of porcelain, ceramic, earthenware, terra-cotta or glass"
+    },
+    {
+      "No.": "210218",
+      "Goods and Services": "sugar bowls"
+    },
+    {
+      "No.": "210219",
+      "Goods and Services": "epergnes"
+    },
+    {
+      "No.": "210220",
+      "Goods and Services": "cups"
+    },
+    {
+      "No.": "210221",
+      "Goods and Services": "clothing stretchers / stretchers for clothing"
+    },
+    {
+      "No.": "210222",
+      "Goods and Services": "teapots"
+    },
+    {
+      "No.": "210223",
+      "Goods and Services": "buttonhooks"
+    },
+    {
+      "No.": "210224",
+      "Goods and Services": "piggy banks"
+    },
+    {
+      "No.": "210226",
+      "Goods and Services": "beverage urns, non-electric"
+    },
+    {
+      "No.": "210227",
+      "Goods and Services": "tableware, other than knives, forks and spoons"
+    },
+    {
+      "No.": "210228",
+      "Goods and Services": "perfume vaporizers / perfume sprayers"
+    },
+    {
+      "No.": "210229",
+      "Goods and Services": "glass incorporating fine electrical conductors"
+    },
+    {
+      "No.": "210230",
+      "Goods and Services": "painted glassware"
+    },
+    {
+      "No.": "210231",
+      "Goods and Services": "glass for vehicle windows [semi-finished product]"
+    },
+    {
+      "No.": "210232",
+      "Goods and Services": "mugs"
+    },
+    {
+      "No.": "210234",
+      "Goods and Services": "works of art of porcelain, ceramic, earthenware, terra-cotta or glass"
+    },
+    {
+      "No.": "210235",
+      "Goods and Services": "table plates"
+    },
+    {
+      "No.": "210236",
+      "Goods and Services": "autoclaves, non-electric, for cooking / pressure cookers, non-electric"
+    },
+    {
+      "No.": "210238",
+      "Goods and Services": "beaters, non-electric"
+    },
+    {
+      "No.": "210239",
+      "Goods and Services": "heaters for feeding bottles, non-electric"
+    },
+    {
+      "No.": "210240",
+      "Goods and Services": "shaving brushes"
+    },
+    {
+      "No.": "210241",
+      "Goods and Services": "shaving brush stands / stands for shaving brushes"
+    },
+    {
+      "No.": "210242",
+      "Goods and Services": "candle drip rings / bobeches"
+    },
+    {
+      "No.": "210243",
+      "Goods and Services": "boxes of glass"
+    },
+    {
+      "No.": "210244",
+      "Goods and Services": "boxes for sweets / candy boxes"
+    },
+    {
+      "No.": "210245",
+      "Goods and Services": "candelabra [candlesticks] / candlesticks"
+    },
+    {
+      "No.": "210246",
+      "Goods and Services": "kettles, non-electric"
+    },
+    {
+      "No.": "210248",
+      "Goods and Services": "tea infusers / tea balls"
+    },
+    {
+      "No.": "210250",
+      "Goods and Services": "toothbrushes"
+    },
+    {
+      "No.": "210251",
+      "Goods and Services": "electric brushes, except parts of machines"
+    },
+    {
+      "No.": "210252",
+      "Goods and Services": "busts of porcelain, ceramic, earthenware, terra-cotta or glass"
+    },
+    {
+      "No.": "210253",
+      "Goods and Services": "flower-pot covers, not of paper / covers, not of paper, for flower pots"
+    },
+    {
+      "No.": "210254",
+      "Goods and Services": "coffee grinders, hand-operated"
+    },
+    {
+      "No.": "210255",
+      "Goods and Services": "coffee services [tableware]"
+    },
+    {
+      "No.": "210256",
+      "Goods and Services": "coffee filters, non-electric"
+    },
+    {
+      "No.": "210257",
+      "Goods and Services": "coffee percolators, non-electric"
+    },
+    {
+      "No.": "210258",
+      "Goods and Services": "coasters, not of paper or textile"
+    },
+    {
+      "No.": "210259",
+      "Goods and Services": "abrasive pads for kitchen purposes"
+    },
+    {
+      "No.": "210260",
+      "Goods and Services": "deep fryers, non-electric"
+    },
+    {
+      "No.": "210261",
+      "Goods and Services": "portable cool boxes, non-electric / portable coolers, non-electric"
+    },
+    {
+      "No.": "210262",
+      "Goods and Services": "water apparatus for cleaning teeth and gums"
+    },
+    {
+      "No.": "210263",
+      "Goods and Services": "chamois leather for cleaning / buckskin for cleaning / skins of chamois for cleaning"
+    },
+    {
+      "No.": "210264",
+      "Goods and Services": "wax-polishing appliances, non-electric, for shoes"
+    },
+    {
+      "No.": "210265",
+      "Goods and Services": "cheese-dish covers"
+    },
+    {
+      "No.": "210266",
+      "Goods and Services": "baskets for household purposes"
+    },
+    {
+      "No.": "210267",
+      "Goods and Services": "trays for household purposes"
+    },
+    {
+      "No.": "210268",
+      "Goods and Services": "cotton waste for cleaning"
+    },
+    {
+      "No.": "210269",
+      "Goods and Services": "dish covers / covers for dishes"
+    },
+    {
+      "No.": "210270",
+      "Goods and Services": "trivets [table utensils]"
+    },
+    {
+      "No.": "210271",
+      "Goods and Services": "jugs / pitchers"
+    },
+    {
+      "No.": "210272",
+      "Goods and Services": "kitchen containers"
+    },
+    {
+      "No.": "210273",
+      "Goods and Services": "kitchen utensils"
+    },
+    {
+      "No.": "210274",
+      "Goods and Services": "cooking utensils, non-electric"
+    },
+    {
+      "No.": "210275",
+      "Goods and Services": "toothpick holders"
+    },
+    {
+      "No.": "210276",
+      "Goods and Services": "toothbrushes, electric"
+    },
+    {
+      "No.": "210277",
+      "Goods and Services": "deodorizing apparatus for personal use / deodorising apparatus for personal use"
+    },
+    {
+      "No.": "210278",
+      "Goods and Services": "brushes for cleaning tanks and containers"
+    },
+    {
+      "No.": "210279",
+      "Goods and Services": "signboards of porcelain or glass"
+    },
+    {
+      "No.": "210280",
+      "Goods and Services": "sponges for household purposes"
+    },
+    {
+      "No.": "210281",
+      "Goods and Services": "feather-dusters"
+    },
+    {
+      "No.": "210282",
+      "Goods and Services": "dusting cloths [rags]"
+    },
+    {
+      "No.": "210283",
+      "Goods and Services": "vitreous silica fibres, other than for textile use / vitreous silica fibers, other than for textile use"
+    },
+    {
+      "No.": "210284",
+      "Goods and Services": "fibreglass, other than for insulation or textile use / fiberglass, other than for insulation or textile use"
+    },
+    {
+      "No.": "210285",
+      "Goods and Services": "figurines of porcelain, ceramic, earthenware, terra-cotta or glass / statuettes of porcelain, ceramic, earthenware, terra-cotta or glass"
+    },
+    {
+      "No.": "210286",
+      "Goods and Services": "fibreglass thread, other than for textile use / fiberglass thread, other than for textile use"
+    },
+    {
+      "No.": "210287",
+      "Goods and Services": "coffeepots, non-electric"
+    },
+    {
+      "No.": "210288",
+      "Goods and Services": "tea strainers"
+    },
+    {
+      "No.": "210289",
+      "Goods and Services": "flasks"
+    },
+    {
+      "No.": "210290",
+      "Goods and Services": "gloves for household purposes"
+    },
+    {
+      "No.": "210291",
+      "Goods and Services": "tankards"
+    },
+    {
+      "No.": "210292",
+      "Goods and Services": "cruet sets for oil and vinegar"
+    },
+    {
+      "No.": "210294",
+      "Goods and Services": "polishing gloves"
+    },
+    {
+      "No.": "210295",
+      "Goods and Services": "candle extinguishers"
+    },
+    {
+      "No.": "210301",
+      "Goods and Services": "baby baths, portable"
+    },
+    {
+      "No.": "210302",
+      "Goods and Services": "cages for household pets"
+    },
+    {
+      "No.": "210303",
+      "Goods and Services": "cloth for washing floors"
+    },
+    {
+      "No.": "210304",
+      "Goods and Services": "dishwashing brushes"
+    },
+    {
+      "No.": "210305",
+      "Goods and Services": "indoor terrariums [plant cultivation]"
+    },
+    {
+      "No.": "210306",
+      "Goods and Services": "litter boxes for pets / litter trays for pets"
+    },
+    {
+      "No.": "210308",
+      "Goods and Services": "fused silica [semi-worked product], other than for building"
+    },
+    {
+      "No.": "210309",
+      "Goods and Services": "waffle irons, non-electric"
+    },
+    {
+      "No.": "210310",
+      "Goods and Services": "bread bins"
+    },
+    {
+      "No.": "210311",
+      "Goods and Services": "chopsticks"
+    },
+    {
+      "No.": "210312",
+      "Goods and Services": "cleaning tow"
+    },
+    {
+      "No.": "210313",
+      "Goods and Services": "clothes-pegs / clothes-pins"
+    },
+    {
+      "No.": "210314",
+      "Goods and Services": "cocktail stirrers"
+    },
+    {
+      "No.": "210315",
+      "Goods and Services": "decorating bags for confectioners / piping bags / pastry bags"
+    },
+    {
+      "No.": "210316",
+      "Goods and Services": "cookie [biscuit] cutters"
+    },
+    {
+      "No.": "210317",
+      "Goods and Services": "cookie jars"
+    },
+    {
+      "No.": "210318",
+      "Goods and Services": "cups of paper or plastic"
+    },
+    {
+      "No.": "210319",
+      "Goods and Services": "drinking glasses"
+    },
+    {
+      "No.": "210320",
+      "Goods and Services": "floss for dental purposes"
+    },
+    {
+      "No.": "210321",
+      "Goods and Services": "gardening gloves"
+    },
+    {
+      "No.": "210322",
+      "Goods and Services": "hot pots, non-electric"
+    },
+    {
+      "No.": "210323",
+      "Goods and Services": "isothermic bags"
+    },
+    {
+      "No.": "210324",
+      "Goods and Services": "lazy susans"
+    },
+    {
+      "No.": "210325",
+      "Goods and Services": "lunch boxes"
+    },
+    {
+      "No.": "210326",
+      "Goods and Services": "mixing spoons [kitchen utensils]"
+    },
+    {
+      "No.": "210327",
+      "Goods and Services": "noodle machines, hand-operated"
+    },
+    {
+      "No.": "210328",
+      "Goods and Services": "pastry cutters"
+    },
+    {
+      "No.": "210329",
+      "Goods and Services": "plungers for clearing blocked drains"
+    },
+    {
+      "No.": "210330",
+      "Goods and Services": "spatulas for kitchen use"
+    },
+    {
+      "No.": "210331",
+      "Goods and Services": "abrasive sponges for scrubbing the skin"
+    },
+    {
+      "No.": "210332",
+      "Goods and Services": "garlic presses [kitchen utensils]"
+    },
+    {
+      "No.": "210333",
+      "Goods and Services": "disposable table plates"
+    },
+    {
+      "No.": "210334",
+      "Goods and Services": "towel rails and rings / rails and rings for towels"
+    },
+    {
+      "No.": "210335",
+      "Goods and Services": "toilet paper holders"
+    },
+    {
+      "No.": "210336",
+      "Goods and Services": "indoor aquaria / tanks [indoor aquaria]"
+    },
+    {
+      "No.": "210337",
+      "Goods and Services": "aquarium hoods"
+    },
+    {
+      "No.": "210338",
+      "Goods and Services": "indoor terrariums [vivariums]"
+    },
+    {
+      "No.": "210339",
+      "Goods and Services": "mop wringers"
+    },
+    {
+      "No.": "210340",
+      "Goods and Services": "waste paper baskets"
+    },
+    {
+      "No.": "210341",
+      "Goods and Services": "window-boxes"
+    },
+    {
+      "No.": "210342",
+      "Goods and Services": "straws for drinking / drinking straws"
+    },
+    {
+      "No.": "210343",
+      "Goods and Services": "tea cosies"
+    },
+    {
+      "No.": "210344",
+      "Goods and Services": "make-up removing appliances"
+    },
+    {
+      "No.": "210345",
+      "Goods and Services": "electric devices for attracting and killing insects"
+    },
+    {
+      "No.": "210346",
+      "Goods and Services": "baking mats"
+    },
+    {
+      "No.": "210347",
+      "Goods and Services": "boot trees"
+    },
+    {
+      "No.": "210348",
+      "Goods and Services": "hip flasks"
+    },
+    {
+      "No.": "210349",
+      "Goods and Services": "cosmetic spatulas"
+    },
+    {
+      "No.": "210350",
+      "Goods and Services": "dripping pans"
+    },
+    {
+      "No.": "210351",
+      "Goods and Services": "fly traps"
+    },
+    {
+      "No.": "210352",
+      "Goods and Services": "candle jars [holders]"
+    },
+    {
+      "No.": "210353",
+      "Goods and Services": "food steamers, non-electric"
+    },
+    {
+      "No.": "210354",
+      "Goods and Services": "make-up sponges"
+    },
+    {
+      "No.": "210355",
+      "Goods and Services": "crushers for kitchen use, non-electric"
+    },
+    {
+      "No.": "210356",
+      "Goods and Services": "potholders"
+    },
+    {
+      "No.": "210357",
+      "Goods and Services": "oven mitts / kitchen mitts / barbecue mitts"
+    },
+    {
+      "No.": "210358",
+      "Goods and Services": "basting brushes"
+    },
+    {
+      "No.": "210359",
+      "Goods and Services": "bulb basters"
+    },
+    {
+      "No.": "210360",
+      "Goods and Services": "car washing mitts"
+    },
+    {
+      "No.": "210361",
+      "Goods and Services": "make-up brushes"
+    },
+    {
+      "No.": "210362",
+      "Goods and Services": "mop wringer buckets"
+    },
+    {
+      "No.": "210363",
+      "Goods and Services": "tortilla presses, non-electric [kitchen utensils]"
+    },
+    {
+      "No.": "210364",
+      "Goods and Services": "ski wax brushes"
+    },
+    {
+      "No.": "210365",
+      "Goods and Services": "eyelash brushes"
+    },
+    {
+      "No.": "210366",
+      "Goods and Services": "egg separators, non-electric, for household purposes"
+    },
+    {
+      "No.": "210367",
+      "Goods and Services": "foam toe separators for use in pedicures"
+    },
+    {
+      "No.": "210368",
+      "Goods and Services": "plug-in diffusers for mosquito repellents"
+    },
+    {
+      "No.": "210369",
+      "Goods and Services": "cold packs for chilling food and beverages"
+    },
+    {
+      "No.": "210370",
+      "Goods and Services": "reusable ice cubes"
+    },
+    {
+      "No.": "210371",
+      "Goods and Services": "tablemats, not of paper or textile"
+    },
+    {
+      "No.": "210372",
+      "Goods and Services": "place mats, not of paper or textile"
+    },
+    {
+      "No.": "210373",
+      "Goods and Services": "decanter tags"
+    },
+    {
+      "No.": "210374",
+      "Goods and Services": "wine aerators"
+    },
+    {
+      "No.": "210375",
+      "Goods and Services": "heads for electric toothbrushes"
+    },
+    {
+      "No.": "210376",
+      "Goods and Services": "coin banks"
+    },
+    {
+      "No.": "210377",
+      "Goods and Services": "lint removers, electric or non-electric"
+    },
+    {
+      "No.": "210378",
+      "Goods and Services": "polishing cloths"
+    },
+    {
+      "No.": "210379",
+      "Goods and Services": "pig bristles for brush-making"
+    },
+    {
+      "No.": "210380",
+      "Goods and Services": "horsehair for brush-making"
+    },
+    {
+      "No.": "210381",
+      "Goods and Services": "ice tongs"
+    },
+    {
+      "No.": "210382",
+      "Goods and Services": "salad tongs"
+    },
+    {
+      "No.": "210383",
+      "Goods and Services": "serving ladles"
+    },
+    {
+      "No.": "210384",
+      "Goods and Services": "pestles for kitchen use"
+    },
+    {
+      "No.": "210385",
+      "Goods and Services": "mortars for kitchen use"
+    },
+    {
+      "No.": "210386",
+      "Goods and Services": "ice cream scoops"
+    },
+    {
+      "No.": "210387",
+      "Goods and Services": "nutcrackers"
+    },
+    {
+      "No.": "210388",
+      "Goods and Services": "sugar tongs"
+    },
+    {
+      "No.": "210389",
+      "Goods and Services": "broom handles"
+    },
+    {
+      "No.": "210390",
+      "Goods and Services": "ladles for serving wine"
+    },
+    {
+      "No.": "210391",
+      "Goods and Services": "inflatable bath tubs for babies"
+    },
+    {
+      "No.": "210392",
+      "Goods and Services": "stands for portable baby baths"
+    },
+    {
+      "No.": "210393",
+      "Goods and Services": "tea bag rests"
+    },
+    {
+      "No.": "210394",
+      "Goods and Services": "cake decorating tips and tubes"
+    },
+    {
+      "No.": "210395",
+      "Goods and Services": "rotary washing lines"
+    },
+    {
+      "No.": "210396",
+      "Goods and Services": "cooking mesh bags"
+    },
+    {
+      "No.": "210397",
+      "Goods and Services": "droppers for cosmetic purposes"
+    },
+    {
+      "No.": "210398",
+      "Goods and Services": "droppers for household purposes"
+    },
+    {
+      "No.": "210399",
+      "Goods and Services": "couscous cooking pots, non-electric"
+    },
+    {
+      "No.": "210400",
+      "Goods and Services": "tajines, non-electric / tagines, non-electric"
+    },
+    {
+      "No.": "210401",
+      "Goods and Services": "egg yolk separators"
+    },
+    {
+      "No.": "210402",
+      "Goods and Services": "reusable silicone food covers"
+    },
+    {
+      "No.": "210403",
+      "Goods and Services": "animal grooming gloves"
+    },
+    {
+      "No.": "210404",
+      "Goods and Services": "squeegees [cleaning instruments]"
+    },
+    {
+      "No.": "210405",
+      "Goods and Services": "egg poachers"
+    },
+    {
+      "No.": "210406",
+      "Goods and Services": "aromatic oil diffusers, other than reed diffusers, electric and non-electric"
+    },
+    {
+      "No.": "210407",
+      "Goods and Services": "plates for diffusing aromatic oil"
+    },
+    {
+      "No.": "210408",
+      "Goods and Services": "pasta makers, hand-operated"
+    },
+    {
+      "No.": "210409",
+      "Goods and Services": "diaper disposal pails / nappy disposal bins"
+    },
+    {
+      "No.": "210410",
+      "Goods and Services": "disposable aluminium foil containers for household purposes / disposable aluminum foil containers for household purposes"
+    },
+    {
+      "No.": "210411",
+      "Goods and Services": "roller tubes for peeling garlic"
+    },
+    {
+      "No.": "210413",
+      "Goods and Services": "wine pourers"
+    },
+    {
+      "No.": "210414",
+      "Goods and Services": "pet feeding bowls"
+    },
+    {
+      "No.": "210415",
+      "Goods and Services": "pet feeding bowls, automatic"
+    },
+    {
+      "No.": "210416",
+      "Goods and Services": "candle warmers, electric and non-electric"
+    },
+    {
+      "No.": "210417",
+      "Goods and Services": "dishcloths"
+    },
+    {
+      "No.": "210418",
+      "Goods and Services": "abrasive mitts for scrubbing the skin"
+    },
+    {
+      "No.": "210419",
+      "Goods and Services": "baking cases of paper"
+    },
+    {
+      "No.": "210420",
+      "Goods and Services": "baking cases of silicone"
+    },
+    {
+      "No.": "210421",
+      "Goods and Services": "soup bowls"
+    },
+    {
+      "No.": "210422",
+      "Goods and Services": "ultrasonic pest repellers"
+    },
+    {
+      "No.": "210423",
+      "Goods and Services": "water flossers"
+    },
+    {
+      "No.": "210424",
+      "Goods and Services": "smart medicine bottles, empty"
+    },
+    {
+      "No.": "210425",
+      "Goods and Services": "valet trays [receptacles for small objects] for household purposes"
+    },
+    {
+      "No.": "210426",
+      "Goods and Services": "tube squeezers for household purposes"
+    },
+    {
+      "No.": "210427",
+      "Goods and Services": "figurines of porcelain, ceramic, earthenware, terra-cotta or glass for cakes"
+    },
+    {
+      "No.": "210428",
+      "Goods and Services": "roasting pans / roasting tins / roaster pans"
+    },
+    {
+      "No.": "210429",
+      "Goods and Services": "meat grinders, non-electric"
+    },
+    {
+      "No.": "210430",
+      "Goods and Services": "cosmetic stamps, empty"
+    },
+    {
+      "No.": "210431",
+      "Goods and Services": "mats, not of paper or textile, for beer glasses"
+    },
+    {
+      "No.": "210432",
+      "Goods and Services": "automatic opening and closing trash cans for household purposes"
+    },
+    {
+      "No.": "210433",
+      "Goods and Services": "sound wave vibration hairbrushes"
+    },
+    {
+      "No.": "210434",
+      "Goods and Services": "pie funnels"
+    },
+    {
+      "No.": "210435",
+      "Goods and Services": "barbecue tongs"
+    },
+    {
+      "No.": "210436",
+      "Goods and Services": "serving forks"
+    },
+    {
+      "No.": "210437",
+      "Goods and Services": "serving spoons"
+    },
+    {
+      "No.": "210438",
+      "Goods and Services": "barbecue forks"
+    },
+    {
+      "No.": "210439",
+      "Goods and Services": "cages for collecting insects / insect collecting cages"
+    },
+    {
+      "No.": "210440",
+      "Goods and Services": "insect collectors' boxes"
+    },
+    {
+      "No.": "210441",
+      "Goods and Services": "cosmetic apparatus for microdermabrasion"
+    },
+    {
+      "No.": "210442",
+      "Goods and Services": "covers for tissue boxes"
+    },
+    {
+      "No.": "210443",
+      "Goods and Services": "bags for use in cooking"
+    },
+    {
+      "No.": "210444",
+      "Goods and Services": "sticks for frozen confections"
+    },
+    {
+      "No.": "210445",
+      "Goods and Services": "laundry balls, empty / washing balls, empty"
+    },
+    {
+      "No.": "210446",
+      "Goods and Services": "mug cosies / mug sleeves"
+    },
+    {
+      "No.": "210447",
+      "Goods and Services": "commemorative statuary cups of porcelain, ceramic, earthenware, terra-cotta or glass"
+    },
+    {
+      "No.": "210448",
+      "Goods and Services": "disposable portable potties for adults and children"
+    },
+    {
+      "No.": "210449",
+      "Goods and Services": "zesters"
+    },
+    {
+      "No.": "210450",
+      "Goods and Services": "prize cups of porcelain, ceramic, earthenware, terra-cotta or glass"
+    },
+    {
+      "No.": "210451",
+      "Goods and Services": "alabaster glass, not for building"
+    },
+    {
+      "No.": "210452",
+      "Goods and Services": "stainless steel soap"
+    },
+    {
+      "No.": "210453",
+      "Goods and Services": "potties for children"
+    },
+    {
+      "No.": "210454",
+      "Goods and Services": "dryer balls"
+    },
+    {
+      "No.": "210455",
+      "Goods and Services": "dish drying racks"
+    },
+    {
+      "No.": "210456",
+      "Goods and Services": "dustpans"
+    },
+    {
+      "No.": "210457",
+      "Goods and Services": "adhesive rollers for cleaning"
+    },
+    {
+      "No.": "210458",
+      "Goods and Services": "adhesive refill sheets for rollers for cleaning"
+    },
+    {
+      "No.": "210459",
+      "Goods and Services": "facial cleansing brushes, electric and non-electric"
+    },
+    {
+      "No.": "210460",
+      "Goods and Services": "shampoo shields"
+    },
+    {
+      "No.": "210461",
+      "Goods and Services": "pill organizers for personal use"
+    },
+    {
+      "No.": "210462",
+      "Goods and Services": "electronic pill organizers for personal use"
+    },
+    {
+      "No.": "210463",
+      "Goods and Services": "personal hydration packs comprising a fluid reservoir and a delivery tube"
+    },
+    {
+      "No.": "210464",
+      "Goods and Services": "eyebrow thread"
+    },
+    {
+      "No.": "210465",
+      "Goods and Services": "eyelash separators"
+    },
+    {
+      "No.": "210466",
+      "Goods and Services": "insulated lunch bags"
+    },
+    {
+      "No.": "210467",
+      "Goods and Services": "jam spoons"
+    },
+    {
+      "No.": "210468",
+      "Goods and Services": "simmer rings [cooking utensils]"
+    },
+    {
+      "No.": "210469",
+      "Goods and Services": "cake stands"
+    },
+    {
+      "No.": "210470",
+      "Goods and Services": "bathroom ladles"
+    },
+    {
+      "No.": "210471",
+      "Goods and Services": "stirring rods for hot bath water"
+    },
+    {
+      "No.": "210472",
+      "Goods and Services": "fishing nets for aquaria"
+    },
+    {
+      "No.": "210473",
+      "Goods and Services": "pet lick mats"
+    },
+    {
+      "No.": "210474",
+      "Goods and Services": "candle holders*"
+    },
+    {
+      "No.": "210475",
+      "Goods and Services": "honey dippers"
+    },
+    {
+      "No.": "210476",
+      "Goods and Services": "paper towel holders"
+    },
+    {
+      "No.": "210477",
+      "Goods and Services": "electric facial cleansers"
+    },
+    {
+      "No.": "210478",
+      "Goods and Services": "heating packs for preparing food and beverages"
+    }
+  ]
+}

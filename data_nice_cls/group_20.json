@@ -1,0 +1,1400 @@
+{
+  "group_number": "20",
+  "meta": {
+    "Goods and Services": "Class Heading Furniture, mirrors, picture frames; containers, not of metal, for storage or transport; unworked or semi-worked bone, horn, whalebone or mother-of-pearl; shells; meerschaum; yellow amber Explanatory Note Class 20 includes mainly furniture and parts therefor, as well as certain goods made of wood, cork, reed, cane, wicker, horn, bone, whalebone, shell, amber, mother-of-pearl, meerschaum and substitutes for all these materials, or of plastic. This Class includes, in particular: • metal furniture, furniture for camping, gun racks, newspaper display stands • indoor window blinds and shades • bedding, for example, mattresses, bed bases, pillows • looking glasses, furniture and toilet mirrors • registration plates, not of metal • small items of hardware, not of metal, for example, bolts, screws, dowels, furniture casters, collars for fastening pipes • letter boxes, not of metal or masonry • certain dispensing apparatus, not of metal, automatic or non-automatic, for example, towel dispensers, queue ticket dispensers, dispensers for dog waste bags, toilet paper dispensers This Class does not include, in particular: • special furniture for laboratories (Cl. 9) or for medical use (Cl. 10) • outdoor blinds of metal (Cl. 6), not of metal and not of textile (Cl. 19), of textile (Cl. 22) • bed linen, eiderdowns and sleeping bags (Cl. 24) • certain dispensing apparatus that are classified according to their function or purpose, for example, fluid dispensing machines for industrial use (Cl. 7), ticket dispensing terminals, electronic (Cl. 9), dosage dispensers for medical use (Cl. 10), adhesive tape dispensers (Cl. 16) • certain mirrors for specific uses, for example, mirrors used in optical goods (Cl. 9), mirrors used in surgery or dentistry (Cl. 10), rearview mirrors (Cl. 12), sighting mirrors for guns (Cl. 13) • certain goods made of wood, cork, reed, cane, wicker, horn, bone, whalebone, shell, amber, mother-of-pearl, meerschaum and substitutes for all these materials, or of plastic, that are classified according to their function or purpose, for example, beads for making jewellery (Cl. 14), wooden floor boards (Cl. 19), baskets for domestic use (Cl. 21), plastic cups (Cl. 21), reed mats (Cl. 27)"
+  },
+  "items": [
+    {
+      "No.": "200001",
+      "Goods and Services": "beehives"
+    },
+    {
+      "No.": "200002",
+      "Goods and Services": "display boards"
+    },
+    {
+      "No.": "200003",
+      "Goods and Services": "decorations of plastic for foodstuffs"
+    },
+    {
+      "No.": "200005",
+      "Goods and Services": "yellow amber"
+    },
+    {
+      "No.": "200006",
+      "Goods and Services": "stuffed animals"
+    },
+    {
+      "No.": "200007",
+      "Goods and Services": "beds for household pets"
+    },
+    {
+      "No.": "200008",
+      "Goods and Services": "nesting boxes for household pets"
+    },
+    {
+      "No.": "200009",
+      "Goods and Services": "kennels for household pets"
+    },
+    {
+      "No.": "200010",
+      "Goods and Services": "animal claws"
+    },
+    {
+      "No.": "200011",
+      "Goods and Services": "curtain rings"
+    },
+    {
+      "No.": "200013",
+      "Goods and Services": "silvered glass [mirrors]"
+    },
+    {
+      "No.": "200014",
+      "Goods and Services": "cupboards"
+    },
+    {
+      "No.": "200015",
+      "Goods and Services": "medicine cabinets"
+    },
+    {
+      "No.": "200016",
+      "Goods and Services": "clips, not of metal, for cables and pipes"
+    },
+    {
+      "No.": "200017",
+      "Goods and Services": "casks of wood for decanting wine"
+    },
+    {
+      "No.": "200018",
+      "Goods and Services": "whalebone, unworked or semi-worked"
+    },
+    {
+      "No.": "200019",
+      "Goods and Services": "bamboo, unworked or semi-worked"
+    },
+    {
+      "No.": "200020",
+      "Goods and Services": "benches [furniture]"
+    },
+    {
+      "No.": "200021",
+      "Goods and Services": "fishing baskets"
+    },
+    {
+      "No.": "200022",
+      "Goods and Services": "playpens for babies"
+    },
+    {
+      "No.": "200023",
+      "Goods and Services": "bassinets / cradles"
+    },
+    {
+      "No.": "200024",
+      "Goods and Services": "library shelves"
+    },
+    {
+      "No.": "200025",
+      "Goods and Services": "reels of wood for yarn, silk, cord"
+    },
+    {
+      "No.": "200026",
+      "Goods and Services": "bedsteads of wood"
+    },
+    {
+      "No.": "200027",
+      "Goods and Services": "wood ribbon"
+    },
+    {
+      "No.": "200029",
+      "Goods and Services": "corks for bottles"
+    },
+    {
+      "No.": "200030",
+      "Goods and Services": "corks"
+    },
+    {
+      "No.": "200031",
+      "Goods and Services": "bottle racks"
+    },
+    {
+      "No.": "200032",
+      "Goods and Services": "embroidery frames"
+    },
+    {
+      "No.": "200033",
+      "Goods and Services": "brush mountings"
+    },
+    {
+      "No.": "200034",
+      "Goods and Services": "sideboards"
+    },
+    {
+      "No.": "200035",
+      "Goods and Services": "animal horns"
+    },
+    {
+      "No.": "200036",
+      "Goods and Services": "desks"
+    },
+    {
+      "No.": "200037",
+      "Goods and Services": "office furniture"
+    },
+    {
+      "No.": "200038",
+      "Goods and Services": "costume stands"
+    },
+    {
+      "No.": "200039",
+      "Goods and Services": "artificial honeycombs for beehives"
+    },
+    {
+      "No.": "200040",
+      "Goods and Services": "sections of wood for beehives"
+    },
+    {
+      "No.": "200041",
+      "Goods and Services": "furniture"
+    },
+    {
+      "No.": "200042",
+      "Goods and Services": "taps, not of metal, for casks / faucets, not of metal, for casks"
+    },
+    {
+      "No.": "200043",
+      "Goods and Services": "index cabinets [furniture]"
+    },
+    {
+      "No.": "200044",
+      "Goods and Services": "filing cabinets"
+    },
+    {
+      "No.": "200045",
+      "Goods and Services": "imitation tortoiseshell"
+    },
+    {
+      "No.": "200046",
+      "Goods and Services": "screens for fireplaces [furniture]"
+    },
+    {
+      "No.": "200047",
+      "Goods and Services": "coffins"
+    },
+    {
+      "No.": "200048",
+      "Goods and Services": "coffin fittings, not of metal"
+    },
+    {
+      "No.": "200049",
+      "Goods and Services": "stag antlers"
+    },
+    {
+      "No.": "200050",
+      "Goods and Services": "chairs [seats] / seats*"
+    },
+    {
+      "No.": "200051",
+      "Goods and Services": "chaise longues / chaise lounges"
+    },
+    {
+      "No.": "200052",
+      "Goods and Services": "head-rests [furniture]"
+    },
+    {
+      "No.": "200053",
+      "Goods and Services": "hat stands"
+    },
+    {
+      "No.": "200054",
+      "Goods and Services": "loading pallets, not of metal"
+    },
+    {
+      "No.": "200055",
+      "Goods and Services": "loading gauge rods, not of metal, for railway wagons"
+    },
+    {
+      "No.": "200056",
+      "Goods and Services": "hinges, not of metal"
+    },
+    {
+      "No.": "200057",
+      "Goods and Services": "display stand furniture"
+    },
+    {
+      "No.": "200058",
+      "Goods and Services": "dog kennels"
+    },
+    {
+      "No.": "200059",
+      "Goods and Services": "coat hangers / clothes hangers"
+    },
+    {
+      "No.": "200062",
+      "Goods and Services": "shelves for file cabinets"
+    },
+    {
+      "No.": "200063",
+      "Goods and Services": "armchairs*"
+    },
+    {
+      "No.": "200064",
+      "Goods and Services": "tailors' dummies / dressmakers' dummies / mannequins*"
+    },
+    {
+      "No.": "200065",
+      "Goods and Services": "containers, not of metal, for liquid fuel"
+    },
+    {
+      "No.": "200066",
+      "Goods and Services": "chests of drawers"
+    },
+    {
+      "No.": "200067",
+      "Goods and Services": "counters [tables]"
+    },
+    {
+      "No.": "200068",
+      "Goods and Services": "containers, not of metal [storage, transport]"
+    },
+    {
+      "No.": "200069",
+      "Goods and Services": "floating containers, not of metal"
+    },
+    {
+      "No.": "200070",
+      "Goods and Services": "tables*"
+    },
+    {
+      "No.": "200071",
+      "Goods and Services": "coral"
+    },
+    {
+      "No.": "200072",
+      "Goods and Services": "trays, not of metal*"
+    },
+    {
+      "No.": "200074",
+      "Goods and Services": "horn, unworked or semi-worked"
+    },
+    {
+      "No.": "200076",
+      "Goods and Services": "corozo"
+    },
+    {
+      "No.": "200077",
+      "Goods and Services": "bedding, except linen"
+    },
+    {
+      "No.": "200078",
+      "Goods and Services": "cushions*"
+    },
+    {
+      "No.": "200079",
+      "Goods and Services": "mattresses*"
+    },
+    {
+      "No.": "200080",
+      "Goods and Services": "coathooks, not of metal / hooks, not of metal, for clothes rails"
+    },
+    {
+      "No.": "200081",
+      "Goods and Services": "vats, not of metal"
+    },
+    {
+      "No.": "200082",
+      "Goods and Services": "tea trolleys / tea carts"
+    },
+    {
+      "No.": "200083",
+      "Goods and Services": "drafting tables"
+    },
+    {
+      "No.": "200084",
+      "Goods and Services": "towel dispensers, not of metal"
+    },
+    {
+      "No.": "200085",
+      "Goods and Services": "divans"
+    },
+    {
+      "No.": "200087",
+      "Goods and Services": "staves of wood"
+    },
+    {
+      "No.": "200088",
+      "Goods and Services": "cabinet work"
+    },
+    {
+      "No.": "200089",
+      "Goods and Services": "tortoiseshell"
+    },
+    {
+      "No.": "200090",
+      "Goods and Services": "oyster shells"
+    },
+    {
+      "No.": "200091",
+      "Goods and Services": "stakes, not of metal, for plants or trees"
+    },
+    {
+      "No.": "200092",
+      "Goods and Services": "ladders of wood or plastics"
+    },
+    {
+      "No.": "200093",
+      "Goods and Services": "mobile boarding stairs, not of metal, for passengers"
+    },
+    {
+      "No.": "200094",
+      "Goods and Services": "school furniture"
+    },
+    {
+      "No.": "200095",
+      "Goods and Services": "typing desks / shelves for typewriters"
+    },
+    {
+      "No.": "200096",
+      "Goods and Services": "placards of wood or plastics"
+    },
+    {
+      "No.": "200097",
+      "Goods and Services": "nuts, not of metal"
+    },
+    {
+      "No.": "200098",
+      "Goods and Services": "meerschaum"
+    },
+    {
+      "No.": "200099",
+      "Goods and Services": "removable covers for sinks"
+    },
+    {
+      "No.": "200100",
+      "Goods and Services": "packaging containers of plastic"
+    },
+    {
+      "No.": "200101",
+      "Goods and Services": "wall-mounted curtain holders"
+    },
+    {
+      "No.": "200102",
+      "Goods and Services": "beds*"
+    },
+    {
+      "No.": "200103",
+      "Goods and Services": "reels, not of metal, non-mechanical, for flexible hoses"
+    },
+    {
+      "No.": "200105",
+      "Goods and Services": "stair rods"
+    },
+    {
+      "No.": "200106",
+      "Goods and Services": "work benches"
+    },
+    {
+      "No.": "200108",
+      "Goods and Services": "racks [furniture]"
+    },
+    {
+      "No.": "200109",
+      "Goods and Services": "nesting boxes"
+    },
+    {
+      "No.": "200110",
+      "Goods and Services": "fans for personal use, non-electric"
+    },
+    {
+      "No.": "200112",
+      "Goods and Services": "closures, not of metal, for containers"
+    },
+    {
+      "No.": "200113",
+      "Goods and Services": "furniture fittings, not of metal"
+    },
+    {
+      "No.": "200115",
+      "Goods and Services": "flower-stands [furniture]"
+    },
+    {
+      "No.": "200116",
+      "Goods and Services": "flower-pot pedestals"
+    },
+    {
+      "No.": "200117",
+      "Goods and Services": "fodder racks"
+    },
+    {
+      "No.": "200118",
+      "Goods and Services": "gun racks"
+    },
+    {
+      "No.": "200119",
+      "Goods and Services": "casks, not of metal"
+    },
+    {
+      "No.": "200120",
+      "Goods and Services": "cask stands, not of metal"
+    },
+    {
+      "No.": "200121",
+      "Goods and Services": "curtain rollers"
+    },
+    {
+      "No.": "200122",
+      "Goods and Services": "meat safes"
+    },
+    {
+      "No.": "200123",
+      "Goods and Services": "window fittings, not of metal"
+    },
+    {
+      "No.": "200124",
+      "Goods and Services": "bed fittings, not of metal"
+    },
+    {
+      "No.": "200125",
+      "Goods and Services": "door fittings, not of metal"
+    },
+    {
+      "No.": "200126",
+      "Goods and Services": "chopping blocks [tables]"
+    },
+    {
+      "No.": "200128",
+      "Goods and Services": "crates"
+    },
+    {
+      "No.": "200129",
+      "Goods and Services": "covers for clothing [wardrobe]"
+    },
+    {
+      "No.": "200130",
+      "Goods and Services": "numberplates, not of metal / registration plates, not of metal"
+    },
+    {
+      "No.": "200132",
+      "Goods and Services": "furniture of metal"
+    },
+    {
+      "No.": "200133",
+      "Goods and Services": "rattan, unworked or semi-worked"
+    },
+    {
+      "No.": "200134",
+      "Goods and Services": "newspaper display stands"
+    },
+    {
+      "No.": "200135",
+      "Goods and Services": "magazine racks"
+    },
+    {
+      "No.": "200136",
+      "Goods and Services": "slatted indoor blinds"
+    },
+    {
+      "No.": "200137",
+      "Goods and Services": "washstands [furniture]"
+    },
+    {
+      "No.": "200139",
+      "Goods and Services": "bed casters, not of metal"
+    },
+    {
+      "No.": "200140",
+      "Goods and Services": "latches, not of metal"
+    },
+    {
+      "No.": "200141",
+      "Goods and Services": "lecterns"
+    },
+    {
+      "No.": "200144",
+      "Goods and Services": "coatstands"
+    },
+    {
+      "No.": "200145",
+      "Goods and Services": "transport pallets, not of metal"
+    },
+    {
+      "No.": "200146",
+      "Goods and Services": "handling pallets, not of metal"
+    },
+    {
+      "No.": "200147",
+      "Goods and Services": "steps [ladders], not of metal"
+    },
+    {
+      "No.": "200148",
+      "Goods and Services": "furniture partitions of wood / partitions of wood for furniture"
+    },
+    {
+      "No.": "200149",
+      "Goods and Services": "furniture casters, not of metal"
+    },
+    {
+      "No.": "200151",
+      "Goods and Services": "mobiles [decoration]"
+    },
+    {
+      "No.": "200152",
+      "Goods and Services": "standing desks"
+    },
+    {
+      "No.": "200153",
+      "Goods and Services": "mother-of-pearl, unworked or semi-worked"
+    },
+    {
+      "No.": "200154",
+      "Goods and Services": "nameplates, not of metal / identity plates, not of metal"
+    },
+    {
+      "No.": "200155",
+      "Goods and Services": "house numbers, not of metal, non-luminous"
+    },
+    {
+      "No.": "200156",
+      "Goods and Services": "stuffed birds"
+    },
+    {
+      "No.": "200157",
+      "Goods and Services": "pillows*"
+    },
+    {
+      "No.": "200158",
+      "Goods and Services": "air pillows, not for medical purposes"
+    },
+    {
+      "No.": "200159",
+      "Goods and Services": "straw mattresses / straw mattress"
+    },
+    {
+      "No.": "200160",
+      "Goods and Services": "plaited straw, except matting"
+    },
+    {
+      "No.": "200161",
+      "Goods and Services": "straw plaits"
+    },
+    {
+      "No.": "200162",
+      "Goods and Services": "straw edgings"
+    },
+    {
+      "No.": "200163",
+      "Goods and Services": "bakers' bread baskets"
+    },
+    {
+      "No.": "200164",
+      "Goods and Services": "umbrella stands"
+    },
+    {
+      "No.": "200165",
+      "Goods and Services": "screens [furniture]"
+    },
+    {
+      "No.": "200166",
+      "Goods and Services": "clothes hooks, not of metal"
+    },
+    {
+      "No.": "200167",
+      "Goods and Services": "bead curtains for decoration"
+    },
+    {
+      "No.": "200168",
+      "Goods and Services": "tent pegs, not of metal"
+    },
+    {
+      "No.": "200169",
+      "Goods and Services": "table tops"
+    },
+    {
+      "No.": "200170",
+      "Goods and Services": "doors for furniture"
+    },
+    {
+      "No.": "200171",
+      "Goods and Services": "curtain rails"
+    },
+    {
+      "No.": "200172",
+      "Goods and Services": "furniture shelves"
+    },
+    {
+      "No.": "200173",
+      "Goods and Services": "edgings of plastic for furniture"
+    },
+    {
+      "No.": "200174",
+      "Goods and Services": "reservoirs, not of metal nor of masonry / tanks, not of metal nor of masonry"
+    },
+    {
+      "No.": "200175",
+      "Goods and Services": "curtain rods"
+    },
+    {
+      "No.": "200176",
+      "Goods and Services": "curtain hooks"
+    },
+    {
+      "No.": "200177",
+      "Goods and Services": "curtain tie-backs, not of textile / curtain holdbacks, not of textile"
+    },
+    {
+      "No.": "200178",
+      "Goods and Services": "reeds [plaiting materials]"
+    },
+    {
+      "No.": "200179",
+      "Goods and Services": "animal hooves"
+    },
+    {
+      "No.": "200180",
+      "Goods and Services": "writing desks"
+    },
+    {
+      "No.": "200181",
+      "Goods and Services": "locks, not of metal, for vehicles"
+    },
+    {
+      "No.": "200182",
+      "Goods and Services": "seats of metal"
+    },
+    {
+      "No.": "200183",
+      "Goods and Services": "sofas"
+    },
+    {
+      "No.": "200184",
+      "Goods and Services": "settees"
+    },
+    {
+      "No.": "200185",
+      "Goods and Services": "bed bases"
+    },
+    {
+      "No.": "200186",
+      "Goods and Services": "valves of plastic, other than parts of machines"
+    },
+    {
+      "No.": "200187",
+      "Goods and Services": "statues of wood, wax, plaster or plastic"
+    },
+    {
+      "No.": "200188",
+      "Goods and Services": "tables of metal"
+    },
+    {
+      "No.": "200189",
+      "Goods and Services": "dressing tables"
+    },
+    {
+      "No.": "200190",
+      "Goods and Services": "mouldings for picture frames / moldings for picture frames"
+    },
+    {
+      "No.": "200191",
+      "Goods and Services": "shelves for storage"
+    },
+    {
+      "No.": "200192",
+      "Goods and Services": "lockers [furniture]"
+    },
+    {
+      "No.": "200193",
+      "Goods and Services": "mirrors [looking glasses]"
+    },
+    {
+      "No.": "200194",
+      "Goods and Services": "deck chairs"
+    },
+    {
+      "No.": "200195",
+      "Goods and Services": "bolsters"
+    },
+    {
+      "No.": "200196",
+      "Goods and Services": "trestles [furniture]"
+    },
+    {
+      "No.": "200197",
+      "Goods and Services": "keyboards for hanging keys"
+    },
+    {
+      "No.": "200198",
+      "Goods and Services": "plate racks [furniture]"
+    },
+    {
+      "No.": "200199",
+      "Goods and Services": "wickerwork"
+    },
+    {
+      "No.": "200200",
+      "Goods and Services": "showcases [furniture]"
+    },
+    {
+      "No.": "200201",
+      "Goods and Services": "air cushions, not for medical purposes"
+    },
+    {
+      "No.": "200202",
+      "Goods and Services": "air mattresses, not for medical purposes"
+    },
+    {
+      "No.": "200203",
+      "Goods and Services": "ambroid bars"
+    },
+    {
+      "No.": "200204",
+      "Goods and Services": "ambroid plates"
+    },
+    {
+      "No.": "200205",
+      "Goods and Services": "works of art of wood, wax, plaster or plastic"
+    },
+    {
+      "No.": "200206",
+      "Goods and Services": "troughs, not of metal, for mixing mortar"
+    },
+    {
+      "No.": "200207",
+      "Goods and Services": "chests, not of metal / bins, not of metal"
+    },
+    {
+      "No.": "200209",
+      "Goods and Services": "vice benches [furniture]"
+    },
+    {
+      "No.": "200210",
+      "Goods and Services": "barrels, not of metal"
+    },
+    {
+      "No.": "200211",
+      "Goods and Services": "cask hoops, not of metal / barrel hoops, not of metal"
+    },
+    {
+      "No.": "200212",
+      "Goods and Services": "stands for calculating machines"
+    },
+    {
+      "No.": "200213",
+      "Goods and Services": "plugs, not of metal / bungs, not of metal"
+    },
+    {
+      "No.": "200214",
+      "Goods and Services": "sealing caps, not of metal"
+    },
+    {
+      "No.": "200215",
+      "Goods and Services": "screws, not of metal"
+    },
+    {
+      "No.": "200216",
+      "Goods and Services": "rivets, not of metal"
+    },
+    {
+      "No.": "200217",
+      "Goods and Services": "dowels, not of metal / pegs [pins], not of metal / pins [pegs], not of metal"
+    },
+    {
+      "No.": "200218",
+      "Goods and Services": "bolts, not of metal"
+    },
+    {
+      "No.": "200219",
+      "Goods and Services": "bottle caps, not of metal"
+    },
+    {
+      "No.": "200220",
+      "Goods and Services": "bottle closures, not of metal / bottle fasteners, not of metal"
+    },
+    {
+      "No.": "200221",
+      "Goods and Services": "identification bracelets, not of metal"
+    },
+    {
+      "No.": "200222",
+      "Goods and Services": "dinner wagons [furniture]"
+    },
+    {
+      "No.": "200223",
+      "Goods and Services": "busts of wood, wax, plaster or plastic"
+    },
+    {
+      "No.": "200224",
+      "Goods and Services": "binding screws, not of metal, for cables"
+    },
+    {
+      "No.": "200225",
+      "Goods and Services": "picture frames"
+    },
+    {
+      "No.": "200226",
+      "Goods and Services": "picture frame brackets / picture rods [frames]"
+    },
+    {
+      "No.": "200229",
+      "Goods and Services": "massage tables"
+    },
+    {
+      "No.": "200230",
+      "Goods and Services": "waterbeds, not for medical purposes"
+    },
+    {
+      "No.": "200231",
+      "Goods and Services": "drain traps [valves] of plastic"
+    },
+    {
+      "No.": "200232",
+      "Goods and Services": "plugs [dowels], not of metal / wall plugs, not of metal"
+    },
+    {
+      "No.": "200233",
+      "Goods and Services": "shells"
+    },
+    {
+      "No.": "200235",
+      "Goods and Services": "stools"
+    },
+    {
+      "No.": "200236",
+      "Goods and Services": "water-pipe valves of plastic"
+    },
+    {
+      "No.": "200238",
+      "Goods and Services": "bottle casings of wood"
+    },
+    {
+      "No.": "200239",
+      "Goods and Services": "figurines of wood, wax, plaster or plastic / statuettes of wood, wax, plaster or plastic"
+    },
+    {
+      "No.": "200240",
+      "Goods and Services": "locks, not of metal, other than electric"
+    },
+    {
+      "No.": "200241",
+      "Goods and Services": "hairdressers' chairs"
+    },
+    {
+      "No.": "200242",
+      "Goods and Services": "poles, not of metal"
+    },
+    {
+      "No.": "200243",
+      "Goods and Services": "baskets, not of metal"
+    },
+    {
+      "No.": "200244",
+      "Goods and Services": "letter boxes, not of metal or masonry"
+    },
+    {
+      "No.": "200251",
+      "Goods and Services": "mooring buoys, not of metal"
+    },
+    {
+      "No.": "200252",
+      "Goods and Services": "garment covers [storage]"
+    },
+    {
+      "No.": "200253",
+      "Goods and Services": "signboards of wood or plastics"
+    },
+    {
+      "No.": "200254",
+      "Goods and Services": "trolleys [furniture]"
+    },
+    {
+      "No.": "200255",
+      "Goods and Services": "bamboo curtains"
+    },
+    {
+      "No.": "200256",
+      "Goods and Services": "chests for toys"
+    },
+    {
+      "No.": "200257",
+      "Goods and Services": "high chairs for babies"
+    },
+    {
+      "No.": "200258",
+      "Goods and Services": "infant walkers"
+    },
+    {
+      "No.": "200259",
+      "Goods and Services": "inflatable publicity objects"
+    },
+    {
+      "No.": "200260",
+      "Goods and Services": "plastic key cards, not encoded and not magnetic"
+    },
+    {
+      "No.": "200261",
+      "Goods and Services": "mirror tiles"
+    },
+    {
+      "No.": "200262",
+      "Goods and Services": "pulleys of plastics for blinds"
+    },
+    {
+      "No.": "200263",
+      "Goods and Services": "saw horses"
+    },
+    {
+      "No.": "200264",
+      "Goods and Services": "scratching posts for cats"
+    },
+    {
+      "No.": "200265",
+      "Goods and Services": "shoulder poles [yokes]"
+    },
+    {
+      "No.": "200266",
+      "Goods and Services": "trolleys for computers [furniture] / carts for computers [furniture]"
+    },
+    {
+      "No.": "200267",
+      "Goods and Services": "funerary urns"
+    },
+    {
+      "No.": "200268",
+      "Goods and Services": "wind chimes [decoration]"
+    },
+    {
+      "No.": "200269",
+      "Goods and Services": "indoor window blinds of woven wood / indoor window shades of woven wood"
+    },
+    {
+      "No.": "200270",
+      "Goods and Services": "book rests [furniture]"
+    },
+    {
+      "No.": "200271",
+      "Goods and Services": "pet cushions"
+    },
+    {
+      "No.": "200272",
+      "Goods and Services": "indoor window blinds [furniture] / indoor window shades [furniture]"
+    },
+    {
+      "No.": "200273",
+      "Goods and Services": "door handles, not of metal"
+    },
+    {
+      "No.": "200274",
+      "Goods and Services": "hand-held mirrors [toilet mirrors]"
+    },
+    {
+      "No.": "200275",
+      "Goods and Services": "mats for infant playpens"
+    },
+    {
+      "No.": "200276",
+      "Goods and Services": "towel stands [furniture]"
+    },
+    {
+      "No.": "200277",
+      "Goods and Services": "knobs, not of metal"
+    },
+    {
+      "No.": "200278",
+      "Goods and Services": "wall-mounted baby changing platforms"
+    },
+    {
+      "No.": "200279",
+      "Goods and Services": "reusable baby changing mats"
+    },
+    {
+      "No.": "200280",
+      "Goods and Services": "door bolts, not of metal"
+    },
+    {
+      "No.": "200281",
+      "Goods and Services": "indoor window blinds of paper / indoor window shades of paper"
+    },
+    {
+      "No.": "200282",
+      "Goods and Services": "indoor window blinds of textile / indoor window shades of textile"
+    },
+    {
+      "No.": "200283",
+      "Goods and Services": "door bells, not of metal, non-electric"
+    },
+    {
+      "No.": "200284",
+      "Goods and Services": "freestanding partitions [furniture]"
+    },
+    {
+      "No.": "200285",
+      "Goods and Services": "screw tops, not of metal, for bottles"
+    },
+    {
+      "No.": "200286",
+      "Goods and Services": "door knockers, not of metal"
+    },
+    {
+      "No.": "200287",
+      "Goods and Services": "saw benches [furniture]"
+    },
+    {
+      "No.": "200288",
+      "Goods and Services": "inflatable furniture"
+    },
+    {
+      "No.": "200289",
+      "Goods and Services": "step stools, not of metal"
+    },
+    {
+      "No.": "200290",
+      "Goods and Services": "bathtub grab bars, not of metal"
+    },
+    {
+      "No.": "200291",
+      "Goods and Services": "collars, not of metal, for fastening pipes"
+    },
+    {
+      "No.": "200292",
+      "Goods and Services": "jewellery organizer displays / jewelry organizer displays"
+    },
+    {
+      "No.": "200293",
+      "Goods and Services": "sleeping pads / sleeping mats"
+    },
+    {
+      "No.": "200294",
+      "Goods and Services": "split rings, not of metal, for keys"
+    },
+    {
+      "No.": "200295",
+      "Goods and Services": "dispensers, not of metal, for dog waste bags"
+    },
+    {
+      "No.": "200296",
+      "Goods and Services": "door stops, not of metal or rubber"
+    },
+    {
+      "No.": "200297",
+      "Goods and Services": "window stops, not of metal or rubber"
+    },
+    {
+      "No.": "200298",
+      "Goods and Services": "sash fasteners, not of metal, for windows"
+    },
+    {
+      "No.": "200299",
+      "Goods and Services": "window fasteners, not of metal"
+    },
+    {
+      "No.": "200300",
+      "Goods and Services": "door fasteners, not of metal"
+    },
+    {
+      "No.": "200301",
+      "Goods and Services": "tool boxes, not of metal, empty"
+    },
+    {
+      "No.": "200302",
+      "Goods and Services": "tool chests, not of metal, empty"
+    },
+    {
+      "No.": "200303",
+      "Goods and Services": "shelving units"
+    },
+    {
+      "No.": "200304",
+      "Goods and Services": "bag hangers, not of metal"
+    },
+    {
+      "No.": "200305",
+      "Goods and Services": "plastic keys"
+    },
+    {
+      "No.": "200306",
+      "Goods and Services": "brackets, not of metal, for furniture"
+    },
+    {
+      "No.": "200307",
+      "Goods and Services": "labels of plastic"
+    },
+    {
+      "No.": "200308",
+      "Goods and Services": "console tables"
+    },
+    {
+      "No.": "200309",
+      "Goods and Services": "bookcases"
+    },
+    {
+      "No.": "200310",
+      "Goods and Services": "valet stands"
+    },
+    {
+      "No.": "200311",
+      "Goods and Services": "jerrycans, not of metal"
+    },
+    {
+      "No.": "200312",
+      "Goods and Services": "birdhouses"
+    },
+    {
+      "No.": "200313",
+      "Goods and Services": "clips of plastic for sealing bags"
+    },
+    {
+      "No.": "200314",
+      "Goods and Services": "bumper guards for cots, other than bed linen / bumper guards for cribs, other than bed linen"
+    },
+    {
+      "No.": "200315",
+      "Goods and Services": "boxes of wood or plastic"
+    },
+    {
+      "No.": "200316",
+      "Goods and Services": "cots for babies / cribs for babies"
+    },
+    {
+      "No.": "200317",
+      "Goods and Services": "Moses baskets"
+    },
+    {
+      "No.": "200318",
+      "Goods and Services": "legs for furniture"
+    },
+    {
+      "No.": "200319",
+      "Goods and Services": "feet for furniture"
+    },
+    {
+      "No.": "200320",
+      "Goods and Services": "wardrobes"
+    },
+    {
+      "No.": "200321",
+      "Goods and Services": "footstools"
+    },
+    {
+      "No.": "200322",
+      "Goods and Services": "shoe pegs, not of metal"
+    },
+    {
+      "No.": "200323",
+      "Goods and Services": "shoe dowels, not of metal"
+    },
+    {
+      "No.": "200324",
+      "Goods and Services": "crucifixes of wood, wax, plaster or plastic, other than jewellery / crucifixes of wood, wax, plaster or plastic, other than jewelry"
+    },
+    {
+      "No.": "200325",
+      "Goods and Services": "oil drainage containers, not of metal"
+    },
+    {
+      "No.": "200326",
+      "Goods and Services": "air beds, not for medical purposes"
+    },
+    {
+      "No.": "200327",
+      "Goods and Services": "camping mattresses"
+    },
+    {
+      "No.": "200328",
+      "Goods and Services": "plastic ramps for use with vehicles"
+    },
+    {
+      "No.": "200329",
+      "Goods and Services": "shower chairs"
+    },
+    {
+      "No.": "200330",
+      "Goods and Services": "head support cushions for babies"
+    },
+    {
+      "No.": "200331",
+      "Goods and Services": "anti-roll cushions for babies"
+    },
+    {
+      "No.": "200332",
+      "Goods and Services": "head positioning pillows for babies"
+    },
+    {
+      "No.": "200333",
+      "Goods and Services": "hand-held flagpoles, not of metal"
+    },
+    {
+      "No.": "200334",
+      "Goods and Services": "stoppers, not of glass, metal or rubber"
+    },
+    {
+      "No.": "200335",
+      "Goods and Services": "door closers, not of metal, non-electric / door springs, not of metal, non-electric"
+    },
+    {
+      "No.": "200336",
+      "Goods and Services": "runners, not of metal, for sliding doors"
+    },
+    {
+      "No.": "200337",
+      "Goods and Services": "bath seats for babies"
+    },
+    {
+      "No.": "200338",
+      "Goods and Services": "lap desks"
+    },
+    {
+      "No.": "200339",
+      "Goods and Services": "portable desks"
+    },
+    {
+      "No.": "200340",
+      "Goods and Services": "door openers, not of metal, non-electric"
+    },
+    {
+      "No.": "200341",
+      "Goods and Services": "window openers, not of metal, non-electric"
+    },
+    {
+      "No.": "200342",
+      "Goods and Services": "window closers, not of metal, non-electric"
+    },
+    {
+      "No.": "200343",
+      "Goods and Services": "window pulleys, not of metal / sash pulleys, not of metal"
+    },
+    {
+      "No.": "200344",
+      "Goods and Services": "padlocks, not of metal, other than electronic"
+    },
+    {
+      "No.": "200345",
+      "Goods and Services": "bathroom vanities [furniture]"
+    },
+    {
+      "No.": "200346",
+      "Goods and Services": "drawers for furniture"
+    },
+    {
+      "No.": "200347",
+      "Goods and Services": "luggage lockers"
+    },
+    {
+      "No.": "200348",
+      "Goods and Services": "containers, not of metal, for compressed gas or liquid air"
+    },
+    {
+      "No.": "200349",
+      "Goods and Services": "bottles [containers], not of metal, for compressed gas or liquid air"
+    },
+    {
+      "No.": "200350",
+      "Goods and Services": "bathroom stools"
+    },
+    {
+      "No.": "200351",
+      "Goods and Services": "kitchen dressers [furniture]"
+    },
+    {
+      "No.": "200352",
+      "Goods and Services": "mats, removable, for sinks"
+    },
+    {
+      "No.": "200353",
+      "Goods and Services": "drawer organizers"
+    },
+    {
+      "No.": "200354",
+      "Goods and Services": "hanging closet organizers"
+    },
+    {
+      "No.": "200355",
+      "Goods and Services": "covers specially made for handling and transport of bottles, not of metal, for compressed gas"
+    },
+    {
+      "No.": "200356",
+      "Goods and Services": "cushions for lining pet crates"
+    },
+    {
+      "No.": "200357",
+      "Goods and Services": "sneeze guards"
+    },
+    {
+      "No.": "200358",
+      "Goods and Services": "waste dumpsters, not of metal, other than for medical use"
+    },
+    {
+      "No.": "200359",
+      "Goods and Services": "recycling bins, not of metal"
+    },
+    {
+      "No.": "200360",
+      "Goods and Services": "sew-on tags of plastic for clothing"
+    },
+    {
+      "No.": "200361",
+      "Goods and Services": "queue ticket dispensers, not of metal"
+    },
+    {
+      "No.": "200362",
+      "Goods and Services": "boxes, not of metal, for dispensing paper towels"
+    },
+    {
+      "No.": "200363",
+      "Goods and Services": "toilet paper dispensers, not of metal"
+    },
+    {
+      "No.": "200364",
+      "Goods and Services": "ergonomic chairs for seated massage"
+    },
+    {
+      "No.": "200365",
+      "Goods and Services": "commemorative statuary cups of wood, wax, plaster or plastic"
+    },
+    {
+      "No.": "200366",
+      "Goods and Services": "racks for storing cardboard"
+    },
+    {
+      "No.": "200367",
+      "Goods and Services": "prize cups of wood, wax, plaster or plastic"
+    },
+    {
+      "No.": "200368",
+      "Goods and Services": "sleeping mats of bamboo or straw"
+    },
+    {
+      "No.": "200369",
+      "Goods and Services": "nails, not of metal"
+    },
+    {
+      "No.": "200370",
+      "Goods and Services": "tacks, not of metal / brads, not of metal"
+    },
+    {
+      "No.": "200371",
+      "Goods and Services": "cat trees"
+    },
+    {
+      "No.": "200372",
+      "Goods and Services": "hand-held supermarket shopping baskets, not of metal"
+    },
+    {
+      "No.": "200373",
+      "Goods and Services": "base stands for patio umbrellas"
+    },
+    {
+      "No.": "200374",
+      "Goods and Services": "bath pillows"
+    },
+    {
+      "No.": "200375",
+      "Goods and Services": "computer keyboard trays"
+    },
+    {
+      "No.": "200376",
+      "Goods and Services": "dustbins, not of metal, other than for household purposes / garbage cans, not of metal, other than for household purposes / refuse bins, not of metal, other than for household purposes / trash cans, not of metal, other than for household purposes"
+    },
+    {
+      "No.": "200377",
+      "Goods and Services": "nursing pillows"
+    }
+  ]
+}

@@ -1,0 +1,1523 @@
+{
+  "group_number": "11",
+  "meta": {
+    "Goods and Services": "Class Heading Apparatus and installations for lighting, heating, cooling, steam generating, cooking, drying, ventilating, water supply and sanitary purposes Explanatory Note Class 11 includes mainly environmental control apparatus and installations, in particular, for the purposes of lighting, cooking, cooling and sanitizing. This Class includes, in particular: • air-conditioning apparatus and installations • ovens, other than for laboratory use, for example, dental ovens, microwave ovens, bakers' ovens • stoves being heating apparatus • solar thermal collectors • chimney flues, chimney blowers, hearths, domestic fireplaces • sterilizers, incinerators • lighting apparatus and installations, for example, luminous tubes for lighting, searchlights, luminous house numbers, vehicle reflectors, lights for vehicles • lamps, for example, electric lamps, gas lamps, laboratory lamps, oil lamps, street lamps, safety lamps • tanning beds • bath installations, bath fittings, bath plumbing fixtures • toilets, urinals • fountains, chocolate fountains • electrically heated pads, cushions and blankets, not for medical purposes • hot water bottles • electrically heated clothing • electric appliances for making yogurt, bread-making machines, coffee machines, ice-cream making machines • ice machines and apparatus This Class does not include, in particular: • steam producing apparatus being parts of machines (Cl. 7) • air condensers (Cl. 7) • current generators, generators of electricity (Cl. 7) • soldering lamps (Cl. 7), optical lamps, darkroom lamps (Cl. 9), lamps for medical purposes (Cl. 10) • ovens for laboratory use (Cl. 9) • photovoltaic cells (Cl. 9) • signalling lights (Cl. 9) • electrically heated pads, cushions and blankets, for medical purposes (Cl. 10) • portable baby baths (Cl. 21) • non-electric portable coolers (Cl. 21) • cooking utensils that do not have an integrated heat source, for example, non-electric griddles and grills, non-electric waffle irons, non-electric pressure cookers (Cl. 21) • footmuffs, not electrically heated (Cl. 25)"
+  },
+  "items": [
+    {
+      "No.": "110001",
+      "Goods and Services": "watering installations, automatic"
+    },
+    {
+      "No.": "110002",
+      "Goods and Services": "heat accumulators"
+    },
+    {
+      "No.": "110003",
+      "Goods and Services": "acetylene burners"
+    },
+    {
+      "No.": "110004",
+      "Goods and Services": "acetylene generators"
+    },
+    {
+      "No.": "110005",
+      "Goods and Services": "acetylene flares"
+    },
+    {
+      "No.": "110006",
+      "Goods and Services": "ventilation hoods"
+    },
+    {
+      "No.": "110007",
+      "Goods and Services": "lighting installations for air vehicles"
+    },
+    {
+      "No.": "110008",
+      "Goods and Services": "hot air ovens"
+    },
+    {
+      "No.": "110009",
+      "Goods and Services": "air deodorizing apparatus / air deodorising apparatus"
+    },
+    {
+      "No.": "110010",
+      "Goods and Services": "air cooling apparatus"
+    },
+    {
+      "No.": "110011",
+      "Goods and Services": "filters for air conditioning"
+    },
+    {
+      "No.": "110012",
+      "Goods and Services": "air reheaters"
+    },
+    {
+      "No.": "110013",
+      "Goods and Services": "air dryers / air driers"
+    },
+    {
+      "No.": "110014",
+      "Goods and Services": "air-conditioning installations"
+    },
+    {
+      "No.": "110015",
+      "Goods and Services": "air filtering installations"
+    },
+    {
+      "No.": "110016",
+      "Goods and Services": "hot air apparatus"
+    },
+    {
+      "No.": "110017",
+      "Goods and Services": "hot air bath fittings"
+    },
+    {
+      "No.": "110018",
+      "Goods and Services": "friction lighters for igniting gas"
+    },
+    {
+      "No.": "110019",
+      "Goods and Services": "gas lighters"
+    },
+    {
+      "No.": "110021",
+      "Goods and Services": "light bulbs"
+    },
+    {
+      "No.": "110022",
+      "Goods and Services": "light bulbs, electric"
+    },
+    {
+      "No.": "110023",
+      "Goods and Services": "arc lamps"
+    },
+    {
+      "No.": "110024",
+      "Goods and Services": "electric lamps"
+    },
+    {
+      "No.": "110025",
+      "Goods and Services": "structural framework for ovens"
+    },
+    {
+      "No.": "110026",
+      "Goods and Services": "refrigerating cabinets"
+    },
+    {
+      "No.": "110027",
+      "Goods and Services": "lights for vehicles"
+    },
+    {
+      "No.": "110031",
+      "Goods and Services": "headlights for automobiles"
+    },
+    {
+      "No.": "110032",
+      "Goods and Services": "coolers for furnaces / cooling vats for furnaces"
+    },
+    {
+      "No.": "110033",
+      "Goods and Services": "bath tubs"
+    },
+    {
+      "No.": "110035",
+      "Goods and Services": "bath tubs for sitz baths"
+    },
+    {
+      "No.": "110036",
+      "Goods and Services": "Turkish bath cabinets, portable"
+    },
+    {
+      "No.": "110037",
+      "Goods and Services": "bath fittings"
+    },
+    {
+      "No.": "110038",
+      "Goods and Services": "heaters for baths"
+    },
+    {
+      "No.": "110039",
+      "Goods and Services": "bath installations / bath plumbing fixtures"
+    },
+    {
+      "No.": "110040",
+      "Goods and Services": "lamps"
+    },
+    {
+      "No.": "110041",
+      "Goods and Services": "lanterns for lighting"
+    },
+    {
+      "No.": "110042",
+      "Goods and Services": "lamp mantles / lamp casings"
+    },
+    {
+      "No.": "110043",
+      "Goods and Services": "incandescent burners"
+    },
+    {
+      "No.": "110044",
+      "Goods and Services": "burners for lamps"
+    },
+    {
+      "No.": "110045",
+      "Goods and Services": "bicycle lights"
+    },
+    {
+      "No.": "110046",
+      "Goods and Services": "bidets"
+    },
+    {
+      "No.": "110047",
+      "Goods and Services": "boilers, other than parts of machines"
+    },
+    {
+      "No.": "110048",
+      "Goods and Services": "kilns"
+    },
+    {
+      "No.": "110049",
+      "Goods and Services": "hydrants"
+    },
+    {
+      "No.": "110050",
+      "Goods and Services": "radiator caps"
+    },
+    {
+      "No.": "110051",
+      "Goods and Services": "electric torches / electric flashlights"
+    },
+    {
+      "No.": "110052",
+      "Goods and Services": "water heaters*"
+    },
+    {
+      "No.": "110053",
+      "Goods and Services": "bakers' ovens"
+    },
+    {
+      "No.": "110055",
+      "Goods and Services": "anti-splash tap nozzles"
+    },
+    {
+      "No.": "110056",
+      "Goods and Services": "roasting jacks"
+    },
+    {
+      "No.": "110057",
+      "Goods and Services": "roasting spits"
+    },
+    {
+      "No.": "110058",
+      "Goods and Services": "laboratory burners"
+    },
+    {
+      "No.": "110059",
+      "Goods and Services": "flare stacks for use in the oil industry"
+    },
+    {
+      "No.": "110060",
+      "Goods and Services": "burners*"
+    },
+    {
+      "No.": "110061",
+      "Goods and Services": "germicidal burners"
+    },
+    {
+      "No.": "110063",
+      "Goods and Services": "laundry room boilers / washing coppers"
+    },
+    {
+      "No.": "110064",
+      "Goods and Services": "toilets, portable"
+    },
+    {
+      "No.": "110065",
+      "Goods and Services": "fans [air-conditioning]"
+    },
+    {
+      "No.": "110066",
+      "Goods and Services": "coffee roasters"
+    },
+    {
+      "No.": "110067",
+      "Goods and Services": "heating apparatus"
+    },
+    {
+      "No.": "110068",
+      "Goods and Services": "taps for pipes and pipelines / faucets for pipes and pipelines / spigots for pipes and pipelines / cocks for pipes and pipelines"
+    },
+    {
+      "No.": "110069",
+      "Goods and Services": "heat regenerators"
+    },
+    {
+      "No.": "110070",
+      "Goods and Services": "oven fittings made of fireclay"
+    },
+    {
+      "No.": "110071",
+      "Goods and Services": "light bulbs for directional signals for vehicles"
+    },
+    {
+      "No.": "110072",
+      "Goods and Services": "carbon for arc lamps"
+    },
+    {
+      "No.": "110073",
+      "Goods and Services": "heating installations"
+    },
+    {
+      "No.": "110075",
+      "Goods and Services": "flushing tanks"
+    },
+    {
+      "No.": "110076",
+      "Goods and Services": "heating installations [water] / hot water heating installations"
+    },
+    {
+      "No.": "110077",
+      "Goods and Services": "heating boilers"
+    },
+    {
+      "No.": "110078",
+      "Goods and Services": "boiler pipes [tubes] for heating installations"
+    },
+    {
+      "No.": "110079",
+      "Goods and Services": "air conditioners for vehicles"
+    },
+    {
+      "No.": "110080",
+      "Goods and Services": "heating apparatus for solid, liquid or gaseous fuels"
+    },
+    {
+      "No.": "110081",
+      "Goods and Services": "heaters for vehicles"
+    },
+    {
+      "No.": "110082",
+      "Goods and Services": "heating apparatus, electric"
+    },
+    {
+      "No.": "110083",
+      "Goods and Services": "central heating radiators"
+    },
+    {
+      "No.": "110084",
+      "Goods and Services": "humidifiers for central heating radiators"
+    },
+    {
+      "No.": "110085",
+      "Goods and Services": "heating elements"
+    },
+    {
+      "No.": "110086",
+      "Goods and Services": "heaters for heating irons"
+    },
+    {
+      "No.": "110087",
+      "Goods and Services": "footwarmers, electric or non-electric"
+    },
+    {
+      "No.": "110088",
+      "Goods and Services": "footmuffs, electrically heated"
+    },
+    {
+      "No.": "110089",
+      "Goods and Services": "plate warmers"
+    },
+    {
+      "No.": "110090",
+      "Goods and Services": "immersion heaters"
+    },
+    {
+      "No.": "110091",
+      "Goods and Services": "lamp glasses"
+    },
+    {
+      "No.": "110092",
+      "Goods and Services": "lamp chimneys"
+    },
+    {
+      "No.": "110093",
+      "Goods and Services": "chimney flues"
+    },
+    {
+      "No.": "110094",
+      "Goods and Services": "chimney blowers"
+    },
+    {
+      "No.": "110095",
+      "Goods and Services": "hair dryers / hair driers"
+    },
+    {
+      "No.": "110096",
+      "Goods and Services": "water distribution installations"
+    },
+    {
+      "No.": "110097",
+      "Goods and Services": "drying apparatus"
+    },
+    {
+      "No.": "110099",
+      "Goods and Services": "air-conditioning apparatus"
+    },
+    {
+      "No.": "110100",
+      "Goods and Services": "glue-heating appliances"
+    },
+    {
+      "No.": "110101",
+      "Goods and Services": "distillation columns"
+    },
+    {
+      "No.": "110103",
+      "Goods and Services": "pipes [parts of sanitary installations] / water-pipes for sanitary installations"
+    },
+    {
+      "No.": "110104",
+      "Goods and Services": "water conduits installations"
+    },
+    {
+      "No.": "110105",
+      "Goods and Services": "toilets [water-closets] / water closets"
+    },
+    {
+      "No.": "110106",
+      "Goods and Services": "freezers"
+    },
+    {
+      "No.": "110107",
+      "Goods and Services": "cooking utensils, electric"
+    },
+    {
+      "No.": "110108",
+      "Goods and Services": "cooking stoves / cookers"
+    },
+    {
+      "No.": "110109",
+      "Goods and Services": "cooking apparatus and installations"
+    },
+    {
+      "No.": "110110",
+      "Goods and Services": "motorcycle lights"
+    },
+    {
+      "No.": "110111",
+      "Goods and Services": "discharge tubes, electric, for lighting"
+    },
+    {
+      "No.": "110112",
+      "Goods and Services": "defrosters for vehicles"
+    },
+    {
+      "No.": "110115",
+      "Goods and Services": "disinfectant apparatus"
+    },
+    {
+      "No.": "110116",
+      "Goods and Services": "desalination plants"
+    },
+    {
+      "No.": "110117",
+      "Goods and Services": "desiccating apparatus"
+    },
+    {
+      "No.": "110118",
+      "Goods and Services": "light diffusers"
+    },
+    {
+      "No.": "110119",
+      "Goods and Services": "beverage cooling apparatus"
+    },
+    {
+      "No.": "110120",
+      "Goods and Services": "distillation apparatus*"
+    },
+    {
+      "No.": "110121",
+      "Goods and Services": "showers"
+    },
+    {
+      "No.": "110122",
+      "Goods and Services": "sockets for electric lights"
+    },
+    {
+      "No.": "110123",
+      "Goods and Services": "water purification installations"
+    },
+    {
+      "No.": "110124",
+      "Goods and Services": "water filtering apparatus"
+    },
+    {
+      "No.": "110125",
+      "Goods and Services": "cooling installations for water"
+    },
+    {
+      "No.": "110126",
+      "Goods and Services": "fountains"
+    },
+    {
+      "No.": "110127",
+      "Goods and Services": "pressure water tanks"
+    },
+    {
+      "No.": "110128",
+      "Goods and Services": "water sterilizers / water sterilisers"
+    },
+    {
+      "No.": "110129",
+      "Goods and Services": "heat exchangers, other than parts of machines"
+    },
+    {
+      "No.": "110130",
+      "Goods and Services": "lighting apparatus and installations"
+    },
+    {
+      "No.": "110133",
+      "Goods and Services": "chandeliers"
+    },
+    {
+      "No.": "110135",
+      "Goods and Services": "purification installations for sewage"
+    },
+    {
+      "No.": "110136",
+      "Goods and Services": "ceiling lights"
+    },
+    {
+      "No.": "110137",
+      "Goods and Services": "radiators, electric"
+    },
+    {
+      "No.": "110138",
+      "Goods and Services": "gas scrubbing apparatus"
+    },
+    {
+      "No.": "110141",
+      "Goods and Services": "drying apparatus for fodder and forage / forage drying apparatus"
+    },
+    {
+      "No.": "110142",
+      "Goods and Services": "evaporators"
+    },
+    {
+      "No.": "110143",
+      "Goods and Services": "stoves [heating apparatus]"
+    },
+    {
+      "No.": "110145",
+      "Goods and Services": "filaments for electric lamps"
+    },
+    {
+      "No.": "110147",
+      "Goods and Services": "filters for drinking water"
+    },
+    {
+      "No.": "110148",
+      "Goods and Services": "flaming torches"
+    },
+    {
+      "No.": "110149",
+      "Goods and Services": "forges, portable"
+    },
+    {
+      "No.": "110150",
+      "Goods and Services": "furnaces, other than for laboratory use / ovens, other than for laboratory use"
+    },
+    {
+      "No.": "110151",
+      "Goods and Services": "fittings, shaped, for furnaces / fittings, shaped, for ovens / shaped fittings for furnaces / shaped fittings for ovens"
+    },
+    {
+      "No.": "110152",
+      "Goods and Services": "furnace grates"
+    },
+    {
+      "No.": "110153",
+      "Goods and Services": "hearths"
+    },
+    {
+      "No.": "110154",
+      "Goods and Services": "furnace ash boxes / ash pits for furnaces"
+    },
+    {
+      "No.": "110155",
+      "Goods and Services": "refrigerating apparatus and machines"
+    },
+    {
+      "No.": "110156",
+      "Goods and Services": "refrigerating chambers / walk-in refrigerators"
+    },
+    {
+      "No.": "110157",
+      "Goods and Services": "refrigerating containers"
+    },
+    {
+      "No.": "110158",
+      "Goods and Services": "curling lamps"
+    },
+    {
+      "No.": "110159",
+      "Goods and Services": "fruit roasters"
+    },
+    {
+      "No.": "110160",
+      "Goods and Services": "gas scrubbers [parts of gas installations] / scrubbers [parts of gas installations]"
+    },
+    {
+      "No.": "110161",
+      "Goods and Services": "gas burners"
+    },
+    {
+      "No.": "110162",
+      "Goods and Services": "gas boilers"
+    },
+    {
+      "No.": "110163",
+      "Goods and Services": "gas lamps"
+    },
+    {
+      "No.": "110165",
+      "Goods and Services": "steam boilers, other than parts of machines"
+    },
+    {
+      "No.": "110166",
+      "Goods and Services": "germicidal lamps for purifying air"
+    },
+    {
+      "No.": "110167",
+      "Goods and Services": "ice machines and apparatus"
+    },
+    {
+      "No.": "110168",
+      "Goods and Services": "cool boxes, electric / coolers, electric"
+    },
+    {
+      "No.": "110169",
+      "Goods and Services": "lamp globes / globes for lamps"
+    },
+    {
+      "No.": "110170",
+      "Goods and Services": "hot plates"
+    },
+    {
+      "No.": "110171",
+      "Goods and Services": "bread toasters / toasters"
+    },
+    {
+      "No.": "110172",
+      "Goods and Services": "roasting apparatus / griddles [cooking appliances] / grills [cooking appliances]"
+    },
+    {
+      "No.": "110173",
+      "Goods and Services": "incinerators"
+    },
+    {
+      "No.": "110174",
+      "Goods and Services": "ionization apparatus for the treatment of air or water"
+    },
+    {
+      "No.": "110175",
+      "Goods and Services": "ornamental fountains"
+    },
+    {
+      "No.": "110176",
+      "Goods and Services": "laboratory lamps"
+    },
+    {
+      "No.": "110177",
+      "Goods and Services": "milk cooling installations"
+    },
+    {
+      "No.": "110178",
+      "Goods and Services": "pasteurisers"
+    },
+    {
+      "No.": "110179",
+      "Goods and Services": "oil lamps"
+    },
+    {
+      "No.": "110180",
+      "Goods and Services": "ultraviolet ray lamps, not for medical purposes"
+    },
+    {
+      "No.": "110182",
+      "Goods and Services": "safety lamps"
+    },
+    {
+      "No.": "110183",
+      "Goods and Services": "lamp reflectors"
+    },
+    {
+      "No.": "110185",
+      "Goods and Services": "Chinese lanterns"
+    },
+    {
+      "No.": "110186",
+      "Goods and Services": "wash-hand basins [parts of sanitary installations] / wash-hand bowls [parts of sanitary installations]"
+    },
+    {
+      "No.": "110188",
+      "Goods and Services": "cooling installations for liquids"
+    },
+    {
+      "No.": "110189",
+      "Goods and Services": "luminous tubes for lighting"
+    },
+    {
+      "No.": "110190",
+      "Goods and Services": "magnesium filaments for lighting"
+    },
+    {
+      "No.": "110191",
+      "Goods and Services": "malt roasters"
+    },
+    {
+      "No.": "110192",
+      "Goods and Services": "miners' lamps"
+    },
+    {
+      "No.": "110193",
+      "Goods and Services": "installations for processing nuclear fuel and nuclear moderating material"
+    },
+    {
+      "No.": "110194",
+      "Goods and Services": "level controlling valves in tanks"
+    },
+    {
+      "No.": "110195",
+      "Goods and Services": "lights, electric, for Christmas trees / electric lights for Christmas trees"
+    },
+    {
+      "No.": "110196",
+      "Goods and Services": "luminous house numbers"
+    },
+    {
+      "No.": "110197",
+      "Goods and Services": "oxyhydrogen burners"
+    },
+    {
+      "No.": "110198",
+      "Goods and Services": "radiators [heating]"
+    },
+    {
+      "No.": "110199",
+      "Goods and Services": "oil burners"
+    },
+    {
+      "No.": "110200",
+      "Goods and Services": "vehicle headlights"
+    },
+    {
+      "No.": "110201",
+      "Goods and Services": "heating plates"
+    },
+    {
+      "No.": "110202",
+      "Goods and Services": "searchlights"
+    },
+    {
+      "No.": "110203",
+      "Goods and Services": "polymerisation installations"
+    },
+    {
+      "No.": "110204",
+      "Goods and Services": "kitchen ranges [ovens]"
+    },
+    {
+      "No.": "110205",
+      "Goods and Services": "air valves for steam heating installations"
+    },
+    {
+      "No.": "110206",
+      "Goods and Services": "water purifying apparatus and machines"
+    },
+    {
+      "No.": "110207",
+      "Goods and Services": "air purifying apparatus and machines"
+    },
+    {
+      "No.": "110208",
+      "Goods and Services": "refining towers for distillation"
+    },
+    {
+      "No.": "110209",
+      "Goods and Services": "cooling installations and machines"
+    },
+    {
+      "No.": "110210",
+      "Goods and Services": "cooking rings"
+    },
+    {
+      "No.": "110212",
+      "Goods and Services": "vehicle reflectors"
+    },
+    {
+      "No.": "110213",
+      "Goods and Services": "refrigerating appliances and installations"
+    },
+    {
+      "No.": "110214",
+      "Goods and Services": "cooling appliances and installations"
+    },
+    {
+      "No.": "110215",
+      "Goods and Services": "dampers [heating]"
+    },
+    {
+      "No.": "110216",
+      "Goods and Services": "regulating accessories for water or gas apparatus and pipes"
+    },
+    {
+      "No.": "110217",
+      "Goods and Services": "safety accessories for water or gas apparatus and pipes"
+    },
+    {
+      "No.": "110218",
+      "Goods and Services": "taps* / faucets*"
+    },
+    {
+      "No.": "110219",
+      "Goods and Services": "washers for water taps / washers for water faucets"
+    },
+    {
+      "No.": "110220",
+      "Goods and Services": "rotisseries"
+    },
+    {
+      "No.": "110221",
+      "Goods and Services": "sanitary apparatus and installations"
+    },
+    {
+      "No.": "110222",
+      "Goods and Services": "drying apparatus and installations"
+    },
+    {
+      "No.": "110223",
+      "Goods and Services": "hand drying apparatus for washrooms"
+    },
+    {
+      "No.": "110224",
+      "Goods and Services": "coils [parts of distilling, heating or cooling installations]"
+    },
+    {
+      "No.": "110225",
+      "Goods and Services": "fans [parts of air-conditioning installations]"
+    },
+    {
+      "No.": "110226",
+      "Goods and Services": "sterilizers / sterilisers"
+    },
+    {
+      "No.": "110227",
+      "Goods and Services": "cooling installations for tobacco"
+    },
+    {
+      "No.": "110228",
+      "Goods and Services": "tobacco roasters"
+    },
+    {
+      "No.": "110229",
+      "Goods and Services": "lighting apparatus for vehicles"
+    },
+    {
+      "No.": "110230",
+      "Goods and Services": "roasters"
+    },
+    {
+      "No.": "110231",
+      "Goods and Services": "ash conveyor installations, automatic"
+    },
+    {
+      "No.": "110232",
+      "Goods and Services": "steam generating installations"
+    },
+    {
+      "No.": "110233",
+      "Goods and Services": "ventilation [air-conditioning] installations and apparatus"
+    },
+    {
+      "No.": "110234",
+      "Goods and Services": "ventilation [air-conditioning] installations for vehicles"
+    },
+    {
+      "No.": "110235",
+      "Goods and Services": "toilet bowls"
+    },
+    {
+      "No.": "110236",
+      "Goods and Services": "toilet seats"
+    },
+    {
+      "No.": "110237",
+      "Goods and Services": "lampshades"
+    },
+    {
+      "No.": "110238",
+      "Goods and Services": "lampshade holders"
+    },
+    {
+      "No.": "110239",
+      "Goods and Services": "mixer taps for water pipes / mixer faucets for water pipes"
+    },
+    {
+      "No.": "110240",
+      "Goods and Services": "regulating and safety accessories for gas pipes"
+    },
+    {
+      "No.": "110241",
+      "Goods and Services": "regulating and safety accessories for water apparatus"
+    },
+    {
+      "No.": "110242",
+      "Goods and Services": "steam accumulators"
+    },
+    {
+      "No.": "110243",
+      "Goods and Services": "water softening apparatus and installations"
+    },
+    {
+      "No.": "110244",
+      "Goods and Services": "ventilation hoods for laboratories"
+    },
+    {
+      "No.": "110245",
+      "Goods and Services": "air sterilizers / air sterilisers"
+    },
+    {
+      "No.": "110246",
+      "Goods and Services": "stills*"
+    },
+    {
+      "No.": "110247",
+      "Goods and Services": "alcohol burners"
+    },
+    {
+      "No.": "110249",
+      "Goods and Services": "anti-glare devices for vehicles [lamp fittings] / anti-dazzle devices for vehicles [lamp fittings]"
+    },
+    {
+      "No.": "110250",
+      "Goods and Services": "heating apparatus for defrosting vehicle windows"
+    },
+    {
+      "No.": "110251",
+      "Goods and Services": "brackets for gas burners"
+    },
+    {
+      "No.": "110252",
+      "Goods and Services": "water supply installations"
+    },
+    {
+      "No.": "110253",
+      "Goods and Services": "nuclear reactors"
+    },
+    {
+      "No.": "110254",
+      "Goods and Services": "autoclaves, electric, for cooking / pressure cookers, electric"
+    },
+    {
+      "No.": "110256",
+      "Goods and Services": "lights for automobiles / automobile lights"
+    },
+    {
+      "No.": "110257",
+      "Goods and Services": "heaters, electric, for feeding bottles"
+    },
+    {
+      "No.": "110258",
+      "Goods and Services": "waffle irons, electric"
+    },
+    {
+      "No.": "110259",
+      "Goods and Services": "regulating and safety accessories for gas apparatus"
+    },
+    {
+      "No.": "110261",
+      "Goods and Services": "coffee percolators, electric"
+    },
+    {
+      "No.": "110262",
+      "Goods and Services": "coffee machines, electric"
+    },
+    {
+      "No.": "110263",
+      "Goods and Services": "street lamps"
+    },
+    {
+      "No.": "110264",
+      "Goods and Services": "flues for heating boilers"
+    },
+    {
+      "No.": "110265",
+      "Goods and Services": "barbecues"
+    },
+    {
+      "No.": "110266",
+      "Goods and Services": "deep fryers, electric"
+    },
+    {
+      "No.": "110267",
+      "Goods and Services": "fireplaces, domestic"
+    },
+    {
+      "No.": "110268",
+      "Goods and Services": "heat pumps"
+    },
+    {
+      "No.": "110269",
+      "Goods and Services": "solar thermal collectors [heating]"
+    },
+    {
+      "No.": "110270",
+      "Goods and Services": "solar furnaces"
+    },
+    {
+      "No.": "110271",
+      "Goods and Services": "tanning beds"
+    },
+    {
+      "No.": "110272",
+      "Goods and Services": "water flushing installations / flushing apparatus"
+    },
+    {
+      "No.": "110273",
+      "Goods and Services": "feeding apparatus for heating boilers"
+    },
+    {
+      "No.": "110274",
+      "Goods and Services": "refrigerators"
+    },
+    {
+      "No.": "110275",
+      "Goods and Services": "deodorizing apparatus, not for personal use / deodorising apparatus, not for personal use"
+    },
+    {
+      "No.": "110276",
+      "Goods and Services": "water intake apparatus"
+    },
+    {
+      "No.": "110277",
+      "Goods and Services": "oil-scrubbing apparatus"
+    },
+    {
+      "No.": "110278",
+      "Goods and Services": "facial steamers / facial saunas"
+    },
+    {
+      "No.": "110279",
+      "Goods and Services": "kiln furniture [supports]"
+    },
+    {
+      "No.": "110280",
+      "Goods and Services": "pocket warmers"
+    },
+    {
+      "No.": "110291",
+      "Goods and Services": "spa baths [vessels]"
+    },
+    {
+      "No.": "110292",
+      "Goods and Services": "chromatography apparatus for industrial purposes"
+    },
+    {
+      "No.": "110293",
+      "Goods and Services": "heating filaments, electric"
+    },
+    {
+      "No.": "110294",
+      "Goods and Services": "gas condensers, other than parts of machines"
+    },
+    {
+      "No.": "110296",
+      "Goods and Services": "heating cushions, electric, not for medical purposes / heating pads, electric, not for medical purposes"
+    },
+    {
+      "No.": "110297",
+      "Goods and Services": "sauna bath installations"
+    },
+    {
+      "No.": "110298",
+      "Goods and Services": "shower cubicles / shower enclosures"
+    },
+    {
+      "No.": "110299",
+      "Goods and Services": "sinks"
+    },
+    {
+      "No.": "110300"
+    },
+    {
+      "No.": "110301",
+      "Goods and Services": "urinals being sanitary fixtures"
+    },
+    {
+      "No.": "110302",
+      "Goods and Services": "hot water bottles"
+    },
+    {
+      "No.": "110303",
+      "Goods and Services": "kettles, electric"
+    },
+    {
+      "No.": "110304",
+      "Goods and Services": "bed warmers"
+    },
+    {
+      "No.": "110305",
+      "Goods and Services": "blankets, electric, not for medical purposes"
+    },
+    {
+      "No.": "110306",
+      "Goods and Services": "warming pans"
+    },
+    {
+      "No.": "110307",
+      "Goods and Services": "aquarium filtration apparatus"
+    },
+    {
+      "No.": "110308",
+      "Goods and Services": "aquarium heaters"
+    },
+    {
+      "No.": "110309",
+      "Goods and Services": "aquarium lights"
+    },
+    {
+      "No.": "110310",
+      "Goods and Services": "electrically heated carpets"
+    },
+    {
+      "No.": "110311",
+      "Goods and Services": "dental ovens"
+    },
+    {
+      "No.": "110312",
+      "Goods and Services": "electric appliances for making yogurt / electric appliances for making yoghurt"
+    },
+    {
+      "No.": "110313",
+      "Goods and Services": "expansion tanks for central heating installations"
+    },
+    {
+      "No.": "110314",
+      "Goods and Services": "extractor hoods for kitchens"
+    },
+    {
+      "No.": "110315",
+      "Goods and Services": "electric fans for personal use"
+    },
+    {
+      "No.": "110316",
+      "Goods and Services": "laundry dryers, electric / laundry driers, electric"
+    },
+    {
+      "No.": "110317",
+      "Goods and Services": "microwave ovens [cooking apparatus]"
+    },
+    {
+      "No.": "110318",
+      "Goods and Services": "swimming pool chlorinating apparatus"
+    },
+    {
+      "No.": "110319",
+      "Goods and Services": "thermostatic valves [parts of heating installations]"
+    },
+    {
+      "No.": "110320",
+      "Goods and Services": "whirlpool-jet apparatus"
+    },
+    {
+      "No.": "110321",
+      "Goods and Services": "apparatus for dehydrating food waste"
+    },
+    {
+      "No.": "110322",
+      "Goods and Services": "diving lights"
+    },
+    {
+      "No.": "110323",
+      "Goods and Services": "drip irrigation emitters [irrigation fittings]"
+    },
+    {
+      "No.": "110325",
+      "Goods and Services": "clean chambers [sanitary installations]"
+    },
+    {
+      "No.": "110326",
+      "Goods and Services": "lava rocks for use in barbecue grills"
+    },
+    {
+      "No.": "110327",
+      "Goods and Services": "watering machines for agricultural purposes"
+    },
+    {
+      "No.": "110328",
+      "Goods and Services": "microwave ovens for industrial purposes"
+    },
+    {
+      "No.": "110329",
+      "Goods and Services": "bread baking machines"
+    },
+    {
+      "No.": "110330",
+      "Goods and Services": "refrigerating display cabinets"
+    },
+    {
+      "No.": "110331",
+      "Goods and Services": "fabric steamers"
+    },
+    {
+      "No.": "110332",
+      "Goods and Services": "bread-making machines"
+    },
+    {
+      "No.": "110333",
+      "Goods and Services": "light-emitting diodes [LED] lighting apparatus"
+    },
+    {
+      "No.": "110334",
+      "Goods and Services": "hydromassage bath apparatus"
+    },
+    {
+      "No.": "110335",
+      "Goods and Services": "heated display cabinets"
+    },
+    {
+      "No.": "110336",
+      "Goods and Services": "multicookers"
+    },
+    {
+      "No.": "110337",
+      "Goods and Services": "food steamers, electric"
+    },
+    {
+      "No.": "110338",
+      "Goods and Services": "tortilla presses, electric"
+    },
+    {
+      "No.": "110339",
+      "Goods and Services": "book sterilization apparatus / book sterilisation apparatus"
+    },
+    {
+      "No.": "110340",
+      "Goods and Services": "heat guns"
+    },
+    {
+      "No.": "110341",
+      "Goods and Services": "chocolate fountains, electric"
+    },
+    {
+      "No.": "110342",
+      "Goods and Services": "disinfectant apparatus for medical purposes"
+    },
+    {
+      "No.": "110343",
+      "Goods and Services": "wine cellars, electric"
+    },
+    {
+      "No.": "110344",
+      "Goods and Services": "fairy lights for festive decoration / string lights for festive decoration"
+    },
+    {
+      "No.": "110345",
+      "Goods and Services": "socks, electrically heated"
+    },
+    {
+      "No.": "110346",
+      "Goods and Services": "head torches / portable headlamps"
+    },
+    {
+      "No.": "110347",
+      "Goods and Services": "nail lamps"
+    },
+    {
+      "No.": "110348",
+      "Goods and Services": "sous-vide cookers, electric"
+    },
+    {
+      "No.": "110349",
+      "Goods and Services": "microbubble generators for baths"
+    },
+    {
+      "No.": "110350",
+      "Goods and Services": "heating and cooling apparatus for dispensing hot and cold beverages"
+    },
+    {
+      "No.": "110351",
+      "Goods and Services": "electrically heated clothing"
+    },
+    {
+      "No.": "110352",
+      "Goods and Services": "pounded rice cake making machines, electric, for household purposes"
+    },
+    {
+      "No.": "110353",
+      "Goods and Services": "wicks adapted for oil stoves"
+    },
+    {
+      "No.": "110354",
+      "Goods and Services": "electric cooktops"
+    },
+    {
+      "No.": "110355",
+      "Goods and Services": "candle lanterns"
+    },
+    {
+      "No.": "110356",
+      "Goods and Services": "air fryers"
+    },
+    {
+      "No.": "110357",
+      "Goods and Services": "ice-cream making machines"
+    },
+    {
+      "No.": "110358",
+      "Goods and Services": "directional lights for bicycles"
+    },
+    {
+      "No.": "110359",
+      "Goods and Services": "refrigerators, cooling apparatus and freezers for medical storage purposes"
+    },
+    {
+      "No.": "110360",
+      "Goods and Services": "curing lamps, not for medical purposes"
+    },
+    {
+      "No.": "110361",
+      "Goods and Services": "hydroponic growing systems"
+    },
+    {
+      "No.": "110362",
+      "Goods and Services": "thermo-pots, electric"
+    },
+    {
+      "No.": "110363",
+      "Goods and Services": "food dehydrators, electric"
+    },
+    {
+      "No.": "110364",
+      "Goods and Services": "USB-powered hand warmers"
+    },
+    {
+      "No.": "110365",
+      "Goods and Services": "USB-powered cup heaters"
+    },
+    {
+      "No.": "110366",
+      "Goods and Services": "couscous cookers, electric"
+    },
+    {
+      "No.": "110367",
+      "Goods and Services": "standard lamps / floor lamps"
+    },
+    {
+      "No.": "110368",
+      "Goods and Services": "tajines, electric / tagines, electric"
+    },
+    {
+      "No.": "110369",
+      "Goods and Services": "light projectors"
+    },
+    {
+      "No.": "110370",
+      "Goods and Services": "fog machines"
+    },
+    {
+      "No.": "110371",
+      "Goods and Services": "underfloor heating apparatus and installations"
+    },
+    {
+      "No.": "110372",
+      "Goods and Services": "humidifiers"
+    },
+    {
+      "No.": "110373",
+      "Goods and Services": "soya milk making machines, electric"
+    },
+    {
+      "No.": "110374",
+      "Goods and Services": "coffee capsules, empty, for electric coffee machines"
+    },
+    {
+      "No.": "110375",
+      "Goods and Services": "beverage urns, electric"
+    },
+    {
+      "No.": "110376",
+      "Goods and Services": "dehumidifiers"
+    },
+    {
+      "No.": "110377",
+      "Goods and Services": "disinfectant apparatus for dispensing solutions into water-pipes for sanitary installations"
+    },
+    {
+      "No.": "110378",
+      "Goods and Services": "membranes for reverse osmosis units"
+    },
+    {
+      "No.": "110379",
+      "Goods and Services": "membrane filtration units for water treatment apparatus"
+    },
+    {
+      "No.": "110380",
+      "Goods and Services": "filters for water filtering apparatus"
+    },
+    {
+      "No.": "110381",
+      "Goods and Services": "reverse osmosis membrane filters for water treatment"
+    },
+    {
+      "No.": "110382",
+      "Goods and Services": "kitchen sinks incorporating integrated worktops"
+    },
+    {
+      "No.": "110383",
+      "Goods and Services": "coffee machines incorporating water purifiers"
+    },
+    {
+      "No.": "110384",
+      "Goods and Services": "lightsticks, battery-operated"
+    },
+    {
+      "No.": "110385",
+      "Goods and Services": "reverse osmosis units"
+    },
+    {
+      "No.": "110386",
+      "Goods and Services": "apparatus for making ices and ice cream, electric"
+    },
+    {
+      "No.": "110387",
+      "Goods and Services": "cooking pots, electric"
+    },
+    {
+      "No.": "110388",
+      "Goods and Services": "adsorption apparatus for generating gas"
+    },
+    {
+      "No.": "110389",
+      "Goods and Services": "membrane apparatus for generating gas"
+    },
+    {
+      "No.": "110390",
+      "Goods and Services": "bioreactors for use in the treatment of wastewater"
+    },
+    {
+      "No.": "110391",
+      "Goods and Services": "fermentation apparatus for industrial purposes"
+    },
+    {
+      "No.": "110392",
+      "Goods and Services": "apparatus for fertilizer irrigation"
+    },
+    {
+      "No.": "110393",
+      "Goods and Services": "electrically heated mugs"
+    },
+    {
+      "No.": "110394",
+      "Goods and Services": "running lights for vehicles"
+    },
+    {
+      "No.": "110395",
+      "Goods and Services": "snow-making machines / snow cannons"
+    },
+    {
+      "No.": "110396",
+      "Goods and Services": "beer brewing machines, electric, for household purposes"
+    },
+    {
+      "No.": "110397",
+      "Goods and Services": "bioreactors for use in the treatment of waste"
+    },
+    {
+      "No.": "110398",
+      "Goods and Services": "heat-stabilized polypropylene pipes for heating installations"
+    },
+    {
+      "No.": "110399",
+      "Goods and Services": "glow sticks for lighting"
+    },
+    {
+      "No.": "110400",
+      "Goods and Services": "venturi scrubbers"
+    },
+    {
+      "No.": "110401",
+      "Goods and Services": "membranes for water filtering apparatus"
+    },
+    {
+      "No.": "110402",
+      "Goods and Services": "smart light bulbs"
+    },
+    {
+      "No.": "110403",
+      "Goods and Services": "full-body drying apparatus"
+    },
+    {
+      "No.": "110404",
+      "Goods and Services": "ozonizers for sanitizing purposes / ozone generators for sanitizing purposes"
+    },
+    {
+      "No.": "110405",
+      "Goods and Services": "sterilizers for medical instruments / sterilisers for medical instruments"
+    },
+    {
+      "No.": "110406",
+      "Goods and Services": "smokers [cooking apparatus]"
+    },
+    {
+      "No.": "110407",
+      "Goods and Services": "heated carving stations"
+    },
+    {
+      "No.": "110408",
+      "Goods and Services": "personal cooling packs, not for medical purposes"
+    },
+    {
+      "No.": "110409",
+      "Goods and Services": "smoke machines"
+    },
+    {
+      "No.": "110410",
+      "Goods and Services": "coffeepots, electric"
+    },
+    {
+      "No.": "110411",
+      "Goods and Services": "frying pans, electric"
+    },
+    {
+      "No.": "110412",
+      "Goods and Services": "hot pots, electric"
+    },
+    {
+      "No.": "110413",
+      "Goods and Services": "glue pots, electric"
+    },
+    {
+      "No.": "110414",
+      "Goods and Services": "light-emitting diode [LED] light bulbs"
+    },
+    {
+      "No.": "110415",
+      "Goods and Services": "cryogenic apparatus*"
+    },
+    {
+      "No.": "110416",
+      "Goods and Services": "dish drying machines"
+    },
+    {
+      "No.": "110417",
+      "Goods and Services": "smart refrigerators"
+    },
+    {
+      "No.": "110418",
+      "Goods and Services": "sprayers being disinfectant apparatus"
+    }
+  ]
+}

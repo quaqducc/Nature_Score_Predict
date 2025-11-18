@@ -1,0 +1,770 @@
+{
+  "group_number": "25",
+  "meta": {
+    "Goods and Services": "Class Heading Clothing, footwear, headwear Explanatory Note Class 25 includes mainly clothing, footwear and headwear for human beings. This Class includes, in particular: • parts of clothing, footwear and headwear, for example, cuffs, pockets, ready-made linings, heels and heelpieces, cap peaks, hat frames (skeletons) • clothing and footwear for sports, for example, ski gloves, sports singlets, cyclists' clothing, judo and karate uniforms, football shoes, gymnastic shoes, ski boots • masquerade costumes • paper clothing, paper hats for use as clothing • bibs, not of paper • pocket squares • footmuffs, not electrically heated This Class does not include, in particular: • small items of hardware used in shoemaking, for example, shoe pegs and shoe dowels of metal (Cl. 6) and not of metal (Cl. 20), as well as haberdashery accessories and fastenings for clothing, footwear and headwear, for example, clasps, buckles, zippers, ribbons, hatbands, hat and shoe trimmings (Cl. 26) • certain clothing, footwear and headwear for special use, for example, protective helmets, including for sports (Cl. 9), clothing for protection against fire (Cl. 9), clothing especially for operating rooms (Cl. 10), orthopaedic footwear (Cl. 10), as well as clothing and footwear that are essential for the practice of certain sports, for example, baseball gloves, boxing gloves, ice skates (Cl. 28) • electrically heated clothing (Cl. 11) • electrically heated footmuffs (Cl. 11), fitted footmuffs for pushchairs and prams (Cl. 12) • bibs of paper (Cl. 16) • handkerchiefs of paper (Cl. 16) and of textile (Cl. 24) • clothing for animals (Cl. 18) • carnival masks (Cl. 28) • dolls' clothes (Cl. 28) • paper party hats (Cl. 28)"
+  },
+  "items": [
+    {
+      "No.": "250001",
+      "Goods and Services": "non-slipping devices for footwear"
+    },
+    {
+      "No.": "250002",
+      "Goods and Services": "motorists' clothing"
+    },
+    {
+      "No.": "250003",
+      "Goods and Services": "footwear*"
+    },
+    {
+      "No.": "250004",
+      "Goods and Services": "bath sandals"
+    },
+    {
+      "No.": "250005",
+      "Goods and Services": "bath slippers"
+    },
+    {
+      "No.": "250006",
+      "Goods and Services": "stockings*"
+    },
+    {
+      "No.": "250007",
+      "Goods and Services": "sweat-absorbent stockings"
+    },
+    {
+      "No.": "250008",
+      "Goods and Services": "heelpieces for stockings"
+    },
+    {
+      "No.": "250009",
+      "Goods and Services": "berets"
+    },
+    {
+      "No.": "250010",
+      "Goods and Services": "overalls / smocks"
+    },
+    {
+      "No.": "250011",
+      "Goods and Services": "boas [necklets]"
+    },
+    {
+      "No.": "250012",
+      "Goods and Services": "caps being headwear"
+    },
+    {
+      "No.": "250013",
+      "Goods and Services": "hosiery"
+    },
+    {
+      "No.": "250014",
+      "Goods and Services": "boots*"
+    },
+    {
+      "No.": "250015",
+      "Goods and Services": "half-boots"
+    },
+    {
+      "No.": "250016",
+      "Goods and Services": "tips for footwear"
+    },
+    {
+      "No.": "250017",
+      "Goods and Services": "dress shields"
+    },
+    {
+      "No.": "250018",
+      "Goods and Services": "braces [suspenders] for clothing / suspenders [braces] for clothing"
+    },
+    {
+      "No.": "250020",
+      "Goods and Services": "collars [clothing]"
+    },
+    {
+      "No.": "250021",
+      "Goods and Services": "neck tube scarves / neck gaiters"
+    },
+    {
+      "No.": "250022",
+      "Goods and Services": "camisoles"
+    },
+    {
+      "No.": "250023",
+      "Goods and Services": "boxer shorts"
+    },
+    {
+      "No.": "250024",
+      "Goods and Services": "skull caps"
+    },
+    {
+      "No.": "250025",
+      "Goods and Services": "bodices [lingerie]"
+    },
+    {
+      "No.": "250026",
+      "Goods and Services": "underwear / underclothing"
+    },
+    {
+      "No.": "250027",
+      "Goods and Services": "hoods [clothing]"
+    },
+    {
+      "No.": "250028",
+      "Goods and Services": "hat frames [skeletons]"
+    },
+    {
+      "No.": "250030",
+      "Goods and Services": "cap peaks"
+    },
+    {
+      "No.": "250031",
+      "Goods and Services": "belts [clothing]"
+    },
+    {
+      "No.": "250032",
+      "Goods and Services": "shawls"
+    },
+    {
+      "No.": "250033",
+      "Goods and Services": "dressing gowns"
+    },
+    {
+      "No.": "250034",
+      "Goods and Services": "sweaters / pullovers / jumpers [pullovers]"
+    },
+    {
+      "No.": "250035",
+      "Goods and Services": "chasubles"
+    },
+    {
+      "No.": "250036",
+      "Goods and Services": "socks*"
+    },
+    {
+      "No.": "250037",
+      "Goods and Services": "sock suspenders"
+    },
+    {
+      "No.": "250038",
+      "Goods and Services": "garters"
+    },
+    {
+      "No.": "250039",
+      "Goods and Services": "stocking suspenders"
+    },
+    {
+      "No.": "250040",
+      "Goods and Services": "boot uppers"
+    },
+    {
+      "No.": "250041",
+      "Goods and Services": "inner soles"
+    },
+    {
+      "No.": "250042",
+      "Goods and Services": "shirts"
+    },
+    {
+      "No.": "250043",
+      "Goods and Services": "shirt fronts"
+    },
+    {
+      "No.": "250044",
+      "Goods and Services": "short-sleeve shirts"
+    },
+    {
+      "No.": "250045",
+      "Goods and Services": "clothing*"
+    },
+    {
+      "No.": "250046",
+      "Goods and Services": "hats"
+    },
+    {
+      "No.": "250048",
+      "Goods and Services": "fittings of metal for footwear"
+    },
+    {
+      "No.": "250049",
+      "Goods and Services": "furs [clothing]"
+    },
+    {
+      "No.": "250050",
+      "Goods and Services": "detachable collars"
+    },
+    {
+      "No.": "250051",
+      "Goods and Services": "tights"
+    },
+    {
+      "No.": "250053"
+    },
+    {
+      "No.": "250054",
+      "Goods and Services": "sweat-absorbent underwear / sweat-absorbent underclothing"
+    },
+    {
+      "No.": "250055",
+      "Goods and Services": "corselets"
+    },
+    {
+      "No.": "250056",
+      "Goods and Services": "suits*"
+    },
+    {
+      "No.": "250057",
+      "Goods and Services": "ready-made clothing"
+    },
+    {
+      "No.": "250058",
+      "Goods and Services": "babies' pants [underwear]"
+    },
+    {
+      "No.": "250059",
+      "Goods and Services": "ear muffs [clothing]"
+    },
+    {
+      "No.": "250060",
+      "Goods and Services": "neckties"
+    },
+    {
+      "No.": "250061",
+      "Goods and Services": "footwear uppers"
+    },
+    {
+      "No.": "250062",
+      "Goods and Services": "gaiters"
+    },
+    {
+      "No.": "250063",
+      "Goods and Services": "breeches for wear"
+    },
+    {
+      "No.": "250064",
+      "Goods and Services": "trousers / pants (Am.)"
+    },
+    {
+      "No.": "250065",
+      "Goods and Services": "cyclists' clothing"
+    },
+    {
+      "No.": "250066",
+      "Goods and Services": "outerclothing"
+    },
+    {
+      "No.": "250067",
+      "Goods and Services": "gloves [clothing]"
+    },
+    {
+      "No.": "250068",
+      "Goods and Services": "ready-made linings [parts of clothing]"
+    },
+    {
+      "No.": "250069",
+      "Goods and Services": "scarves / scarfs"
+    },
+    {
+      "No.": "250070",
+      "Goods and Services": "sashes for wear"
+    },
+    {
+      "No.": "250071",
+      "Goods and Services": "knitwear [clothing]"
+    },
+    {
+      "No.": "250072",
+      "Goods and Services": "shirt yokes"
+    },
+    {
+      "No.": "250073",
+      "Goods and Services": "espadrilles"
+    },
+    {
+      "No.": "250074",
+      "Goods and Services": "fur stoles"
+    },
+    {
+      "No.": "250075",
+      "Goods and Services": "football shoes / football boots"
+    },
+    {
+      "No.": "250076",
+      "Goods and Services": "top hats"
+    },
+    {
+      "No.": "250077",
+      "Goods and Services": "gabardines [clothing]"
+    },
+    {
+      "No.": "250078",
+      "Goods and Services": "corsets [underclothing]"
+    },
+    {
+      "No.": "250079",
+      "Goods and Services": "girdles"
+    },
+    {
+      "No.": "250080",
+      "Goods and Services": "galoshes / goloshes"
+    },
+    {
+      "No.": "250082",
+      "Goods and Services": "waistcoats* / vests*"
+    },
+    {
+      "No.": "250083",
+      "Goods and Services": "gaiter straps"
+    },
+    {
+      "No.": "250084",
+      "Goods and Services": "wimples"
+    },
+    {
+      "No.": "250085",
+      "Goods and Services": "gymnastic shoes"
+    },
+    {
+      "No.": "250086",
+      "Goods and Services": "coats"
+    },
+    {
+      "No.": "250087",
+      "Goods and Services": "waterproof clothing"
+    },
+    {
+      "No.": "250088",
+      "Goods and Services": "leggings [leg warmers] / leg warmers"
+    },
+    {
+      "No.": "250089",
+      "Goods and Services": "jerseys [clothing]"
+    },
+    {
+      "No.": "250090",
+      "Goods and Services": "skirts"
+    },
+    {
+      "No.": "250092",
+      "Goods and Services": "layettes [clothing]"
+    },
+    {
+      "No.": "250093",
+      "Goods and Services": "liveries"
+    },
+    {
+      "No.": "250094",
+      "Goods and Services": "sports jerseys"
+    },
+    {
+      "No.": "250095",
+      "Goods and Services": "cuffs / wristbands [clothing]"
+    },
+    {
+      "No.": "250096",
+      "Goods and Services": "aprons [clothing]"
+    },
+    {
+      "No.": "250097",
+      "Goods and Services": "muffs [clothing]"
+    },
+    {
+      "No.": "250098",
+      "Goods and Services": "maniples"
+    },
+    {
+      "No.": "250099",
+      "Goods and Services": "fingerless gloves"
+    },
+    {
+      "No.": "250100",
+      "Goods and Services": "mitres [hats] / miters [hats]"
+    },
+    {
+      "No.": "250101",
+      "Goods and Services": "slippers"
+    },
+    {
+      "No.": "250102",
+      "Goods and Services": "pelerines"
+    },
+    {
+      "No.": "250103",
+      "Goods and Services": "pelisses"
+    },
+    {
+      "No.": "250104",
+      "Goods and Services": "beach clothes"
+    },
+    {
+      "No.": "250105",
+      "Goods and Services": "beach shoes"
+    },
+    {
+      "No.": "250106",
+      "Goods and Services": "pockets for clothing"
+    },
+    {
+      "No.": "250108",
+      "Goods and Services": "pyjamas / pajamas"
+    },
+    {
+      "No.": "250109",
+      "Goods and Services": "dresses"
+    },
+    {
+      "No.": "250110",
+      "Goods and Services": "wooden shoes"
+    },
+    {
+      "No.": "250111",
+      "Goods and Services": "sandals"
+    },
+    {
+      "No.": "250112",
+      "Goods and Services": "underpants"
+    },
+    {
+      "No.": "250114",
+      "Goods and Services": "brassieres"
+    },
+    {
+      "No.": "250115",
+      "Goods and Services": "overcoats / topcoats"
+    },
+    {
+      "No.": "250116",
+      "Goods and Services": "heelpieces for footwear"
+    },
+    {
+      "No.": "250117",
+      "Goods and Services": "togas"
+    },
+    {
+      "No.": "250118",
+      "Goods and Services": "welts for footwear"
+    },
+    {
+      "No.": "250119",
+      "Goods and Services": "uniforms"
+    },
+    {
+      "No.": "250120",
+      "Goods and Services": "stuff jackets [clothing]"
+    },
+    {
+      "No.": "250121",
+      "Goods and Services": "jackets [clothing]"
+    },
+    {
+      "No.": "250122",
+      "Goods and Services": "paper clothing"
+    },
+    {
+      "No.": "250123",
+      "Goods and Services": "veils [clothing]"
+    },
+    {
+      "No.": "250124",
+      "Goods and Services": "bathing caps"
+    },
+    {
+      "No.": "250125",
+      "Goods and Services": "bathing trunks / bathing drawers"
+    },
+    {
+      "No.": "250126",
+      "Goods and Services": "bathing suits / swimsuits"
+    },
+    {
+      "No.": "250127",
+      "Goods and Services": "bath robes"
+    },
+    {
+      "No.": "250128",
+      "Goods and Services": "bibs, not of paper"
+    },
+    {
+      "No.": "250129",
+      "Goods and Services": "soles for footwear"
+    },
+    {
+      "No.": "250130",
+      "Goods and Services": "shoes*"
+    },
+    {
+      "No.": "250131",
+      "Goods and Services": "heels"
+    },
+    {
+      "No.": "250132",
+      "Goods and Services": "sports shoes"
+    },
+    {
+      "No.": "250133",
+      "Goods and Services": "footmuffs, not electrically heated"
+    },
+    {
+      "No.": "250134",
+      "Goods and Services": "studs for football shoes / studs for football boots"
+    },
+    {
+      "No.": "250141",
+      "Goods and Services": "boots for sports"
+    },
+    {
+      "No.": "250142",
+      "Goods and Services": "headbands [clothing]"
+    },
+    {
+      "No.": "250143",
+      "Goods and Services": "parkas"
+    },
+    {
+      "No.": "250144",
+      "Goods and Services": "petticoats"
+    },
+    {
+      "No.": "250145",
+      "Goods and Services": "ski boots"
+    },
+    {
+      "No.": "250146",
+      "Goods and Services": "slips [underclothing]"
+    },
+    {
+      "No.": "250147",
+      "Goods and Services": "teddies [underclothing] / bodies [underclothing]"
+    },
+    {
+      "No.": "250148",
+      "Goods and Services": "bandanas [neckerchiefs]"
+    },
+    {
+      "No.": "250149",
+      "Goods and Services": "clothing for gymnastics"
+    },
+    {
+      "No.": "250150",
+      "Goods and Services": "clothing of imitations of leather"
+    },
+    {
+      "No.": "250151",
+      "Goods and Services": "clothing of leather"
+    },
+    {
+      "No.": "250152",
+      "Goods and Services": "mantillas"
+    },
+    {
+      "No.": "250153",
+      "Goods and Services": "masquerade costumes"
+    },
+    {
+      "No.": "250154",
+      "Goods and Services": "saris"
+    },
+    {
+      "No.": "250155",
+      "Goods and Services": "tee-shirts"
+    },
+    {
+      "No.": "250156",
+      "Goods and Services": "turbans"
+    },
+    {
+      "No.": "250157",
+      "Goods and Services": "ascots"
+    },
+    {
+      "No.": "250158",
+      "Goods and Services": "shower caps"
+    },
+    {
+      "No.": "250159",
+      "Goods and Services": "fishing vests"
+    },
+    {
+      "No.": "250160",
+      "Goods and Services": "money belts [clothing]"
+    },
+    {
+      "No.": "250161",
+      "Goods and Services": "pocket squares"
+    },
+    {
+      "No.": "250162",
+      "Goods and Services": "paper hats [clothing]"
+    },
+    {
+      "No.": "250163",
+      "Goods and Services": "sleep masks"
+    },
+    {
+      "No.": "250164",
+      "Goods and Services": "skorts"
+    },
+    {
+      "No.": "250165",
+      "Goods and Services": "ponchos"
+    },
+    {
+      "No.": "250166",
+      "Goods and Services": "sarongs"
+    },
+    {
+      "No.": "250167",
+      "Goods and Services": "ski gloves"
+    },
+    {
+      "No.": "250168",
+      "Goods and Services": "leggings [trousers]"
+    },
+    {
+      "No.": "250169",
+      "Goods and Services": "jumper dresses / pinafore dresses"
+    },
+    {
+      "No.": "250170",
+      "Goods and Services": "visors being headwear"
+    },
+    {
+      "No.": "250171",
+      "Goods and Services": "knickers* / panties*"
+    },
+    {
+      "No.": "250172",
+      "Goods and Services": "sports singlets"
+    },
+    {
+      "No.": "250173",
+      "Goods and Services": "valenki [felted boots]"
+    },
+    {
+      "No.": "250174",
+      "Goods and Services": "albs"
+    },
+    {
+      "No.": "250175",
+      "Goods and Services": "ankle boots"
+    },
+    {
+      "No.": "250176",
+      "Goods and Services": "sweat-absorbent socks"
+    },
+    {
+      "No.": "250177",
+      "Goods and Services": "hairdressing capes"
+    },
+    {
+      "No.": "250178"
+    },
+    {
+      "No.": "250179",
+      "Goods and Services": "martial arts uniforms"
+    },
+    {
+      "No.": "250180",
+      "Goods and Services": "leotards"
+    },
+    {
+      "No.": "250181",
+      "Goods and Services": "kimonos"
+    },
+    {
+      "No.": "250182",
+      "Goods and Services": "bibs, sleeved, not of paper"
+    },
+    {
+      "No.": "250183",
+      "Goods and Services": "clothing containing slimming substances"
+    },
+    {
+      "No.": "250184",
+      "Goods and Services": "embroidered clothing"
+    },
+    {
+      "No.": "250185",
+      "Goods and Services": "heel protectors for shoes"
+    },
+    {
+      "No.": "250186",
+      "Goods and Services": "headwear"
+    },
+    {
+      "No.": "250187",
+      "Goods and Services": "mittens"
+    },
+    {
+      "No.": "250188",
+      "Goods and Services": "latex clothing"
+    },
+    {
+      "No.": "250189",
+      "Goods and Services": "rash guards"
+    },
+    {
+      "No.": "250190",
+      "Goods and Services": "clothing incorporating LEDs"
+    },
+    {
+      "No.": "250191",
+      "Goods and Services": "headscarves / headscarfs"
+    },
+    {
+      "No.": "250192",
+      "Goods and Services": "adhesive bras / adhesive brassieres"
+    },
+    {
+      "No.": "250193",
+      "Goods and Services": "spats"
+    },
+    {
+      "No.": "250194",
+      "Goods and Services": "thermal gloves for touchscreen devices"
+    },
+    {
+      "No.": "250195",
+      "Goods and Services": "face coverings [clothing], not for medical or sanitary purposes / face masks [clothing], not for medical or sanitary purposes"
+    },
+    {
+      "No.": "250196",
+      "Goods and Services": "cycling gloves"
+    },
+    {
+      "No.": "250197",
+      "Goods and Services": "driving gloves"
+    },
+    {
+      "No.": "250198",
+      "Goods and Services": "sportswear incorporating digital sensors"
+    },
+    {
+      "No.": "250199",
+      "Goods and Services": "hanbok"
+    },
+    {
+      "No.": "250200",
+      "Goods and Services": "clothing authenticated by non-fungible tokens [NFTs]"
+    },
+    {
+      "No.": "250201",
+      "Goods and Services": "nipple pasties being underclothing"
+    },
+    {
+      "No.": "250202",
+      "Goods and Services": "straps for bras"
+    },
+    {
+      "No.": "250203",
+      "Goods and Services": "smart clothing"
+    },
+    {
+      "No.": "250204",
+      "Goods and Services": "medical uniforms, other than for operating rooms"
+    },
+    {
+      "No.": "250205",
+      "Goods and Services": "mountaineering gloves"
+    }
+  ]
+}

@@ -1,0 +1,1255 @@
+{
+  "group_number": "10",
+  "meta": {
+    "Goods and Services": "Class Heading Surgical, medical, dental and veterinary apparatus and instruments; artificial limbs, eyes and teeth; orthopaedic articles; suture materials; therapeutic and assistive devices adapted for persons with disabilities; massage apparatus; apparatus, devices and articles for nursing infants; sexual activity apparatus, devices and articles Explanatory Note Class 10 includes mainly surgical, medical, dental and veterinary apparatus, instruments and articles generally used for the diagnosis, treatment or improvement of function or condition of persons and animals. This Class includes, in particular: • support bandages, orthopaedic bandages • special clothing for medical purposes, for example, compression garments, stockings for varices, strait jackets, orthopaedic footwear • articles, instruments and devices for menstruation, contraception and childbirth, for example, menstrual cups, pessaries, condoms, childbirth mattresses, forceps • therapeutic and prosthetic articles and devices for implantation made of artificial or synthetic materials, for example, surgical implants comprised of artificial materials, artificial breasts, brain pacemakers, biodegradable bone fixation implants • furniture especially made for medical purposes, for example, armchairs for medical or dental purposes, air mattresses for medical purposes, operating tables This Class does not include, in particular: • medical dressings and absorbent sanitary articles, for example, plasters, bandages and gauze for dressings, breast-nursing pads, diapers for babies and for incontinence, tampons (Cl. 5) • surgical implants comprised of living tissue (Cl. 5) • tobacco-free cigarettes for medical purposes (Cl. 5) and electronic cigarettes (Cl. 34) • wheelchairs and mobility scooters (Cl. 12) • massage tables, nursing pillows (Cl. 20)"
+  },
+  "items": [
+    {
+      "No.": "100001",
+      "Goods and Services": "abdominal belts"
+    },
+    {
+      "No.": "100002",
+      "Goods and Services": "hypogastric belts"
+    },
+    {
+      "No.": "100003",
+      "Goods and Services": "abdominal corsets"
+    },
+    {
+      "No.": "100004",
+      "Goods and Services": "childbirth mattresses"
+    },
+    {
+      "No.": "100005",
+      "Goods and Services": "hearing aids"
+    },
+    {
+      "No.": "100006",
+      "Goods and Services": "ear trumpets"
+    },
+    {
+      "No.": "100007",
+      "Goods and Services": "clips, surgical"
+    },
+    {
+      "No.": "100008",
+      "Goods and Services": "needles for medical purposes"
+    },
+    {
+      "No.": "100009",
+      "Goods and Services": "suture needles"
+    },
+    {
+      "No.": "100010",
+      "Goods and Services": "pessaries"
+    },
+    {
+      "No.": "100011",
+      "Goods and Services": "hot air therapeutic apparatus"
+    },
+    {
+      "No.": "100012",
+      "Goods and Services": "hot air vibrators for medical purposes"
+    },
+    {
+      "No.": "100013",
+      "Goods and Services": "draw-sheets for sick beds"
+    },
+    {
+      "No.": "100014",
+      "Goods and Services": "incontinence sheets"
+    },
+    {
+      "No.": "100015",
+      "Goods and Services": "catheters"
+    },
+    {
+      "No.": "100017",
+      "Goods and Services": "radium tubes for medical purposes"
+    },
+    {
+      "No.": "100018",
+      "Goods and Services": "teething rings"
+    },
+    {
+      "No.": "100020",
+      "Goods and Services": "orthopaedic bandages for joints / orthopedic bandages for joints"
+    },
+    {
+      "No.": "100021",
+      "Goods and Services": "splints, surgical"
+    },
+    {
+      "No.": "100022",
+      "Goods and Services": "elastic bandages, not for dressings"
+    },
+    {
+      "No.": "100023",
+      "Goods and Services": "galvanic belts for medical purposes"
+    },
+    {
+      "No.": "100024",
+      "Goods and Services": "X-ray apparatus for medical purposes"
+    },
+    {
+      "No.": "100025",
+      "Goods and Services": "bed pans"
+    },
+    {
+      "No.": "100026",
+      "Goods and Services": "basins for medical purposes"
+    },
+    {
+      "No.": "100027",
+      "Goods and Services": "obstetric apparatus for cattle"
+    },
+    {
+      "No.": "100028",
+      "Goods and Services": "feeding bottles* / babies' bottles"
+    },
+    {
+      "No.": "100029",
+      "Goods and Services": "knives for surgical purposes"
+    },
+    {
+      "No.": "100030",
+      "Goods and Services": "scalpels"
+    },
+    {
+      "No.": "100031",
+      "Goods and Services": "boots for medical purposes"
+    },
+    {
+      "No.": "100033",
+      "Goods and Services": "surgical bougies"
+    },
+    {
+      "No.": "100034",
+      "Goods and Services": "spittoons for medical purposes"
+    },
+    {
+      "No.": "100035",
+      "Goods and Services": "catgut"
+    },
+    {
+      "No.": "100036",
+      "Goods and Services": "stretchers, wheeled / gurneys, wheeled"
+    },
+    {
+      "No.": "100037",
+      "Goods and Services": "ambulance stretchers"
+    },
+    {
+      "No.": "100038",
+      "Goods and Services": "orthopaedic articles / orthopedic articles"
+    },
+    {
+      "No.": "100039",
+      "Goods and Services": "trusses / hernia bandages"
+    },
+    {
+      "No.": "100040",
+      "Goods and Services": "arch supports for footwear"
+    },
+    {
+      "No.": "100041",
+      "Goods and Services": "strait jackets"
+    },
+    {
+      "No.": "100042",
+      "Goods and Services": "cannulae"
+    },
+    {
+      "No.": "100043",
+      "Goods and Services": "gloves for medical purposes"
+    },
+    {
+      "No.": "100044",
+      "Goods and Services": "appliances for washing body cavities"
+    },
+    {
+      "No.": "100045",
+      "Goods and Services": "belts for medical purposes"
+    },
+    {
+      "No.": "100046",
+      "Goods and Services": "maternity belts"
+    },
+    {
+      "No.": "100047",
+      "Goods and Services": "orthopaedic belts / orthopedic belts"
+    },
+    {
+      "No.": "100048",
+      "Goods and Services": "dentists' armchairs"
+    },
+    {
+      "No.": "100049",
+      "Goods and Services": "castrating pincers"
+    },
+    {
+      "No.": "100050",
+      "Goods and Services": "heating cushions, electric, for medical purposes / heating pads, electric, for medical purposes"
+    },
+    {
+      "No.": "100051",
+      "Goods and Services": "orthopaedic footwear / orthopedic footwear"
+    },
+    {
+      "No.": "100052",
+      "Goods and Services": "artificial teeth"
+    },
+    {
+      "No.": "100053",
+      "Goods and Services": "surgical sponges"
+    },
+    {
+      "No.": "100054",
+      "Goods and Services": "surgical apparatus and instruments"
+    },
+    {
+      "No.": "100055",
+      "Goods and Services": "instrument cases for use by doctors"
+    },
+    {
+      "No.": "100056",
+      "Goods and Services": "thread, surgical"
+    },
+    {
+      "No.": "100057",
+      "Goods and Services": "anaesthetic apparatus"
+    },
+    {
+      "No.": "100058",
+      "Goods and Services": "scissors for surgery"
+    },
+    {
+      "No.": "100059",
+      "Goods and Services": "thermo-electric compresses [surgery]"
+    },
+    {
+      "No.": "100060",
+      "Goods and Services": "compressors [surgical]"
+    },
+    {
+      "No.": "100061",
+      "Goods and Services": "droppers for medical purposes"
+    },
+    {
+      "No.": "100062",
+      "Goods and Services": "corn knives"
+    },
+    {
+      "No.": "100063",
+      "Goods and Services": "esthetic massage apparatus"
+    },
+    {
+      "No.": "100064",
+      "Goods and Services": "cushions for medical purposes"
+    },
+    {
+      "No.": "100065",
+      "Goods and Services": "surgical cutlery"
+    },
+    {
+      "No.": "100067",
+      "Goods and Services": "incubators for medical purposes"
+    },
+    {
+      "No.": "100069",
+      "Goods and Services": "spoons for administering medicine"
+    },
+    {
+      "No.": "100070",
+      "Goods and Services": "tongue scrapers"
+    },
+    {
+      "No.": "100071",
+      "Goods and Services": "ear picks"
+    },
+    {
+      "No.": "100072",
+      "Goods and Services": "dental burs"
+    },
+    {
+      "No.": "100073",
+      "Goods and Services": "dental apparatus and instruments"
+    },
+    {
+      "No.": "100074",
+      "Goods and Services": "pins for artificial teeth"
+    },
+    {
+      "No.": "100076",
+      "Goods and Services": "dentures / sets of artificial teeth"
+    },
+    {
+      "No.": "100077",
+      "Goods and Services": "lancets"
+    },
+    {
+      "No.": "100078",
+      "Goods and Services": "mirrors for dentists"
+    },
+    {
+      "No.": "100079",
+      "Goods and Services": "fingerstalls for medical purposes / finger guards for medical purposes"
+    },
+    {
+      "No.": "100080",
+      "Goods and Services": "syringes for injections"
+    },
+    {
+      "No.": "100081",
+      "Goods and Services": "drainage tubes for medical purposes"
+    },
+    {
+      "No.": "100082",
+      "Goods and Services": "water bags for medical purposes"
+    },
+    {
+      "No.": "100083",
+      "Goods and Services": "radiology screens for medical purposes"
+    },
+    {
+      "No.": "100084",
+      "Goods and Services": "electrocardiographs"
+    },
+    {
+      "No.": "100085",
+      "Goods and Services": "probes for medical purposes"
+    },
+    {
+      "No.": "100086",
+      "Goods and Services": "pumps for medical purposes"
+    },
+    {
+      "No.": "100087",
+      "Goods and Services": "blood testing apparatus"
+    },
+    {
+      "No.": "100088",
+      "Goods and Services": "armchairs for medical or dental purposes"
+    },
+    {
+      "No.": "100089",
+      "Goods and Services": "dropper bottles for medical purposes"
+    },
+    {
+      "No.": "100090",
+      "Goods and Services": "forceps"
+    },
+    {
+      "No.": "100091",
+      "Goods and Services": "galvanic therapeutic appliances"
+    },
+    {
+      "No.": "100092",
+      "Goods and Services": "gloves for massage"
+    },
+    {
+      "No.": "100093",
+      "Goods and Services": "gastroscopes"
+    },
+    {
+      "No.": "100094",
+      "Goods and Services": "ice bags for medical purposes"
+    },
+    {
+      "No.": "100095",
+      "Goods and Services": "haemocytometers / hemocytometers"
+    },
+    {
+      "No.": "100096",
+      "Goods and Services": "waterbeds for medical purposes"
+    },
+    {
+      "No.": "100097",
+      "Goods and Services": "hypodermic syringes"
+    },
+    {
+      "No.": "100098",
+      "Goods and Services": "abdominal pads"
+    },
+    {
+      "No.": "100099",
+      "Goods and Services": "inhalers"
+    },
+    {
+      "No.": "100100",
+      "Goods and Services": "injectors for medical purposes"
+    },
+    {
+      "No.": "100101",
+      "Goods and Services": "soporific pillows for insomnia"
+    },
+    {
+      "No.": "100102",
+      "Goods and Services": "urological apparatus and instruments"
+    },
+    {
+      "No.": "100103",
+      "Goods and Services": "insufflators"
+    },
+    {
+      "No.": "100104",
+      "Goods and Services": "enema apparatus for medical purposes"
+    },
+    {
+      "No.": "100105",
+      "Goods and Services": "ultraviolet ray lamps for medical purposes"
+    },
+    {
+      "No.": "100106",
+      "Goods and Services": "lasers for medical purposes"
+    },
+    {
+      "No.": "100107",
+      "Goods and Services": "breast pumps"
+    },
+    {
+      "No.": "100108",
+      "Goods and Services": "lamps for medical purposes"
+    },
+    {
+      "No.": "100109",
+      "Goods and Services": "vaporizers for medical purposes"
+    },
+    {
+      "No.": "100110",
+      "Goods and Services": "urinals being vessels"
+    },
+    {
+      "No.": "100111",
+      "Goods and Services": "artificial jaws"
+    },
+    {
+      "No.": "100112",
+      "Goods and Services": "anaesthetic masks"
+    },
+    {
+      "No.": "100113",
+      "Goods and Services": "massage apparatus"
+    },
+    {
+      "No.": "100114",
+      "Goods and Services": "medical apparatus and instruments"
+    },
+    {
+      "No.": "100115",
+      "Goods and Services": "receptacles for applying medicines"
+    },
+    {
+      "No.": "100116",
+      "Goods and Services": "cases fitted for medical instruments"
+    },
+    {
+      "No.": "100117",
+      "Goods and Services": "artificial limbs"
+    },
+    {
+      "No.": "100118",
+      "Goods and Services": "mirrors for surgeons"
+    },
+    {
+      "No.": "100119",
+      "Goods and Services": "furniture especially made for medical purposes"
+    },
+    {
+      "No.": "100120",
+      "Goods and Services": "obstetric apparatus"
+    },
+    {
+      "No.": "100121",
+      "Goods and Services": "umbilical belts"
+    },
+    {
+      "No.": "100122",
+      "Goods and Services": "keratometers / ophthalmometers"
+    },
+    {
+      "No.": "100123",
+      "Goods and Services": "ophthalmoscopes"
+    },
+    {
+      "No.": "100124",
+      "Goods and Services": "hearing protectors"
+    },
+    {
+      "No.": "100125",
+      "Goods and Services": "artificial skin for surgical purposes"
+    },
+    {
+      "No.": "100126",
+      "Goods and Services": "tips for crutches"
+    },
+    {
+      "No.": "100127",
+      "Goods and Services": "balling guns / bolus guns"
+    },
+    {
+      "No.": "100128",
+      "Goods and Services": "condoms"
+    },
+    {
+      "No.": "100129",
+      "Goods and Services": "sphygmotensiometers / arterial blood pressure measuring apparatus / sphygmomanometers"
+    },
+    {
+      "No.": "100130",
+      "Goods and Services": "quartz lamps for medical purposes"
+    },
+    {
+      "No.": "100131",
+      "Goods and Services": "apparatus and installations for the production of X-rays, for medical purposes"
+    },
+    {
+      "No.": "100132",
+      "Goods and Services": "X-ray photographs for medical purposes"
+    },
+    {
+      "No.": "100133",
+      "Goods and Services": "radiological apparatus for medical purposes"
+    },
+    {
+      "No.": "100134",
+      "Goods and Services": "radiotherapy apparatus"
+    },
+    {
+      "No.": "100135",
+      "Goods and Services": "resuscitation apparatus"
+    },
+    {
+      "No.": "100136",
+      "Goods and Services": "X-ray tubes for medical purposes"
+    },
+    {
+      "No.": "100137",
+      "Goods and Services": "protection devices against X-rays, for medical purposes"
+    },
+    {
+      "No.": "100138",
+      "Goods and Services": "respirators for artificial respiration"
+    },
+    {
+      "No.": "100139",
+      "Goods and Services": "apparatus for artificial respiration"
+    },
+    {
+      "No.": "100140",
+      "Goods and Services": "saws for surgical purposes"
+    },
+    {
+      "No.": "100141",
+      "Goods and Services": "artificial breasts"
+    },
+    {
+      "No.": "100142",
+      "Goods and Services": "uterine syringes"
+    },
+    {
+      "No.": "100143",
+      "Goods and Services": "vaginal syringes"
+    },
+    {
+      "No.": "100144",
+      "Goods and Services": "stethoscopes"
+    },
+    {
+      "No.": "100145",
+      "Goods and Services": "dummies for babies / pacifiers for babies"
+    },
+    {
+      "No.": "100146",
+      "Goods and Services": "supports for flat feet"
+    },
+    {
+      "No.": "100147",
+      "Goods and Services": "apparatus for the treatment of deafness"
+    },
+    {
+      "No.": "100148",
+      "Goods and Services": "suspensory bandages"
+    },
+    {
+      "No.": "100149",
+      "Goods and Services": "suture materials"
+    },
+    {
+      "No.": "100150",
+      "Goods and Services": "operating tables"
+    },
+    {
+      "No.": "100151",
+      "Goods and Services": "trocars"
+    },
+    {
+      "No.": "100153",
+      "Goods and Services": "urethral probes"
+    },
+    {
+      "No.": "100154",
+      "Goods and Services": "urethral syringes"
+    },
+    {
+      "No.": "100155",
+      "Goods and Services": "cupping glasses"
+    },
+    {
+      "No.": "100156",
+      "Goods and Services": "veterinary apparatus and instruments"
+    },
+    {
+      "No.": "100157",
+      "Goods and Services": "bed vibrators"
+    },
+    {
+      "No.": "100158",
+      "Goods and Services": "vibromassage apparatus"
+    },
+    {
+      "No.": "100159",
+      "Goods and Services": "artificial eyes"
+    },
+    {
+      "No.": "100161",
+      "Goods and Services": "air pillows for medical purposes"
+    },
+    {
+      "No.": "100162",
+      "Goods and Services": "air cushions for medical purposes"
+    },
+    {
+      "No.": "100163",
+      "Goods and Services": "air mattresses for medical purposes"
+    },
+    {
+      "No.": "100164",
+      "Goods and Services": "syringes for medical purposes"
+    },
+    {
+      "No.": "100165",
+      "Goods and Services": "elastic stockings for surgical purposes"
+    },
+    {
+      "No.": "100166",
+      "Goods and Services": "stockings for varices"
+    },
+    {
+      "No.": "100168",
+      "Goods and Services": "crutches"
+    },
+    {
+      "No.": "100169",
+      "Goods and Services": "feeding bottle valves"
+    },
+    {
+      "No.": "100170",
+      "Goods and Services": "feeding bottle teats"
+    },
+    {
+      "No.": "100171",
+      "Goods and Services": "orthopaedic soles / orthopedic soles"
+    },
+    {
+      "No.": "100172",
+      "Goods and Services": "sterile sheets, surgical"
+    },
+    {
+      "No.": "100173",
+      "Goods and Services": "beds specially made for medical purposes"
+    },
+    {
+      "No.": "100174",
+      "Goods and Services": "electrodes for medical use"
+    },
+    {
+      "No.": "100175",
+      "Goods and Services": "belts, electric, for medical purposes"
+    },
+    {
+      "No.": "100176",
+      "Goods and Services": "physical exercise apparatus for medical purposes"
+    },
+    {
+      "No.": "100177",
+      "Goods and Services": "incubators for babies"
+    },
+    {
+      "No.": "100178",
+      "Goods and Services": "brushes for cleaning body cavities"
+    },
+    {
+      "No.": "100179",
+      "Goods and Services": "dental apparatus, electric"
+    },
+    {
+      "No.": "100180",
+      "Goods and Services": "testing apparatus for medical purposes / apparatus for use in medical analysis"
+    },
+    {
+      "No.": "100181",
+      "Goods and Services": "filters for ultraviolet rays, for medical purposes"
+    },
+    {
+      "No.": "100182",
+      "Goods and Services": "apparatus for administering inhalants for medical purposes"
+    },
+    {
+      "No.": "100183",
+      "Goods and Services": "corsets for medical purposes"
+    },
+    {
+      "No.": "100184",
+      "Goods and Services": "contraceptives, non-chemical"
+    },
+    {
+      "No.": "100191",
+      "Goods and Services": "blankets, electric, for medical purposes"
+    },
+    {
+      "No.": "100192",
+      "Goods and Services": "hair prostheses"
+    },
+    {
+      "No.": "100193",
+      "Goods and Services": "knee bandages, orthopaedic / knee bandages, orthopedic"
+    },
+    {
+      "No.": "100194",
+      "Goods and Services": "lenses [intraocular prostheses] for surgical implantation / intraocular prostheses [lenses] for surgical implantation"
+    },
+    {
+      "No.": "100195",
+      "Goods and Services": "pads for preventing pressure sores on patient bodies"
+    },
+    {
+      "No.": "100196",
+      "Goods and Services": "physiotherapy apparatus"
+    },
+    {
+      "No.": "100197",
+      "Goods and Services": "spirometers [medical apparatus]"
+    },
+    {
+      "No.": "100198",
+      "Goods and Services": "thermometers for medical purposes"
+    },
+    {
+      "No.": "100199",
+      "Goods and Services": "acupuncture needles"
+    },
+    {
+      "No.": "100200",
+      "Goods and Services": "clothing especially for operating rooms"
+    },
+    {
+      "No.": "100201",
+      "Goods and Services": "diagnostic apparatus for medical purposes"
+    },
+    {
+      "No.": "100202",
+      "Goods and Services": "electric acupuncture instruments"
+    },
+    {
+      "No.": "100203",
+      "Goods and Services": "heart pacemakers"
+    },
+    {
+      "No.": "100204",
+      "Goods and Services": "patient hoists / patient lifting hoists"
+    },
+    {
+      "No.": "100205",
+      "Goods and Services": "masks for use by medical personnel"
+    },
+    {
+      "No.": "100206",
+      "Goods and Services": "plaster bandages for orthopaedic purposes / plaster bandages for orthopedic purposes"
+    },
+    {
+      "No.": "100207",
+      "Goods and Services": "surgical drapes"
+    },
+    {
+      "No.": "100208",
+      "Goods and Services": "surgical implants comprised of artificial materials"
+    },
+    {
+      "No.": "100209",
+      "Goods and Services": "thermal packs for first aid purposes"
+    },
+    {
+      "No.": "100210",
+      "Goods and Services": "commode chairs"
+    },
+    {
+      "No.": "100211",
+      "Goods and Services": "defibrillators"
+    },
+    {
+      "No.": "100212",
+      "Goods and Services": "dialyzers"
+    },
+    {
+      "No.": "100213",
+      "Goods and Services": "medical guidewires"
+    },
+    {
+      "No.": "100214",
+      "Goods and Services": "orthodontic appliances"
+    },
+    {
+      "No.": "100215",
+      "Goods and Services": "traction apparatus for medical purposes"
+    },
+    {
+      "No.": "100216",
+      "Goods and Services": "containers especially made for medical waste"
+    },
+    {
+      "No.": "100217",
+      "Goods and Services": "slings [support bandages]"
+    },
+    {
+      "No.": "100218",
+      "Goods and Services": "douche bags"
+    },
+    {
+      "No.": "100219",
+      "Goods and Services": "love dolls [sex dolls]"
+    },
+    {
+      "No.": "100220",
+      "Goods and Services": "microdermabrasion apparatus for medical or therapeutic purposes"
+    },
+    {
+      "No.": "100221",
+      "Goods and Services": "body rehabilitation apparatus for medical purposes"
+    },
+    {
+      "No.": "100222",
+      "Goods and Services": "pulse meters"
+    },
+    {
+      "No.": "100223",
+      "Goods and Services": "stents"
+    },
+    {
+      "No.": "100224",
+      "Goods and Services": "ear plugs [hearing protection devices]"
+    },
+    {
+      "No.": "100225",
+      "Goods and Services": "temperature indicator labels for medical purposes"
+    },
+    {
+      "No.": "100226",
+      "Goods and Services": "walking frames for persons with disabilities"
+    },
+    {
+      "No.": "100227",
+      "Goods and Services": "tomographs for medical purposes"
+    },
+    {
+      "No.": "100228",
+      "Goods and Services": "apparatus for acne treatment"
+    },
+    {
+      "No.": "100229",
+      "Goods and Services": "lice combs"
+    },
+    {
+      "No.": "100230",
+      "Goods and Services": "quad canes for medical purposes"
+    },
+    {
+      "No.": "100231",
+      "Goods and Services": "endoscopy cameras for medical purposes"
+    },
+    {
+      "No.": "100232",
+      "Goods and Services": "heart rate monitoring apparatus"
+    },
+    {
+      "No.": "100233",
+      "Goods and Services": "compression garments"
+    },
+    {
+      "No.": "100234",
+      "Goods and Services": "sex toys"
+    },
+    {
+      "No.": "100235",
+      "Goods and Services": "brain pacemakers"
+    },
+    {
+      "No.": "100236",
+      "Goods and Services": "implantable subcutaneous drug delivery devices"
+    },
+    {
+      "No.": "100237",
+      "Goods and Services": "biodegradable bone fixation implants"
+    },
+    {
+      "No.": "100238",
+      "Goods and Services": "tongue depressors for medical purposes"
+    },
+    {
+      "No.": "100239",
+      "Goods and Services": "nasal aspirators"
+    },
+    {
+      "No.": "100240",
+      "Goods and Services": "teeth protectors for dental purposes"
+    },
+    {
+      "No.": "100241",
+      "Goods and Services": "menstrual cups"
+    },
+    {
+      "No.": "100242",
+      "Goods and Services": "respiratory masks for artificial respiration"
+    },
+    {
+      "No.": "100243",
+      "Goods and Services": "orthodontic rubber bands"
+    },
+    {
+      "No.": "100244",
+      "Goods and Services": "analysers for bacterial identification for medical purposes / analyzers for bacterial identification for medical purposes"
+    },
+    {
+      "No.": "100245",
+      "Goods and Services": "apparatus for DNA and RNA testing for medical purposes"
+    },
+    {
+      "No.": "100246",
+      "Goods and Services": "apparatus for the regeneration of stem cells for medical purposes"
+    },
+    {
+      "No.": "100247",
+      "Goods and Services": "body fat monitors"
+    },
+    {
+      "No.": "100248",
+      "Goods and Services": "body composition monitors"
+    },
+    {
+      "No.": "100249",
+      "Goods and Services": "toe separators for orthopaedic purposes / toe separators for orthopedic purposes"
+    },
+    {
+      "No.": "100250",
+      "Goods and Services": "anti-rheumatism bracelets"
+    },
+    {
+      "No.": "100251",
+      "Goods and Services": "anti-rheumatism rings"
+    },
+    {
+      "No.": "100252",
+      "Goods and Services": "bracelets for medical purposes"
+    },
+    {
+      "No.": "100253",
+      "Goods and Services": "surgical robots"
+    },
+    {
+      "No.": "100254",
+      "Goods and Services": "baby feeding dummies / baby feeding pacifiers"
+    },
+    {
+      "No.": "100255",
+      "Goods and Services": "anti-nausea wristbands"
+    },
+    {
+      "No.": "100256",
+      "Goods and Services": "wheeled walkers to aid mobility"
+    },
+    {
+      "No.": "100257",
+      "Goods and Services": "hydrogen inhalers"
+    },
+    {
+      "No.": "100258",
+      "Goods and Services": "magnetic resonance imaging [MRI] apparatus for medical purposes"
+    },
+    {
+      "No.": "100259",
+      "Goods and Services": "air beds for medical purposes"
+    },
+    {
+      "No.": "100260",
+      "Goods and Services": "cooling patches for medical purposes"
+    },
+    {
+      "No.": "100261",
+      "Goods and Services": "cooling pads for first aid purposes"
+    },
+    {
+      "No.": "100262",
+      "Goods and Services": "portable hand-held urinals"
+    },
+    {
+      "No.": "100263",
+      "Goods and Services": "walking sticks for medical purposes / canes for medical purposes"
+    },
+    {
+      "No.": "100264",
+      "Goods and Services": "robotic exoskeleton suits for medical purposes"
+    },
+    {
+      "No.": "100265",
+      "Goods and Services": "acupressure bands"
+    },
+    {
+      "No.": "100266",
+      "Goods and Services": "clips for dummies / clips for pacifiers"
+    },
+    {
+      "No.": "100267",
+      "Goods and Services": "cholesterol meters"
+    },
+    {
+      "No.": "100268",
+      "Goods and Services": "patient examination gowns"
+    },
+    {
+      "No.": "100269",
+      "Goods and Services": "biomagnetic rings for therapeutic or medical purposes"
+    },
+    {
+      "No.": "100270",
+      "Goods and Services": "therapeutic facial masks"
+    },
+    {
+      "No.": "100271",
+      "Goods and Services": "gum massagers for babies"
+    },
+    {
+      "No.": "100272",
+      "Goods and Services": "pill crushers"
+    },
+    {
+      "No.": "100273",
+      "Goods and Services": "glucometers / glucose meters"
+    },
+    {
+      "No.": "100274",
+      "Goods and Services": "curing lamps for medical purposes"
+    },
+    {
+      "No.": "100275",
+      "Goods and Services": "bone void fillers comprised of artificial materials"
+    },
+    {
+      "No.": "100276",
+      "Goods and Services": "chambers for inhalers / spacers for inhalers"
+    },
+    {
+      "No.": "100277",
+      "Goods and Services": "medical examination tables"
+    },
+    {
+      "No.": "100278",
+      "Goods and Services": "nanorobots for medical purposes / nanites for medical purposes"
+    },
+    {
+      "No.": "100279",
+      "Goods and Services": "kinesiology tapes"
+    },
+    {
+      "No.": "100280",
+      "Goods and Services": "medical cooling apparatus for treating heatstroke"
+    },
+    {
+      "No.": "100281",
+      "Goods and Services": "medical cooling apparatus for use in therapeutic hypothermia"
+    },
+    {
+      "No.": "100282",
+      "Goods and Services": "pill cutters"
+    },
+    {
+      "No.": "100283",
+      "Goods and Services": "protective masks for medical purposes"
+    },
+    {
+      "No.": "100284",
+      "Goods and Services": "LED masks for therapeutic purposes"
+    },
+    {
+      "No.": "100285",
+      "Goods and Services": "oxygen concentrators for medical purposes"
+    },
+    {
+      "No.": "100286",
+      "Goods and Services": "support bandages"
+    },
+    {
+      "No.": "100287",
+      "Goods and Services": "laser therapy helmets for treating alopecia"
+    },
+    {
+      "No.": "100288",
+      "Goods and Services": "disposable steam-heated masks for therapeutic purposes"
+    },
+    {
+      "No.": "100289",
+      "Goods and Services": "disposable steam-heated patches for therapeutic purposes"
+    },
+    {
+      "No.": "100290",
+      "Goods and Services": "contraceptive implants"
+    },
+    {
+      "No.": "100291",
+      "Goods and Services": "intrauterine devices"
+    },
+    {
+      "No.": "100292",
+      "Goods and Services": "diabetic monitoring apparatus"
+    },
+    {
+      "No.": "100293",
+      "Goods and Services": "audiometers"
+    },
+    {
+      "No.": "100294",
+      "Goods and Services": "haptic suits for medical purposes"
+    },
+    {
+      "No.": "100295",
+      "Goods and Services": "apparatus for testing breast milk for medical purposes"
+    },
+    {
+      "No.": "100296",
+      "Goods and Services": "capillary tubes for medical use"
+    },
+    {
+      "No.": "100297",
+      "Goods and Services": "crystals for therapeutic purposes"
+    },
+    {
+      "No.": "100298",
+      "Goods and Services": "drug-coated stents for thrombosis / drug-eluting stents for thrombosis"
+    },
+    {
+      "No.": "100299",
+      "Goods and Services": "portable earpicks with endoscopy function"
+    },
+    {
+      "No.": "100300",
+      "Goods and Services": "electric massage guns"
+    },
+    {
+      "No.": "100301",
+      "Goods and Services": "neural helmets for medical purposes"
+    },
+    {
+      "No.": "100302",
+      "Goods and Services": "sanitary masks"
+    },
+    {
+      "No.": "100303",
+      "Goods and Services": "reusable sanitary masks made of gauze"
+    },
+    {
+      "No.": "100304",
+      "Goods and Services": "electric facial aesthetic treatment apparatus, other than facial steamers"
+    },
+    {
+      "No.": "100305",
+      "Goods and Services": "spoons for patients with tremor"
+    },
+    {
+      "No.": "100306",
+      "Goods and Services": "dosage dispensers for medical use"
+    },
+    {
+      "No.": "100307",
+      "Goods and Services": "nebulisers for medical purposes / nebulizers for medical purposes"
+    },
+    {
+      "No.": "100308",
+      "Goods and Services": "filters for respiratory masks for medical purposes"
+    },
+    {
+      "No.": "100309",
+      "Goods and Services": "respirators for filtering air for medical purposes"
+    },
+    {
+      "No.": "100310",
+      "Goods and Services": "respiratory masks for medical purposes"
+    },
+    {
+      "No.": "100311",
+      "Goods and Services": "breathing apparatus for medical purposes"
+    },
+    {
+      "No.": "100312",
+      "Goods and Services": "therapeutic magnets"
+    },
+    {
+      "No.": "100313",
+      "Goods and Services": "hospital beds"
+    },
+    {
+      "No.": "100314",
+      "Goods and Services": "massage chairs with built-in massage apparatus"
+    },
+    {
+      "No.": "100315"
+    },
+    {
+      "No.": "100316",
+      "Goods and Services": "ear plugs for swimmers"
+    },
+    {
+      "No.": "100317",
+      "Goods and Services": "densitometers for medical purposes"
+    },
+    {
+      "No.": "100318",
+      "Goods and Services": "nipple shields for breastfeeding"
+    },
+    {
+      "No.": "100319",
+      "Goods and Services": "diagnostic apparatus for medical purposes used in medical laboratories"
+    },
+    {
+      "No.": "100320",
+      "Goods and Services": "ultrasonic imaging apparatus for medical purposes"
+    },
+    {
+      "No.": "100321",
+      "Goods and Services": "bath boards adapted for persons with physical disabilities"
+    },
+    {
+      "No.": "100322",
+      "Goods and Services": "athletic tapes"
+    },
+    {
+      "No.": "100323",
+      "Goods and Services": "isolation booths fitted with medical equipment"
+    },
+    {
+      "No.": "100324",
+      "Goods and Services": "electrolarynxes"
+    },
+    {
+      "No.": "100325",
+      "Goods and Services": "cryogenic apparatus for medical purposes"
+    },
+    {
+      "No.": "100326",
+      "Goods and Services": "cryogenic apparatus for veterinary purposes"
+    },
+    {
+      "No.": "100327",
+      "Goods and Services": "pet walking aids"
+    }
+  ]
+}

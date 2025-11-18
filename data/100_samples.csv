@@ -1,0 +1,103 @@
+,No.,Item 1,Item 2,Nature,Intended Purpose/ Complimentary,Channels of trade/ Relevant public/ Usual origin,Level of similarity
+0,1,1 Chemicals for industrial use,1 chemical additives for detergents,4,4,4,4.0
+1,2,1 chemical products used in the manufacture of plastics and in the photocopying industry,"1 plastics in the form of granules, powders, masses, resins, gels, emulsions, dispersions, pastes, flakes, chips.",4,4,-,4.0
+2,3,1 polymers,1 Unprocessed plastics,4,4,-,4.0
+3,4,02 Paints,19 Construction materials,0,3,-,2.0
+4,5,3 Cosmetics.,1 chemical additives for detergents,0,2,2,2.0
+5,6,3 Cosmetics.,"40 Services for the pharmaceutical and cosmetic industry, namely synthesis and preparation of pharmaceutical and cosmetic products.",4,4,-,4.0
+6,7,1 Industrial chemicals in the field of washing or food preservation only,"42 Development of pharmaceutical and cosmetic products, including preparations for destroying vermin, fungicides and herbicides, for others",3,3,-,3.0
+7,8,1 chemical additives in the field of washing or food preservation only;,42 scientific and/or industrial research and consultancy relating thereto for the pharmaceutical and cosmetic industry;,0,0,-,0.0
+8,9,1 chemical substances intended to conserve food,"42 operating of licencing procedures for pharmaceutical and cosmetic products, including preparations for destroying vermin, fungicides and herbicides;",2,2,-,2.0
+9,10,1 chemical substances for preserving foodstuffs;,"42 Development of pharmaceutical and cosmetic products, including preparations for destroying vermin, fungicides and herbicides, for others",3,3,-,3.0
+10,11,1 detergents for use in manufacturing processes;,"42 Development of pharmaceutical and cosmetic products, including preparations for destroying vermin, fungicides and herbicides, for others",2,2,-,2.0
+11,12,1 adhesive removal in manufacturing processes,"42 Development of pharmaceutical and cosmetic products, including preparations for destroying vermin, fungicides and herbicides, for others",0,1,0,1.0
+12,13,1 chemical substances for analysis in laboratories (except for medicinal or veterinary purposes).,42 scientific and/or industrial research and consultancy relating thereto for the pharmaceutical and cosmetic industry;,3,3,-,3.0
+13,14,"07 Machines for the manufacture of concrete elements, concrete panels and walls;","07 Parts of machines, especially for textile machines, namely covers, roll covers, aprons for machines",3,3,-,3.0
+14,15,"07 Machines for the manufacture of concrete elements, concrete panels and walls;",07 rollers and rolls [parts of machines];,3,3,-,3.0
+15,16,"07 parts and fittings of machines for the manufacture of concrete elements, concrete panels and walls;",07 drive belts for machines;,3,3,-,3.0
+16,17,"19 Building materials, especially concrete elements, panels and walls.",37 Building construction;,3,3,-,3.0
+17,18,"19 Building materials, especially concrete elements, panels and walls.",37 Repair services.,2,3,-,3.0
+18,19,"19 Building materials, especially concrete elements, panels and walls.",37 Installation services.,0,3,3,3.0
+19,20,05 pharmaceuticals,10 Medical instruments,0,3,3,3.0
+20,21,09 Electronic key fobs being remote control apparatus,09 Electrical and power test and measurement equipment,3,3,3,3.0
+21,22,10 Apparatus for physical training for medical use;,"17 Rubber, gutta-percha, gum, asbestos, mica and goods made from these materials not included in other classes",2,0,0,0.0
+22,23,10 manually-operated exercise equipment for medical rehabilitative purposes;,25 special athletic shoes,0,3,3,3.0
+23,24,10 manually-operated exercise equipment for physical therapy purposes;,17 insulating materials;,0,0,0,0.0
+24,25,10 exercise machines for therapeutic purposes;,"17 flexible pipes, not of metal;",0,2,1,1.0
+25,26,10 physical exercise apparatus for therapeutic purposes.,17 rubber coverings.,0,3,1,1.0
+26,27,10 manually-operated exercise equipment for physical therapy purposes;,25 Special athletic clothing,0,3,3,3.0
+27,28,"28  Accessory for manually- operated exercise equipment, namely, accessory attachment to increase muscle resistance exercise equipment, namely, arm exercisers, body exercisers, chest expanders, chest pulls, exercise barrels, exercise chairs, exercise platforms, exercise resistance machines, exercise tables, floor supported platforms having movable portion intended for exercise and treatment of all muscles of the body, leg exercisers, resistance exercise machines for various resistance- type body exercises, stair-stepping machines, and torso exercisers.",27 Mats,-,3,3,3.0
+28,29,"28 exercise equipment, namely, floor supported platforms having movable portion intended for exercise and treatment of all muscles of the body",27 Carpets,-,3,2,2.0
+29,30,"28 exercise equipment, other than for physical therapy purposes, namely, arm exercisers, body exercisers, chest expanders, chest pulls, exercise barrels, exercise chairs, exercise platforms, exercise resistance machines, exercise tables, floor supported platforms having movable portion intended for exercise and treatment of all muscles of the body, leg exercisers, resistance exercise machines for various resistance-type body
+exercises, stair-stepping machines, and torso exercisers",27 linoleum and other floor coverings;,0,2,1,
+30,31,28 exercise machines,28 linoleum and,-,2,1,1.0
+31,32,28 manually-operated exercise equipment,25 Footwear,0,2,3,2.0
+32,33,"28 sporting goods, namely, sports training devices in the nature of balance boards to improve strength, toning, conditioning, balance, and proprioception",25 Footwear,0,2,3,2.0
+33,34,28 body-training apparatus;,25 Bicycles,1,2,1,2.0
+34,35,28 body-training apparatus for exercise and treatment of all muscles of the body,25 Footwear,0,2,2,2.0
+35,36,"12 Bicycles, pedelecs and electric bicycles, and parts and accessories therefor, not included in other classes.",12 Pedal Bicycles,-,3,4,4.0
+36,37,25 Footwear,35 Footwear trade,-,3,4,3.0
+37,38,"29: Milk, milk-based drinks (in which milk is the main part, not included in other groups)",05 Infant formula;,4,4,4,4.0
+38,39,32 Beer,32 Non-alcoholic beverages and preparations for making such beverages,0,0,4,1.0
+39,40,"11: Solar collectors, solar heat collectors [heating, heating];",11: Lighting equipment,2,4,4,3.0
+40,41,11: Filters for aquariums,11 Water distribution and sanitary equipment,-,2,0,1.0
+41,42,11 filters for tanks for raising aquatic species;,07: piston pins and lever arms,-,2,2,2.0
+42,43,07: Anti-friction bearings for machines.,07: Rollers.,4,3,4,4.0
+43,44,"11: Sanitary equipment, namely: sinks (used in bathrooms, toilets and kitchens)","19: drain pipes, not of metal",-,4,4,4.0
+44,45,20: kitchen cabinets (wooden cabinets for storing things hung on the wall in the dining room);,21: Glass holders or for toilets,-,2,4,2.0
+45,46,08: Hair clippers (electric and non- electric),21: Glass holders,0,0,2,2.0
+46,47,07: washing machines,11 cooking systems and equipment.,-,0,4,3.0
+47,48,11 cooking systems and equipment.,"11 watering can, tool for watering plants;",-,0,2,1.0
+48,49,11: Electric cooking utensils;,11 indoor aquarium,-,0,0,0.0
+49,50,11 heating apparatus,11 indoor animal cages;,-,3,1,2.0
+50,51,11 steam generating apparatus,11 sprinkler,-,2,3,2.0
+51,52,11 ventilators,11 sprinkler,0,2,3,2.0
+52,53,7 Cutting machines,7 Machines and machine tools for the manufacturing and processing of micro- structure elements;,-,3,3,3.0
+53,54,7 Drill bits (parts of drilling machines),7 Semiconductor wafer processing machines;,-,3,3,3.0
+54,55,7 milling machines (machine tools);,"7 Automated machines and systems for cleaning, coating, developing, etching and strip coating of substrates, especially semiconductor substrates, hard discs, silicon discs, wafers, photomasks, hardmasks or
+embossing masks, templates, structure masks and substrates;",-,3,3,3.0
+55,56,"7 heavy machine tools, namely boring machines;","7 lathes, milling machines, blades (for woodworking, plastic working and metalworking machines).",(,3,1,1.0
+56,57,7 saw blades (parts of saw machines);,7 knives (parts of machines),-,4,4,4.0
+57,58,7 punching and broaching machines (machine tools);,"7 drill bits (parts of machines),",-,3,3,3.0
+58,59,7 lathe blades (parts of lathes).,7 Machines for wafer bonding;,-,2,2,2.0
+59,60,7 prefabricated building assembly kits of metal;,7 Machines for wafer bonding;,0,0,2,1.0
+60,61,7 Construction machines and apparatus;,7 Machines for debonding;,-,4,4,4.0
+61,62,7 loading-unloading machines and apparatus;,7 Lithographic machines for the processing of micro-structure or nano-structure elements;,-,0,0,0.0
+62,63,7 semiconductor manufacturing machines and systems;,7 Photomask and wafer processing machines for photomask applications;,-,4,4,4.0
+63,64,"7 non-electric prime movers, not for land vehicles [other than water mills and wind mills];",7 Photomask and wafer processing machines for the manufacturing and processing of opto-electronics;,-,4,2,3.0
+64,65,7 transmissions for machines;,7 Laser machines for the semiconductor industry;,-,4,3,4.0
+65,66,7 Alignment feeding apparatus for screw.,7 Photomask and wafer processing systems for the manufacturing of organic light emitting diodes (OLED).,-,4,3,4.0
+66,67,35 Business management assistance;,35: Administrative processing of purchase orders;,-,2,3,2.0
+67,68,35 commercial information;,35 Administrative processing of purchase orders;,-,4,4,4.0
+68,69,35 commercial business survey;,35 Business management consultancy;,2,3,3,3.0
+69,70,35 business management consultancy;,35 Business management consulting services in the field of information technology;,4,4,-,4.0
+70,71,35 personnel management consultancy;,35 Business management and organization consultancy;,2,3,-,2.0
+71,72,35 real estate auctioning.,35 Commercial information agencies;,0,3,3,3.0
+72,73,36 Real estate consultancy,35 Advertising;,0,3,1,1.0
+73,74,36 financial consultancy,35 Advertising;,0,3,2,2.0
+74,75,36 real estate brokerage;,35 Advertising by mail order;,0,3,1,1.0
+75,76,36 Investment consulting,"36 real estate related sales, management, leasing, agency services",4,3,3,
+76,77,36 Financial and insurance consulting (contracts),"36 real estate related sales, management, leasing, agency services",,,,
+77,78,45 litigation services;,45 security services.,,,,
+78,79,36 real estate business;,35 Advertising / Publicity;,,,,
+79,80,36 real estate leasing;,35 Advertising agencies /Publicity agencies;,,,,
+80,81,36 real estate management trust services (in the field of finance);,35 Business management assistance;,,,,
+81,82,financial investment.,35 Business inquiries;,,,,
+82,83,37 Construction;,35 Business auditing;,,,,
+83,84,37 construction consultancy;,35 Business appraisals;,,,,
+84,85,"37 construction of civil, cultural, traffic, irrigation works;",35 Business investigations;,,,,
+85,86,37 supervision and management of construction works;,35 Business research;,,,,
+86,87,37 finishing of construction works;,35 Business information;,,,,
+87,88,37 site clearing.,35 Commercial or industrial management assistance;,,,,
+88,89,41 Training; education; educational information.,35 Commercial administration of the licensing of the goods and services of others;,,,,
+89,90,41 training and education consultancy;,35 Compilation of statistics;,,,,
+90,91,41 entertainment services;,41 training and education consultancy;,,,,
+91,92,41 organization and control of seminars;,41 training and education consultancy;,,,,
+92,93,42 Setting up Construction site drafting;,35 Organization of exhibitions for commercial or advertising purposes;,,,,
+93,94,42 architecture services;,45 Security consultancy;,,,,
+94,95,42 computer software consultancy;,45 Security consultancy;,,,,
+95,96,42 computer software consultancy;,45 Security services for the protection of property and individuals,,,,
+96,97,42 logo and packaging design services;,45 intellectual property licensing services;,,,,
+97,98,42 biological research;,45 mediation services;,,,,
+98,99,42 chemical research,45 mediation services;,,,,
+99,100,45 Intellectual property consultancy;,45 legal services;,,,,

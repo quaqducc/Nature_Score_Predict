@@ -1,0 +1,1288 @@
+{
+  "group_number": "12",
+  "meta": {
+    "Goods and Services": "Class Heading Vehicles; apparatus for locomotion by land, air or water Explanatory Note Class 12 includes mainly vehicles and apparatus for the transport of people or goods by land, air or water. This Class includes, in particular: • motors and engines for land vehicles • couplings and transmission components for land vehicles • air cushion vehicles • remote control vehicles, other than toys • parts of vehicles, for example, bumpers, windscreens, steering wheels • treads for vehicles, as well as tyres for all kinds of vehicle wheels This Class does not include, in particular: • railway material of metal (Cl. 6) • motors, engines, couplings and transmission components, other than for land vehicles (Cl. 7) • parts of all kinds of motors and engines, for example, starters, mufflers and cylinders for motors and engines (Cl. 7) • rubber tracks being parts of crawlers on construction, mining, agricultural and other heavy-duty machines (Cl. 7) • tricycles for infants and scooters, being toys (Cl. 28) • certain special vehicles or wheeled apparatus not for transportation purposes, for example, self-propelled road sweeping machines (Cl. 7), fire engines (Cl. 9), tea carts (Cl. 20) • certain parts of vehicles, for example, electric batteries, mileage recorders and radios for vehicles (Cl. 9), lights for automobiles and bicycles (Cl. 11), automobile carpets (Cl. 27)"
+  },
+  "items": [
+    {
+      "No.": "120001",
+      "Goods and Services": "forklift trucks"
+    },
+    {
+      "No.": "120002",
+      "Goods and Services": "railway couplings"
+    },
+    {
+      "No.": "120003",
+      "Goods and Services": "couplings for land vehicles"
+    },
+    {
+      "No.": "120004",
+      "Goods and Services": "aerial conveyors"
+    },
+    {
+      "No.": "120005",
+      "Goods and Services": "air vehicles"
+    },
+    {
+      "No.": "120006",
+      "Goods and Services": "hot air balloons"
+    },
+    {
+      "No.": "120007",
+      "Goods and Services": "inner tubes for pneumatic tyres / inner tubes for pneumatic tires"
+    },
+    {
+      "No.": "120008",
+      "Goods and Services": "repair outfits for inner tubes"
+    },
+    {
+      "No.": "120009",
+      "Goods and Services": "air pumps [vehicle accessories]"
+    },
+    {
+      "No.": "120010",
+      "Goods and Services": "suspension shock absorbers for vehicles"
+    },
+    {
+      "No.": "120011",
+      "Goods and Services": "shock absorbing springs for vehicles"
+    },
+    {
+      "No.": "120012",
+      "Goods and Services": "amphibious airplanes"
+    },
+    {
+      "No.": "120013",
+      "Goods and Services": "non-skid devices for vehicle tyres / non-skid devices for vehicle tires"
+    },
+    {
+      "No.": "120014",
+      "Goods and Services": "anti-skid chains"
+    },
+    {
+      "No.": "120015",
+      "Goods and Services": "head-rests for vehicle seats"
+    },
+    {
+      "No.": "120016",
+      "Goods and Services": "sprinkling trucks"
+    },
+    {
+      "No.": "120017",
+      "Goods and Services": "trailer hitches for vehicles"
+    },
+    {
+      "No.": "120018",
+      "Goods and Services": "motor buses"
+    },
+    {
+      "No.": "120019",
+      "Goods and Services": "motor coaches"
+    },
+    {
+      "No.": "120021",
+      "Goods and Services": "boats*"
+    },
+    {
+      "No.": "120022",
+      "Goods and Services": "lorries / trucks"
+    },
+    {
+      "No.": "120025",
+      "Goods and Services": "automobile chassis"
+    },
+    {
+      "No.": "120026",
+      "Goods and Services": "reversing alarms for vehicles"
+    },
+    {
+      "No.": "120027",
+      "Goods and Services": "aeroplanes"
+    },
+    {
+      "No.": "120028",
+      "Goods and Services": "ferry boats"
+    },
+    {
+      "No.": "120029",
+      "Goods and Services": "luggage carriers for vehicles"
+    },
+    {
+      "No.": "120030",
+      "Goods and Services": "airships / dirigible balloons"
+    },
+    {
+      "No.": "120031",
+      "Goods and Services": "tyres for vehicle wheels / tires for vehicle wheels"
+    },
+    {
+      "No.": "120032",
+      "Goods and Services": "valves for vehicle tyres / valves for vehicle tires"
+    },
+    {
+      "No.": "120033",
+      "Goods and Services": "flanges for railway wheel tyres / flanges for railway wheel tires"
+    },
+    {
+      "No.": "120034",
+      "Goods and Services": "torsion bars for vehicles"
+    },
+    {
+      "No.": "120035",
+      "Goods and Services": "ship hulls"
+    },
+    {
+      "No.": "120036",
+      "Goods and Services": "boat hooks"
+    },
+    {
+      "No.": "120037",
+      "Goods and Services": "steering gears for ships"
+    },
+    {
+      "No.": "120038",
+      "Goods and Services": "disengaging gear for boats"
+    },
+    {
+      "No.": "120039",
+      "Goods and Services": "inclined ways for boats"
+    },
+    {
+      "No.": "120040",
+      "Goods and Services": "screw-propellers for boats"
+    },
+    {
+      "No.": "120041",
+      "Goods and Services": "oars"
+    },
+    {
+      "No.": "120042",
+      "Goods and Services": "tipping bodies for lorries / tipping bodies for trucks"
+    },
+    {
+      "No.": "120043",
+      "Goods and Services": "mine cart wheels"
+    },
+    {
+      "No.": "120044",
+      "Goods and Services": "bicycles*"
+    },
+    {
+      "No.": "120046",
+      "Goods and Services": "bicycle kickstands"
+    },
+    {
+      "No.": "120047",
+      "Goods and Services": "bogies for railway cars"
+    },
+    {
+      "No.": "120048",
+      "Goods and Services": "davits for boats"
+    },
+    {
+      "No.": "120049",
+      "Goods and Services": "mudguards"
+    },
+    {
+      "No.": "120050",
+      "Goods and Services": "two-wheeled trolleys / luggage trucks / sack-barrows"
+    },
+    {
+      "No.": "120051",
+      "Goods and Services": "cars for cable transport installations"
+    },
+    {
+      "No.": "120052",
+      "Goods and Services": "caissons [vehicles]"
+    },
+    {
+      "No.": "120053",
+      "Goods and Services": "vehicle wheels"
+    },
+    {
+      "No.": "120054",
+      "Goods and Services": "hoods for vehicle engines / bonnets for vehicle engines"
+    },
+    {
+      "No.": "120055",
+      "Goods and Services": "hoods [folding roofs] for vehicles / tops [folding roofs] for vehicles"
+    },
+    {
+      "No.": "120056",
+      "Goods and Services": "caravans"
+    },
+    {
+      "No.": "120057",
+      "Goods and Services": "trailers [vehicles]"
+    },
+    {
+      "No.": "120058",
+      "Goods and Services": "crankcases for land vehicle components, other than for engines"
+    },
+    {
+      "No.": "120059",
+      "Goods and Services": "safety belts for vehicle seats"
+    },
+    {
+      "No.": "120060",
+      "Goods and Services": "hubs for vehicle wheels / vehicle wheel hubs"
+    },
+    {
+      "No.": "120061",
+      "Goods and Services": "bicycle chains"
+    },
+    {
+      "No.": "120062",
+      "Goods and Services": "wheelchairs"
+    },
+    {
+      "No.": "120063",
+      "Goods and Services": "barges"
+    },
+    {
+      "No.": "120064",
+      "Goods and Services": "launches"
+    },
+    {
+      "No.": "120065",
+      "Goods and Services": "handling carts"
+    },
+    {
+      "No.": "120066",
+      "Goods and Services": "hose carts"
+    },
+    {
+      "No.": "120067",
+      "Goods and Services": "casting carriages / casting cars / ladle carriages / ladle cars"
+    },
+    {
+      "No.": "120068",
+      "Goods and Services": "golf carts [vehicles] / golf cars [vehicles]"
+    },
+    {
+      "No.": "120069",
+      "Goods and Services": "vehicle chassis"
+    },
+    {
+      "No.": "120070",
+      "Goods and Services": "rudders"
+    },
+    {
+      "No.": "120071",
+      "Goods and Services": "rolling stock for funicular railways"
+    },
+    {
+      "No.": "120072",
+      "Goods and Services": "rolling stock for railways"
+    },
+    {
+      "No.": "120073",
+      "Goods and Services": "funnels for ships"
+    },
+    {
+      "No.": "120074",
+      "Goods and Services": "treads for vehicles [tractor type] / treads for vehicles [roller belts]"
+    },
+    {
+      "No.": "120075",
+      "Goods and Services": "tractors"
+    },
+    {
+      "No.": "120076",
+      "Goods and Services": "mine cars"
+    },
+    {
+      "No.": "120077",
+      "Goods and Services": "vehicle bumpers"
+    },
+    {
+      "No.": "120078",
+      "Goods and Services": "buffers for railway rolling stock"
+    },
+    {
+      "No.": "120079",
+      "Goods and Services": "hydraulic circuits for vehicles"
+    },
+    {
+      "No.": "120080",
+      "Goods and Services": "bicycle handlebars"
+    },
+    {
+      "No.": "120081",
+      "Goods and Services": "sleeping berths for vehicles"
+    },
+    {
+      "No.": "120082",
+      "Goods and Services": "timbers [frames] for ships"
+    },
+    {
+      "No.": "120084",
+      "Goods and Services": "bicycle tyres / bicycle tires"
+    },
+    {
+      "No.": "120085",
+      "Goods and Services": "gears for bicycles"
+    },
+    {
+      "No.": "120086",
+      "Goods and Services": "bicycle brakes"
+    },
+    {
+      "No.": "120087",
+      "Goods and Services": "bicycle mudguards"
+    },
+    {
+      "No.": "120088",
+      "Goods and Services": "rims for bicycle wheels / bicycle wheel rims"
+    },
+    {
+      "No.": "120089",
+      "Goods and Services": "bicycle cranks"
+    },
+    {
+      "No.": "120090",
+      "Goods and Services": "bicycle motors"
+    },
+    {
+      "No.": "120091",
+      "Goods and Services": "hubs for bicycle wheels / bicycle wheel hubs"
+    },
+    {
+      "No.": "120092",
+      "Goods and Services": "bicycle pedals"
+    },
+    {
+      "No.": "120093",
+      "Goods and Services": "pumps for bicycle tyres / pumps for bicycle tires"
+    },
+    {
+      "No.": "120094",
+      "Goods and Services": "spokes for bicycle wheels / bicycle wheel spokes"
+    },
+    {
+      "No.": "120095",
+      "Goods and Services": "bicycle wheels"
+    },
+    {
+      "No.": "120096",
+      "Goods and Services": "bicycle saddles"
+    },
+    {
+      "No.": "120097",
+      "Goods and Services": "motorcycle kickstands"
+    },
+    {
+      "No.": "120103",
+      "Goods and Services": "gearing for land vehicles"
+    },
+    {
+      "No.": "120105",
+      "Goods and Services": "dredgers [boats]"
+    },
+    {
+      "No.": "120106",
+      "Goods and Services": "handcars"
+    },
+    {
+      "No.": "120109",
+      "Goods and Services": "motors, electric, for land vehicles"
+    },
+    {
+      "No.": "120110",
+      "Goods and Services": "electric vehicles"
+    },
+    {
+      "No.": "120111",
+      "Goods and Services": "clutches for land vehicles"
+    },
+    {
+      "No.": "120112",
+      "Goods and Services": "safety seats for children, for vehicles"
+    },
+    {
+      "No.": "120113",
+      "Goods and Services": "parachutes"
+    },
+    {
+      "No.": "120114",
+      "Goods and Services": "casings for pneumatic tyres / casings for pneumatic tires"
+    },
+    {
+      "No.": "120116",
+      "Goods and Services": "balance weights for vehicle wheels"
+    },
+    {
+      "No.": "120117",
+      "Goods and Services": "space vehicles"
+    },
+    {
+      "No.": "120118",
+      "Goods and Services": "spars for ships"
+    },
+    {
+      "No.": "120119",
+      "Goods and Services": "axles for vehicles"
+    },
+    {
+      "No.": "120120",
+      "Goods and Services": "axle journals"
+    },
+    {
+      "No.": "120121",
+      "Goods and Services": "windshield wipers / windscreen wipers"
+    },
+    {
+      "No.": "120122",
+      "Goods and Services": "dress guards for bicycles"
+    },
+    {
+      "No.": "120123",
+      "Goods and Services": "luggage nets for vehicles"
+    },
+    {
+      "No.": "120124",
+      "Goods and Services": "hub caps"
+    },
+    {
+      "No.": "120125",
+      "Goods and Services": "vans [vehicles]"
+    },
+    {
+      "No.": "120126",
+      "Goods and Services": "brakes for vehicles"
+    },
+    {
+      "No.": "120127",
+      "Goods and Services": "bands for wheel hubs"
+    },
+    {
+      "No.": "120128",
+      "Goods and Services": "refrigerated vehicles"
+    },
+    {
+      "No.": "120129",
+      "Goods and Services": "refrigerated railway wagons"
+    },
+    {
+      "No.": "120130",
+      "Goods and Services": "engines for land vehicles / motors for land vehicles"
+    },
+    {
+      "No.": "120131",
+      "Goods and Services": "sculls / stern oars"
+    },
+    {
+      "No.": "120132",
+      "Goods and Services": "seat covers for vehicles"
+    },
+    {
+      "No.": "120133",
+      "Goods and Services": "portholes"
+    },
+    {
+      "No.": "120134",
+      "Goods and Services": "seaplanes"
+    },
+    {
+      "No.": "120135",
+      "Goods and Services": "hydroplanes"
+    },
+    {
+      "No.": "120136",
+      "Goods and Services": "sleeping cars"
+    },
+    {
+      "No.": "120138",
+      "Goods and Services": "locomotives"
+    },
+    {
+      "No.": "120139",
+      "Goods and Services": "driving motors for land vehicles"
+    },
+    {
+      "No.": "120140",
+      "Goods and Services": "railway carriages"
+    },
+    {
+      "No.": "120141",
+      "Goods and Services": "vehicle running boards"
+    },
+    {
+      "No.": "120142",
+      "Goods and Services": "transmission mechanisms for land vehicles"
+    },
+    {
+      "No.": "120143",
+      "Goods and Services": "propulsion mechanisms for land vehicles"
+    },
+    {
+      "No.": "120144",
+      "Goods and Services": "military vehicles for transport"
+    },
+    {
+      "No.": "120145",
+      "Goods and Services": "jet engines for land vehicles"
+    },
+    {
+      "No.": "120147",
+      "Goods and Services": "motorcycles"
+    },
+    {
+      "No.": "120148",
+      "Goods and Services": "freewheels for land vehicles"
+    },
+    {
+      "No.": "120149",
+      "Goods and Services": "water vehicles"
+    },
+    {
+      "No.": "120150",
+      "Goods and Services": "ships"
+    },
+    {
+      "No.": "120151",
+      "Goods and Services": "screws [propellers] for ships"
+    },
+    {
+      "No.": "120153",
+      "Goods and Services": "paddles for canoes"
+    },
+    {
+      "No.": "120154",
+      "Goods and Services": "windscreens / windshields"
+    },
+    {
+      "No.": "120155",
+      "Goods and Services": "spikes for tyres / spikes for tires / studs for tyres / studs for tires"
+    },
+    {
+      "No.": "120156",
+      "Goods and Services": "treads for retreading tyres / treads for retreading tires"
+    },
+    {
+      "No.": "120157",
+      "Goods and Services": "pneumatic tyres / pneumatic tires"
+    },
+    {
+      "No.": "120159",
+      "Goods and Services": "pontoons"
+    },
+    {
+      "No.": "120160",
+      "Goods and Services": "doors for vehicles"
+    },
+    {
+      "No.": "120161",
+      "Goods and Services": "ski carriers for cars"
+    },
+    {
+      "No.": "120162",
+      "Goods and Services": "delivery tricycles / carrier tricycles"
+    },
+    {
+      "No.": "120163",
+      "Goods and Services": "pushchairs / strollers"
+    },
+    {
+      "No.": "120164",
+      "Goods and Services": "pushchair covers / stroller covers"
+    },
+    {
+      "No.": "120165",
+      "Goods and Services": "pushchair hoods / stroller hoods"
+    },
+    {
+      "No.": "120166",
+      "Goods and Services": "screw-propellers"
+    },
+    {
+      "No.": "120168",
+      "Goods and Services": "vehicle wheel spokes"
+    },
+    {
+      "No.": "120169",
+      "Goods and Services": "spoke clips for wheels"
+    },
+    {
+      "No.": "120170",
+      "Goods and Services": "ski lifts"
+    },
+    {
+      "No.": "120171",
+      "Goods and Services": "vehicle suspension springs"
+    },
+    {
+      "No.": "120172",
+      "Goods and Services": "dining carriages / dining cars"
+    },
+    {
+      "No.": "120173",
+      "Goods and Services": "rearview mirrors"
+    },
+    {
+      "No.": "120174",
+      "Goods and Services": "rims for vehicle wheels / vehicle wheel rims"
+    },
+    {
+      "No.": "120175",
+      "Goods and Services": "motorcycle saddles"
+    },
+    {
+      "No.": "120176",
+      "Goods and Services": "side cars"
+    },
+    {
+      "No.": "120177",
+      "Goods and Services": "vehicle seats"
+    },
+    {
+      "No.": "120178",
+      "Goods and Services": "sports cars"
+    },
+    {
+      "No.": "120179",
+      "Goods and Services": "cleats [nautical]"
+    },
+    {
+      "No.": "120180",
+      "Goods and Services": "chairlifts"
+    },
+    {
+      "No.": "120182",
+      "Goods and Services": "rowlocks / oarlocks"
+    },
+    {
+      "No.": "120183",
+      "Goods and Services": "tilting-carts"
+    },
+    {
+      "No.": "120184",
+      "Goods and Services": "aircraft"
+    },
+    {
+      "No.": "120185",
+      "Goods and Services": "undercarriages for vehicles"
+    },
+    {
+      "No.": "120186",
+      "Goods and Services": "sleighs [vehicles]"
+    },
+    {
+      "No.": "120187",
+      "Goods and Services": "tramcars"
+    },
+    {
+      "No.": "120188",
+      "Goods and Services": "cable transport apparatus and installations"
+    },
+    {
+      "No.": "120189",
+      "Goods and Services": "funiculars"
+    },
+    {
+      "No.": "120190",
+      "Goods and Services": "telpher railways [cable cars] / cable cars"
+    },
+    {
+      "No.": "120191",
+      "Goods and Services": "tricycles"
+    },
+    {
+      "No.": "120192",
+      "Goods and Services": "turbines for land vehicles"
+    },
+    {
+      "No.": "120193",
+      "Goods and Services": "vehicles for locomotion by land, air, water or rail"
+    },
+    {
+      "No.": "120194",
+      "Goods and Services": "adhesive rubber patches for repairing inner tubes"
+    },
+    {
+      "No.": "120195",
+      "Goods and Services": "upholstery for vehicles"
+    },
+    {
+      "No.": "120196",
+      "Goods and Services": "mopeds"
+    },
+    {
+      "No.": "120198",
+      "Goods and Services": "windows for vehicles"
+    },
+    {
+      "No.": "120199",
+      "Goods and Services": "cars / motor cars / automobiles"
+    },
+    {
+      "No.": "120200",
+      "Goods and Services": "anti-theft devices for vehicles"
+    },
+    {
+      "No.": "120201",
+      "Goods and Services": "tipping apparatus [parts of railway wagons]"
+    },
+    {
+      "No.": "120202",
+      "Goods and Services": "yachts"
+    },
+    {
+      "No.": "120203",
+      "Goods and Services": "aeronautical apparatus, machines and appliances"
+    },
+    {
+      "No.": "120204",
+      "Goods and Services": "anti-glare devices for vehicles* / anti-dazzle devices for vehicles*"
+    },
+    {
+      "No.": "120206",
+      "Goods and Services": "automobile tyres / automobile tires"
+    },
+    {
+      "No.": "120207",
+      "Goods and Services": "automobile bodies"
+    },
+    {
+      "No.": "120209",
+      "Goods and Services": "bumpers for automobiles"
+    },
+    {
+      "No.": "120210",
+      "Goods and Services": "shock absorbers for automobiles"
+    },
+    {
+      "No.": "120211",
+      "Goods and Services": "anti-theft alarms for vehicles"
+    },
+    {
+      "No.": "120212",
+      "Goods and Services": "horns for vehicles"
+    },
+    {
+      "No.": "120213",
+      "Goods and Services": "concrete mixing vehicles"
+    },
+    {
+      "No.": "120214",
+      "Goods and Services": "inner tubes for bicycle tyres / inner tubes for bicycle tires"
+    },
+    {
+      "No.": "120215",
+      "Goods and Services": "brake linings for vehicles"
+    },
+    {
+      "No.": "120216",
+      "Goods and Services": "brake shoes for vehicles"
+    },
+    {
+      "No.": "120217",
+      "Goods and Services": "gear boxes for land vehicles"
+    },
+    {
+      "No.": "120218",
+      "Goods and Services": "wheelbarrows"
+    },
+    {
+      "No.": "120219",
+      "Goods and Services": "carts*"
+    },
+    {
+      "No.": "120221",
+      "Goods and Services": "bicycle frames"
+    },
+    {
+      "No.": "120222",
+      "Goods and Services": "bodies for vehicles"
+    },
+    {
+      "No.": "120223",
+      "Goods and Services": "ejector seats for aircraft"
+    },
+    {
+      "No.": "120224",
+      "Goods and Services": "vehicle covers [shaped]"
+    },
+    {
+      "No.": "120225",
+      "Goods and Services": "drive chains for land vehicles"
+    },
+    {
+      "No.": "120226",
+      "Goods and Services": "transmission chains for land vehicles"
+    },
+    {
+      "No.": "120227",
+      "Goods and Services": "torque converters for land vehicles"
+    },
+    {
+      "No.": "120228",
+      "Goods and Services": "signal arms for vehicles"
+    },
+    {
+      "No.": "120229",
+      "Goods and Services": "funnels for locomotives"
+    },
+    {
+      "No.": "120230",
+      "Goods and Services": "steering wheels for vehicles"
+    },
+    {
+      "No.": "120232",
+      "Goods and Services": "saddle covers for bicycles"
+    },
+    {
+      "No.": "120233",
+      "Goods and Services": "ambulances"
+    },
+    {
+      "No.": "120234",
+      "Goods and Services": "tubeless tyres for bicycles / tubeless tires for bicycles"
+    },
+    {
+      "No.": "120235",
+      "Goods and Services": "reduction gears for land vehicles"
+    },
+    {
+      "No.": "120236",
+      "Goods and Services": "brake segments for vehicles"
+    },
+    {
+      "No.": "120237",
+      "Goods and Services": "air cushion vehicles"
+    },
+    {
+      "No.": "120241",
+      "Goods and Services": "caps for vehicle fuel tanks"
+    },
+    {
+      "No.": "120242",
+      "Goods and Services": "connecting rods for land vehicles, other than parts of motors and engines"
+    },
+    {
+      "No.": "120243",
+      "Goods and Services": "tailboard lifts [parts of land vehicles] / elevating tailgates [parts of land vehicles] / power tailgates [parts of land vehicles]"
+    },
+    {
+      "No.": "120244",
+      "Goods and Services": "security harness for vehicle seats"
+    },
+    {
+      "No.": "120245",
+      "Goods and Services": "sun-blinds adapted for automobiles"
+    },
+    {
+      "No.": "120246",
+      "Goods and Services": "transmission shafts for land vehicles"
+    },
+    {
+      "No.": "120247",
+      "Goods and Services": "air bags [safety devices for automobiles]"
+    },
+    {
+      "No.": "120248",
+      "Goods and Services": "baskets adapted for bicycles"
+    },
+    {
+      "No.": "120249",
+      "Goods and Services": "camping cars / motor homes"
+    },
+    {
+      "No.": "120250",
+      "Goods and Services": "casters for trolleys [vehicles] / casters for carts [vehicles]"
+    },
+    {
+      "No.": "120251",
+      "Goods and Services": "cleaning trolleys"
+    },
+    {
+      "No.": "120252",
+      "Goods and Services": "fenders for ships"
+    },
+    {
+      "No.": "120253",
+      "Goods and Services": "kick sledges"
+    },
+    {
+      "No.": "120254",
+      "Goods and Services": "panniers adapted for bicycles"
+    },
+    {
+      "No.": "120255",
+      "Goods and Services": "shopping trolleys / shopping carts"
+    },
+    {
+      "No.": "120256",
+      "Goods and Services": "snowmobiles"
+    },
+    {
+      "No.": "120257",
+      "Goods and Services": "remote control vehicles, other than toys"
+    },
+    {
+      "No.": "120258",
+      "Goods and Services": "push scooters [vehicles]"
+    },
+    {
+      "No.": "120259",
+      "Goods and Services": "masts for boats"
+    },
+    {
+      "No.": "120260",
+      "Goods and Services": "covers for vehicle steering wheels"
+    },
+    {
+      "No.": "120261",
+      "Goods and Services": "spoilers for vehicles"
+    },
+    {
+      "No.": "120262",
+      "Goods and Services": "headlight wipers"
+    },
+    {
+      "No.": "120263",
+      "Goods and Services": "brake pads for automobiles"
+    },
+    {
+      "No.": "120264",
+      "Goods and Services": "spare wheel covers / spare tire covers / spare tyre covers"
+    },
+    {
+      "No.": "120265",
+      "Goods and Services": "tilt trucks"
+    },
+    {
+      "No.": "120266",
+      "Goods and Services": "cigar lighters for automobiles"
+    },
+    {
+      "No.": "120267",
+      "Goods and Services": "brake discs for vehicles"
+    },
+    {
+      "No.": "120268",
+      "Goods and Services": "saddlebags adapted for bicycles"
+    },
+    {
+      "No.": "120269",
+      "Goods and Services": "bicycle bells"
+    },
+    {
+      "No.": "120271",
+      "Goods and Services": "armoured vehicles / armored vehicles"
+    },
+    {
+      "No.": "120272",
+      "Goods and Services": "engine mounts for land vehicles"
+    },
+    {
+      "No.": "120273",
+      "Goods and Services": "military drones"
+    },
+    {
+      "No.": "120274",
+      "Goods and Services": "canoes"
+    },
+    {
+      "No.": "120275",
+      "Goods and Services": "civilian drones"
+    },
+    {
+      "No.": "120276",
+      "Goods and Services": "side view mirrors for vehicles"
+    },
+    {
+      "No.": "120277",
+      "Goods and Services": "fitted pushchair mosquito nets / fitted stroller mosquito nets"
+    },
+    {
+      "No.": "120278",
+      "Goods and Services": "vehicle joysticks"
+    },
+    {
+      "No.": "120279",
+      "Goods and Services": "autonomous cars / self-driving cars"
+    },
+    {
+      "No.": "120280",
+      "Goods and Services": "motor scooters"
+    },
+    {
+      "No.": "120281",
+      "Goods and Services": "mobility scooters"
+    },
+    {
+      "No.": "120282",
+      "Goods and Services": "ashtrays for automobiles"
+    },
+    {
+      "No.": "120283",
+      "Goods and Services": "motorcycle chains"
+    },
+    {
+      "No.": "120284",
+      "Goods and Services": "motorcycle frames"
+    },
+    {
+      "No.": "120285",
+      "Goods and Services": "motorcycle handlebars"
+    },
+    {
+      "No.": "120286",
+      "Goods and Services": "motorcycle engines"
+    },
+    {
+      "No.": "120287",
+      "Goods and Services": "panniers adapted for motorcycles"
+    },
+    {
+      "No.": "120288",
+      "Goods and Services": "solid tyres for vehicle wheels / solid tires for vehicle wheels"
+    },
+    {
+      "No.": "120289",
+      "Goods and Services": "prams / baby carriages"
+    },
+    {
+      "No.": "120290",
+      "Goods and Services": "fitted footmuffs for prams / fitted footmuffs for baby carriages"
+    },
+    {
+      "No.": "120291",
+      "Goods and Services": "fitted footmuffs for pushchairs / fitted footmuffs for strollers"
+    },
+    {
+      "No.": "120292",
+      "Goods and Services": "tyre mousse inserts / tire mousse inserts"
+    },
+    {
+      "No.": "120293",
+      "Goods and Services": "bags adapted for pushchairs / bags adapted for strollers"
+    },
+    {
+      "No.": "120294",
+      "Goods and Services": "remotely operated vehicles for underwater inspections"
+    },
+    {
+      "No.": "120295",
+      "Goods and Services": "autonomous underwater vehicles for seabed inspections"
+    },
+    {
+      "No.": "120296",
+      "Goods and Services": "bellows for articulated buses"
+    },
+    {
+      "No.": "120297",
+      "Goods and Services": "electric bicycles"
+    },
+    {
+      "No.": "120298",
+      "Goods and Services": "saddle covers for motorcycles"
+    },
+    {
+      "No.": "120299",
+      "Goods and Services": "motor racing cars"
+    },
+    {
+      "No.": "120300",
+      "Goods and Services": "robotic cars"
+    },
+    {
+      "No.": "120301",
+      "Goods and Services": "camera drones / photography drones"
+    },
+    {
+      "No.": "120302",
+      "Goods and Services": "fishing trolleys"
+    },
+    {
+      "No.": "120303",
+      "Goods and Services": "roll cage trolleys"
+    },
+    {
+      "No.": "120304",
+      "Goods and Services": "lug nuts for vehicle wheels"
+    },
+    {
+      "No.": "120305",
+      "Goods and Services": "clips adapted for fastening automobile parts to automobile bodies"
+    },
+    {
+      "No.": "120306",
+      "Goods and Services": "rescue sleds"
+    },
+    {
+      "No.": "120307",
+      "Goods and Services": "tow trucks / wreckers for transport"
+    },
+    {
+      "No.": "120308",
+      "Goods and Services": "rubbish trucks / garbage trucks"
+    },
+    {
+      "No.": "120309",
+      "Goods and Services": "trailers for transporting bicycles"
+    },
+    {
+      "No.": "120310",
+      "Goods and Services": "bicycle trailers"
+    },
+    {
+      "No.": "120311",
+      "Goods and Services": "pet strollers"
+    },
+    {
+      "No.": "120312",
+      "Goods and Services": "trucks incorporating a crane"
+    },
+    {
+      "No.": "120313",
+      "Goods and Services": "delivery drones"
+    },
+    {
+      "No.": "120314",
+      "Goods and Services": "helicams"
+    },
+    {
+      "No.": "120315",
+      "Goods and Services": "gyrocopters"
+    },
+    {
+      "No.": "120316",
+      "Goods and Services": "helicopters"
+    },
+    {
+      "No.": "120317",
+      "Goods and Services": "self-balancing scooters"
+    },
+    {
+      "No.": "120318",
+      "Goods and Services": "self-balancing boards"
+    },
+    {
+      "No.": "120319",
+      "Goods and Services": "self-balancing electric unicycles"
+    },
+    {
+      "No.": "120320",
+      "Goods and Services": "vehicle bonnet pins / vehicle hood pins"
+    },
+    {
+      "No.": "120321",
+      "Goods and Services": "tyres for snow ploughs / tires for snow ploughs"
+    },
+    {
+      "No.": "120322",
+      "Goods and Services": "diving bells"
+    },
+    {
+      "No.": "120323",
+      "Goods and Services": "cup holders for vehicles"
+    },
+    {
+      "No.": "120324",
+      "Goods and Services": "trolleys*"
+    },
+    {
+      "No.": "120325",
+      "Goods and Services": "horse-drawn carriages"
+    },
+    {
+      "No.": "120326",
+      "Goods and Services": "amphibious vehicles"
+    },
+    {
+      "No.": "120327",
+      "Goods and Services": "all-terrain vehicles"
+    },
+    {
+      "No.": "120328",
+      "Goods and Services": "hydrogen-fueled cars"
+    },
+    {
+      "No.": "120329",
+      "Goods and Services": "water scooters [personal watercraft]"
+    },
+    {
+      "No.": "120330",
+      "Goods and Services": "surveillance towers specially adapted for vehicles"
+    },
+    {
+      "No.": "120331",
+      "Goods and Services": "pulks for transportation"
+    },
+    {
+      "No.": "120332",
+      "Goods and Services": "rescue boats"
+    },
+    {
+      "No.": "120333",
+      "Goods and Services": "snow-going vehicles"
+    },
+    {
+      "No.": "120334",
+      "Goods and Services": "fitted dashboard covers for vehicles"
+    },
+    {
+      "No.": "120335",
+      "Goods and Services": "self-driving robots for delivery"
+    },
+    {
+      "No.": "120336",
+      "Goods and Services": "pneumatic or hydraulic linear actuators for land vehicles"
+    },
+    {
+      "No.": "120337",
+      "Goods and Services": "straddle carriers"
+    },
+    {
+      "No.": "120338",
+      "Goods and Services": "swamp-going vehicles"
+    },
+    {
+      "No.": "120339",
+      "Goods and Services": "motorized skateboards"
+    },
+    {
+      "No.": "120340",
+      "Goods and Services": "bearings [parts of vehicles]"
+    },
+    {
+      "No.": "120341",
+      "Goods and Services": "fuel tanks for vehicles"
+    },
+    {
+      "No.": "120342",
+      "Goods and Services": "autonomous land vehicles"
+    },
+    {
+      "No.": "120343",
+      "Goods and Services": "battleships"
+    },
+    {
+      "No.": "120344",
+      "Goods and Services": "aircraft carriers"
+    },
+    {
+      "No.": "120345",
+      "Goods and Services": "horse trailers"
+    },
+    {
+      "No.": "120346",
+      "Goods and Services": "kickbikes"
+    },
+    {
+      "No.": "120347",
+      "Goods and Services": "horse vans"
+    },
+    {
+      "No.": "120348",
+      "Goods and Services": "kayaks"
+    },
+    {
+      "No.": "120349",
+      "Goods and Services": "aerial ropeways for handling loads"
+    }
+  ]
+}

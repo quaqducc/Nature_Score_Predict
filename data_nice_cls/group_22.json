@@ -1,0 +1,456 @@
+{
+  "group_number": "22",
+  "meta": {
+    "Goods and Services": "Class Heading Ropes and string; nets; tents and tarpaulins; awnings of textile or synthetic materials; sails; sacks for the transport and storage of materials in bulk; padding, cushioning and stuffing materials, except of paper, cardboard, rubber or plastics; raw fibrous textile materials and substitutes therefor Explanatory Note Class 22 includes mainly canvas and other materials for making sails, rope, padding, cushioning and stuffing materials and raw fibrous textile materials. This Class includes, in particular: • cords and twines made of natural or artificial textile fibres, paper or plastics • commercial fishing nets, hammocks, rope ladders • vehicle covers, not fitted • certain sacks and bags not otherwise classified by function or purpose, for example, mesh bags for washing laundry, body bags, mail bags • packaging bags of textile • animal fibres and raw textile fibres, for example, animal hair, cocoons, jute, raw or treated wool, raw silk This Class does not include, in particular: • metal ropes (Cl. 6) • strings for musical instruments (Cl. 15) and for sports rackets (Cl. 28) • padding and stuffing materials of paper or cardboard (Cl. 16), rubber or plastics (Cl. 17) • certain nets and bags that are classified according to their function or purpose, for example, safety nets (Cl. 9), luggage nets for vehicles (Cl. 12), garment bags for travel (Cl. 18), hair nets (Cl. 26), golf bags (Cl. 28), nets for sports (Cl. 28) • packaging bags, not of textile, which are classified according to the material of which they are made, for example, packaging bags of paper or plastics (Cl. 16), of rubber (Cl. 17), of leather (Cl. 18)"
+  },
+  "items": [
+    {
+      "No.": "220001",
+      "Goods and Services": "brattice cloth"
+    },
+    {
+      "No.": "220002",
+      "Goods and Services": "tarpaulins*"
+    },
+    {
+      "No.": "220003",
+      "Goods and Services": "strips for tying-up vines"
+    },
+    {
+      "No.": "220004",
+      "Goods and Services": "wood shavings for stuffing"
+    },
+    {
+      "No.": "220005",
+      "Goods and Services": "wood wool"
+    },
+    {
+      "No.": "220006",
+      "Goods and Services": "sawdust"
+    },
+    {
+      "No.": "220007",
+      "Goods and Services": "flock [stuffing]"
+    },
+    {
+      "No.": "220008",
+      "Goods and Services": "raw silk"
+    },
+    {
+      "No.": "220009",
+      "Goods and Services": "nets for camouflage"
+    },
+    {
+      "No.": "220010",
+      "Goods and Services": "raw fibrous textile"
+    },
+    {
+      "No.": "220011",
+      "Goods and Services": "commercial fishing nets"
+    },
+    {
+      "No.": "220012",
+      "Goods and Services": "camel hair"
+    },
+    {
+      "No.": "220013",
+      "Goods and Services": "hemp fibres / hemp fibers"
+    },
+    {
+      "No.": "220014",
+      "Goods and Services": "tow"
+    },
+    {
+      "No.": "220015",
+      "Goods and Services": "hemp bands"
+    },
+    {
+      "No.": "220016",
+      "Goods and Services": "schappe [raw silk waste] / silk waste"
+    },
+    {
+      "No.": "220018",
+      "Goods and Services": "coconut fibre / coconut fiber"
+    },
+    {
+      "No.": "220019",
+      "Goods and Services": "cocoons"
+    },
+    {
+      "No.": "220020",
+      "Goods and Services": "ropes, not of metal"
+    },
+    {
+      "No.": "220021",
+      "Goods and Services": "ropes*"
+    },
+    {
+      "No.": "220022",
+      "Goods and Services": "whipcord"
+    },
+    {
+      "No.": "220023",
+      "Goods and Services": "rope ladders"
+    },
+    {
+      "No.": "220025",
+      "Goods and Services": "raw cotton"
+    },
+    {
+      "No.": "220026",
+      "Goods and Services": "cotton tow"
+    },
+    {
+      "No.": "220027",
+      "Goods and Services": "horsehair*"
+    },
+    {
+      "No.": "220028",
+      "Goods and Services": "down [feathers]"
+    },
+    {
+      "No.": "220029",
+      "Goods and Services": "eiderdown"
+    },
+    {
+      "No.": "220030",
+      "Goods and Services": "padding materials, not of rubber, plastics, paper or cardboard / stuffing, not of rubber, plastics, paper or cardboard"
+    },
+    {
+      "No.": "220031",
+      "Goods and Services": "packing [cushioning, stuffing] materials, not of rubber, plastics, paper or cardboard"
+    },
+    {
+      "No.": "220032",
+      "Goods and Services": "packing string"
+    },
+    {
+      "No.": "220033",
+      "Goods and Services": "upholstery wool [stuffing]"
+    },
+    {
+      "No.": "220035",
+      "Goods and Services": "string"
+    },
+    {
+      "No.": "220036",
+      "Goods and Services": "sail gaskets"
+    },
+    {
+      "No.": "220037",
+      "Goods and Services": "vitreous silica fibres for textile use / vitreous silica fibers for textile use"
+    },
+    {
+      "No.": "220038",
+      "Goods and Services": "twine made of paper"
+    },
+    {
+      "No.": "220039",
+      "Goods and Services": "twine for nets"
+    },
+    {
+      "No.": "220040",
+      "Goods and Services": "silk flock"
+    },
+    {
+      "No.": "220041",
+      "Goods and Services": "wool flock"
+    },
+    {
+      "No.": "220042",
+      "Goods and Services": "sheaf-binding yarns"
+    },
+    {
+      "No.": "220043",
+      "Goods and Services": "hammocks"
+    },
+    {
+      "No.": "220044",
+      "Goods and Services": "grasses for upholstering"
+    },
+    {
+      "No.": "220045",
+      "Goods and Services": "ladder tapes for jalousies / webbing for jalousies"
+    },
+    {
+      "No.": "220046",
+      "Goods and Services": "jute"
+    },
+    {
+      "No.": "220047",
+      "Goods and Services": "kapok"
+    },
+    {
+      "No.": "220048",
+      "Goods and Services": "snares [nets]"
+    },
+    {
+      "No.": "220050",
+      "Goods and Services": "raw or treated wool"
+    },
+    {
+      "No.": "220051",
+      "Goods and Services": "carded wool"
+    },
+    {
+      "No.": "220052",
+      "Goods and Services": "combed wool"
+    },
+    {
+      "No.": "220054",
+      "Goods and Services": "liber"
+    },
+    {
+      "No.": "220055",
+      "Goods and Services": "wax ends"
+    },
+    {
+      "No.": "220056",
+      "Goods and Services": "raw linen [flax]"
+    },
+    {
+      "No.": "220057",
+      "Goods and Services": "feathers for bedding"
+    },
+    {
+      "No.": "220058",
+      "Goods and Services": "awnings of textile"
+    },
+    {
+      "No.": "220059",
+      "Goods and Services": "sails"
+    },
+    {
+      "No.": "220060",
+      "Goods and Services": "wadding for filtering"
+    },
+    {
+      "No.": "220061",
+      "Goods and Services": "wadding for padding and stuffing upholstery"
+    },
+    {
+      "No.": "220062",
+      "Goods and Services": "straw for stuffing upholstery"
+    },
+    {
+      "No.": "220064",
+      "Goods and Services": "feathers for stuffing upholstery"
+    },
+    {
+      "No.": "220065",
+      "Goods and Services": "animal hair"
+    },
+    {
+      "No.": "220066",
+      "Goods and Services": "ramie fibre / ramie fiber"
+    },
+    {
+      "No.": "220067",
+      "Goods and Services": "raffia"
+    },
+    {
+      "No.": "220068",
+      "Goods and Services": "sacks for the transport and storage of materials in bulk"
+    },
+    {
+      "No.": "220069",
+      "Goods and Services": "bags [envelopes, pouches] of textile, for packaging"
+    },
+    {
+      "No.": "220070",
+      "Goods and Services": "esparto grass"
+    },
+    {
+      "No.": "220071",
+      "Goods and Services": "tents*"
+    },
+    {
+      "No.": "220072",
+      "Goods and Services": "fleece wool"
+    },
+    {
+      "No.": "220073",
+      "Goods and Services": "shorn wool"
+    },
+    {
+      "No.": "220074",
+      "Goods and Services": "seaweed for stuffing"
+    },
+    {
+      "No.": "220075",
+      "Goods and Services": "vehicle covers, not fitted"
+    },
+    {
+      "No.": "220076",
+      "Goods and Services": "textile fibres / textile fibers"
+    },
+    {
+      "No.": "220077",
+      "Goods and Services": "sisal"
+    },
+    {
+      "No.": "220078",
+      "Goods and Services": "wrapping or binding bands, not of metal"
+    },
+    {
+      "No.": "220079",
+      "Goods and Services": "thread, not of metal, for wrapping or binding"
+    },
+    {
+      "No.": "220080",
+      "Goods and Services": "straw wrappers for bottles / bottle envelopes of straw / packing, of straw, for bottles"
+    },
+    {
+      "No.": "220081",
+      "Goods and Services": "braces, not of metal, for handling loads / harness, not of metal, for handling loads"
+    },
+    {
+      "No.": "220082",
+      "Goods and Services": "straps, not of metal, for handling loads / belts, not of metal, for handling loads"
+    },
+    {
+      "No.": "220083",
+      "Goods and Services": "slings, not of metal, for handling loads"
+    },
+    {
+      "No.": "220084",
+      "Goods and Services": "cables, not of metal"
+    },
+    {
+      "No.": "220085",
+      "Goods and Services": "covers for camouflage"
+    },
+    {
+      "No.": "220086",
+      "Goods and Services": "binding thread, not of metal, for agricultural purposes"
+    },
+    {
+      "No.": "220087",
+      "Goods and Services": "carbon fibres for textile use / carbon fibers for textile use"
+    },
+    {
+      "No.": "220088",
+      "Goods and Services": "sash cords"
+    },
+    {
+      "No.": "220089",
+      "Goods and Services": "cords for hanging pictures"
+    },
+    {
+      "No.": "220090",
+      "Goods and Services": "cotton waste [flock] for padding and stuffing"
+    },
+    {
+      "No.": "220091",
+      "Goods and Services": "packing rope"
+    },
+    {
+      "No.": "220092",
+      "Goods and Services": "plastic fibres for textile use / plastic fibers for textile use"
+    },
+    {
+      "No.": "220093",
+      "Goods and Services": "glass fibres for textile use / glass fibers for textile use"
+    },
+    {
+      "No.": "220094",
+      "Goods and Services": "nets*"
+    },
+    {
+      "No.": "220101",
+      "Goods and Services": "linters"
+    },
+    {
+      "No.": "220102",
+      "Goods and Services": "awnings of synthetic materials"
+    },
+    {
+      "No.": "220103",
+      "Goods and Services": "car towing ropes"
+    },
+    {
+      "No.": "220104",
+      "Goods and Services": "mail bags"
+    },
+    {
+      "No.": "220105",
+      "Goods and Services": "sails for snowkiting / sails for kite skiing"
+    },
+    {
+      "No.": "220106",
+      "Goods and Services": "mesh bags for washing laundry"
+    },
+    {
+      "No.": "220107",
+      "Goods and Services": "body bags"
+    },
+    {
+      "No.": "220108",
+      "Goods and Services": "purse seines"
+    },
+    {
+      "No.": "220109",
+      "Goods and Services": "net pens for fish farming"
+    },
+    {
+      "No.": "220110",
+      "Goods and Services": "canvas for sails"
+    },
+    {
+      "No.": "220111",
+      "Goods and Services": "outdoor blinds of textile"
+    },
+    {
+      "No.": "220112",
+      "Goods and Services": "bindings, not of metal"
+    },
+    {
+      "No.": "220113",
+      "Goods and Services": "animal feeding nets"
+    },
+    {
+      "No.": "220114",
+      "Goods and Services": "pig bristles*"
+    },
+    {
+      "No.": "220115",
+      "Goods and Services": "dust sheets / drop cloths"
+    },
+    {
+      "No.": "220116",
+      "Goods and Services": "cloth bags specially adapted for the storage of diapers"
+    },
+    {
+      "No.": "220117",
+      "Goods and Services": "bivouac sacks being shelters"
+    },
+    {
+      "No.": "220118",
+      "Goods and Services": "laundry bags"
+    },
+    {
+      "No.": "220119",
+      "Goods and Services": "zip ties, not of metal / cable ties, not of metal"
+    },
+    {
+      "No.": "220120",
+      "Goods and Services": "soy foam for padding and stuffing"
+    },
+    {
+      "No.": "220121",
+      "Goods and Services": "netting for protection against birds and insects"
+    },
+    {
+      "No.": "220122",
+      "Goods and Services": "camping swags"
+    },
+    {
+      "No.": "220123",
+      "Goods and Services": "rockfall prevention nets, not of metal"
+    },
+    {
+      "No.": "220124",
+      "Goods and Services": "spun polyester fibre for textile use / spun polyester fiber for textile use"
+    }
+  ]
+}

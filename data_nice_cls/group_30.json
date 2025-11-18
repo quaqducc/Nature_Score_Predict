@@ -1,0 +1,1228 @@
+{
+  "group_number": "30",
+  "meta": {
+    "Goods and Services": "Class Heading Coffee, tea, cocoa and substitutes therefor; rice, pasta and noodles; tapioca and sago; flour and preparations made from cereals; bread, pastries and confectionery; chocolate; ice cream, sorbets and other edible ices; sugar, honey, treacle; yeast, baking-powder; salt, seasonings, spices, preserved herbs; vinegar, sauces and other condiments; ice (frozen water) Explanatory Note Class 30 includes mainly foodstuffs of plant origin, except fruits and vegetables, prepared or preserved for consumption, as well as auxiliaries intended for the improvement of the flavour of food. This Class includes, in particular: • beverages with coffee, cocoa, chocolate or tea base • cereals prepared for human consumption, for example, oat flakes, corn chips, husked barley, bulgur, muesli • pizza, pies, sandwiches • chocolate-coated nuts • flavourings, other than essential oils, for food or beverages This Class does not include, in particular: • salt for industrial purposes (Cl. 1) • food or beverage flavourings being essential oils (Cl. 3) • medicinal teas and dietetic food and substances adapted for medical use (Cl. 5) • baby food (Cl. 5) • dietary supplements (Cl. 5) • yeast for pharmaceutical purposes (Cl. 5), yeast for animal consumption (Cl. 31) • milk beverages flavoured with coffee, cocoa, chocolate or tea (Cl. 29) • soups, bouillon (Cl. 29) • raw cereals (Cl. 31) • fresh herbs (Cl. 31) • foodstuffs for animals (Cl. 31)"
+  },
+  "items": [
+    {
+      "No.": "300002",
+      "Goods and Services": "seaweed [condiment]"
+    },
+    {
+      "No.": "300003",
+      "Goods and Services": "pasta"
+    },
+    {
+      "No.": "300004",
+      "Goods and Services": "almond paste"
+    },
+    {
+      "No.": "300006",
+      "Goods and Services": "aniseed"
+    },
+    {
+      "No.": "300007",
+      "Goods and Services": "star aniseed"
+    },
+    {
+      "No.": "300008",
+      "Goods and Services": "confectionery for decorating Christmas trees"
+    },
+    {
+      "No.": "300009",
+      "Goods and Services": "infusions, not medicinal"
+    },
+    {
+      "No.": "300010",
+      "Goods and Services": "coffee flavourings / coffee flavorings"
+    },
+    {
+      "No.": "300011",
+      "Goods and Services": "aromatic preparations for food"
+    },
+    {
+      "No.": "300012",
+      "Goods and Services": "seasonings"
+    },
+    {
+      "No.": "300013",
+      "Goods and Services": "unleavened bread"
+    },
+    {
+      "No.": "300014",
+      "Goods and Services": "salt for preserving foodstuffs"
+    },
+    {
+      "No.": "300015",
+      "Goods and Services": "rusks"
+    },
+    {
+      "No.": "300016",
+      "Goods and Services": "biscuits* / cookies"
+    },
+    {
+      "No.": "300017",
+      "Goods and Services": "malt biscuits"
+    },
+    {
+      "No.": "300019",
+      "Goods and Services": "peppermint sweets"
+    },
+    {
+      "No.": "300020",
+      "Goods and Services": "sweets / candies"
+    },
+    {
+      "No.": "300022",
+      "Goods and Services": "waffles"
+    },
+    {
+      "No.": "300023",
+      "Goods and Services": "buns"
+    },
+    {
+      "No.": "300024",
+      "Goods and Services": "cocoa"
+    },
+    {
+      "No.": "300026",
+      "Goods and Services": "coffee"
+    },
+    {
+      "No.": "300027",
+      "Goods and Services": "unroasted coffee beans"
+    },
+    {
+      "No.": "300028",
+      "Goods and Services": "vegetal preparations for use as coffee substitutes"
+    },
+    {
+      "No.": "300029",
+      "Goods and Services": "cakes"
+    },
+    {
+      "No.": "300030",
+      "Goods and Services": "cinnamon [spice]"
+    },
+    {
+      "No.": "300031",
+      "Goods and Services": "capers"
+    },
+    {
+      "No.": "300032",
+      "Goods and Services": "caramels [sweets] / caramels [candies]"
+    },
+    {
+      "No.": "300033",
+      "Goods and Services": "curry [spice]"
+    },
+    {
+      "No.": "300034",
+      "Goods and Services": "cereal preparations"
+    },
+    {
+      "No.": "300035",
+      "Goods and Services": "chewing gum*"
+    },
+    {
+      "No.": "300036",
+      "Goods and Services": "chicory [coffee substitute]"
+    },
+    {
+      "No.": "300037",
+      "Goods and Services": "tea*"
+    },
+    {
+      "No.": "300038",
+      "Goods and Services": "chocolate"
+    },
+    {
+      "No.": "300039",
+      "Goods and Services": "marzipan"
+    },
+    {
+      "No.": "300040",
+      "Goods and Services": "cloves [spice]"
+    },
+    {
+      "No.": "300041",
+      "Goods and Services": "condiments"
+    },
+    {
+      "No.": "300042",
+      "Goods and Services": "confectionery / sugar confectionery"
+    },
+    {
+      "No.": "300043",
+      "Goods and Services": "corn flakes / maize flakes"
+    },
+    {
+      "No.": "300044",
+      "Goods and Services": "popcorn"
+    },
+    {
+      "No.": "300045",
+      "Goods and Services": "preparations for stiffening whipped cream"
+    },
+    {
+      "No.": "300046",
+      "Goods and Services": "ice cream"
+    },
+    {
+      "No.": "300047",
+      "Goods and Services": "pancakes"
+    },
+    {
+      "No.": "300048",
+      "Goods and Services": "essences for foodstuffs, except etheric essences and essential oils"
+    },
+    {
+      "No.": "300049",
+      "Goods and Services": "cooking salt"
+    },
+    {
+      "No.": "300050",
+      "Goods and Services": "thickening agents for cooking foodstuffs"
+    },
+    {
+      "No.": "300051",
+      "Goods and Services": "turmeric*"
+    },
+    {
+      "No.": "300053",
+      "Goods and Services": "natural sweeteners"
+    },
+    {
+      "No.": "300054",
+      "Goods and Services": "spices"
+    },
+    {
+      "No.": "300055",
+      "Goods and Services": "gingerbread"
+    },
+    {
+      "No.": "300056",
+      "Goods and Services": "allspice"
+    },
+    {
+      "No.": "300057",
+      "Goods and Services": "flour* / meal*"
+    },
+    {
+      "No.": "300058",
+      "Goods and Services": "bean flour"
+    },
+    {
+      "No.": "300059",
+      "Goods and Services": "corn flour / corn meal / maize flour / maize meal"
+    },
+    {
+      "No.": "300060",
+      "Goods and Services": "mustard meal"
+    },
+    {
+      "No.": "300061",
+      "Goods and Services": "barley meal"
+    },
+    {
+      "No.": "300062",
+      "Goods and Services": "soya flour"
+    },
+    {
+      "No.": "300063",
+      "Goods and Services": "wheat flour"
+    },
+    {
+      "No.": "300065",
+      "Goods and Services": "starch for food"
+    },
+    {
+      "No.": "300066",
+      "Goods and Services": "ferments for dough"
+    },
+    {
+      "No.": "300067",
+      "Goods and Services": "fondants [confectionery]"
+    },
+    {
+      "No.": "300068",
+      "Goods and Services": "petits fours"
+    },
+    {
+      "No.": "300069",
+      "Goods and Services": "sugar*"
+    },
+    {
+      "No.": "300070",
+      "Goods and Services": "flavourings, other than essential oils, for cakes / flavorings, other than essential oils, for cakes"
+    },
+    {
+      "No.": "300071",
+      "Goods and Services": "cake powder"
+    },
+    {
+      "No.": "300072",
+      "Goods and Services": "cake batter / cake dough"
+    },
+    {
+      "No.": "300073",
+      "Goods and Services": "ground ginger"
+    },
+    {
+      "No.": "300074",
+      "Goods and Services": "binding agents for ice cream"
+    },
+    {
+      "No.": "300075",
+      "Goods and Services": "ice, natural or artificial"
+    },
+    {
+      "No.": "300076",
+      "Goods and Services": "ice [frozen water]"
+    },
+    {
+      "No.": "300077",
+      "Goods and Services": "glucose for culinary purposes"
+    },
+    {
+      "No.": "300078",
+      "Goods and Services": "gluten prepared as foodstuff"
+    },
+    {
+      "No.": "300080",
+      "Goods and Services": "groats for human food"
+    },
+    {
+      "No.": "300081",
+      "Goods and Services": "vinegar"
+    },
+    {
+      "No.": "300082",
+      "Goods and Services": "ketchup [sauce]"
+    },
+    {
+      "No.": "300083",
+      "Goods and Services": "cocoa beverages with milk"
+    },
+    {
+      "No.": "300084",
+      "Goods and Services": "coffee beverages with milk"
+    },
+    {
+      "No.": "300085",
+      "Goods and Services": "chocolate beverages with milk"
+    },
+    {
+      "No.": "300086",
+      "Goods and Services": "leaven"
+    },
+    {
+      "No.": "300087",
+      "Goods and Services": "yeast*"
+    },
+    {
+      "No.": "300088",
+      "Goods and Services": "sausage binding materials"
+    },
+    {
+      "No.": "300089",
+      "Goods and Services": "macarons"
+    },
+    {
+      "No.": "300090",
+      "Goods and Services": "macaroni"
+    },
+    {
+      "No.": "300091",
+      "Goods and Services": "corn, milled / maize, milled"
+    },
+    {
+      "No.": "300092",
+      "Goods and Services": "corn, roasted / maize, roasted"
+    },
+    {
+      "No.": "300093",
+      "Goods and Services": "bread*"
+    },
+    {
+      "No.": "300094",
+      "Goods and Services": "maltose"
+    },
+    {
+      "No.": "300095",
+      "Goods and Services": "treacle / molasses for food"
+    },
+    {
+      "No.": "300096",
+      "Goods and Services": "golden syrup"
+    },
+    {
+      "No.": "300097",
+      "Goods and Services": "mint for confectionery"
+    },
+    {
+      "No.": "300098",
+      "Goods and Services": "honey"
+    },
+    {
+      "No.": "300100",
+      "Goods and Services": "husked barley"
+    },
+    {
+      "No.": "300101",
+      "Goods and Services": "mustard"
+    },
+    {
+      "No.": "300102",
+      "Goods and Services": "nutmegs [spice]"
+    },
+    {
+      "No.": "300103",
+      "Goods and Services": "noodles"
+    },
+    {
+      "No.": "300104",
+      "Goods and Services": "pies"
+    },
+    {
+      "No.": "300105",
+      "Goods and Services": "crushed barley"
+    },
+    {
+      "No.": "300106",
+      "Goods and Services": "sandwiches"
+    },
+    {
+      "No.": "300107",
+      "Goods and Services": "lozenges [confectionery] / pastilles [confectionery]"
+    },
+    {
+      "No.": "300108",
+      "Goods and Services": "pastries"
+    },
+    {
+      "No.": "300109",
+      "Goods and Services": "petit-beurre biscuits"
+    },
+    {
+      "No.": "300110",
+      "Goods and Services": "bread rolls"
+    },
+    {
+      "No.": "300111",
+      "Goods and Services": "peppers [seasonings]"
+    },
+    {
+      "No.": "300112",
+      "Goods and Services": "pizzas"
+    },
+    {
+      "No.": "300113",
+      "Goods and Services": "pepper"
+    },
+    {
+      "No.": "300114",
+      "Goods and Services": "potato flour*"
+    },
+    {
+      "No.": "300115",
+      "Goods and Services": "puddings"
+    },
+    {
+      "No.": "300116",
+      "Goods and Services": "pralines"
+    },
+    {
+      "No.": "300117",
+      "Goods and Services": "ravioli"
+    },
+    {
+      "No.": "300118",
+      "Goods and Services": "liquorice [confectionery]"
+    },
+    {
+      "No.": "300119",
+      "Goods and Services": "rice*"
+    },
+    {
+      "No.": "300120",
+      "Goods and Services": "saffron [seasoning]"
+    },
+    {
+      "No.": "300121",
+      "Goods and Services": "sago"
+    },
+    {
+      "No.": "300122",
+      "Goods and Services": "sauces [condiments]"
+    },
+    {
+      "No.": "300123",
+      "Goods and Services": "celery salt"
+    },
+    {
+      "No.": "300124",
+      "Goods and Services": "semolina"
+    },
+    {
+      "No.": "300125",
+      "Goods and Services": "sorbets [ices] / sherbets [ices]"
+    },
+    {
+      "No.": "300126",
+      "Goods and Services": "spaghetti"
+    },
+    {
+      "No.": "300127",
+      "Goods and Services": "tapioca"
+    },
+    {
+      "No.": "300128",
+      "Goods and Services": "tapioca flour*"
+    },
+    {
+      "No.": "300129",
+      "Goods and Services": "tarts"
+    },
+    {
+      "No.": "300130",
+      "Goods and Services": "vanilla flavourings for culinary purposes / vanilla flavorings for culinary purposes"
+    },
+    {
+      "No.": "300131",
+      "Goods and Services": "vanillin [vanilla substitute]"
+    },
+    {
+      "No.": "300132",
+      "Goods and Services": "vermicelli"
+    },
+    {
+      "No.": "300133",
+      "Goods and Services": "meat pies"
+    },
+    {
+      "No.": "300134",
+      "Goods and Services": "pâtés en croûte"
+    },
+    {
+      "No.": "300135",
+      "Goods and Services": "meat tenderizers for culinary purposes"
+    },
+    {
+      "No.": "300136",
+      "Goods and Services": "edible ices"
+    },
+    {
+      "No.": "300137",
+      "Goods and Services": "powders for making ice cream"
+    },
+    {
+      "No.": "300138",
+      "Goods and Services": "almond confectionery"
+    },
+    {
+      "No.": "300139",
+      "Goods and Services": "peanut confectionery"
+    },
+    {
+      "No.": "300140",
+      "Goods and Services": "food flavourings, other than essential oils / food flavorings, other than essential oils"
+    },
+    {
+      "No.": "300141",
+      "Goods and Services": "flavourings, other than essential oils, for beverages / flavorings, other than essential oils, for beverages"
+    },
+    {
+      "No.": "300142",
+      "Goods and Services": "crushed oats"
+    },
+    {
+      "No.": "300143",
+      "Goods and Services": "husked oats"
+    },
+    {
+      "No.": "300144",
+      "Goods and Services": "oat-based food"
+    },
+    {
+      "No.": "300145",
+      "Goods and Services": "oat flakes"
+    },
+    {
+      "No.": "300146",
+      "Goods and Services": "oatmeal"
+    },
+    {
+      "No.": "300147",
+      "Goods and Services": "stick liquorice [confectionery]"
+    },
+    {
+      "No.": "300148",
+      "Goods and Services": "beer vinegar"
+    },
+    {
+      "No.": "300149",
+      "Goods and Services": "coffee-based beverages"
+    },
+    {
+      "No.": "300150",
+      "Goods and Services": "cocoa-based beverages"
+    },
+    {
+      "No.": "300151",
+      "Goods and Services": "chocolate-based beverages"
+    },
+    {
+      "No.": "300152",
+      "Goods and Services": "coffee substitutes"
+    },
+    {
+      "No.": "300153",
+      "Goods and Services": "crystallized rock sugar*"
+    },
+    {
+      "No.": "300161",
+      "Goods and Services": "chips [cereal products]"
+    },
+    {
+      "No.": "300162",
+      "Goods and Services": "chow-chow [condiment]"
+    },
+    {
+      "No.": "300163",
+      "Goods and Services": "couscous"
+    },
+    {
+      "No.": "300164",
+      "Goods and Services": "malt extract for food"
+    },
+    {
+      "No.": "300165",
+      "Goods and Services": "malt for human consumption"
+    },
+    {
+      "No.": "300166",
+      "Goods and Services": "propolis* / bee glue*"
+    },
+    {
+      "No.": "300167",
+      "Goods and Services": "relish [condiment]"
+    },
+    {
+      "No.": "300168",
+      "Goods and Services": "royal jelly*"
+    },
+    {
+      "No.": "300169",
+      "Goods and Services": "seawater for cooking"
+    },
+    {
+      "No.": "300170",
+      "Goods and Services": "sushi"
+    },
+    {
+      "No.": "300171",
+      "Goods and Services": "tomato sauce"
+    },
+    {
+      "No.": "300172",
+      "Goods and Services": "mayonnaise"
+    },
+    {
+      "No.": "300174",
+      "Goods and Services": "crackers"
+    },
+    {
+      "No.": "300175",
+      "Goods and Services": "custard"
+    },
+    {
+      "No.": "300176",
+      "Goods and Services": "fruit jellies [confectionery]"
+    },
+    {
+      "No.": "300177",
+      "Goods and Services": "muesli"
+    },
+    {
+      "No.": "300178",
+      "Goods and Services": "rice cakes"
+    },
+    {
+      "No.": "300179",
+      "Goods and Services": "soya sauce"
+    },
+    {
+      "No.": "300181",
+      "Goods and Services": "frozen yogurt [confectionery ices] / frozen yoghurt [confectionery ices]"
+    },
+    {
+      "No.": "300182",
+      "Goods and Services": "chutneys [condiments]"
+    },
+    {
+      "No.": "300183",
+      "Goods and Services": "spring rolls"
+    },
+    {
+      "No.": "300184",
+      "Goods and Services": "tacos"
+    },
+    {
+      "No.": "300185",
+      "Goods and Services": "tortillas"
+    },
+    {
+      "No.": "300186",
+      "Goods and Services": "iced tea"
+    },
+    {
+      "No.": "300187",
+      "Goods and Services": "tea-based beverages"
+    },
+    {
+      "No.": "300188",
+      "Goods and Services": "dressings for salad"
+    },
+    {
+      "No.": "300189",
+      "Goods and Services": "breadcrumbs"
+    },
+    {
+      "No.": "300190",
+      "Goods and Services": "tabbouleh"
+    },
+    {
+      "No.": "300191",
+      "Goods and Services": "halvah"
+    },
+    {
+      "No.": "300192",
+      "Goods and Services": "quiches"
+    },
+    {
+      "No.": "300193",
+      "Goods and Services": "meat gravies"
+    },
+    {
+      "No.": "300194",
+      "Goods and Services": "miso"
+    },
+    {
+      "No.": "300195",
+      "Goods and Services": "cereal-based snack food"
+    },
+    {
+      "No.": "300196",
+      "Goods and Services": "rice-based snack food"
+    },
+    {
+      "No.": "300197",
+      "Goods and Services": "hominy"
+    },
+    {
+      "No.": "300198",
+      "Goods and Services": "hominy grits"
+    },
+    {
+      "No.": "300199",
+      "Goods and Services": "baking powder"
+    },
+    {
+      "No.": "300200",
+      "Goods and Services": "baking soda [bicarbonate of soda for cooking purposes] / bicarbonate of soda for cooking purposes [baking soda]"
+    },
+    {
+      "No.": "300201",
+      "Goods and Services": "garden herbs, preserved [seasonings]"
+    },
+    {
+      "No.": "300202",
+      "Goods and Services": "noodle-based prepared meals"
+    },
+    {
+      "No.": "300203",
+      "Goods and Services": "cake frosting [icing]"
+    },
+    {
+      "No.": "300204",
+      "Goods and Services": "chocolate mousses"
+    },
+    {
+      "No.": "300205",
+      "Goods and Services": "confectionery in the form of mousses"
+    },
+    {
+      "No.": "300206",
+      "Goods and Services": "fruit coulis [sauces]"
+    },
+    {
+      "No.": "300207",
+      "Goods and Services": "marinades"
+    },
+    {
+      "No.": "300208",
+      "Goods and Services": "cheeseburgers [sandwiches]"
+    },
+    {
+      "No.": "300209",
+      "Goods and Services": "pesto"
+    },
+    {
+      "No.": "300210",
+      "Goods and Services": "ham glaze"
+    },
+    {
+      "No.": "300212",
+      "Goods and Services": "linseed for culinary purposes [seasoning] / flaxseed for culinary purposes [seasoning]"
+    },
+    {
+      "No.": "300213",
+      "Goods and Services": "wheat germ for human consumption"
+    },
+    {
+      "No.": "300214",
+      "Goods and Services": "high-protein cereal bars"
+    },
+    {
+      "No.": "300215",
+      "Goods and Services": "cream of tartar for culinary purposes"
+    },
+    {
+      "No.": "300216",
+      "Goods and Services": "gluten additives for culinary purposes"
+    },
+    {
+      "No.": "300217",
+      "Goods and Services": "pasta sauce"
+    },
+    {
+      "No.": "300218",
+      "Goods and Services": "cereal bars"
+    },
+    {
+      "No.": "300219",
+      "Goods and Services": "palm sugar"
+    },
+    {
+      "No.": "300220",
+      "Goods and Services": "dough"
+    },
+    {
+      "No.": "300221",
+      "Goods and Services": "flowers or leaves for use as tea substitutes"
+    },
+    {
+      "No.": "300222",
+      "Goods and Services": "pastry dough"
+    },
+    {
+      "No.": "300224",
+      "Goods and Services": "pelmeni"
+    },
+    {
+      "No.": "300225",
+      "Goods and Services": "chocolate decorations for cakes"
+    },
+    {
+      "No.": "300226",
+      "Goods and Services": "candy decorations for cakes"
+    },
+    {
+      "No.": "300227",
+      "Goods and Services": "chocolate-coated nuts"
+    },
+    {
+      "No.": "300228",
+      "Goods and Services": "rice pudding"
+    },
+    {
+      "No.": "300229",
+      "Goods and Services": "nut flours"
+    },
+    {
+      "No.": "300230",
+      "Goods and Services": "minced garlic [condiment]"
+    },
+    {
+      "No.": "300231",
+      "Goods and Services": "baozi"
+    },
+    {
+      "No.": "300232",
+      "Goods and Services": "rice pulp for culinary purposes"
+    },
+    {
+      "No.": "300233",
+      "Goods and Services": "jiaozi"
+    },
+    {
+      "No.": "300234",
+      "Goods and Services": "ramen"
+    },
+    {
+      "No.": "300235",
+      "Goods and Services": "savoury pancakes / savory pancakes"
+    },
+    {
+      "No.": "300236",
+      "Goods and Services": "savoury pancake mixes / savory pancake mixes"
+    },
+    {
+      "No.": "300237",
+      "Goods and Services": "burritos"
+    },
+    {
+      "No.": "300238",
+      "Goods and Services": "prepared rice rolled in seaweed"
+    },
+    {
+      "No.": "300239",
+      "Goods and Services": "edible paper"
+    },
+    {
+      "No.": "300240",
+      "Goods and Services": "edible rice paper"
+    },
+    {
+      "No.": "300241",
+      "Goods and Services": "chocolate-based spreads"
+    },
+    {
+      "No.": "300242",
+      "Goods and Services": "chocolate spreads containing nuts"
+    },
+    {
+      "No.": "300243",
+      "Goods and Services": "flour-based dumplings"
+    },
+    {
+      "No.": "300244",
+      "Goods and Services": "agave syrup [natural sweetener]"
+    },
+    {
+      "No.": "300245",
+      "Goods and Services": "mirror icing [mirror glaze]"
+    },
+    {
+      "No.": "300246",
+      "Goods and Services": "freeze-dried dishes with the main ingredient being rice / lyophilized dishes with the main ingredient being rice / lyophilised dishes with the main ingredient being rice"
+    },
+    {
+      "No.": "300247",
+      "Goods and Services": "freeze-dried dishes with the main ingredient being pasta / lyophilized dishes with the main ingredient being pasta / lyophilised dishes with the main ingredient being pasta"
+    },
+    {
+      "No.": "300248",
+      "Goods and Services": "chamomile-based beverages"
+    },
+    {
+      "No.": "300249",
+      "Goods and Services": "dulce de leche"
+    },
+    {
+      "No.": "300250",
+      "Goods and Services": "bibimbap [rice mixed with vegetables and beef]"
+    },
+    {
+      "No.": "300251",
+      "Goods and Services": "onigiri"
+    },
+    {
+      "No.": "300252",
+      "Goods and Services": "instant rice"
+    },
+    {
+      "No.": "300253",
+      "Goods and Services": "hot dog sandwiches"
+    },
+    {
+      "No.": "300254",
+      "Goods and Services": "ice cubes"
+    },
+    {
+      "No.": "300255",
+      "Goods and Services": "processed seeds for use as a seasoning"
+    },
+    {
+      "No.": "300256",
+      "Goods and Services": "sesame seeds [seasonings]"
+    },
+    {
+      "No.": "300257",
+      "Goods and Services": "piccalilli"
+    },
+    {
+      "No.": "300258",
+      "Goods and Services": "quinoa, processed"
+    },
+    {
+      "No.": "300259",
+      "Goods and Services": "bulgur"
+    },
+    {
+      "No.": "300260",
+      "Goods and Services": "buckwheat, processed"
+    },
+    {
+      "No.": "300261",
+      "Goods and Services": "buckwheat flour"
+    },
+    {
+      "No.": "300262",
+      "Goods and Services": "cranberry sauce [condiment]"
+    },
+    {
+      "No.": "300263",
+      "Goods and Services": "apple sauce [condiment]"
+    },
+    {
+      "No.": "300264",
+      "Goods and Services": "croûtons / croutons"
+    },
+    {
+      "No.": "300265",
+      "Goods and Services": "potato-based flatbreads"
+    },
+    {
+      "No.": "300267",
+      "Goods and Services": "fruit confectionery"
+    },
+    {
+      "No.": "300268",
+      "Goods and Services": "rice crackers"
+    },
+    {
+      "No.": "300269",
+      "Goods and Services": "kimchi pancakes"
+    },
+    {
+      "No.": "300270",
+      "Goods and Services": "shaved ice with sweetened red beans"
+    },
+    {
+      "No.": "300271",
+      "Goods and Services": "mints for breath freshening"
+    },
+    {
+      "No.": "300272",
+      "Goods and Services": "chewing gum for breath freshening"
+    },
+    {
+      "No.": "300273",
+      "Goods and Services": "udon noodles"
+    },
+    {
+      "No.": "300274",
+      "Goods and Services": "soba noodles"
+    },
+    {
+      "No.": "300275",
+      "Goods and Services": "gluten-free bread"
+    },
+    {
+      "No.": "300276",
+      "Goods and Services": "tamarind [condiment]"
+    },
+    {
+      "No.": "300277",
+      "Goods and Services": "laksa"
+    },
+    {
+      "No.": "300278",
+      "Goods and Services": "profiteroles"
+    },
+    {
+      "No.": "300279",
+      "Goods and Services": "croissants"
+    },
+    {
+      "No.": "300280",
+      "Goods and Services": "pains au chocolat / chocolatines"
+    },
+    {
+      "No.": "300281",
+      "Goods and Services": "kelp tea"
+    },
+    {
+      "No.": "300282",
+      "Goods and Services": "crème brûlée"
+    },
+    {
+      "No.": "300283",
+      "Goods and Services": "batter mixes"
+    },
+    {
+      "No.": "300284",
+      "Goods and Services": "edible paper wafers"
+    },
+    {
+      "No.": "300285",
+      "Goods and Services": "coconut macaroons"
+    },
+    {
+      "No.": "300286",
+      "Goods and Services": "coffee capsules, filled"
+    },
+    {
+      "No.": "300287",
+      "Goods and Services": "orange blossom water for culinary purposes"
+    },
+    {
+      "No.": "300288",
+      "Goods and Services": "ice pops"
+    },
+    {
+      "No.": "300289",
+      "Goods and Services": "nougat"
+    },
+    {
+      "No.": "300290",
+      "Goods and Services": "harissa [condiment]"
+    },
+    {
+      "No.": "300291",
+      "Goods and Services": "ginger paste [seasoning]"
+    },
+    {
+      "No.": "300292",
+      "Goods and Services": "tea beverages with milk"
+    },
+    {
+      "No.": "300293",
+      "Goods and Services": "chocolate-covered potato chips"
+    },
+    {
+      "No.": "300294",
+      "Goods and Services": "herbal teas*"
+    },
+    {
+      "No.": "300295",
+      "Goods and Services": "tea substitutes"
+    },
+    {
+      "No.": "300296",
+      "Goods and Services": "liqueur chocolates"
+    },
+    {
+      "No.": "300297",
+      "Goods and Services": "cocoa substitutes"
+    },
+    {
+      "No.": "300298",
+      "Goods and Services": "yeast for brewing beer"
+    },
+    {
+      "No.": "300299",
+      "Goods and Services": "kombucha"
+    },
+    {
+      "No.": "300300",
+      "Goods and Services": "Danish pastries"
+    },
+    {
+      "No.": "300301",
+      "Goods and Services": "gnocchi"
+    },
+    {
+      "No.": "300302",
+      "Goods and Services": "flavoured jelly crystals for making jelly confectionery / flavored jelly crystals for making jelly confectionery"
+    },
+    {
+      "No.": "300303",
+      "Goods and Services": "crystallized lemon juice [seasoning]"
+    },
+    {
+      "No.": "300304",
+      "Goods and Services": "processed squash seeds [seasonings]"
+    },
+    {
+      "No.": "300305",
+      "Goods and Services": "processed hemp seeds [seasonings]"
+    },
+    {
+      "No.": "300306",
+      "Goods and Services": "spelt, processed"
+    },
+    {
+      "No.": "300307",
+      "Goods and Services": "noodle-based prepared meals for toddlers"
+    },
+    {
+      "No.": "300308",
+      "Goods and Services": "small spelt, processed"
+    },
+    {
+      "No.": "300309",
+      "Goods and Services": "milk puddings"
+    },
+    {
+      "No.": "300310",
+      "Goods and Services": "cocoa nibs"
+    },
+    {
+      "No.": "300311",
+      "Goods and Services": "doenjang [condiment]"
+    },
+    {
+      "No.": "300312",
+      "Goods and Services": "gochujang"
+    },
+    {
+      "No.": "300313",
+      "Goods and Services": "kimbap"
+    },
+    {
+      "No.": "300314",
+      "Goods and Services": "edible honeycombs"
+    },
+    {
+      "No.": "300315",
+      "Goods and Services": "artificial sweeteners for culinary purposes"
+    },
+    {
+      "No.": "300316",
+      "Goods and Services": "saccharin for culinary purposes"
+    },
+    {
+      "No.": "300317",
+      "Goods and Services": "aspartame for culinary purposes"
+    },
+    {
+      "No.": "300318",
+      "Goods and Services": "edible beeswax"
+    },
+    {
+      "No.": "300319",
+      "Goods and Services": "sugar substitutes for culinary purposes"
+    },
+    {
+      "No.": "300320",
+      "Goods and Services": "roasted coffee beans"
+    },
+    {
+      "No.": "300321",
+      "Goods and Services": "filled biscuits / filled cookies"
+    },
+    {
+      "No.": "300322",
+      "Goods and Services": "edible gold for decorating food and beverages"
+    },
+    {
+      "No.": "300323",
+      "Goods and Services": "sugar paste for confectionery"
+    },
+    {
+      "No.": "300324",
+      "Goods and Services": "cardamom [spice]"
+    },
+    {
+      "No.": "300325",
+      "Goods and Services": "sumac [spice]"
+    },
+    {
+      "No.": "300326",
+      "Goods and Services": "fava bean flour"
+    }
+  ]
+}

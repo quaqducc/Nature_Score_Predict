@@ -1,0 +1,256 @@
+{
+  "group_number": "32",
+  "meta": {
+    "Goods and Services": "Class Heading Beers; non-alcoholic beverages; mineral and aerated waters; fruit beverages and fruit juices; syrups and other preparations for making non-alcoholic beverages Explanatory Note Class 32 includes mainly non-alcoholic beverages, as well as beer. This Class includes, in particular: • de-alcoholised beverages • soft drinks • rice-based and soya-based beverages, other than milk substitutes • energy drinks, isotonic beverages, protein-enriched sports beverages • non-alcoholic essences and fruit extracts for making beverages This Class does not include, in particular: • flavourings for beverages being essential oils (Cl. 3) or other than essential oils (Cl. 30) • dietetic beverages adapted for medical purposes (Cl. 5) • milk beverages with milk predominating, milk shakes (Cl. 29) • milk substitutes, for example, almond milk, coconut milk, peanut milk, rice milk, soya milk (Cl. 29) • lemon juice for culinary purposes, tomato juice for cooking (Cl. 29) • beverages with coffee, cocoa, chocolate or tea base (Cl. 30) • beverages for pets (Cl. 31) • alcoholic beverages, except beer (Cl. 33)"
+  },
+  "items": [
+    {
+      "No.": "320001",
+      "Goods and Services": "non-alcoholic fruit extracts"
+    },
+    {
+      "No.": "320002",
+      "Goods and Services": "beer"
+    },
+    {
+      "No.": "320003",
+      "Goods and Services": "ginger beer / ginger ale"
+    },
+    {
+      "No.": "320004",
+      "Goods and Services": "malt beer"
+    },
+    {
+      "No.": "320005",
+      "Goods and Services": "beer wort"
+    },
+    {
+      "No.": "320006",
+      "Goods and Services": "non-alcoholic fruit juice beverages"
+    },
+    {
+      "No.": "320007",
+      "Goods and Services": "whey beverages"
+    },
+    {
+      "No.": "320008",
+      "Goods and Services": "preparations for making non-alcoholic beverages"
+    },
+    {
+      "No.": "320009",
+      "Goods and Services": "non-alcoholic essences for making beverages"
+    },
+    {
+      "No.": "320010",
+      "Goods and Services": "fruit juices / fruit juice"
+    },
+    {
+      "No.": "320011",
+      "Goods and Services": "syrups for beverages"
+    },
+    {
+      "No.": "320012",
+      "Goods and Services": "waters [beverages]"
+    },
+    {
+      "No.": "320013",
+      "Goods and Services": "preparations for making carbonated water / preparations for making aerated water"
+    },
+    {
+      "No.": "320014",
+      "Goods and Services": "lithia water"
+    },
+    {
+      "No.": "320015",
+      "Goods and Services": "mineral water [beverages]"
+    },
+    {
+      "No.": "320017",
+      "Goods and Services": "seltzer water"
+    },
+    {
+      "No.": "320018",
+      "Goods and Services": "table waters"
+    },
+    {
+      "No.": "320019",
+      "Goods and Services": "must"
+    },
+    {
+      "No.": "320020",
+      "Goods and Services": "lemonades"
+    },
+    {
+      "No.": "320021",
+      "Goods and Services": "extracts of hops for making beer"
+    },
+    {
+      "No.": "320022",
+      "Goods and Services": "vegetable juices [beverages]"
+    },
+    {
+      "No.": "320023",
+      "Goods and Services": "syrups for lemonade"
+    },
+    {
+      "No.": "320025",
+      "Goods and Services": "malt wort"
+    },
+    {
+      "No.": "320026",
+      "Goods and Services": "grape must, unfermented"
+    },
+    {
+      "No.": "320027",
+      "Goods and Services": "orgeat"
+    },
+    {
+      "No.": "320028",
+      "Goods and Services": "soda water"
+    },
+    {
+      "No.": "320029",
+      "Goods and Services": "sherbets [beverages] / sorbets [beverages]"
+    },
+    {
+      "No.": "320030",
+      "Goods and Services": "tomato juice [beverage]"
+    },
+    {
+      "No.": "320031",
+      "Goods and Services": "non-alcoholic beverages"
+    },
+    {
+      "No.": "320033",
+      "Goods and Services": "pastilles for effervescing beverages"
+    },
+    {
+      "No.": "320034",
+      "Goods and Services": "powders for effervescing beverages"
+    },
+    {
+      "No.": "320035",
+      "Goods and Services": "carbonated water / aerated water"
+    },
+    {
+      "No.": "320041",
+      "Goods and Services": "sarsaparilla [non-alcoholic beverage]"
+    },
+    {
+      "No.": "320042",
+      "Goods and Services": "aperitifs, non-alcoholic"
+    },
+    {
+      "No.": "320043",
+      "Goods and Services": "cocktails, non-alcoholic"
+    },
+    {
+      "No.": "320044",
+      "Goods and Services": "fruit nectars, non-alcoholic"
+    },
+    {
+      "No.": "320045",
+      "Goods and Services": "isotonic beverages"
+    },
+    {
+      "No.": "320047",
+      "Goods and Services": "cider, non-alcoholic"
+    },
+    {
+      "No.": "320048",
+      "Goods and Services": "kvass"
+    },
+    {
+      "No.": "320049",
+      "Goods and Services": "non-alcoholic honey-based beverages"
+    },
+    {
+      "No.": "320050",
+      "Goods and Services": "smoothies"
+    },
+    {
+      "No.": "320051",
+      "Goods and Services": "aloe vera drinks, non-alcoholic"
+    },
+    {
+      "No.": "320052",
+      "Goods and Services": "beer-based cocktails"
+    },
+    {
+      "No.": "320053",
+      "Goods and Services": "soya-based beverages, other than milk substitutes"
+    },
+    {
+      "No.": "320054",
+      "Goods and Services": "protein-enriched sports beverages"
+    },
+    {
+      "No.": "320055",
+      "Goods and Services": "rice-based beverages, other than milk substitutes"
+    },
+    {
+      "No.": "320056",
+      "Goods and Services": "non-alcoholic beverages flavoured with coffee / non-alcoholic beverages flavored with coffee"
+    },
+    {
+      "No.": "320057",
+      "Goods and Services": "non-alcoholic beverages flavoured with tea / non-alcoholic beverages flavored with tea"
+    },
+    {
+      "No.": "320058",
+      "Goods and Services": "soft drinks"
+    },
+    {
+      "No.": "320059",
+      "Goods and Services": "barley wine [beer]"
+    },
+    {
+      "No.": "320060",
+      "Goods and Services": "energy drinks"
+    },
+    {
+      "No.": "320061",
+      "Goods and Services": "non-alcoholic dried fruit beverages"
+    },
+    {
+      "No.": "320062",
+      "Goods and Services": "shandy"
+    },
+    {
+      "No.": "320063",
+      "Goods and Services": "starch-based dry mixes for beverage preparation"
+    },
+    {
+      "No.": "320064",
+      "Goods and Services": "non-alcoholic beer-based cocktails"
+    },
+    {
+      "No.": "320065",
+      "Goods and Services": "non-alcoholic beer"
+    },
+    {
+      "No.": "320066",
+      "Goods and Services": "powders for making soft drinks"
+    },
+    {
+      "No.": "320067",
+      "Goods and Services": "frozen hops for brewing beer"
+    },
+    {
+      "No.": "320068",
+      "Goods and Services": "hop pellets for brewing beer"
+    },
+    {
+      "No.": "320069",
+      "Goods and Services": "dried hops for brewing beer"
+    },
+    {
+      "No.": "320070",
+      "Goods and Services": "non-alcoholic fruit vinegar beverages"
+    },
+    {
+      "No.": "320071",
+      "Goods and Services": "grape ales"
+    }
+  ]
+}

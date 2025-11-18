@@ -1,0 +1,110 @@
+[
+  {
+   "case_id": "USECASE_SCORE_0",
+   "input": {
+    "product_1": "Chemicals used in industry (Class 1)",
+    "product_2": "Scientific and technological services, research and design (Class 42)",
+    "class_info": {
+     "class_1": "Mainly chemical products for use in industry, science and agriculture.",
+     "class_42": "Mainly services provided by persons in relation to the theoretical and practical aspects of complex fields of activities."
+    }
+   },
+   "reasoning": {
+    "nature": "There is a fundamental difference between a physical product (chemicals) and an intangible service (research services). Their nature is completely different.",
+    "intended_purpose": "The purpose of industrial chemicals is to be used as raw materials or processing aids. The purpose of scientific services is to provide knowledge and solutions. These purposes do not overlap.",
+    "channels_of_trade": "Chemicals are sold through B2B supply chains for goods. Scientific services are contracted through professional service agreements. The channels are not similar."
+   },
+   "output": {
+    "nature_score": 0,
+    "purpose_score": 0,
+    "channels_of_trade_score": 0,
+    "overall_similarity": 0
+   }
+  },
+  {
+   "case_id": "USECASE_SCORE_1",
+   "input": {
+    "product_1": "Adhesives for industrial purposes (Class 1)",
+    "product_2": "Research and development of new products for others (Class 42)",
+    "class_info": {
+     "class_1": "Mainly chemical products for use in industry, science and agriculture.",
+     "class_42": "Mainly services provided by persons in relation to the theoretical and practical aspects of complex fields of activities."
+    }
+   },
+   "reasoning": {
+    "nature": "The nature is entirely different: one is a physical product (adhesives), the other is an intangible service (R&D).",
+    "intended_purpose": "There is a slight connection in purpose, as adhesives (product) might be used during the process of research and development (service). The relationship is indirect.",
+    "channels_of_trade": "The channels are different. Industrial adhesives are sold via material suppliers, while R&D services are procured via service contracts with research firms or institutions."
+   },
+   "output": {
+    "nature_score": 0,
+    "purpose_score": 1,
+    "channels_of_trade_score": 0,
+    "overall_similarity": 1
+   }
+  },
+  {
+   "case_id": "USECASE_SCORE_2",
+   "input": {
+    "product_1": "Make-up preparations (Class 3)",
+    "product_2": "Tissues of paper for removing make-up (Class 16)",
+    "class_info": {
+     "class_3": "Non-medicated toiletry preparations and cleaning products.",
+     "class_16": "Mainly paper, cardboard and goods made from these materials."
+    }
+   },
+   "reasoning": {
+    "nature": "Make-up preparations are chemical compositions, while tissues are paper products. Their physical nature is fundamentally different.",
+    "intended_purpose": "Both are used in the personal beauty process. One is for application, the other for removal. They are complementary and serve the same general purpose.",
+    "channels_of_trade": "Both are sold through the same channels: pharmacies, supermarkets, cosmetic stores, and online retailers to the same consumers."
+   },
+   "output": {
+    "nature_score": 0,
+    "purpose_score": 3,
+    "channels_of_trade_score": 4,
+    "overall_similarity": 2
+   }
+  },
+  {
+   "case_id": "USECASE_SCORE_3",
+   "input": {
+    "product_1": "Laptops (Class 9)",
+    "product_2": "Printers for use with computers (Class 9)",
+    "class_info": {
+     "class_9": "Scientific and research equipment, audiovisual and IT equipment, safety and security apparatus."
+    }
+   },
+   "reasoning": {
+    "nature": "Both are electronic computer peripherals. Their nature as IT hardware is similar.",
+    "intended_purpose": "They serve complementary purposes within the same ecosystem. Laptops are used to create and view digital documents, while printers are used to create physical copies of those documents. They are designed to work together.",
+    "channels_of_trade": "Both are sold in the same electronics stores, office supply stores, and online marketplaces to the same consumer and business audiences."
+   },
+   "output": {
+    "nature_score": 3,
+    "purpose_score": 3,
+    "channels_of_trade_score": 4,
+    "overall_similarity": 3
+   }
+  },
+  {
+   "case_id": "USECASE_SCORE_4",
+   "input": {
+    "product_1": "Chemicals for use in industry (Class 1)",
+    "product_2": "Chemical additives for use in manufacturing (Class 1)",
+    "class_info": {
+     "class_1": "Mainly chemical products for use in industry, science and agriculture."
+    }
+   },
+   "reasoning": {
+    "nature": "Both are chemical products. Their physical nature is highly similar.",
+    "intended_purpose": "Both are intended for use in industrial and manufacturing processes. 'Chemical additives' is a specific subset of 'chemicals for use in industry'. Their purpose is highly similar.",
+    "channels_of_trade": "Both are sold through the same B2B industrial chemical supply chains to the same customers (manufacturers)."
+   },
+   "output": {
+    "nature_score": 4,
+    "purpose_score": 4,
+    "channels_of_trade_score": 4,
+    "overall_similarity": 4
+   }
+  }
+ ]

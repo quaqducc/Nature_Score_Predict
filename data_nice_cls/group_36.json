@@ -1,0 +1,444 @@
+{
+  "group_number": "36",
+  "meta": {
+    "Goods and Services": "Class Heading Financial, monetary and banking services; insurance services; real estate services Explanatory Note Class 36 includes mainly services relating to banking and other financial transactions, financial valuation services, as well as insurance and real estate activities. This Class includes, in particular: • financial transaction and payment services, for example, exchanging money, electronic funds transfer, processing of credit card and debit card payments, issuance of travellers' cheques • financial management and research • financial appraisals, for example, jewellery, art and real estate appraisal, repair costs evaluation • cheque verification • financing and credit services, for example, loans, issuance of credit cards, hire- or lease-purchase financing • crowdfunding • safe deposit services • financial sponsorship • real estate agency services, real estate management, rental of apartments, rent collection • insurance underwriting, actuarial services • brokerage services, for example, securities, insurance and real estate brokerage, brokerage of carbon credits, pawnbrokerage This Class does not include, in particular: • administration services relating to business transactions and financial records, for example, book-keeping, drawing up of statements of accounts, business and financial auditing, business appraisals, tax preparation and filing services (Cl. 35) • sponsorship search, promotion of goods and services through sponsorship of sports events (Cl. 35) • cash replenishment of automated teller machines (Cl. 39) • freight brokerage, transport brokerage (Cl. 39) • quality evaluation of wool and standing timber (Cl. 42)"
+  },
+  "items": [
+    {
+      "No.": "360001",
+      "Goods and Services": "accident insurance underwriting"
+    },
+    {
+      "No.": "360002",
+      "Goods and Services": "instalment loans"
+    },
+    {
+      "No.": "360003",
+      "Goods and Services": "actuarial services"
+    },
+    {
+      "No.": "360004",
+      "Goods and Services": "rental of real estate"
+    },
+    {
+      "No.": "360005",
+      "Goods and Services": "brokerage*"
+    },
+    {
+      "No.": "360006",
+      "Goods and Services": "credit bureau services"
+    },
+    {
+      "No.": "360007",
+      "Goods and Services": "real estate agency services"
+    },
+    {
+      "No.": "360008",
+      "Goods and Services": "real estate brokerage"
+    },
+    {
+      "No.": "360009",
+      "Goods and Services": "debt collection agency services"
+    },
+    {
+      "No.": "360010",
+      "Goods and Services": "insurance brokerage"
+    },
+    {
+      "No.": "360011",
+      "Goods and Services": "financial customs brokerage services"
+    },
+    {
+      "No.": "360012",
+      "Goods and Services": "insurance underwriting"
+    },
+    {
+      "No.": "360013",
+      "Goods and Services": "banking"
+    },
+    {
+      "No.": "360014",
+      "Goods and Services": "real estate appraisal"
+    },
+    {
+      "No.": "360015",
+      "Goods and Services": "charitable fund raising"
+    },
+    {
+      "No.": "360016",
+      "Goods and Services": "mutual funds"
+    },
+    {
+      "No.": "360017",
+      "Goods and Services": "capital investment"
+    },
+    {
+      "No.": "360018",
+      "Goods and Services": "surety services"
+    },
+    {
+      "No.": "360019",
+      "Goods and Services": "exchanging money"
+    },
+    {
+      "No.": "360020",
+      "Goods and Services": "issuance of travellers' cheques / issuance of travelers' checks"
+    },
+    {
+      "No.": "360021",
+      "Goods and Services": "financial clearing"
+    },
+    {
+      "No.": "360022",
+      "Goods and Services": "safe deposit services"
+    },
+    {
+      "No.": "360023",
+      "Goods and Services": "organization of monetary collections"
+    },
+    {
+      "No.": "360024",
+      "Goods and Services": "loans [financing]"
+    },
+    {
+      "No.": "360025",
+      "Goods and Services": "fiscal valuation"
+    },
+    {
+      "No.": "360026",
+      "Goods and Services": "financial evaluation [insurance, banking, real estate]"
+    },
+    {
+      "No.": "360027",
+      "Goods and Services": "factoring"
+    },
+    {
+      "No.": "360028",
+      "Goods and Services": "trusteeship / fiduciary"
+    },
+    {
+      "No.": "360029",
+      "Goods and Services": "financing services"
+    },
+    {
+      "No.": "360030",
+      "Goods and Services": "financial management"
+    },
+    {
+      "No.": "360031",
+      "Goods and Services": "pawnbrokerage"
+    },
+    {
+      "No.": "360032",
+      "Goods and Services": "real estate management"
+    },
+    {
+      "No.": "360033",
+      "Goods and Services": "apartment house management"
+    },
+    {
+      "No.": "360034",
+      "Goods and Services": "fire insurance underwriting"
+    },
+    {
+      "No.": "360035",
+      "Goods and Services": "rental of apartments"
+    },
+    {
+      "No.": "360036",
+      "Goods and Services": "rental of farms"
+    },
+    {
+      "No.": "360038",
+      "Goods and Services": "health insurance underwriting"
+    },
+    {
+      "No.": "360039",
+      "Goods and Services": "marine insurance underwriting"
+    },
+    {
+      "No.": "360040",
+      "Goods and Services": "mortgage banking"
+    },
+    {
+      "No.": "360041",
+      "Goods and Services": "savings bank services"
+    },
+    {
+      "No.": "360042",
+      "Goods and Services": "hire-purchase financing / lease-purchase financing"
+    },
+    {
+      "No.": "360043",
+      "Goods and Services": "securities brokerage"
+    },
+    {
+      "No.": "360044",
+      "Goods and Services": "life insurance underwriting"
+    },
+    {
+      "No.": "360045",
+      "Goods and Services": "accommodation bureau services [apartments]"
+    },
+    {
+      "No.": "360046",
+      "Goods and Services": "financial analysis"
+    },
+    {
+      "No.": "360051",
+      "Goods and Services": "antique appraisal"
+    },
+    {
+      "No.": "360052",
+      "Goods and Services": "art appraisal"
+    },
+    {
+      "No.": "360053",
+      "Goods and Services": "cheque verification / check verification"
+    },
+    {
+      "No.": "360054",
+      "Goods and Services": "financial consultancy"
+    },
+    {
+      "No.": "360055",
+      "Goods and Services": "insurance consultancy"
+    },
+    {
+      "No.": "360056",
+      "Goods and Services": "processing of credit card payments"
+    },
+    {
+      "No.": "360057",
+      "Goods and Services": "processing of debit card payments"
+    },
+    {
+      "No.": "360058",
+      "Goods and Services": "electronic funds transfer"
+    },
+    {
+      "No.": "360059",
+      "Goods and Services": "providing financial information"
+    },
+    {
+      "No.": "360060",
+      "Goods and Services": "providing insurance information"
+    },
+    {
+      "No.": "360061",
+      "Goods and Services": "jewellery appraisal / jewelry appraisal"
+    },
+    {
+      "No.": "360062",
+      "Goods and Services": "numismatic appraisal"
+    },
+    {
+      "No.": "360063",
+      "Goods and Services": "rent collection"
+    },
+    {
+      "No.": "360064",
+      "Goods and Services": "stamp appraisal"
+    },
+    {
+      "No.": "360065",
+      "Goods and Services": "issuance of prepaid vouchers"
+    },
+    {
+      "No.": "360066",
+      "Goods and Services": "deposits of valuables"
+    },
+    {
+      "No.": "360067",
+      "Goods and Services": "stock exchange quotations"
+    },
+    {
+      "No.": "360068",
+      "Goods and Services": "issuance of credit cards"
+    },
+    {
+      "No.": "360069",
+      "Goods and Services": "rental of offices [real estate]"
+    },
+    {
+      "No.": "360070",
+      "Goods and Services": "retirement payment services"
+    },
+    {
+      "No.": "360071",
+      "Goods and Services": "financial sponsorship"
+    },
+    {
+      "No.": "360072",
+      "Goods and Services": "online banking"
+    },
+    {
+      "No.": "360073",
+      "Goods and Services": "business liquidation services, financial"
+    },
+    {
+      "No.": "360103",
+      "Goods and Services": "repair costs evaluation [financial appraisal]"
+    },
+    {
+      "No.": "360104",
+      "Goods and Services": "brokerage of carbon credits"
+    },
+    {
+      "No.": "360105",
+      "Goods and Services": "financial evaluation of standing timber / financial valuation of standing timber"
+    },
+    {
+      "No.": "360107",
+      "Goods and Services": "financial evaluation of wool / financial valuation of wool"
+    },
+    {
+      "No.": "360108",
+      "Goods and Services": "lending against security"
+    },
+    {
+      "No.": "360109",
+      "Goods and Services": "provident fund services"
+    },
+    {
+      "No.": "360110",
+      "Goods and Services": "stock brokerage services"
+    },
+    {
+      "No.": "360111",
+      "Goods and Services": "debt advisory services"
+    },
+    {
+      "No.": "360112",
+      "Goods and Services": "arranging finance for construction projects"
+    },
+    {
+      "No.": "360113",
+      "Goods and Services": "providing financial information via a website"
+    },
+    {
+      "No.": "360114",
+      "Goods and Services": "financial management of reimbursement payments for others"
+    },
+    {
+      "No.": "360115",
+      "Goods and Services": "investment of funds"
+    },
+    {
+      "No.": "360116",
+      "Goods and Services": "stocks and bonds brokerage"
+    },
+    {
+      "No.": "360117",
+      "Goods and Services": "providing rebates at participating establishments of others through use of a membership card"
+    },
+    {
+      "No.": "360118",
+      "Goods and Services": "bail-bonding"
+    },
+    {
+      "No.": "360119",
+      "Goods and Services": "rental of offices for co-working"
+    },
+    {
+      "No.": "360120",
+      "Goods and Services": "financial appraisals in responding to calls for tenders / financial appraisals in responding to requests for proposals [RFPs]"
+    },
+    {
+      "No.": "360121",
+      "Goods and Services": "financial evaluation of development costs relating to the oil, gas and mining industries"
+    },
+    {
+      "No.": "360122",
+      "Goods and Services": "financial research"
+    },
+    {
+      "No.": "360123",
+      "Goods and Services": "real estate services"
+    },
+    {
+      "No.": "360124",
+      "Goods and Services": "electronic transfer of cryptocurrency"
+    },
+    {
+      "No.": "360125",
+      "Goods and Services": "financial valuation of intellectual property assets"
+    },
+    {
+      "No.": "360126",
+      "Goods and Services": "preparation of quotes for cost estimation purposes"
+    },
+    {
+      "No.": "360127",
+      "Goods and Services": "crowdfunding"
+    },
+    {
+      "No.": "360128",
+      "Goods and Services": "e-wallet payment services"
+    },
+    {
+      "No.": "360129",
+      "Goods and Services": "financial exchange of cryptocurrency"
+    },
+    {
+      "No.": "360130",
+      "Goods and Services": "electronic funds transfer provided via blockchain technology"
+    },
+    {
+      "No.": "360131",
+      "Goods and Services": "issuance of gift certificates"
+    },
+    {
+      "No.": "360132",
+      "Goods and Services": "mobile banking services"
+    },
+    {
+      "No.": "360133",
+      "Goods and Services": "administration of financial affairs"
+    },
+    {
+      "No.": "360134",
+      "Goods and Services": "financial advice relating to tax"
+    },
+    {
+      "No.": "360135",
+      "Goods and Services": "business brokerage"
+    },
+    {
+      "No.": "360136",
+      "Goods and Services": "financial patronage"
+    },
+    {
+      "No.": "360137",
+      "Goods and Services": "financial advice"
+    },
+    {
+      "No.": "360138",
+      "Goods and Services": "issuance of prepaid gift cards"
+    },
+    {
+      "No.": "360139",
+      "Goods and Services": "online banking services rendered in virtual environments"
+    },
+    {
+      "No.": "360140",
+      "Goods and Services": "financial trading of cryptocurrency"
+    },
+    {
+      "No.": "360141",
+      "Goods and Services": "car broker services"
+    },
+    {
+      "No.": "360142",
+      "Goods and Services": "warranty claims administration services"
+    },
+    {
+      "No.": "360143",
+      "Goods and Services": "rental of pastures"
+    },
+    {
+      "No.": "360144",
+      "Goods and Services": "financial engineering"
+    }
+  ]
+}

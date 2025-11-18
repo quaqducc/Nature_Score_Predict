@@ -1,0 +1,3496 @@
+{
+  "group_number": "9",
+  "meta": {
+    "Goods and Services": "Class Heading Scientific, research, navigation, surveying, photographic, cinematographic, audiovisual, optical, weighing, measuring, signalling, detecting, testing, inspecting, life-saving and teaching apparatus and instruments; apparatus and instruments for conducting, switching, transforming, accumulating, regulating or controlling the distribution or use of electricity; apparatus and instruments for recording, transmitting, reproducing or processing sound, images or data; recorded and downloadable media, computer software, blank digital or analogue recording and storage media; mechanisms for coin-operated apparatus; cash registers, calculating devices; computers and computer peripheral devices; diving suits, divers' masks, ear plugs for divers, nose clips for divers and swimmers, gloves for divers, breathing apparatus for underwater swimming; fire-extinguishing apparatus Explanatory Note Class 9 includes mainly apparatus and instruments for scientific or research purposes, audiovisual and information technology equipment, as well as safety and life-saving equipment. This Class includes, in particular: • apparatus and instruments for scientific research in laboratories • training apparatus and simulators, for example, resuscitation mannequins, simulators for the steering and control of vehicles • apparatus and instruments for controlling and monitoring aircraft, watercraft and unmanned vehicles, for example, navigational instruments, transmitters, compasses for measuring, GPS apparatus, automatic steering apparatus for vehicles • safety and security apparatus and instruments, for example, safety nets, signalling lights, traffic-light apparatus, fire engines, sound alarms, security token hardware for user authentication • clothing that protects against serious or life-threatening injuries, for example, clothing for protection against accidents, irradiation and fire, bullet-proof clothing, protective helmets, head guards for sports, mouth guards for sports, protective suits for aviators, knee-pads for workers • optical apparatus and instruments, for example, eyeglasses, contact lenses, magnifying glasses, mirrors for inspecting work, peepholes • magnets • smartwatches, wearable activity trackers • joysticks for use with computers, other than for video games, virtual reality headsets, smartglasses • eyeglass cases, cases for smartphones, cases especially made for photographic apparatus and instruments • automated teller machines, invoicing machines, material testing instruments and machines • batteries and chargers for electronic cigarettes • electric and electronic effects units for musical instruments • laboratory robots, teaching robots, security surveillance robots, humanoid robots with artificial intelligence This Class does not include, in particular: • joysticks being parts of machines, other than for game machines (Cl. 7), vehicle joysticks (Cl. 12), joysticks for video games, controllers for toys and game consoles (Cl. 28) • coin-operated apparatus that are classified in various classes according to their function or purpose, for example, coin-operated washing machines (Cl. 7), coin-operated billiard tables (Cl. 28) • industrial robots (Cl. 7), surgical robots (Cl. 10), toy robots (Cl. 28) • pulse meters, heart rate monitoring apparatus, body composition monitors (Cl. 10) • laboratory lamps, laboratory burners (Cl. 11) • diving lights (Cl. 11) • smart products whose main function remains the same, for example, smart refrigerators (Cl. 11), smart suitcases (Cl. 18), smart clothing (Cl. 25), smart toys (Cl. 28) • explosive fog signals, signal rocket flares (Cl. 13) • histological sections for teaching purposes, biological samples for use in microscopy as teaching materials (Cl. 16) • clothing and equipment worn for the practice of certain sports, for example, protective paddings being parts of sports suits, fencing masks, boxing gloves (Cl. 28)"
+  },
+  "items": [
+    {
+      "No.": "090001",
+      "Goods and Services": "coils, electric"
+    },
+    {
+      "No.": "090002",
+      "Goods and Services": "particle accelerators"
+    },
+    {
+      "No.": "090003",
+      "Goods and Services": "reflective articles for wear, for the prevention of accidents"
+    },
+    {
+      "No.": "090004",
+      "Goods and Services": "protection devices for personal use against accidents"
+    },
+    {
+      "No.": "090005",
+      "Goods and Services": "clothing for protection against accidents, irradiation and fire"
+    },
+    {
+      "No.": "090007",
+      "Goods and Services": "batteries, electric, for vehicles / accumulators, electric, for vehicles"
+    },
+    {
+      "No.": "090008",
+      "Goods and Services": "battery jars / accumulator jars"
+    },
+    {
+      "No.": "090009",
+      "Goods and Services": "battery boxes / accumulator boxes"
+    },
+    {
+      "No.": "090010",
+      "Goods and Services": "acidimeters for batteries"
+    },
+    {
+      "No.": "090011",
+      "Goods and Services": "hydrometers"
+    },
+    {
+      "No.": "090012",
+      "Goods and Services": "plates for batteries"
+    },
+    {
+      "No.": "090013",
+      "Goods and Services": "whistle alarms"
+    },
+    {
+      "No.": "090014",
+      "Goods and Services": "acoustic alarms / sound alarms"
+    },
+    {
+      "No.": "090015",
+      "Goods and Services": "acoustic conduits"
+    },
+    {
+      "No.": "090016",
+      "Goods and Services": "phonograph records / sound recording discs"
+    },
+    {
+      "No.": "090017",
+      "Goods and Services": "speaking tubes"
+    },
+    {
+      "No.": "090018",
+      "Goods and Services": "actinometers"
+    },
+    {
+      "No.": "090019",
+      "Goods and Services": "adding machines"
+    },
+    {
+      "No.": "090020",
+      "Goods and Services": "aerometers"
+    },
+    {
+      "No.": "090021",
+      "Goods and Services": "enlarging apparatus [photography]"
+    },
+    {
+      "No.": "090022",
+      "Goods and Services": "electro-dynamic apparatus for the remote control of railway points"
+    },
+    {
+      "No.": "090023",
+      "Goods and Services": "magnets*"
+    },
+    {
+      "No.": "090024",
+      "Goods and Services": "electromagnetic coils"
+    },
+    {
+      "No.": "090025",
+      "Goods and Services": "air analysis apparatus"
+    },
+    {
+      "No.": "090026",
+      "Goods and Services": "alarms*"
+    },
+    {
+      "No.": "090027",
+      "Goods and Services": "alcoholmeters"
+    },
+    {
+      "No.": "090028",
+      "Goods and Services": "alidades"
+    },
+    {
+      "No.": "090029",
+      "Goods and Services": "food analysis apparatus"
+    },
+    {
+      "No.": "090030",
+      "Goods and Services": "igniting apparatus, electric, for igniting at a distance / electric apparatus for remote ignition"
+    },
+    {
+      "No.": "090031",
+      "Goods and Services": "ignition batteries"
+    },
+    {
+      "No.": "090033",
+      "Goods and Services": "altimeters"
+    },
+    {
+      "No.": "090034",
+      "Goods and Services": "asbestos gloves for protection against accidents"
+    },
+    {
+      "No.": "090035",
+      "Goods and Services": "asbestos clothing for protection against fire"
+    },
+    {
+      "No.": "090036",
+      "Goods and Services": "ammeters"
+    },
+    {
+      "No.": "090037",
+      "Goods and Services": "amplifiers"
+    },
+    {
+      "No.": "090038",
+      "Goods and Services": "amplifying tubes / amplifying valves"
+    },
+    {
+      "No.": "090039",
+      "Goods and Services": "anemometers"
+    },
+    {
+      "No.": "090040",
+      "Goods and Services": "calibrating rings"
+    },
+    {
+      "No.": "090041",
+      "Goods and Services": "fire extinguishers"
+    },
+    {
+      "No.": "090043",
+      "Goods and Services": "anodes"
+    },
+    {
+      "No.": "090044",
+      "Goods and Services": "anode batteries / high tension batteries"
+    },
+    {
+      "No.": "090045",
+      "Goods and Services": "aerials / antennas"
+    },
+    {
+      "No.": "090046",
+      "Goods and Services": "anti-glare glasses"
+    },
+    {
+      "No.": "090047",
+      "Goods and Services": "visors for helmets"
+    },
+    {
+      "No.": "090048",
+      "Goods and Services": "anti-interference devices [electricity]"
+    },
+    {
+      "No.": "090049",
+      "Goods and Services": "transformers [electricity]"
+    },
+    {
+      "No.": "090050",
+      "Goods and Services": "apertometers [optics]"
+    },
+    {
+      "No.": "090053",
+      "Goods and Services": "money counting and sorting machines"
+    },
+    {
+      "No.": "090054",
+      "Goods and Services": "distribution boxes [electricity]"
+    },
+    {
+      "No.": "090055",
+      "Goods and Services": "surveying instruments"
+    },
+    {
+      "No.": "090056",
+      "Goods and Services": "surveying chains"
+    },
+    {
+      "No.": "090059",
+      "Goods and Services": "lenses for astrophotography"
+    },
+    {
+      "No.": "090060",
+      "Goods and Services": "thermionic valves / thermionic tubes"
+    },
+    {
+      "No.": "090061",
+      "Goods and Services": "audiovisual teaching apparatus"
+    },
+    {
+      "No.": "090062",
+      "Goods and Services": "juke boxes, musical / coin-operated musical automata [juke boxes]"
+    },
+    {
+      "No.": "090063",
+      "Goods and Services": "mechanisms for coin-operated apparatus"
+    },
+    {
+      "No.": "090064",
+      "Goods and Services": "mechanisms for counter-operated apparatus"
+    },
+    {
+      "No.": "090066",
+      "Goods and Services": "calipers"
+    },
+    {
+      "No.": "090067",
+      "Goods and Services": "comparators"
+    },
+    {
+      "No.": "090068",
+      "Goods and Services": "fire alarms"
+    },
+    {
+      "No.": "090069",
+      "Goods and Services": "automatic indicators of low pressure in vehicle tyres / automatic indicators of low pressure in vehicle tires"
+    },
+    {
+      "No.": "090070",
+      "Goods and Services": "protective suits for aviators"
+    },
+    {
+      "No.": "090071",
+      "Goods and Services": "alarm bells, electric"
+    },
+    {
+      "No.": "090072",
+      "Goods and Services": "rods for water diviners"
+    },
+    {
+      "No.": "090073",
+      "Goods and Services": "life-saving rafts"
+    },
+    {
+      "No.": "090074",
+      "Goods and Services": "scales"
+    },
+    {
+      "No.": "090075",
+      "Goods and Services": "meteorological balloons"
+    },
+    {
+      "No.": "090076",
+      "Goods and Services": "demagnetizing apparatus for magnetic tapes"
+    },
+    {
+      "No.": "090077",
+      "Goods and Services": "tape recorders"
+    },
+    {
+      "No.": "090078",
+      "Goods and Services": "magnetic tapes"
+    },
+    {
+      "No.": "090079",
+      "Goods and Services": "barometers"
+    },
+    {
+      "No.": "090080",
+      "Goods and Services": "weighing machines"
+    },
+    {
+      "No.": "090081",
+      "Goods and Services": "weighbridges"
+    },
+    {
+      "No.": "090082",
+      "Goods and Services": "fire beaters"
+    },
+    {
+      "No.": "090083",
+      "Goods and Services": "chargers for electric accumulators"
+    },
+    {
+      "No.": "090085",
+      "Goods and Services": "betatrons"
+    },
+    {
+      "No.": "090086",
+      "Goods and Services": "ticket dispensing terminals, electronic"
+    },
+    {
+      "No.": "090087",
+      "Goods and Services": "cabinets for loudspeakers"
+    },
+    {
+      "No.": "090088",
+      "Goods and Services": "close-up lenses"
+    },
+    {
+      "No.": "090089",
+      "Goods and Services": "terminals [electricity]"
+    },
+    {
+      "No.": "090090",
+      "Goods and Services": "pressure indicator plugs for valves"
+    },
+    {
+      "No.": "090092",
+      "Goods and Services": "galvanometers"
+    },
+    {
+      "No.": "090093",
+      "Goods and Services": "push buttons for bells"
+    },
+    {
+      "No.": "090094",
+      "Goods and Services": "branch boxes [electricity]"
+    },
+    {
+      "No.": "090095",
+      "Goods and Services": "tone arms for record players"
+    },
+    {
+      "No.": "090096",
+      "Goods and Services": "spirit levels"
+    },
+    {
+      "No.": "090097",
+      "Goods and Services": "punched card machines for offices"
+    },
+    {
+      "No.": "090098",
+      "Goods and Services": "sheaths for electric cables"
+    },
+    {
+      "No.": "090099",
+      "Goods and Services": "frames for photographic transparencies"
+    },
+    {
+      "No.": "090101",
+      "Goods and Services": "circular slide rules"
+    },
+    {
+      "No.": "090102",
+      "Goods and Services": "slide-rules"
+    },
+    {
+      "No.": "090103",
+      "Goods and Services": "calculating machines"
+    },
+    {
+      "No.": "090104",
+      "Goods and Services": "slide calipers"
+    },
+    {
+      "No.": "090105",
+      "Goods and Services": "jigs [measuring instruments]"
+    },
+    {
+      "No.": "090106",
+      "Goods and Services": "blueprint apparatus"
+    },
+    {
+      "No.": "090107",
+      "Goods and Services": "cinematographic cameras"
+    },
+    {
+      "No.": "090109",
+      "Goods and Services": "capillary tubes for laboratory use"
+    },
+    {
+      "No.": "090111",
+      "Goods and Services": "sound recording carriers"
+    },
+    {
+      "No.": "090112",
+      "Goods and Services": "protective helmets"
+    },
+    {
+      "No.": "090113",
+      "Goods and Services": "respiratory masks, not for medical purposes"
+    },
+    {
+      "No.": "090114",
+      "Goods and Services": "solderers' helmets"
+    },
+    {
+      "No.": "090115",
+      "Goods and Services": "spectacle chains / eyeglass chains"
+    },
+    {
+      "No.": "090116",
+      "Goods and Services": "heat regulating apparatus"
+    },
+    {
+      "No.": "090117",
+      "Goods and Services": "darkrooms [photography]"
+    },
+    {
+      "No.": "090120",
+      "Goods and Services": "boiler control instruments"
+    },
+    {
+      "No.": "090122",
+      "Goods and Services": "drying racks [photography]"
+    },
+    {
+      "No.": "090124",
+      "Goods and Services": "apparatus for editing cinematographic film"
+    },
+    {
+      "No.": "090125",
+      "Goods and Services": "printed circuits"
+    },
+    {
+      "No.": "090126",
+      "Goods and Services": "flashing lights [luminous signals]"
+    },
+    {
+      "No.": "090127",
+      "Goods and Services": "signal bells"
+    },
+    {
+      "No.": "090128",
+      "Goods and Services": "containers for microscope slides"
+    },
+    {
+      "No.": "090129",
+      "Goods and Services": "collectors, electric"
+    },
+    {
+      "No.": "090130",
+      "Goods and Services": "electric installations for the remote control of industrial operations"
+    },
+    {
+      "No.": "090131",
+      "Goods and Services": "switchboxes [electricity]"
+    },
+    {
+      "No.": "090132",
+      "Goods and Services": "commutators"
+    },
+    {
+      "No.": "090133",
+      "Goods and Services": "marine compasses"
+    },
+    {
+      "No.": "090134",
+      "Goods and Services": "eyepieces"
+    },
+    {
+      "No.": "090136",
+      "Goods and Services": "thread counters"
+    },
+    {
+      "No.": "090137",
+      "Goods and Services": "pedometers"
+    },
+    {
+      "No.": "090138",
+      "Goods and Services": "counters / meters"
+    },
+    {
+      "No.": "090139",
+      "Goods and Services": "metronomes"
+    },
+    {
+      "No.": "090140",
+      "Goods and Services": "condensers [capacitors] / capacitors"
+    },
+    {
+      "No.": "090141",
+      "Goods and Services": "conductors, electric"
+    },
+    {
+      "No.": "090142",
+      "Goods and Services": "electricity conduits"
+    },
+    {
+      "No.": "090143",
+      "Goods and Services": "circuit closers"
+    },
+    {
+      "No.": "090144",
+      "Goods and Services": "connectors [electricity]"
+    },
+    {
+      "No.": "090145",
+      "Goods and Services": "junction boxes [electricity]"
+    },
+    {
+      "No.": "090146",
+      "Goods and Services": "switchboards"
+    },
+    {
+      "No.": "090148",
+      "Goods and Services": "contacts, electric"
+    },
+    {
+      "No.": "090149",
+      "Goods and Services": "apparatus to check franking / apparatus to check stamping mail"
+    },
+    {
+      "No.": "090150",
+      "Goods and Services": "regulating apparatus, electric"
+    },
+    {
+      "No.": "090151",
+      "Goods and Services": "monitoring apparatus, other than for medical purposes"
+    },
+    {
+      "No.": "090152",
+      "Goods and Services": "speed checking apparatus for vehicles"
+    },
+    {
+      "No.": "090153",
+      "Goods and Services": "converters, electric"
+    },
+    {
+      "No.": "090154",
+      "Goods and Services": "photocopiers [photographic, electrostatic, thermic]"
+    },
+    {
+      "No.": "090156",
+      "Goods and Services": "spectacle cords / eyeglass cords"
+    },
+    {
+      "No.": "090157",
+      "Goods and Services": "retorts"
+    },
+    {
+      "No.": "090158",
+      "Goods and Services": "retorts' stands"
+    },
+    {
+      "No.": "090159",
+      "Goods and Services": "correcting lenses [optics]"
+    },
+    {
+      "No.": "090160",
+      "Goods and Services": "objectives [lenses] [optics]"
+    },
+    {
+      "No.": "090161",
+      "Goods and Services": "cosmographic instruments"
+    },
+    {
+      "No.": "090162",
+      "Goods and Services": "diving suits"
+    },
+    {
+      "No.": "090163",
+      "Goods and Services": "electric apparatus for commutation"
+    },
+    {
+      "No.": "090164",
+      "Goods and Services": "switches, electric"
+    },
+    {
+      "No.": "090165",
+      "Goods and Services": "limiters [electricity]"
+    },
+    {
+      "No.": "090166",
+      "Goods and Services": "electric plugs"
+    },
+    {
+      "No.": "090167",
+      "Goods and Services": "current rectifiers"
+    },
+    {
+      "No.": "090168",
+      "Goods and Services": "cell switches [electricity] / reducers [electricity]"
+    },
+    {
+      "No.": "090169",
+      "Goods and Services": "dressmakers' measures"
+    },
+    {
+      "No.": "090170",
+      "Goods and Services": "crucibles [laboratory] / cupels [laboratory]"
+    },
+    {
+      "No.": "090171",
+      "Goods and Services": "appliances for measuring the thickness of leather"
+    },
+    {
+      "No.": "090172",
+      "Goods and Services": "cyclotrons"
+    },
+    {
+      "No.": "090173",
+      "Goods and Services": "counterfeit coin detectors"
+    },
+    {
+      "No.": "090174",
+      "Goods and Services": "shutter releases [photography]"
+    },
+    {
+      "No.": "090175",
+      "Goods and Services": "densimeters"
+    },
+    {
+      "No.": "090176",
+      "Goods and Services": "animated cartoons"
+    },
+    {
+      "No.": "090177",
+      "Goods and Services": "laboratory trays"
+    },
+    {
+      "No.": "090178",
+      "Goods and Services": "metal detectors for industrial or military purposes"
+    },
+    {
+      "No.": "090179",
+      "Goods and Services": "sonars"
+    },
+    {
+      "No.": "090180",
+      "Goods and Services": "detectors"
+    },
+    {
+      "No.": "090181",
+      "Goods and Services": "shutters [photography]"
+    },
+    {
+      "No.": "090182",
+      "Goods and Services": "diaphragms [acoustics]"
+    },
+    {
+      "No.": "090183",
+      "Goods and Services": "centering apparatus for photographic transparencies"
+    },
+    {
+      "No.": "090184",
+      "Goods and Services": "cameras [photography]"
+    },
+    {
+      "No.": "090185",
+      "Goods and Services": "transparencies [photography] / slides [photography]"
+    },
+    {
+      "No.": "090186",
+      "Goods and Services": "slide projectors / transparency projection apparatus"
+    },
+    {
+      "No.": "090187",
+      "Goods and Services": "distance measuring apparatus"
+    },
+    {
+      "No.": "090188",
+      "Goods and Services": "dictating machines"
+    },
+    {
+      "No.": "090189",
+      "Goods and Services": "diffraction apparatus [microscopy]"
+    },
+    {
+      "No.": "090190",
+      "Goods and Services": "loudspeakers"
+    },
+    {
+      "No.": "090191",
+      "Goods and Services": "circuit breakers"
+    },
+    {
+      "No.": "090192",
+      "Goods and Services": "record players"
+    },
+    {
+      "No.": "090193",
+      "Goods and Services": "microscopes"
+    },
+    {
+      "No.": "090194",
+      "Goods and Services": "distance recording apparatus / apparatus for recording distance"
+    },
+    {
+      "No.": "090195",
+      "Goods and Services": "range finders / telemeters"
+    },
+    {
+      "No.": "090197",
+      "Goods and Services": "distribution boards [electricity]"
+    },
+    {
+      "No.": "090198",
+      "Goods and Services": "distribution consoles [electricity]"
+    },
+    {
+      "No.": "090200",
+      "Goods and Services": "compasses for measuring"
+    },
+    {
+      "No.": "090201",
+      "Goods and Services": "measures"
+    },
+    {
+      "No.": "090202",
+      "Goods and Services": "measuring apparatus"
+    },
+    {
+      "No.": "090203",
+      "Goods and Services": "dynamometers"
+    },
+    {
+      "No.": "090204",
+      "Goods and Services": "water level indicators"
+    },
+    {
+      "No.": "090205",
+      "Goods and Services": "fire escapes"
+    },
+    {
+      "No.": "090206",
+      "Goods and Services": "flash-bulbs [photography]"
+    },
+    {
+      "No.": "090207",
+      "Goods and Services": "telephone receivers"
+    },
+    {
+      "No.": "090208",
+      "Goods and Services": "fluorescent screens"
+    },
+    {
+      "No.": "090209",
+      "Goods and Services": "projection screens"
+    },
+    {
+      "No.": "090210",
+      "Goods and Services": "protective face shields for workers"
+    },
+    {
+      "No.": "090211",
+      "Goods and Services": "screens [photography]"
+    },
+    {
+      "No.": "090212",
+      "Goods and Services": "drainers for use in photography / photographic racks"
+    },
+    {
+      "No.": "090213",
+      "Goods and Services": "electric loss indicators"
+    },
+    {
+      "No.": "090214",
+      "Goods and Services": "measuring devices, electric"
+    },
+    {
+      "No.": "090215",
+      "Goods and Services": "cables, electric"
+    },
+    {
+      "No.": "090216",
+      "Goods and Services": "ducts [electricity]"
+    },
+    {
+      "No.": "090217",
+      "Goods and Services": "control panels [electricity]"
+    },
+    {
+      "No.": "090218",
+      "Goods and Services": "galvanic cells"
+    },
+    {
+      "No.": "090219",
+      "Goods and Services": "connections for electric lines"
+    },
+    {
+      "No.": "090220",
+      "Goods and Services": "couplings, electric / connections, electric"
+    },
+    {
+      "No.": "090222",
+      "Goods and Services": "relays, electric"
+    },
+    {
+      "No.": "090227",
+      "Goods and Services": "transmitters of electronic signals"
+    },
+    {
+      "No.": "090228",
+      "Goods and Services": "transmitting sets [telecommunication]"
+    },
+    {
+      "No.": "090230",
+      "Goods and Services": "cleaning apparatus for phonograph records / cleaning apparatus for sound recording discs"
+    },
+    {
+      "No.": "090231",
+      "Goods and Services": "sound recording strips"
+    },
+    {
+      "No.": "090232",
+      "Goods and Services": "mileage recorders for vehicles / kilometer recorders for vehicles"
+    },
+    {
+      "No.": "090233",
+      "Goods and Services": "spools [photography]"
+    },
+    {
+      "No.": "090234",
+      "Goods and Services": "mechanical signs"
+    },
+    {
+      "No.": "090235",
+      "Goods and Services": "epidiascopes"
+    },
+    {
+      "No.": "090236",
+      "Goods and Services": "test tubes"
+    },
+    {
+      "No.": "090237",
+      "Goods and Services": "balancing apparatus"
+    },
+    {
+      "No.": "090238",
+      "Goods and Services": "thermostats"
+    },
+    {
+      "No.": "090239",
+      "Goods and Services": "ergometers"
+    },
+    {
+      "No.": "090240",
+      "Goods and Services": "material testing instruments and machines"
+    },
+    {
+      "No.": "090241",
+      "Goods and Services": "egg-candlers"
+    },
+    {
+      "No.": "090242",
+      "Goods and Services": "gauges"
+    },
+    {
+      "No.": "090243",
+      "Goods and Services": "petrol gauges / gasoline gauges"
+    },
+    {
+      "No.": "090245",
+      "Goods and Services": "spark-guards"
+    },
+    {
+      "No.": "090246",
+      "Goods and Services": "cases especially made for photographic apparatus and instruments"
+    },
+    {
+      "No.": "090249",
+      "Goods and Services": "testing apparatus not for medical purposes"
+    },
+    {
+      "No.": "090250",
+      "Goods and Services": "refractometers"
+    },
+    {
+      "No.": "090251",
+      "Goods and Services": "exposure meters [light meters]"
+    },
+    {
+      "No.": "090252",
+      "Goods and Services": "invoicing machines"
+    },
+    {
+      "No.": "090253",
+      "Goods and Services": "fermentation apparatus for laboratory use"
+    },
+    {
+      "No.": "090254",
+      "Goods and Services": "railway traffic safety appliances"
+    },
+    {
+      "No.": "090255",
+      "Goods and Services": "wires, electric"
+    },
+    {
+      "No.": "090256",
+      "Goods and Services": "magnetic wires"
+    },
+    {
+      "No.": "090257",
+      "Goods and Services": "plumb bobs"
+    },
+    {
+      "No.": "090258",
+      "Goods and Services": "plumb lines"
+    },
+    {
+      "No.": "090259",
+      "Goods and Services": "nets for protection against accidents"
+    },
+    {
+      "No.": "090260",
+      "Goods and Services": "safety nets / life nets"
+    },
+    {
+      "No.": "090261",
+      "Goods and Services": "safety tarpaulins"
+    },
+    {
+      "No.": "090262",
+      "Goods and Services": "film cutting apparatus"
+    },
+    {
+      "No.": "090263",
+      "Goods and Services": "filters for respiratory masks, not for medical purposes"
+    },
+    {
+      "No.": "090264",
+      "Goods and Services": "filters for use in photography"
+    },
+    {
+      "No.": "090266",
+      "Goods and Services": "battery chargers"
+    },
+    {
+      "No.": "090267",
+      "Goods and Services": "high-frequency apparatus"
+    },
+    {
+      "No.": "090268",
+      "Goods and Services": "frequency meters"
+    },
+    {
+      "No.": "090269",
+      "Goods and Services": "fuses"
+    },
+    {
+      "No.": "090270",
+      "Goods and Services": "radios"
+    },
+    {
+      "No.": "090271",
+      "Goods and Services": "galena crystals [detectors]"
+    },
+    {
+      "No.": "090272",
+      "Goods and Services": "galvanic batteries"
+    },
+    {
+      "No.": "090274",
+      "Goods and Services": "gloves for protection against accidents"
+    },
+    {
+      "No.": "090275",
+      "Goods and Services": "gloves for divers"
+    },
+    {
+      "No.": "090276",
+      "Goods and Services": "gloves for protection against X-rays for industrial purposes"
+    },
+    {
+      "No.": "090278",
+      "Goods and Services": "gas testing instruments"
+    },
+    {
+      "No.": "090279",
+      "Goods and Services": "gasometers [measuring instruments]"
+    },
+    {
+      "No.": "090280",
+      "Goods and Services": "surveying apparatus and instruments"
+    },
+    {
+      "No.": "090281",
+      "Goods and Services": "levelling staffs [surveying instruments] / rods [surveying instruments]"
+    },
+    {
+      "No.": "090282",
+      "Goods and Services": "drying apparatus for photographic prints"
+    },
+    {
+      "No.": "090283",
+      "Goods and Services": "glazing apparatus for photographic prints"
+    },
+    {
+      "No.": "090284",
+      "Goods and Services": "rulers [measuring instruments]"
+    },
+    {
+      "No.": "090285",
+      "Goods and Services": "measuring glassware / graduated glassware"
+    },
+    {
+      "No.": "090286",
+      "Goods and Services": "screens for photoengraving"
+    },
+    {
+      "No.": "090287",
+      "Goods and Services": "grids for batteries"
+    },
+    {
+      "No.": "090288",
+      "Goods and Services": "clothing for protection against fire / garments for protection against fire"
+    },
+    {
+      "No.": "090289",
+      "Goods and Services": "audio- and video-receivers"
+    },
+    {
+      "No.": "090290",
+      "Goods and Services": "heliographic apparatus"
+    },
+    {
+      "No.": "090291",
+      "Goods and Services": "holograms"
+    },
+    {
+      "No.": "090292",
+      "Goods and Services": "hygrometers"
+    },
+    {
+      "No.": "090293",
+      "Goods and Services": "identification threads for electric wires"
+    },
+    {
+      "No.": "090294",
+      "Goods and Services": "identification sheaths for electric wires"
+    },
+    {
+      "No.": "090295",
+      "Goods and Services": "life-saving apparatus and equipment"
+    },
+    {
+      "No.": "090296",
+      "Goods and Services": "fire hose nozzles"
+    },
+    {
+      "No.": "090297",
+      "Goods and Services": "fire engines"
+    },
+    {
+      "No.": "090298",
+      "Goods and Services": "fire pumps"
+    },
+    {
+      "No.": "090299",
+      "Goods and Services": "slope indicators / clinometers / gradient indicators / inclinometers"
+    },
+    {
+      "No.": "090300",
+      "Goods and Services": "taximeters"
+    },
+    {
+      "No.": "090301",
+      "Goods and Services": "quantity indicators"
+    },
+    {
+      "No.": "090302",
+      "Goods and Services": "vacuum gauges"
+    },
+    {
+      "No.": "090303",
+      "Goods and Services": "speed indicators"
+    },
+    {
+      "No.": "090304",
+      "Goods and Services": "inductors [electricity]"
+    },
+    {
+      "No.": "090305",
+      "Goods and Services": "armatures [electricity]"
+    },
+    {
+      "No.": "090306",
+      "Goods and Services": "data processing apparatus"
+    },
+    {
+      "No.": "090307",
+      "Goods and Services": "mirrors for inspecting work"
+    },
+    {
+      "No.": "090308",
+      "Goods and Services": "intercommunication apparatus"
+    },
+    {
+      "No.": "090309",
+      "Goods and Services": "carriers for dark plates [photography]"
+    },
+    {
+      "No.": "090310",
+      "Goods and Services": "inverters [electricity]"
+    },
+    {
+      "No.": "090311",
+      "Goods and Services": "ionization apparatus not for the treatment of air or water"
+    },
+    {
+      "No.": "090312",
+      "Goods and Services": "peepholes [magnifying lenses] for doors"
+    },
+    {
+      "No.": "090313",
+      "Goods and Services": "hemline markers"
+    },
+    {
+      "No.": "090315",
+      "Goods and Services": "furniture especially made for laboratories"
+    },
+    {
+      "No.": "090316",
+      "Goods and Services": "lactodensimeters"
+    },
+    {
+      "No.": "090317",
+      "Goods and Services": "lactometers"
+    },
+    {
+      "No.": "090318",
+      "Goods and Services": "darkroom lamps [photography]"
+    },
+    {
+      "No.": "090319",
+      "Goods and Services": "optical lanterns / optical lamps"
+    },
+    {
+      "No.": "090321",
+      "Goods and Services": "magic lanterns"
+    },
+    {
+      "No.": "090322",
+      "Goods and Services": "signal lanterns"
+    },
+    {
+      "No.": "090323",
+      "Goods and Services": "lasers, not for medical purposes"
+    },
+    {
+      "No.": "090324",
+      "Goods and Services": "optical lenses"
+    },
+    {
+      "No.": "090325",
+      "Goods and Services": "letter scales"
+    },
+    {
+      "No.": "090326",
+      "Goods and Services": "logs [measuring instruments]"
+    },
+    {
+      "No.": "090327",
+      "Goods and Services": "sounding lines"
+    },
+    {
+      "No.": "090328",
+      "Goods and Services": "magnifying glasses [optics]"
+    },
+    {
+      "No.": "090329",
+      "Goods and Services": "signs, luminous"
+    },
+    {
+      "No.": "090330",
+      "Goods and Services": "neon signs"
+    },
+    {
+      "No.": "090331",
+      "Goods and Services": "spectacles / eyeglasses"
+    },
+    {
+      "No.": "090333",
+      "Goods and Services": "surveyors' levels"
+    },
+    {
+      "No.": "090334",
+      "Goods and Services": "spectacle lenses / eyeglass lenses"
+    },
+    {
+      "No.": "090335",
+      "Goods and Services": "eyewear"
+    },
+    {
+      "No.": "090336",
+      "Goods and Services": "pressure gauges"
+    },
+    {
+      "No.": "090337",
+      "Goods and Services": "periscopes"
+    },
+    {
+      "No.": "090338",
+      "Goods and Services": "protective masks, not for medical purposes"
+    },
+    {
+      "No.": "090339",
+      "Goods and Services": "mathematical instruments"
+    },
+    {
+      "No.": "090340",
+      "Goods and Services": "coin-operated mechanisms for television sets"
+    },
+    {
+      "No.": "090341",
+      "Goods and Services": "megaphones"
+    },
+    {
+      "No.": "090342",
+      "Goods and Services": "computer memory devices"
+    },
+    {
+      "No.": "090343",
+      "Goods and Services": "carpenters' rules"
+    },
+    {
+      "No.": "090344",
+      "Goods and Services": "mercury levels"
+    },
+    {
+      "No.": "090345",
+      "Goods and Services": "speed measuring apparatus [photography]"
+    },
+    {
+      "No.": "090346",
+      "Goods and Services": "precision measuring apparatus"
+    },
+    {
+      "No.": "090347",
+      "Goods and Services": "measuring instruments"
+    },
+    {
+      "No.": "090348",
+      "Goods and Services": "meteorological instruments"
+    },
+    {
+      "No.": "090349",
+      "Goods and Services": "rules [measuring instruments]"
+    },
+    {
+      "No.": "090350",
+      "Goods and Services": "micrometer screws for optical instruments"
+    },
+    {
+      "No.": "090351",
+      "Goods and Services": "microphones"
+    },
+    {
+      "No.": "090352",
+      "Goods and Services": "microtomes"
+    },
+    {
+      "No.": "090353",
+      "Goods and Services": "time switches, automatic"
+    },
+    {
+      "No.": "090354",
+      "Goods and Services": "mirrors [optics]"
+    },
+    {
+      "No.": "090355",
+      "Goods and Services": "breathing apparatus for underwater swimming"
+    },
+    {
+      "No.": "090356",
+      "Goods and Services": "nautical apparatus and instruments"
+    },
+    {
+      "No.": "090357",
+      "Goods and Services": "naval signalling apparatus"
+    },
+    {
+      "No.": "090358",
+      "Goods and Services": "navigational instruments"
+    },
+    {
+      "No.": "090359",
+      "Goods and Services": "spectacle frames / eyeglass frames"
+    },
+    {
+      "No.": "090360",
+      "Goods and Services": "batteries, electric"
+    },
+    {
+      "No.": "090361",
+      "Goods and Services": "accumulators, electric"
+    },
+    {
+      "No.": "090362",
+      "Goods and Services": "levels [instruments for determining the horizontal]"
+    },
+    {
+      "No.": "090363",
+      "Goods and Services": "levelling instruments"
+    },
+    {
+      "No.": "090365",
+      "Goods and Services": "prisms [optics]"
+    },
+    {
+      "No.": "090366",
+      "Goods and Services": "observation instruments"
+    },
+    {
+      "No.": "090367",
+      "Goods and Services": "octants"
+    },
+    {
+      "No.": "090368",
+      "Goods and Services": "ohmmeters"
+    },
+    {
+      "No.": "090369",
+      "Goods and Services": "wavemeters"
+    },
+    {
+      "No.": "090370",
+      "Goods and Services": "optical apparatus and instruments"
+    },
+    {
+      "No.": "090371",
+      "Goods and Services": "optical glass"
+    },
+    {
+      "No.": "090372",
+      "Goods and Services": "computers"
+    },
+    {
+      "No.": "090373",
+      "Goods and Services": "computer programs, recorded"
+    },
+    {
+      "No.": "090374",
+      "Goods and Services": "oscillographs"
+    },
+    {
+      "No.": "090377",
+      "Goods and Services": "oxygen transvasing apparatus"
+    },
+    {
+      "No.": "090379",
+      "Goods and Services": "micrometers / micrometer gauges"
+    },
+    {
+      "No.": "090380",
+      "Goods and Services": "signalling panels, luminous or mechanical"
+    },
+    {
+      "No.": "090381",
+      "Goods and Services": "lightning conductors / lightning arresters / lightning rods"
+    },
+    {
+      "No.": "090383",
+      "Goods and Services": "parking meters"
+    },
+    {
+      "No.": "090384",
+      "Goods and Services": "apparatus and instruments for astronomy"
+    },
+    {
+      "No.": "090386",
+      "Goods and Services": "apparatus for measuring the thickness of skins"
+    },
+    {
+      "No.": "090387",
+      "Goods and Services": "acid hydrometers"
+    },
+    {
+      "No.": "090388",
+      "Goods and Services": "weighing apparatus and instruments"
+    },
+    {
+      "No.": "090389",
+      "Goods and Services": "salinometers"
+    },
+    {
+      "No.": "090390",
+      "Goods and Services": "washing trays [photography]"
+    },
+    {
+      "No.": "090391",
+      "Goods and Services": "stands for photographic apparatus"
+    },
+    {
+      "No.": "090392",
+      "Goods and Services": "viewfinders, photographic"
+    },
+    {
+      "No.": "090393",
+      "Goods and Services": "photometers"
+    },
+    {
+      "No.": "090394",
+      "Goods and Services": "phototelegraphy apparatus"
+    },
+    {
+      "No.": "090395",
+      "Goods and Services": "apparatus and instruments for physics"
+    },
+    {
+      "No.": "090396",
+      "Goods and Services": "steering apparatus, automatic, for vehicles"
+    },
+    {
+      "No.": "090397",
+      "Goods and Services": "pince-nez"
+    },
+    {
+      "No.": "090398",
+      "Goods and Services": "laboratory pipettes"
+    },
+    {
+      "No.": "090399",
+      "Goods and Services": "plane tables [surveying instruments]"
+    },
+    {
+      "No.": "090400",
+      "Goods and Services": "planimeters"
+    },
+    {
+      "No.": "090401",
+      "Goods and Services": "ear plugs for divers"
+    },
+    {
+      "No.": "090402",
+      "Goods and Services": "bells [warning devices]"
+    },
+    {
+      "No.": "090403",
+      "Goods and Services": "weights*"
+    },
+    {
+      "No.": "090404",
+      "Goods and Services": "polarimeters"
+    },
+    {
+      "No.": "090407",
+      "Goods and Services": "radiotelephony sets"
+    },
+    {
+      "No.": "090408",
+      "Goods and Services": "radiotelegraphy sets"
+    },
+    {
+      "No.": "090409",
+      "Goods and Services": "pressure measuring apparatus"
+    },
+    {
+      "No.": "090410",
+      "Goods and Services": "pressure indicators"
+    },
+    {
+      "No.": "090411",
+      "Goods and Services": "projection apparatus"
+    },
+    {
+      "No.": "090412",
+      "Goods and Services": "cathodic anti-corrosion apparatus"
+    },
+    {
+      "No.": "090414",
+      "Goods and Services": "teeth protectors*"
+    },
+    {
+      "No.": "090415",
+      "Goods and Services": "pyrometers"
+    },
+    {
+      "No.": "090416",
+      "Goods and Services": "radar apparatus"
+    },
+    {
+      "No.": "090417",
+      "Goods and Services": "vehicle radios"
+    },
+    {
+      "No.": "090418",
+      "Goods and Services": "radiological apparatus for industrial purposes"
+    },
+    {
+      "No.": "090419",
+      "Goods and Services": "protractors [measuring instruments]"
+    },
+    {
+      "No.": "090420",
+      "Goods and Services": "apparatus and installations for the production of X-rays, not for medical purposes"
+    },
+    {
+      "No.": "090421",
+      "Goods and Services": "X-ray tubes not for medical purposes"
+    },
+    {
+      "No.": "090422",
+      "Goods and Services": "protection devices against X-rays, not for medical purposes"
+    },
+    {
+      "No.": "090423",
+      "Goods and Services": "telephone apparatus"
+    },
+    {
+      "No.": "090424",
+      "Goods and Services": "refractors"
+    },
+    {
+      "No.": "090425",
+      "Goods and Services": "X-ray apparatus not for medical purposes"
+    },
+    {
+      "No.": "090426",
+      "Goods and Services": "spectroscopes"
+    },
+    {
+      "No.": "090427",
+      "Goods and Services": "resistances, electric"
+    },
+    {
+      "No.": "090429",
+      "Goods and Services": "thermometers, not for medical purposes"
+    },
+    {
+      "No.": "090430",
+      "Goods and Services": "respirators for filtering air, not for medical purposes"
+    },
+    {
+      "No.": "090431",
+      "Goods and Services": "breathing apparatus, not for medical purposes"
+    },
+    {
+      "No.": "090432",
+      "Goods and Services": "rheostats"
+    },
+    {
+      "No.": "090433",
+      "Goods and Services": "balances [steelyards] / lever scales [steelyards] / steelyards [lever scales]"
+    },
+    {
+      "No.": "090434",
+      "Goods and Services": "signals, luminous or mechanical"
+    },
+    {
+      "No.": "090435",
+      "Goods and Services": "saccharometers"
+    },
+    {
+      "No.": "090436",
+      "Goods and Services": "probes for scientific purposes"
+    },
+    {
+      "No.": "090437",
+      "Goods and Services": "satellites for scientific purposes"
+    },
+    {
+      "No.": "090439",
+      "Goods and Services": "diaphragms for scientific apparatus"
+    },
+    {
+      "No.": "090440",
+      "Goods and Services": "teaching apparatus"
+    },
+    {
+      "No.": "090441",
+      "Goods and Services": "choking coils [impedance]"
+    },
+    {
+      "No.": "090442",
+      "Goods and Services": "wire connectors [electricity]"
+    },
+    {
+      "No.": "090443",
+      "Goods and Services": "locks, electric"
+    },
+    {
+      "No.": "090444",
+      "Goods and Services": "sextants"
+    },
+    {
+      "No.": "090445",
+      "Goods and Services": "signalling whistles"
+    },
+    {
+      "No.": "090446",
+      "Goods and Services": "vehicle breakdown warning triangles"
+    },
+    {
+      "No.": "090447",
+      "Goods and Services": "electro-dynamic apparatus for the remote control of signals"
+    },
+    {
+      "No.": "090448",
+      "Goods and Services": "simulators for the steering and control of vehicles"
+    },
+    {
+      "No.": "090449",
+      "Goods and Services": "sirens"
+    },
+    {
+      "No.": "090450",
+      "Goods and Services": "sound transmitting apparatus"
+    },
+    {
+      "No.": "090451",
+      "Goods and Services": "sound recording apparatus"
+    },
+    {
+      "No.": "090452",
+      "Goods and Services": "sound reproduction apparatus"
+    },
+    {
+      "No.": "090453",
+      "Goods and Services": "sounding apparatus and machines"
+    },
+    {
+      "No.": "090454",
+      "Goods and Services": "sounding leads"
+    },
+    {
+      "No.": "090455",
+      "Goods and Services": "sound locating instruments"
+    },
+    {
+      "No.": "090457",
+      "Goods and Services": "spectrograph apparatus"
+    },
+    {
+      "No.": "090458",
+      "Goods and Services": "spherometers"
+    },
+    {
+      "No.": "090460",
+      "Goods and Services": "stereoscopes"
+    },
+    {
+      "No.": "090461",
+      "Goods and Services": "stereoscopic apparatus"
+    },
+    {
+      "No.": "090462",
+      "Goods and Services": "needles for record players / styli for record players"
+    },
+    {
+      "No.": "090463",
+      "Goods and Services": "sulfitometers"
+    },
+    {
+      "No.": "090464",
+      "Goods and Services": "teleprinters / teletypewriters"
+    },
+    {
+      "No.": "090465",
+      "Goods and Services": "tachometers"
+    },
+    {
+      "No.": "090466",
+      "Goods and Services": "screw-tapping gauges"
+    },
+    {
+      "No.": "090467",
+      "Goods and Services": "telegraphs [apparatus]"
+    },
+    {
+      "No.": "090468",
+      "Goods and Services": "television apparatus"
+    },
+    {
+      "No.": "090469",
+      "Goods and Services": "telegraph wires"
+    },
+    {
+      "No.": "090470",
+      "Goods and Services": "remote control apparatus"
+    },
+    {
+      "No.": "090471",
+      "Goods and Services": "masts for wireless aerials"
+    },
+    {
+      "No.": "090472",
+      "Goods and Services": "teleprompters"
+    },
+    {
+      "No.": "090473",
+      "Goods and Services": "telephone transmitters"
+    },
+    {
+      "No.": "090474",
+      "Goods and Services": "telerupters"
+    },
+    {
+      "No.": "090475",
+      "Goods and Services": "binoculars"
+    },
+    {
+      "No.": "090476",
+      "Goods and Services": "telescopes"
+    },
+    {
+      "No.": "090477",
+      "Goods and Services": "temperature indicators"
+    },
+    {
+      "No.": "090478",
+      "Goods and Services": "time recording apparatus"
+    },
+    {
+      "No.": "090479",
+      "Goods and Services": "theodolites"
+    },
+    {
+      "No.": "090481",
+      "Goods and Services": "thermostats for vehicles"
+    },
+    {
+      "No.": "090484",
+      "Goods and Services": "totalizators"
+    },
+    {
+      "No.": "090485",
+      "Goods and Services": "revolution counters"
+    },
+    {
+      "No.": "090486",
+      "Goods and Services": "speed regulators for record players"
+    },
+    {
+      "No.": "090488",
+      "Goods and Services": "transmitters [telecommunication]"
+    },
+    {
+      "No.": "090489",
+      "Goods and Services": "precision balances"
+    },
+    {
+      "No.": "090490",
+      "Goods and Services": "marking gauges [joinery]"
+    },
+    {
+      "No.": "090491",
+      "Goods and Services": "vacuum tubes [radio]"
+    },
+    {
+      "No.": "090492",
+      "Goods and Services": "urinometers"
+    },
+    {
+      "No.": "090493",
+      "Goods and Services": "variometers"
+    },
+    {
+      "No.": "090494",
+      "Goods and Services": "verniers"
+    },
+    {
+      "No.": "090495",
+      "Goods and Services": "videotapes"
+    },
+    {
+      "No.": "090496",
+      "Goods and Services": "viscosimeters"
+    },
+    {
+      "No.": "090497",
+      "Goods and Services": "theft prevention installations, electric"
+    },
+    {
+      "No.": "090498",
+      "Goods and Services": "voltage regulators for vehicles"
+    },
+    {
+      "No.": "090499",
+      "Goods and Services": "voting machines"
+    },
+    {
+      "No.": "090500",
+      "Goods and Services": "voltmeters"
+    },
+    {
+      "No.": "090503",
+      "Goods and Services": "apparatus for changing record player needles"
+    },
+    {
+      "No.": "090504",
+      "Goods and Services": "stills for laboratory experiments"
+    },
+    {
+      "No.": "090505",
+      "Goods and Services": "fuse wire"
+    },
+    {
+      "No.": "090507",
+      "Goods and Services": "anticathodes"
+    },
+    {
+      "No.": "090508",
+      "Goods and Services": "dog whistles"
+    },
+    {
+      "No.": "090509",
+      "Goods and Services": "sighting telescopes for firearms / telescopic sights for firearms"
+    },
+    {
+      "No.": "090511",
+      "Goods and Services": "anti-theft warning apparatus"
+    },
+    {
+      "No.": "090512",
+      "Goods and Services": "azimuth instruments"
+    },
+    {
+      "No.": "090513",
+      "Goods and Services": "beacons, luminous"
+    },
+    {
+      "No.": "090514",
+      "Goods and Services": "holders for electric coils"
+    },
+    {
+      "No.": "090515",
+      "Goods and Services": "films, exposed"
+    },
+    {
+      "No.": "090516",
+      "Goods and Services": "road signs, luminous or mechanical"
+    },
+    {
+      "No.": "090517",
+      "Goods and Services": "life buoys"
+    },
+    {
+      "No.": "090518",
+      "Goods and Services": "signalling buoys"
+    },
+    {
+      "No.": "090522",
+      "Goods and Services": "buzzers"
+    },
+    {
+      "No.": "090523",
+      "Goods and Services": "directional compasses"
+    },
+    {
+      "No.": "090524",
+      "Goods and Services": "fog signals, non-explosive"
+    },
+    {
+      "No.": "090525",
+      "Goods and Services": "cash registers"
+    },
+    {
+      "No.": "090526",
+      "Goods and Services": "radiology screens for industrial purposes"
+    },
+    {
+      "No.": "090529",
+      "Goods and Services": "identity cards, magnetic"
+    },
+    {
+      "No.": "090531",
+      "Goods and Services": "photovoltaic cells"
+    },
+    {
+      "No.": "090532",
+      "Goods and Services": "densitometers, not for medical purposes"
+    },
+    {
+      "No.": "090533",
+      "Goods and Services": "disks, magnetic"
+    },
+    {
+      "No.": "090534",
+      "Goods and Services": "floppy disks"
+    },
+    {
+      "No.": "090535",
+      "Goods and Services": "head cleaning tapes [recording]"
+    },
+    {
+      "No.": "090536",
+      "Goods and Services": "video recorders"
+    },
+    {
+      "No.": "090537",
+      "Goods and Services": "computer keyboards"
+    },
+    {
+      "No.": "090538",
+      "Goods and Services": "integrated circuits"
+    },
+    {
+      "No.": "090539",
+      "Goods and Services": "semiconductors"
+    },
+    {
+      "No.": "090540",
+      "Goods and Services": "chips [integrated circuits]"
+    },
+    {
+      "No.": "090543",
+      "Goods and Services": "cathodes"
+    },
+    {
+      "No.": "090546",
+      "Goods and Services": "life jackets"
+    },
+    {
+      "No.": "090547",
+      "Goods and Services": "life belts"
+    },
+    {
+      "No.": "090549",
+      "Goods and Services": "chemistry apparatus and instruments"
+    },
+    {
+      "No.": "090550",
+      "Goods and Services": "cinematographic film, exposed"
+    },
+    {
+      "No.": "090553",
+      "Goods and Services": "materials for electricity mains [wires, cables]"
+    },
+    {
+      "No.": "090554",
+      "Goods and Services": "contact lenses"
+    },
+    {
+      "No.": "090555",
+      "Goods and Services": "containers for contact lenses"
+    },
+    {
+      "No.": "090556",
+      "Goods and Services": "incubators for bacteria culture"
+    },
+    {
+      "No.": "090557",
+      "Goods and Services": "solar batteries"
+    },
+    {
+      "No.": "090558",
+      "Goods and Services": "copper wire, insulated"
+    },
+    {
+      "No.": "090559",
+      "Goods and Services": "discharge tubes, electric, other than for lighting / electric discharge tubes, other than for lighting"
+    },
+    {
+      "No.": "090562",
+      "Goods and Services": "diaphragms [photography]"
+    },
+    {
+      "No.": "090564",
+      "Goods and Services": "distillation apparatus for scientific purposes"
+    },
+    {
+      "No.": "090565",
+      "Goods and Services": "dosimeters"
+    },
+    {
+      "No.": "090566",
+      "Goods and Services": "electric door bells"
+    },
+    {
+      "No.": "090567",
+      "Goods and Services": "spectacle cases / eyeglass cases"
+    },
+    {
+      "No.": "090568",
+      "Goods and Services": "furnaces for laboratory use / ovens for laboratory use"
+    },
+    {
+      "No.": "090571",
+      "Goods and Services": "optical fibres [light conducting filaments] / optical fibers [light conducting filaments]"
+    },
+    {
+      "No.": "090572",
+      "Goods and Services": "telephone wires"
+    },
+    {
+      "No.": "090573",
+      "Goods and Services": "X-ray films, exposed"
+    },
+    {
+      "No.": "090574",
+      "Goods and Services": "filters for ultraviolet rays, for photography"
+    },
+    {
+      "No.": "090575",
+      "Goods and Services": "horns for loudspeakers"
+    },
+    {
+      "No.": "090577",
+      "Goods and Services": "tripods for cameras"
+    },
+    {
+      "No.": "090581",
+      "Goods and Services": "bar code readers"
+    },
+    {
+      "No.": "090582",
+      "Goods and Services": "bullet-proof vests / bullet-proof waistcoats"
+    },
+    {
+      "No.": "090583",
+      "Goods and Services": "marking buoys"
+    },
+    {
+      "No.": "090584",
+      "Goods and Services": "wafers for integrated circuits"
+    },
+    {
+      "No.": "090585",
+      "Goods and Services": "chromatography apparatus for laboratory use"
+    },
+    {
+      "No.": "090586",
+      "Goods and Services": "chronographs [time recording apparatus]"
+    },
+    {
+      "No.": "090587",
+      "Goods and Services": "compact discs [audio-video]"
+    },
+    {
+      "No.": "090588",
+      "Goods and Services": "compact discs [read-only memory]"
+    },
+    {
+      "No.": "090589",
+      "Goods and Services": "computer operating programs, recorded"
+    },
+    {
+      "No.": "090590",
+      "Goods and Services": "computer peripheral devices"
+    },
+    {
+      "No.": "090591",
+      "Goods and Services": "computer software, recorded"
+    },
+    {
+      "No.": "090592",
+      "Goods and Services": "optical condensers"
+    },
+    {
+      "No.": "090593",
+      "Goods and Services": "acoustic couplers"
+    },
+    {
+      "No.": "090594",
+      "Goods and Services": "couplers [data processing equipment]"
+    },
+    {
+      "No.": "090595",
+      "Goods and Services": "decompression chambers"
+    },
+    {
+      "No.": "090596",
+      "Goods and Services": "plotters"
+    },
+    {
+      "No.": "090597",
+      "Goods and Services": "divers' masks"
+    },
+    {
+      "No.": "090598",
+      "Goods and Services": "electronic pens for visual display units"
+    },
+    {
+      "No.": "090599",
+      "Goods and Services": "encoded magnetic cards"
+    },
+    {
+      "No.": "090600",
+      "Goods and Services": "facsimile machines"
+    },
+    {
+      "No.": "090601",
+      "Goods and Services": "fire boats"
+    },
+    {
+      "No.": "090603",
+      "Goods and Services": "interfaces for computers"
+    },
+    {
+      "No.": "090604",
+      "Goods and Services": "juke boxes for computers"
+    },
+    {
+      "No.": "090605",
+      "Goods and Services": "knee-pads for workers"
+    },
+    {
+      "No.": "090606",
+      "Goods and Services": "light dimmers [regulators], electric / light regulators [dimmers], electric"
+    },
+    {
+      "No.": "090607",
+      "Goods and Services": "magnetic data media"
+    },
+    {
+      "No.": "090608",
+      "Goods and Services": "magnetic encoders"
+    },
+    {
+      "No.": "090609",
+      "Goods and Services": "magnetic tape units for computers"
+    },
+    {
+      "No.": "090610",
+      "Goods and Services": "microprocessors"
+    },
+    {
+      "No.": "090611",
+      "Goods and Services": "modems"
+    },
+    {
+      "No.": "090612",
+      "Goods and Services": "monitors [computer hardware]"
+    },
+    {
+      "No.": "090613",
+      "Goods and Services": "monitors [computer programs]"
+    },
+    {
+      "No.": "090614",
+      "Goods and Services": "mouse [computer peripheral]"
+    },
+    {
+      "No.": "090615",
+      "Goods and Services": "optical character readers"
+    },
+    {
+      "No.": "090616",
+      "Goods and Services": "optical data media"
+    },
+    {
+      "No.": "090617",
+      "Goods and Services": "optical discs"
+    },
+    {
+      "No.": "090618",
+      "Goods and Services": "printers for use with computers*"
+    },
+    {
+      "No.": "090619",
+      "Goods and Services": "processors [central processing units] / central processing units [processors]"
+    },
+    {
+      "No.": "090620",
+      "Goods and Services": "readers [data processing equipment]"
+    },
+    {
+      "No.": "090621",
+      "Goods and Services": "safety restraints, other than for vehicle seats and sports equipment"
+    },
+    {
+      "No.": "090622",
+      "Goods and Services": "scanners for data processing"
+    },
+    {
+      "No.": "090623",
+      "Goods and Services": "smoke detectors"
+    },
+    {
+      "No.": "090624",
+      "Goods and Services": "transistors [electronic]"
+    },
+    {
+      "No.": "090625",
+      "Goods and Services": "X-ray photographs, other than for medical purposes"
+    },
+    {
+      "No.": "090626",
+      "Goods and Services": "junction sleeves for electric cables"
+    },
+    {
+      "No.": "090627",
+      "Goods and Services": "abacuses"
+    },
+    {
+      "No.": "090628",
+      "Goods and Services": "electronic agendas"
+    },
+    {
+      "No.": "090629",
+      "Goods and Services": "answering machines"
+    },
+    {
+      "No.": "090630",
+      "Goods and Services": "camcorders"
+    },
+    {
+      "No.": "090631",
+      "Goods and Services": "cassette players"
+    },
+    {
+      "No.": "090632",
+      "Goods and Services": "compact disc players"
+    },
+    {
+      "No.": "090633",
+      "Goods and Services": "diagnostic apparatus, not for medical purposes"
+    },
+    {
+      "No.": "090634",
+      "Goods and Services": "disk drives for computers"
+    },
+    {
+      "No.": "090635",
+      "Goods and Services": "electrified rails for mounting spot lights"
+    },
+    {
+      "No.": "090636",
+      "Goods and Services": "electronic pocket translators"
+    },
+    {
+      "No.": "090637",
+      "Goods and Services": "electronic tags for goods"
+    },
+    {
+      "No.": "090638",
+      "Goods and Services": "fire blankets"
+    },
+    {
+      "No.": "090639",
+      "Goods and Services": "flashlights [photography]"
+    },
+    {
+      "No.": "090640",
+      "Goods and Services": "integrated circuit cards [smart cards] / smart cards [integrated circuit cards]"
+    },
+    {
+      "No.": "090641",
+      "Goods and Services": "measuring spoons"
+    },
+    {
+      "No.": "090642",
+      "Goods and Services": "notebook computers"
+    },
+    {
+      "No.": "090643",
+      "Goods and Services": "electronic notice boards"
+    },
+    {
+      "No.": "090644",
+      "Goods and Services": "pocket calculators"
+    },
+    {
+      "No.": "090645",
+      "Goods and Services": "shoes for protection against accidents, irradiation and fire"
+    },
+    {
+      "No.": "090646",
+      "Goods and Services": "sprinkler systems for fire protection"
+    },
+    {
+      "No.": "090647",
+      "Goods and Services": "starter cables for motors"
+    },
+    {
+      "No.": "090648",
+      "Goods and Services": "sunglasses"
+    },
+    {
+      "No.": "090649",
+      "Goods and Services": "time clocks [time recording devices]"
+    },
+    {
+      "No.": "090650",
+      "Goods and Services": "video cassettes"
+    },
+    {
+      "No.": "090651",
+      "Goods and Services": "video game cartridges"
+    },
+    {
+      "No.": "090652",
+      "Goods and Services": "video screens"
+    },
+    {
+      "No.": "090653",
+      "Goods and Services": "video telephones"
+    },
+    {
+      "No.": "090654",
+      "Goods and Services": "goggles for sports"
+    },
+    {
+      "No.": "090655",
+      "Goods and Services": "nose clips for divers and swimmers"
+    },
+    {
+      "No.": "090656",
+      "Goods and Services": "protective helmets for sports"
+    },
+    {
+      "No.": "090657",
+      "Goods and Services": "electronic publications, downloadable"
+    },
+    {
+      "No.": "090658",
+      "Goods and Services": "computer programs, downloadable"
+    },
+    {
+      "No.": "090659",
+      "Goods and Services": "navigation apparatus for vehicles [on-board computers]"
+    },
+    {
+      "No.": "090660",
+      "Goods and Services": "decorative magnets"
+    },
+    {
+      "No.": "090661",
+      "Goods and Services": "cordless telephones"
+    },
+    {
+      "No.": "090662",
+      "Goods and Services": "mouse pads"
+    },
+    {
+      "No.": "090663",
+      "Goods and Services": "personal stereos"
+    },
+    {
+      "No.": "090664",
+      "Goods and Services": "wrist rests for use with computers"
+    },
+    {
+      "No.": "090665",
+      "Goods and Services": "coaxial cables"
+    },
+    {
+      "No.": "090666",
+      "Goods and Services": "fibre optic cables / fiber optic cables"
+    },
+    {
+      "No.": "090667",
+      "Goods and Services": "covers for electric outlets"
+    },
+    {
+      "No.": "090668",
+      "Goods and Services": "marine depth finders"
+    },
+    {
+      "No.": "090669",
+      "Goods and Services": "electrified fences"
+    },
+    {
+      "No.": "090670",
+      "Goods and Services": "computer game software, recorded"
+    },
+    {
+      "No.": "090671",
+      "Goods and Services": "headphones"
+    },
+    {
+      "No.": "090672",
+      "Goods and Services": "lighting ballasts"
+    },
+    {
+      "No.": "090673",
+      "Goods and Services": "radio pagers"
+    },
+    {
+      "No.": "090674",
+      "Goods and Services": "satellite navigational apparatus"
+    },
+    {
+      "No.": "090675",
+      "Goods and Services": "solenoid valves [electromagnetic switches]"
+    },
+    {
+      "No.": "090676",
+      "Goods and Services": "voltage surge protectors"
+    },
+    {
+      "No.": "090677",
+      "Goods and Services": "walkie-talkies"
+    },
+    {
+      "No.": "090678",
+      "Goods and Services": "wind socks for indicating wind direction"
+    },
+    {
+      "No.": "090679",
+      "Goods and Services": "light-emitting electronic pointers"
+    },
+    {
+      "No.": "090680",
+      "Goods and Services": "resuscitation mannequins [teaching apparatus]"
+    },
+    {
+      "No.": "090682",
+      "Goods and Services": "stage lighting regulators"
+    },
+    {
+      "No.": "090683",
+      "Goods and Services": "egg timers [sandglasses] / hourglasses"
+    },
+    {
+      "No.": "090684",
+      "Goods and Services": "DNA chips"
+    },
+    {
+      "No.": "090685",
+      "Goods and Services": "DVD players"
+    },
+    {
+      "No.": "090686",
+      "Goods and Services": "automated teller machines [ATM]"
+    },
+    {
+      "No.": "090687",
+      "Goods and Services": "traffic-light apparatus [signalling devices]"
+    },
+    {
+      "No.": "090688",
+      "Goods and Services": "hands-free kits for telephones"
+    },
+    {
+      "No.": "090689",
+      "Goods and Services": "asbestos screens for firefighters"
+    },
+    {
+      "No.": "090690",
+      "Goods and Services": "riding helmets"
+    },
+    {
+      "No.": "090691",
+      "Goods and Services": "clothing especially made for laboratories"
+    },
+    {
+      "No.": "090692",
+      "Goods and Services": "encoded identification bracelets, magnetic"
+    },
+    {
+      "No.": "090693",
+      "Goods and Services": "transponders"
+    },
+    {
+      "No.": "090694",
+      "Goods and Services": "downloadable ring tones for mobile telephones / downloadable ring tones for cell phones"
+    },
+    {
+      "No.": "090695",
+      "Goods and Services": "downloadable music files"
+    },
+    {
+      "No.": "090696",
+      "Goods and Services": "downloadable image files"
+    },
+    {
+      "No.": "090697",
+      "Goods and Services": "crash test dummies"
+    },
+    {
+      "No.": "090698",
+      "Goods and Services": "laboratory centrifuges"
+    },
+    {
+      "No.": "090699",
+      "Goods and Services": "printed circuit boards"
+    },
+    {
+      "No.": "090700",
+      "Goods and Services": "USB flash drives"
+    },
+    {
+      "No.": "090701",
+      "Goods and Services": "Global Positioning System [GPS] apparatus"
+    },
+    {
+      "No.": "090702",
+      "Goods and Services": "portable media players"
+    },
+    {
+      "No.": "090703",
+      "Goods and Services": "straps for mobile telephones / straps for cell phones"
+    },
+    {
+      "No.": "090704",
+      "Goods and Services": "light-emitting diodes [LED]"
+    },
+    {
+      "No.": "090705",
+      "Goods and Services": "triodes"
+    },
+    {
+      "No.": "090706",
+      "Goods and Services": "step-up transformers"
+    },
+    {
+      "No.": "090707",
+      "Goods and Services": "laptop computers"
+    },
+    {
+      "No.": "090708",
+      "Goods and Services": "fire hose"
+    },
+    {
+      "No.": "090709",
+      "Goods and Services": "bags adapted for laptops"
+    },
+    {
+      "No.": "090710",
+      "Goods and Services": "sleeves for laptops"
+    },
+    {
+      "No.": "090711",
+      "Goods and Services": "digital photo frames"
+    },
+    {
+      "No.": "090712",
+      "Goods and Services": "Petri dishes"
+    },
+    {
+      "No.": "090713",
+      "Goods and Services": "Pitot tubes"
+    },
+    {
+      "No.": "090714",
+      "Goods and Services": "stroboscopes"
+    },
+    {
+      "No.": "090715",
+      "Goods and Services": "traffic cones"
+    },
+    {
+      "No.": "090716",
+      "Goods and Services": "temperature indicator labels, not for medical purposes"
+    },
+    {
+      "No.": "090717",
+      "Goods and Services": "computer software applications, downloadable"
+    },
+    {
+      "No.": "090718",
+      "Goods and Services": "electronic book readers"
+    },
+    {
+      "No.": "090719",
+      "Goods and Services": "smartphones"
+    },
+    {
+      "No.": "090720",
+      "Goods and Services": "toner cartridges, unfilled, for printers and photocopiers"
+    },
+    {
+      "No.": "090721",
+      "Goods and Services": "baby monitors"
+    },
+    {
+      "No.": "090722",
+      "Goods and Services": "video baby monitors"
+    },
+    {
+      "No.": "090723",
+      "Goods and Services": "lens hoods"
+    },
+    {
+      "No.": "090724",
+      "Goods and Services": "tablet computers"
+    },
+    {
+      "No.": "090725",
+      "Goods and Services": "encoded key cards"
+    },
+    {
+      "No.": "090726",
+      "Goods and Services": "3D spectacles"
+    },
+    {
+      "No.": "090727",
+      "Goods and Services": "memory cards for video game machines"
+    },
+    {
+      "No.": "090728",
+      "Goods and Services": "bullet-proof clothing"
+    },
+    {
+      "No.": "090729",
+      "Goods and Services": "accelerometers"
+    },
+    {
+      "No.": "090730",
+      "Goods and Services": "electrical adapters"
+    },
+    {
+      "No.": "090731",
+      "Goods and Services": "life-saving capsules for natural disasters"
+    },
+    {
+      "No.": "090732",
+      "Goods and Services": "computer hardware"
+    },
+    {
+      "No.": "090733",
+      "Goods and Services": "solar panels for the production of electricity"
+    },
+    {
+      "No.": "090734",
+      "Goods and Services": "mobile telephones / cell phones"
+    },
+    {
+      "No.": "090735",
+      "Goods and Services": "telescopic sights for artillery"
+    },
+    {
+      "No.": "090736",
+      "Goods and Services": "digital signs"
+    },
+    {
+      "No.": "090737",
+      "Goods and Services": "wearable activity trackers"
+    },
+    {
+      "No.": "090738",
+      "Goods and Services": "chargers for electronic cigarettes"
+    },
+    {
+      "No.": "090739",
+      "Goods and Services": "connected bracelets [measuring instruments]"
+    },
+    {
+      "No.": "090740",
+      "Goods and Services": "covers for smartphones"
+    },
+    {
+      "No.": "090741",
+      "Goods and Services": "cases for smartphones"
+    },
+    {
+      "No.": "090742",
+      "Goods and Services": "selfie sticks [hand-held monopods]"
+    },
+    {
+      "No.": "090743",
+      "Goods and Services": "calorimeters"
+    },
+    {
+      "No.": "090744",
+      "Goods and Services": "flowmeters"
+    },
+    {
+      "No.": "090745",
+      "Goods and Services": "reflective safety vests"
+    },
+    {
+      "No.": "090746",
+      "Goods and Services": "electronic collars to train animals"
+    },
+    {
+      "No.": "090747",
+      "Goods and Services": "joysticks for use with computers, other than for video games"
+    },
+    {
+      "No.": "090748",
+      "Goods and Services": "smartglasses"
+    },
+    {
+      "No.": "090749",
+      "Goods and Services": "smartwatches"
+    },
+    {
+      "No.": "090750",
+      "Goods and Services": "fire extinguishing apparatus"
+    },
+    {
+      "No.": "090751",
+      "Goods and Services": "protective films adapted for computer screens"
+    },
+    {
+      "No.": "090752",
+      "Goods and Services": "mouth guards for sports"
+    },
+    {
+      "No.": "090753",
+      "Goods and Services": "head guards for sports"
+    },
+    {
+      "No.": "090754",
+      "Goods and Services": "needles for surveying compasses"
+    },
+    {
+      "No.": "090755",
+      "Goods and Services": "security token hardware for user authentication"
+    },
+    {
+      "No.": "090756",
+      "Goods and Services": "infrared detectors"
+    },
+    {
+      "No.": "090757",
+      "Goods and Services": "covers for personal digital assistants [PDAs]"
+    },
+    {
+      "No.": "090758",
+      "Goods and Services": "baby scales"
+    },
+    {
+      "No.": "090759",
+      "Goods and Services": "electronic access control systems for interlocking doors"
+    },
+    {
+      "No.": "090760",
+      "Goods and Services": "thermal imaging cameras"
+    },
+    {
+      "No.": "090761",
+      "Goods and Services": "scales with body mass analysers / scales with body mass analyzers"
+    },
+    {
+      "No.": "090762",
+      "Goods and Services": "covers for tablet computers"
+    },
+    {
+      "No.": "090763",
+      "Goods and Services": "black boxes [data recorders]"
+    },
+    {
+      "No.": "090764",
+      "Goods and Services": "digital weather stations"
+    },
+    {
+      "No.": "090765",
+      "Goods and Services": "charging stations for electric vehicles"
+    },
+    {
+      "No.": "090766",
+      "Goods and Services": "interactive touchscreen terminals"
+    },
+    {
+      "No.": "090767",
+      "Goods and Services": "smart rings"
+    },
+    {
+      "No.": "090768",
+      "Goods and Services": "electric and electronic effects units for musical instruments"
+    },
+    {
+      "No.": "090769",
+      "Goods and Services": "audio interfaces"
+    },
+    {
+      "No.": "090770",
+      "Goods and Services": "equalizers [audio apparatus] / equalisers [audio apparatus]"
+    },
+    {
+      "No.": "090771",
+      "Goods and Services": "subwoofers"
+    },
+    {
+      "No.": "090772",
+      "Goods and Services": "bathroom scales"
+    },
+    {
+      "No.": "090773",
+      "Goods and Services": "thermo-hygrometers"
+    },
+    {
+      "No.": "090774",
+      "Goods and Services": "biochips"
+    },
+    {
+      "No.": "090775",
+      "Goods and Services": "protective films adapted for smartphones"
+    },
+    {
+      "No.": "090776",
+      "Goods and Services": "virtual reality headsets"
+    },
+    {
+      "No.": "090777",
+      "Goods and Services": "electronic interactive whiteboards"
+    },
+    {
+      "No.": "090778",
+      "Goods and Services": "humanoid robots with artificial intelligence for use in scientific research"
+    },
+    {
+      "No.": "090779",
+      "Goods and Services": "audio mixers"
+    },
+    {
+      "No.": "090780",
+      "Goods and Services": "batteries for electronic cigarettes"
+    },
+    {
+      "No.": "090781",
+      "Goods and Services": "electronic key fobs being remote control apparatus"
+    },
+    {
+      "No.": "090782",
+      "Goods and Services": "electronic sheet music, downloadable"
+    },
+    {
+      "No.": "090783",
+      "Goods and Services": "T-squares for measuring"
+    },
+    {
+      "No.": "090784",
+      "Goods and Services": "squares for measuring"
+    },
+    {
+      "No.": "090785",
+      "Goods and Services": "square rulers for measuring"
+    },
+    {
+      "No.": "090786",
+      "Goods and Services": "electronic numeric displays"
+    },
+    {
+      "No.": "090787",
+      "Goods and Services": "laboratory robots"
+    },
+    {
+      "No.": "090788",
+      "Goods and Services": "teaching robots"
+    },
+    {
+      "No.": "090789",
+      "Goods and Services": "security surveillance robots"
+    },
+    {
+      "No.": "090790",
+      "Goods and Services": "personal digital assistants [PDAs]"
+    },
+    {
+      "No.": "090791",
+      "Goods and Services": "computer software platforms, recorded or downloadable"
+    },
+    {
+      "No.": "090792",
+      "Goods and Services": "satellite finder meters"
+    },
+    {
+      "No.": "090793",
+      "Goods and Services": "ring sizers"
+    },
+    {
+      "No.": "090794",
+      "Goods and Services": "finger sizers"
+    },
+    {
+      "No.": "090795",
+      "Goods and Services": "thin client computers"
+    },
+    {
+      "No.": "090796",
+      "Goods and Services": "rearview cameras for vehicles"
+    },
+    {
+      "No.": "090797",
+      "Goods and Services": "hand-held electronic dictionaries"
+    },
+    {
+      "No.": "090798",
+      "Goods and Services": "resuscitation training simulators"
+    },
+    {
+      "No.": "090799",
+      "Goods and Services": "electric wire harnesses for automobiles"
+    },
+    {
+      "No.": "090800",
+      "Goods and Services": "snorkels"
+    },
+    {
+      "No.": "090801",
+      "Goods and Services": "sports whistles"
+    },
+    {
+      "No.": "090802",
+      "Goods and Services": "computer screen saver software, recorded or downloadable"
+    },
+    {
+      "No.": "090803",
+      "Goods and Services": "selfie lenses"
+    },
+    {
+      "No.": "090804",
+      "Goods and Services": "downloadable graphics for mobile telephones / downloadable graphics for cell phones"
+    },
+    {
+      "No.": "090805",
+      "Goods and Services": "telecommunication apparatus in the form of jewellery / telecommunication apparatus in the form of jewelry"
+    },
+    {
+      "No.": "090806",
+      "Goods and Services": "wearable computers"
+    },
+    {
+      "No.": "090807",
+      "Goods and Services": "wearable video display monitors"
+    },
+    {
+      "No.": "090808",
+      "Goods and Services": "magnetic resonance imaging [MRI] apparatus, not for medical purposes"
+    },
+    {
+      "No.": "090809",
+      "Goods and Services": "rescue laser signalling flares"
+    },
+    {
+      "No.": "090810",
+      "Goods and Services": "ink cartridges, unfilled, for printers and photocopiers"
+    },
+    {
+      "No.": "090811",
+      "Goods and Services": "wah-wah pedals"
+    },
+    {
+      "No.": "090812",
+      "Goods and Services": "height measuring instruments"
+    },
+    {
+      "No.": "090813",
+      "Goods and Services": "hairdressing training heads [teaching apparatus]"
+    },
+    {
+      "No.": "090814",
+      "Goods and Services": "devices for the projection of virtual keyboards"
+    },
+    {
+      "No.": "090815",
+      "Goods and Services": "survival blankets"
+    },
+    {
+      "No.": "090816",
+      "Goods and Services": "lifeboats"
+    },
+    {
+      "No.": "090817",
+      "Goods and Services": "nanoparticle size analysers / nanoparticle size analyzers"
+    },
+    {
+      "No.": "090818",
+      "Goods and Services": "ear pads for headphones"
+    },
+    {
+      "No.": "090819",
+      "Goods and Services": "data gloves"
+    },
+    {
+      "No.": "090820",
+      "Goods and Services": "trackballs [computer peripherals]"
+    },
+    {
+      "No.": "090821",
+      "Goods and Services": "downloadable emoticons for mobile telephones / downloadable emoticons for cell phones"
+    },
+    {
+      "No.": "090822",
+      "Goods and Services": "telepresence robots"
+    },
+    {
+      "No.": "090823",
+      "Goods and Services": "climate control digital thermostats"
+    },
+    {
+      "No.": "090824",
+      "Goods and Services": "piezoelectric sensors"
+    },
+    {
+      "No.": "090825",
+      "Goods and Services": "organic light-emitting diodes [OLED]"
+    },
+    {
+      "No.": "090826",
+      "Goods and Services": "quantum dot light-emitting diodes [QLED]"
+    },
+    {
+      "No.": "090827",
+      "Goods and Services": "droppers for measuring, other than for medical or household purposes"
+    },
+    {
+      "No.": "090828",
+      "Goods and Services": "electric sockets"
+    },
+    {
+      "No.": "090829",
+      "Goods and Services": "computer game software, downloadable"
+    },
+    {
+      "No.": "090830",
+      "Goods and Services": "rescue flares, non-explosive and non-pyrotechnic"
+    },
+    {
+      "No.": "090831",
+      "Goods and Services": "stands adapted for laptops"
+    },
+    {
+      "No.": "090832",
+      "Goods and Services": "headgear being protective helmets"
+    },
+    {
+      "No.": "090833",
+      "Goods and Services": "padlocks, electronic"
+    },
+    {
+      "No.": "090834",
+      "Goods and Services": "weight belts for divers"
+    },
+    {
+      "No.": "090835",
+      "Goods and Services": "earpieces for remote communication"
+    },
+    {
+      "No.": "090836",
+      "Goods and Services": "parking sensors for vehicles"
+    },
+    {
+      "No.": "090837",
+      "Goods and Services": "ticket printers"
+    },
+    {
+      "No.": "090838",
+      "Goods and Services": "body harnesses for support when lifting loads"
+    },
+    {
+      "No.": "090839",
+      "Goods and Services": "animal signalling rattles for directing livestock"
+    },
+    {
+      "No.": "090840",
+      "Goods and Services": "video projectors"
+    },
+    {
+      "No.": "090841",
+      "Goods and Services": "downloadable software for generating cryptographic keys for receiving and spending cryptocurrency"
+    },
+    {
+      "No.": "090842",
+      "Goods and Services": "downloadable e-wallets"
+    },
+    {
+      "No.": "090843",
+      "Goods and Services": "credit card terminals"
+    },
+    {
+      "No.": "090844",
+      "Goods and Services": "biometric passports / e-passports"
+    },
+    {
+      "No.": "090845",
+      "Goods and Services": "biometric identity cards"
+    },
+    {
+      "No.": "090846",
+      "Goods and Services": "home automation hubs / smart home hubs"
+    },
+    {
+      "No.": "090847",
+      "Goods and Services": "data sets, recorded or downloadable"
+    },
+    {
+      "No.": "090848",
+      "Goods and Services": "head-up display apparatus for vehicles"
+    },
+    {
+      "No.": "090849",
+      "Goods and Services": "smart speakers"
+    },
+    {
+      "No.": "090850",
+      "Goods and Services": "biometric locks"
+    },
+    {
+      "No.": "090851",
+      "Goods and Services": "fire-extinguishing balls"
+    },
+    {
+      "No.": "090852",
+      "Goods and Services": "wearable speakers"
+    },
+    {
+      "No.": "090853",
+      "Goods and Services": "portable ultrafine dust meters"
+    },
+    {
+      "No.": "090854",
+      "Goods and Services": "foldable smartphones"
+    },
+    {
+      "No.": "090855",
+      "Goods and Services": "flash lamps for smartphones"
+    },
+    {
+      "No.": "090856",
+      "Goods and Services": "3D scanners"
+    },
+    {
+      "No.": "090857",
+      "Goods and Services": "thin film speakers"
+    },
+    {
+      "No.": "090858",
+      "Goods and Services": "wireless speaker microphones"
+    },
+    {
+      "No.": "090859",
+      "Goods and Services": "scanners [apparatus] for performing automotive diagnostics"
+    },
+    {
+      "No.": "090860",
+      "Goods and Services": "haptic suits, other than for medical purposes"
+    },
+    {
+      "No.": "090861",
+      "Goods and Services": "selfie ring lights for smartphones"
+    },
+    {
+      "No.": "090862",
+      "Goods and Services": "chargers for mobile telephones / chargers for cell phones"
+    },
+    {
+      "No.": "090863",
+      "Goods and Services": "screen protectors for mobile telephones / screen protectors for cell phones"
+    },
+    {
+      "No.": "090864",
+      "Goods and Services": "warning signs [luminous]"
+    },
+    {
+      "No.": "090865",
+      "Goods and Services": "safety signs [luminous]"
+    },
+    {
+      "No.": "090866",
+      "Goods and Services": "ring holders for mobile telephones / ring holders for cell phones"
+    },
+    {
+      "No.": "090867",
+      "Goods and Services": "ring stands for mobile telephones / ring stands for cell phones"
+    },
+    {
+      "No.": "090868",
+      "Goods and Services": "headsets"
+    },
+    {
+      "No.": "090869",
+      "Goods and Services": "headsets for playing video games"
+    },
+    {
+      "No.": "090870",
+      "Goods and Services": "downloadable computer software for managing cryptocurrency transactions using blockchain technology"
+    },
+    {
+      "No.": "090871",
+      "Goods and Services": "electrolysis apparatus for laboratory use"
+    },
+    {
+      "No.": "090872",
+      "Goods and Services": "apparatus for generating gas for calibration purposes"
+    },
+    {
+      "No.": "090873",
+      "Goods and Services": "apparatus for testing breast milk, other than for medical or veterinary use"
+    },
+    {
+      "No.": "090874",
+      "Goods and Services": "portable power chargers"
+    },
+    {
+      "No.": "090875",
+      "Goods and Services": "amplifiers for servo motors"
+    },
+    {
+      "No.": "090876",
+      "Goods and Services": "electronic controllers for servo motors"
+    },
+    {
+      "No.": "090877",
+      "Goods and Services": "quantum computers"
+    },
+    {
+      "No.": "090878",
+      "Goods and Services": "musical instrument digital interface controllers being audio interfaces"
+    },
+    {
+      "No.": "090879",
+      "Goods and Services": "bioreactors for laboratory use"
+    },
+    {
+      "No.": "090880",
+      "Goods and Services": "bioreactors for cell culturing for scientific research"
+    },
+    {
+      "No.": "090881",
+      "Goods and Services": "holders adapted for mobile telephones and smartphones / holders adapted for cell phones and smartphones"
+    },
+    {
+      "No.": "090882",
+      "Goods and Services": "in-car telephone handset cradles"
+    },
+    {
+      "No.": "090883",
+      "Goods and Services": "head-mounted displays"
+    },
+    {
+      "No.": "090884",
+      "Goods and Services": "wireless portable printers for use with laptops and mobile devices"
+    },
+    {
+      "No.": "090885",
+      "Goods and Services": "spectacles for correcting colour vision deficiency / spectacles for correcting color vision deficiency"
+    },
+    {
+      "No.": "090886",
+      "Goods and Services": "contact lens cases incorporating ultrasonic cleaning functions"
+    },
+    {
+      "No.": "090887",
+      "Goods and Services": "airbags for safety purposes for fall protection"
+    },
+    {
+      "No.": "090888",
+      "Goods and Services": "neural helmets, not for medical purposes"
+    },
+    {
+      "No.": "090889",
+      "Goods and Services": "portable speakers"
+    },
+    {
+      "No.": "090890",
+      "Goods and Services": "breathalyzers"
+    },
+    {
+      "No.": "090891",
+      "Goods and Services": "cooling pads for laptop computers"
+    },
+    {
+      "No.": "090892",
+      "Goods and Services": "internal cooling fans for computers"
+    },
+    {
+      "No.": "090893",
+      "Goods and Services": "effects pedals for guitars"
+    },
+    {
+      "No.": "090894",
+      "Goods and Services": "software as a medical device [SaMD], downloadable"
+    },
+    {
+      "No.": "090895",
+      "Goods and Services": "evacuation chairs"
+    },
+    {
+      "No.": "090896",
+      "Goods and Services": "dashboard mats adapted for holding mobile telephones and smartphones / dashboard mats adapted for holding cell phones and smartphones"
+    },
+    {
+      "No.": "090897",
+      "Goods and Services": "controllers for servo motors"
+    },
+    {
+      "No.": "090898",
+      "Goods and Services": "dust masks incorporating air purification"
+    },
+    {
+      "No.": "090899",
+      "Goods and Services": "electric actuators"
+    },
+    {
+      "No.": "090900",
+      "Goods and Services": "electric linear actuators"
+    },
+    {
+      "No.": "090901",
+      "Goods and Services": "insulating gloves for protection against accidents"
+    },
+    {
+      "No.": "090902",
+      "Goods and Services": "dosage dispensers, not for medical use [measuring apparatus]"
+    },
+    {
+      "No.": "090903",
+      "Goods and Services": "dry suits"
+    },
+    {
+      "No.": "090904",
+      "Goods and Services": "dive skins"
+    },
+    {
+      "No.": "090905",
+      "Goods and Services": "wet suits"
+    },
+    {
+      "No.": "090906",
+      "Goods and Services": "computer network routers"
+    },
+    {
+      "No.": "090907",
+      "Goods and Services": "frequency extenders"
+    },
+    {
+      "No.": "090908",
+      "Goods and Services": "humanoid robots having communication and learning functions for assisting and entertaining people"
+    },
+    {
+      "No.": "090909",
+      "Goods and Services": "missile warning systems"
+    },
+    {
+      "No.": "090910",
+      "Goods and Services": "autonomous navigation systems for ships"
+    },
+    {
+      "No.": "090911",
+      "Goods and Services": "self-checkout terminals"
+    },
+    {
+      "No.": "090912",
+      "Goods and Services": "portable document scanners"
+    },
+    {
+      "No.": "090913",
+      "Goods and Services": "cases for smartphones incorporating a keyboard"
+    },
+    {
+      "No.": "090914",
+      "Goods and Services": "wheel alignment meters"
+    },
+    {
+      "No.": "090915",
+      "Goods and Services": "video mixing desks"
+    },
+    {
+      "No.": "090916",
+      "Goods and Services": "humanoid robots with artificial intelligence for preparing beverages"
+    },
+    {
+      "No.": "090917",
+      "Goods and Services": "user-programmable humanoid robots, not configured"
+    },
+    {
+      "No.": "090918",
+      "Goods and Services": "downloadable digital image files authenticated by non-fungible tokens [NFTs]"
+    },
+    {
+      "No.": "090919",
+      "Goods and Services": "ozonizers for calibration purposes / ozone generators for calibration purposes"
+    },
+    {
+      "No.": "090920",
+      "Goods and Services": "lanyards for mobile telephones / lanyards for cell phones"
+    },
+    {
+      "No.": "090921",
+      "Goods and Services": "gimbals for digital cameras"
+    },
+    {
+      "No.": "090922",
+      "Goods and Services": "gimbals for smartphones"
+    },
+    {
+      "No.": "090923",
+      "Goods and Services": "sunglasses for pets"
+    },
+    {
+      "No.": "090924",
+      "Goods and Services": "point-of-sale [POS] terminals"
+    },
+    {
+      "No.": "090925",
+      "Goods and Services": "holographic projection apparatus"
+    },
+    {
+      "No.": "090926",
+      "Goods and Services": "laboratory burettes / laboratory burets"
+    },
+    {
+      "No.": "090927",
+      "Goods and Services": "motion tracking mounts for cameras"
+    },
+    {
+      "No.": "090928",
+      "Goods and Services": "cryptocurrency hardware wallets"
+    },
+    {
+      "No.": "090929",
+      "Goods and Services": "downloadable virtual clothing"
+    },
+    {
+      "No.": "090930",
+      "Goods and Services": "virtual reality controllers"
+    },
+    {
+      "No.": "090931",
+      "Goods and Services": "sounding rockets"
+    },
+    {
+      "No.": "090932",
+      "Goods and Services": "motorcyclists' clothing for protection against accident or injury"
+    },
+    {
+      "No.": "090933",
+      "Goods and Services": "downloadable digital music files authenticated by non-fungible tokens [NFTs]"
+    },
+    {
+      "No.": "090934",
+      "Goods and Services": "downloadable application software for virtual environments"
+    },
+    {
+      "No.": "090935",
+      "Goods and Services": "downloadable computer software applications for minting non-fungible tokens [NFTs]"
+    },
+    {
+      "No.": "090936",
+      "Goods and Services": "dust measuring apparatus"
+    },
+    {
+      "No.": "090937",
+      "Goods and Services": "diagnostic apparatus for research laboratory use"
+    },
+    {
+      "No.": "090938",
+      "Goods and Services": "ultrasonic imaging apparatus, not for medical purposes"
+    },
+    {
+      "No.": "090939",
+      "Goods and Services": "capacitive finger sleeves for touchscreen devices"
+    },
+    {
+      "No.": "090940",
+      "Goods and Services": "music sequencer devices"
+    },
+    {
+      "No.": "090941",
+      "Goods and Services": "traffic signals for pedestrians"
+    },
+    {
+      "No.": "090942",
+      "Goods and Services": "electronic shelf labels"
+    },
+    {
+      "No.": "090943",
+      "Goods and Services": "electronic storage media"
+    },
+    {
+      "No.": "090944",
+      "Goods and Services": "dashboard cameras"
+    },
+    {
+      "No.": "090945",
+      "Goods and Services": "electronic oscillators"
+    },
+    {
+      "No.": "090946",
+      "Goods and Services": "electronic resonators"
+    },
+    {
+      "No.": "090947",
+      "Goods and Services": "polarizing films for displays"
+    },
+    {
+      "No.": "090948",
+      "Goods and Services": "transparent conductive films for displays"
+    },
+    {
+      "No.": "090949",
+      "Goods and Services": "medical training simulators"
+    },
+    {
+      "No.": "090950",
+      "Goods and Services": "downloadable video files"
+    },
+    {
+      "No.": "090951",
+      "Goods and Services": "stylus pens for touchscreens"
+    },
+    {
+      "No.": "090952",
+      "Goods and Services": "biometric scanners"
+    },
+    {
+      "No.": "090953",
+      "Goods and Services": "humanoid robots with artificial intelligence for use in household cleaning and laundry"
+    },
+    {
+      "No.": "090954",
+      "Goods and Services": "traffic mirrors"
+    }
+  ]
+}
