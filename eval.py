@@ -91,7 +91,7 @@ def evaluate_dataset(csv_path: str, *,
             "class_1": class_1,
             "class_2": class_2,
             "contexts": contexts,
-            "gold_nature": gold,
+            "gold_nature": gold_nature_raw,
             "pred_nature": pred_nature,
             "output_text": sim.get("output_text", ""),
         })
