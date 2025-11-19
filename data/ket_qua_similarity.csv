@@ -1,0 +1,77 @@
+﻿Item1,Item2,Nature,Purpose,Similarity
+1 Chemicals for industrial use,1 Chemical additives for detergents,4,4,4.0
+1 Chemical products used in the manufacture of plastics and in the photocopying industry,"1 Plastics in the form of granules, powders, masses, resins, gels, emulsions, dispersions, pastes, flakes, chips",4,4,4.0
+1 Polymers,1 Unprocessed plastics,4,4,4.0
+2 Paints,19 Construction materials,0,3,2.0
+3 Cosmetics,1 chemical additives for detergents,0,2,2.0
+3 Cosmetics,"40 Services for the pharmaceutical and cosmetic industry, namely synthesis and preparation of pharmaceutical and cosmetic products",4,4,4.0
+1 Industrial chemicals in the field of washing or food preservation only,"42 Development of pharmaceutical and cosmetic products, including preparations for destroying vermin, fungicides and herbicides, for others",3,3,3.0
+1 Chemical additives in the field of washing or food preservation only,42 Scientific and/or industrial research and consultancy relating thereto for the pharmaceutical and cosmetic industry,0,0,0.0
+1 Chemical substances intended to conserve food,"42 Operating of licencing procedures for pharmaceutical and cosmetic products, including preparations for destroying vermin, fungicides and herbicides",2,2,2.0
+1 Chemical substances for preserving foodstuffs,"42 Development of pharmaceutical and cosmetic products, including preparations for destroying vermin, fungicides and herbicides, for others",3,3,3.0
+1 Detergents for use inmanufacturing processes,"42 Development of pharmaceutical and cosmetic products, including preparations for destroying vermin, fungicides and herbicides, for others",2,2,2.0
+1 Adhesive removal inmanufacturing processes,"42 Development of pharmaceutical and cosmetic products, including preparations for destroying vermin, fungicides and herbicides, for others",0,1,1.0
+1 Chemical substances for analysis in laboratories (except for medicinal or veterinary purposes),42 Scientific and/or industrial research and consultancy relating thereto for the pharmaceutical and cosmetic industry,3,3,3.0
+"7 Machines for the manufacture of concrete elements, concrete panels and walls","7 Parts of machines, especially for textile machines, namely covers, roll covers, aprons for machines",3,3,3.0
+"7 Machines for the manufacture of concrete elements, concrete panels and walls",7 rollers and rolls [parts of machines],3,3,3.0
+"7 Parts and fittings of machines for the manufacture of concrete elements, concrete panels and walls",7 Drive belts for machines,3,3,3.0
+"19 Building materials, especially concrete elements, panels and walls",37 Building construction,3,3,3.0
+"19 Building materials, especially concrete elements, panels and walls",37 Repair services,2,3,3.0
+"19 Building materials, especially concrete elements, panels and walls",37 Installation services,0,3,3.0
+05 Pharmaceuticals,10 Medical instruments,0,3,3.0
+09 Electronic key fobs being remote control apparatus,9 Electrical and power test and measurement equipment,3,3,3.0
+10 Apparatus for physical training for medical use,"17 Rubber, gutta-percha, gum, asbestos, mica and goods made from these materials not included in other classes",2,0,0.0
+10 Manually-operated exercise equipment for medical rehabilitative purposes,25 Special athletic shoes,0,3,3.0
+10 Manually-operated exercise equipment for physical therapy purposes,17 Insulating materials,0,0,0.0
+10 Exercise machines for therapeutic purposes,"17 Flexible pipes, not of metal",0,2,1.0
+10 Physical exercise apparatus for therapeutic purposes,17 Rubber coverings,0,3,1.0
+10 Manually-operated exercise equipment for physical therapy purposes,25 Special athletic clothing,0,3,3.0
+"28  Accessory for manually-operated exercise equipment, namely, accessory attachment to increase muscle resistance exercise equipment, namely, arm exercisers, body exercisers, chest expanders, chest pulls, exercise barrels, exercise chairs, exercise platforms, exercise resistance machines, exercise tables, floor supported platforms having movable portion intended for exercise and treatment of all muscles of the body, leg exercisers, resistance exercise machines for various resistance-type body exercises, stair-stepping machines, and torso exercisers",27 Mats,,3,3.0
+"28 Exercise equipment, namely, floor supported platforms having movable portion intended for exercise and treatment of all muscles of the body",27 Carpets,,3,2.0
+"28 Exercise equipment, other than for physical therapy purposes, namely, arm exercisers, body exercisers, chest expanders, chest pulls, exercise barrels, exercise chairs, exercise platforms, exercise resistance machines, exercise tables, floor supported platforms having movable portion intended for exercise and treatment of all muscles of the body, leg exercisers, resistance exercise machines for various resistance-type body exercises, stair-stepping machines, and torso exercisers",27 Linoleum and other floor coverings,0,2,
+28 Exercise machines,28 Linoleum and other floor coverings,,2,1.0
+28 Manually-operated exercise equipment,25 Footwear,0,2,2.0
+"28 Sporting goods, namely, sports training devices in the nature of balance boards to improve strength, toning, conditioning, balance, and proprioception",25 Footwear,0,2,2.0
+28 Body-training apparatus,25 Bicycles,1,2,2.0
+28 Body-training apparatus for exercise and treatment of all muscles of the body,25 Footwear,0,2,2.0
+"12 Bicycles, pedelecs and electric bicycles, and parts and accessories therefor, not included in other classes.",12 Pedal Bicycles,,3,4.0
+25 Footwear,35 Footwear trade,,3,3.0
+"29 Milk, milk-based drinks (in which milk is the main part, not included in other groups)",5 Infant formula,4,4,4.0
+32 Beer,32 Non-alcoholic beverages and preparations for making such beverages,0,0,1.0
+"11 Solar collectors, solar heat collectors [heating, heating];",11 Lighting equipment,2,4,3.0
+11 Filters for aquariums,11 Water distribution and sanitary equipment,,2,1.0
+11 Filters for tanks for raising aquatic species,7 Piston pins and lever arms,,2,2.0
+7 Anti-friction bearings for machines,7 Rollers,4,3,4.0
+"11 sanitary equipment, namely: sinks (used in bathrooms, toilets and kitchens)","19 Drain pipes, not of metal",,4,4.0
+20 Kitchen cabinets (wooden cabinets for storing things hung on the wall in the dining room),21 Glass holders or for toilets,,2,2.0
+8 Hair clippers (electric and non-electric),21 Glass holders,0,0,2.0
+7 Washing machines,11 Cooking systems and equipment,,0,3.0
+11 Cooking systems and equipment,"11 Watering can, tool for watering plants",,0,1.0
+11 Electric cooking utensils,11 Indoor aquarium,,0,0.0
+11 Heating apparatus,11 Indoor animal cages,,3,2.0
+11 Steam generating apparatus,11 Sprinkler,,2,2.0
+11 Ventilators,11 Sprinkler,0,2,2.0
+7 Cutting machines,7 Machines and machine tools for the manufacturing and processing of micro-structure elements,,3,3.0
+7 Drill bits (parts of drilling machines),7 Semiconductor wafer processing machines,,3,3.0
+7 Milling machines (machine tools),"7 Automated machines and systems for cleaning, coating, developing, etching and strip coating of substrates, especially semiconductor substrates, hard discs, silicon discs, wafers, photomasks, hardmasks or embossing masks, templates, structure masks and substrates",,3,3.0
+"7 Heavy machine tools, namely boring machines","7 Lathes, milling machines, blades (for woodworking, plastic working and metalworking machines)",,3,1.0
+7 Saw blades (parts of saw machines),7 Knives (parts of machines),,4,4.0
+7 Punching and broaching machines (machine tools),7 Drill bits (parts of machines),,3,3.0
+7 Lathe blades (parts of lathes),7 Machines for wafer bonding,,2,2.0
+7 Prefabricated building assembly kits of metal,7 Machines for wafer bonding,0,0,1.0
+7 Construction machines and apparatus,7 Machines for debonding,,4,4.0
+7 Loading-unloading machines and apparatus,7 Lithographic machines for the processing of micro-structure or nano-structure elements,,0,0.0
+7 Semiconductor manufacturing machines and systems,7 Photomask and wafer processing machines for photomask applications,,4,4.0
+"7 Non-electric prime movers, not for land vehicles [other than water mills and wind mills]",7 Photomask and wafer processing machines for the manufacturing and processing of opto-electronics,,4,3.0
+7 Tranmissions for machines,7 Laser machines for the semiconductor industry,,4,4.0
+7 Alignment feeding apparatus for screw,7 Photomask and wafer processing systems for the manufacturing of organic light emitting diodes (OLED),,4,4.0
+35 Business management assistance,35 Administrative processing of purchase orders,,2,2.0
+35 Commercial information,35 Administrative processing of purchase orders;   ,,4,4.0
+35 Commercial Business survey,35 Business management consultancy,2,3,3.0
+35 Business management consultancy,35 Business management consulting services in the field of information technology,4,4,4.0
+35 Personnel management consultancy,35 Business management and organization consultancy,2,3,2.0
+35 Real estate auctioning,35 Commercial information agencies,2,3,3.0
+36 Real estate consultancy,35 Advertising,0,3,1.0
+36 Financial consultancy,35 Advertising,0,3,2.0
+36 Real estate brokerage,35 Advertising by mail order,0,3,1.0
+36 Investment consulting,"36 Real estate related sales, management, leasing, agency services",4,3,4.0

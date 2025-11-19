@@ -2,67 +2,43 @@
   {
    "case_id": "USECASE_SCORE_0",
    "input": {
-    "product_1": "Chemicals used in industry (Class 1)",
-    "product_2": "Scientific and technological services, research and design (Class 42)",
+    "product_1": "Paints (Class 2)",
+    "product_2": "Construction materials (Class 19)",
     "class_info": {
-     "class_1": "Mainly chemical products for use in industry, science and agriculture.",
-     "class_42": "Mainly services provided by persons in relation to the theoretical and practical aspects of complex fields of activities."
+     "class_2": "Class 2 includes mainly paints, colorants and preparations used for protection against corrosion. This Class includes, in particular: • paints, varnishes and lacquers for industry, handicrafts and arts • thinners, thickeners, fixatives and siccatives for paints, varnishes and lacquers • mordants for wood and leather • anti-rust oils and oils for the preservation of wood • dyestuffs for clothing • colorants for foodstuffs and beverages This Class does not include, in particular: • unprocessed artificial resins (Cl. 1), semi-processed resins (Cl. 17) • mordants for metals (Cl. 1) • laundry blueing and laundry bleaching preparations (Cl. 3) • cosmetic dyes (Cl. 3) • paint boxes (articles for use in school) (Cl. 16) • inks for stationery purposes (Cl. 16) • insulating paints and varnishes (Cl. 17)",
+     "class_42": "Class 42 includes mainly services provided by persons in relation to the theoretical and practical aspects of complex fields of activities, for example, scientific laboratory services, engineering, computer programming, architectural services or interior design. This Class includes, in particular: • services of engineers and scientists who undertake evaluations, estimates, research and reports in the scientific and technological fields, including technological consultancy • computer and technology services for securing computer data and personal and financial information and for the detection of unauthorized access to data and information, for example, computer virus protection services, data encryption services, electronic monitoring of personally identifying information to detect identity theft via the internet • software as a service (SaaS), platform as a service (PaaS) • scientific research services for medical purposes • architectural and urban planning services • certain design services, for example, industrial design, design of computer software and systems, interior design, packaging design, graphic arts design, dress designing • surveying (engineering) • oil, gas and mining exploration services This Class does not include, in particular: • certain research services, for example, business research (Cl. 35), marketing research (Cl. 35), financial research (Cl. 36), research in the field of education (Cl. 41), genealogical research (Cl. 45), legal research (Cl. 45) • business auditing (Cl. 35) • computerized file management (Cl. 35) • financial evaluation services (Cl. 36) • mining extraction, oil and gas drilling (Cl. 37) • installation, maintenance and repair of computer hardware (Cl. 37) • sound engineering services (Cl. 41) • certain design services, for example, landscape design (Cl. 44) • medical and veterinary services (Cl. 44) • legal services (Cl. 45)"
     }
    },
-   "reasoning": {
-    "nature": "There is a fundamental difference between a physical product (chemicals) and an intangible service (research services). Their nature is completely different.",
-    "intended_purpose": "The purpose of industrial chemicals is to be used as raw materials or processing aids. The purpose of scientific services is to provide knowledge and solutions. These purposes do not overlap.",
-    "channels_of_trade": "Chemicals are sold through B2B supply chains for goods. Scientific services are contracted through professional service agreements. The channels are not similar."
-   },
    "output": {
-    "nature_score": 0,
-    "purpose_score": 0,
-    "channels_of_trade_score": 0,
-    "overall_similarity": 0
+    "nature_score": 0
    }
   },
   {
    "case_id": "USECASE_SCORE_1",
    "input": {
-    "product_1": "Adhesives for industrial purposes (Class 1)",
-    "product_2": "Research and development of new products for others (Class 42)",
+    "product_1": "body-training apparatus (Class 28)",
+    "product_2": "Bicycles (Class 25)",
     "class_info": {
-     "class_1": "Mainly chemical products for use in industry, science and agriculture.",
-     "class_42": "Mainly services provided by persons in relation to the theoretical and practical aspects of complex fields of activities."
+     "class_28": "Class 28 includes mainly toys, apparatus for playing games, sports equipment, amusement and novelty items, as well as certain articles for Christmas trees. This Class includes, in particular: • amusement and game apparatus, including controllers therefor • novelty toys for playing jokes and for parties, for example, carnival masks, paper party hats, confetti, party poppers and Christmas crackers • hunting and fishing tackle, for example, fishing rods, landing nets for anglers, decoys, hunting game calls • equipment for various sports and games This Class does not include, in particular: • Christmas tree candles (Cl. 4), electric lights for Christmas trees (Cl. 11), confectionery and chocolate decorations for Christmas trees (Cl. 30) • diving equipment (Cl. 9) • sex toys and love dolls (Cl. 10) • clothing for gymnastics and sports (Cl. 25) • certain gymnastic and sporting articles, for example, protective helmets, goggles and mouthguards for sports (Cl. 9), sporting firearms (Cl. 13), gymnasium mats (Cl. 27), as well as certain fishing and hunting equipment, for example, hunting knives, harpoons (Cl. 8), hunting firearms (Cl. 13), commercial fishing nets (Cl. 22), that are classified according to other functions or purposes",
+     "class_25": "Class 25 includes mainly clothing, footwear and headwear for human beings. This Class includes, in particular: • parts of clothing, footwear and headwear, for example, cuffs, pockets, ready-made linings, heels and heelpieces, cap peaks, hat frames (skeletons) • clothing and footwear for sports, for example, ski gloves, sports singlets, cyclists' clothing, judo and karate uniforms, football shoes, gymnastic shoes, ski boots • masquerade costumes • paper clothing, paper hats for use as clothing • bibs, not of paper • pocket squares • footmuffs, not electrically heated This Class does not include, in particular: • small items of hardware used in shoemaking, for example, shoe pegs and shoe dowels of metal (Cl. 6) and not of metal (Cl. 20), as well as haberdashery accessories and fastenings for clothing, footwear and headwear, for example, clasps, buckles, zippers, ribbons, hatbands, hat and shoe trimmings (Cl. 26) • certain clothing, footwear and headwear for special use, for example, protective helmets, including for sports (Cl. 9), clothing for protection against fire (Cl. 9), clothing especially for operating rooms (Cl. 10), orthopaedic footwear (Cl. 10), as well as clothing and footwear that are essential for the practice of certain sports, for example, baseball gloves, boxing gloves, ice skates (Cl. 28) • electrically heated clothing (Cl. 11) • electrically heated footmuffs (Cl. 11), fitted footmuffs for pushchairs and prams (Cl. 12) • bibs of paper (Cl. 16) • handkerchiefs of paper (Cl. 16) and of textile (Cl. 24) • clothing for animals (Cl. 18) • carnival masks (Cl. 28) • dolls' clothes (Cl. 28) • paper party hats (Cl. 28)"
     }
    },
-   "reasoning": {
-    "nature": "The nature is entirely different: one is a physical product (adhesives), the other is an intangible service (R&D).",
-    "intended_purpose": "There is a slight connection in purpose, as adhesives (product) might be used during the process of research and development (service). The relationship is indirect.",
-    "channels_of_trade": "The channels are different. Industrial adhesives are sold via material suppliers, while R&D services are procured via service contracts with research firms or institutions."
-   },
    "output": {
-    "nature_score": 0,
-    "purpose_score": 1,
-    "channels_of_trade_score": 0,
-    "overall_similarity": 1
+    "nature_score": 1
    }
   },
   {
    "case_id": "USECASE_SCORE_2",
    "input": {
-    "product_1": "Make-up preparations (Class 3)",
-    "product_2": "Tissues of paper for removing make-up (Class 16)",
+    "product_1": "Chemical substances intended to conserve food (Class 1)",
+    "product_2": "Operating of licencing procedures for pharmaceutical and cosmetic products, including preparations for destroying vermin, fungicides and herbicides (Class 42)",
     "class_info": {
-     "class_3": "Non-medicated toiletry preparations and cleaning products.",
-     "class_16": "Mainly paper, cardboard and goods made from these materials."
+     "class_1": "Class 1 includes mainly chemical products for use in industry, science and agriculture, including those which go to the making of products belonging to other classes. This Class includes, in particular: • sensitized paper • tyre repairing compositions • salt for preserving, other than for foodstuffs • certain additives for use in the food industry, for example, pectin, lecithin, enzymes and chemical preservatives • certain ingredients for use in the manufacture of cosmetics and pharmaceuticals, for example, vitamins, preservatives and antioxidants • certain filtering materials, for example, mineral substances, vegetable substances and ceramic materials in particulate form This Class does not include, in particular: • raw natural resins (Cl. 2), semi-processed resins (Cl. 17) • chemical preparations for medical or veterinary purposes (Cl. 5) • fungicides, herbicides and preparations for destroying vermin (Cl. 5) • adhesives for stationery or household purposes (Cl. 16) • salt for preserving foodstuffs (Cl. 30) • straw mulch (Cl. 31)",
+     "class_42": "Class 42 includes mainly services provided by persons in relation to the theoretical and practical aspects of complex fields of activities, for example, scientific laboratory services, engineering, computer programming, architectural services or interior design. This Class includes, in particular: • services of engineers and scientists who undertake evaluations, estimates, research and reports in the scientific and technological fields, including technological consultancy • computer and technology services for securing computer data and personal and financial information and for the detection of unauthorized access to data and information, for example, computer virus protection services, data encryption services, electronic monitoring of personally identifying information to detect identity theft via the internet • software as a service (SaaS), platform as a service (PaaS) • scientific research services for medical purposes • architectural and urban planning services • certain design services, for example, industrial design, design of computer software and systems, interior design, packaging design, graphic arts design, dress designing • surveying (engineering) • oil, gas and mining exploration services This Class does not include, in particular: • certain research services, for example, business research (Cl. 35), marketing research (Cl. 35), financial research (Cl. 36), research in the field of education (Cl. 41), genealogical research (Cl. 45), legal research (Cl. 45) • business auditing (Cl. 35) • computerized file management (Cl. 35) • financial evaluation services (Cl. 36) • mining extraction, oil and gas drilling (Cl. 37) • installation, maintenance and repair of computer hardware (Cl. 37) • sound engineering services (Cl. 41) • certain design services, for example, landscape design (Cl. 44) • medical and veterinary services (Cl. 44) • legal services (Cl. 45)"
     }
    },
-   "reasoning": {
-    "nature": "Make-up preparations are chemical compositions, while tissues are paper products. Their physical nature is fundamentally different.",
-    "intended_purpose": "Both are used in the personal beauty process. One is for application, the other for removal. They are complementary and serve the same general purpose.",
-    "channels_of_trade": "Both are sold through the same channels: pharmacies, supermarkets, cosmetic stores, and online retailers to the same consumers."
-   },
    "output": {
-    "nature_score": 0,
-    "purpose_score": 3,
-    "channels_of_trade_score": 4,
-    "overall_similarity": 2
+    "nature_score": 2
    }
   },
   {
@@ -71,19 +47,11 @@
     "product_1": "Laptops (Class 9)",
     "product_2": "Printers for use with computers (Class 9)",
     "class_info": {
-     "class_9": "Scientific and research equipment, audiovisual and IT equipment, safety and security apparatus."
+     "class_9": "Class 9 includes mainly apparatus and instruments for scientific or research purposes, audiovisual and information technology equipment, as well as safety and life-saving equipment. This Class includes, in particular: • apparatus and instruments for scientific research in laboratories • training apparatus and simulators, for example, resuscitation mannequins, simulators for the steering and control of vehicles • apparatus and instruments for controlling and monitoring aircraft, watercraft and unmanned vehicles, for example, navigational instruments, transmitters, compasses for measuring, GPS apparatus, automatic steering apparatus for vehicles • safety and security apparatus and instruments, for example, safety nets, signalling lights, traffic-light apparatus, fire engines, sound alarms, security token hardware for user authentication • clothing that protects against serious or life-threatening injuries, for example, clothing for protection against accidents, irradiation and fire, bullet-proof clothing, protective helmets, head guards for sports, mouth guards for sports, protective suits for aviators, knee-pads for workers • optical apparatus and instruments, for example, eyeglasses, contact lenses, magnifying glasses, mirrors for inspecting work, peepholes • magnets • smartwatches, wearable activity trackers • joysticks for use with computers, other than for video games, virtual reality headsets, smartglasses • eyeglass cases, cases for smartphones, cases especially made for photographic apparatus and instruments • automated teller machines, invoicing machines, material testing instruments and machines • batteries and chargers for electronic cigarettes • electric and electronic effects units for musical instruments • laboratory robots, teaching robots, security surveillance robots, humanoid robots with artificial intelligence This Class does not include, in particular: • joysticks being parts of machines, other than for game machines (Cl. 7), vehicle joysticks (Cl. 12), joysticks for video games, controllers for toys and game consoles (Cl. 28) • coin-operated apparatus that are classified in various classes according to their function or purpose, for example, coin-operated washing machines (Cl. 7), coin-operated billiard tables (Cl. 28) • industrial robots (Cl. 7), surgical robots (Cl. 10), toy robots (Cl. 28) • pulse meters, heart rate monitoring apparatus, body composition monitors (Cl. 10) • laboratory lamps, laboratory burners (Cl. 11) • diving lights (Cl. 11) • smart products whose main function remains the same, for example, smart refrigerators (Cl. 11), smart suitcases (Cl. 18), smart clothing (Cl. 25), smart toys (Cl. 28) • explosive fog signals, signal rocket flares (Cl. 13) • histological sections for teaching purposes, biological samples for use in microscopy as teaching materials (Cl. 16) • clothing and equipment worn for the practice of certain sports, for example, protective paddings being parts of sports suits, fencing masks, boxing gloves (Cl. 28)"
     }
    },
-   "reasoning": {
-    "nature": "Both are electronic computer peripherals. Their nature as IT hardware is similar.",
-    "intended_purpose": "They serve complementary purposes within the same ecosystem. Laptops are used to create and view digital documents, while printers are used to create physical copies of those documents. They are designed to work together.",
-    "channels_of_trade": "Both are sold in the same electronics stores, office supply stores, and online marketplaces to the same consumer and business audiences."
-   },
    "output": {
-    "nature_score": 3,
-    "purpose_score": 3,
-    "channels_of_trade_score": 4,
-    "overall_similarity": 3
+    "nature_score": 3
    }
   },
   {
@@ -92,19 +60,11 @@
     "product_1": "Chemicals for use in industry (Class 1)",
     "product_2": "Chemical additives for use in manufacturing (Class 1)",
     "class_info": {
-     "class_1": "Mainly chemical products for use in industry, science and agriculture."
+     "class_1": "Class 1 includes mainly chemical products for use in industry, science and agriculture, including those which go to the making of products belonging to other classes. This Class includes, in particular: • sensitized paper • tyre repairing compositions • salt for preserving, other than for foodstuffs • certain additives for use in the food industry, for example, pectin, lecithin, enzymes and chemical preservatives • certain ingredients for use in the manufacture of cosmetics and pharmaceuticals, for example, vitamins, preservatives and antioxidants • certain filtering materials, for example, mineral substances, vegetable substances and ceramic materials in particulate form This Class does not include, in particular: • raw natural resins (Cl. 2), semi-processed resins (Cl. 17) • chemical preparations for medical or veterinary purposes (Cl. 5) • fungicides, herbicides and preparations for destroying vermin (Cl. 5) • adhesives for stationery or household purposes (Cl. 16) • salt for preserving foodstuffs (Cl. 30) • straw mulch (Cl. 31)"
     }
    },
-   "reasoning": {
-    "nature": "Both are chemical products. Their physical nature is highly similar.",
-    "intended_purpose": "Both are intended for use in industrial and manufacturing processes. 'Chemical additives' is a specific subset of 'chemicals for use in industry'. Their purpose is highly similar.",
-    "channels_of_trade": "Both are sold through the same B2B industrial chemical supply chains to the same customers (manufacturers)."
-   },
    "output": {
-    "nature_score": 4,
-    "purpose_score": 4,
-    "channels_of_trade_score": 4,
-    "overall_similarity": 4
+    "nature_score": 4
    }
   }
  ]

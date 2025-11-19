@@ -82,6 +82,7 @@ def _find_class_entry(class_number: str) -> Optional[dict]:
 def contexts_from_class_numbers(class_numbers: Iterable[object], max_items_per_class: int = 3) -> List[str]:
 	"""
 	Build context strings directly from provided NICE class numbers, bypassing keyword retrieval.
+	Only include the heading and explanatory_note for each class.
 	"""
 	seen = set()
 	contexts: List[str] = []
@@ -96,13 +97,11 @@ def contexts_from_class_numbers(class_numbers: Iterable[object], max_items_per_c
 		if not entry:
 			continue
 		heading = entry.get("heading", "")
-		items = entry.get("items", [])
+		note = entry.get("explanatory_note", "")
 		class_no = entry.get("class_number", cn_str)
-		matched_items = [it.get("Goods and Service", "") for it in items][:max_items_per_class]
-		snippet_items = "; ".join([s for s in matched_items if s])
 		context = f"Class {class_no}: {heading}"
-		if snippet_items:
-			context += f"\nExamples: {snippet_items}"
+		if isinstance(note, str) and note.strip():
+			context += f"\nExplanatory Note: {note.strip()}"
 		contexts.append(context)
 	return contexts
 

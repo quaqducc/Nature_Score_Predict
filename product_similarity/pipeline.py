@@ -4,7 +4,7 @@ import re
 from typing import Dict, Optional
 
 from .prompt import build_prompt
-from .retriever import retrieve_contexts, contexts_from_class_numbers, DATA_DIR
+from .retriever import contexts_from_class_numbers, DATA_DIR
 from .spsc import retrieve_spsc_contexts
 
 
@@ -47,7 +47,7 @@ def run_similarity(
     class_1: Optional[object] = None,
     class_2: Optional[object] = None,
     max_fewshot: int = 5,
-    top_k: int = 3,
+    top_k: int = 0,
     include_spsc: bool = True,
     spsc_top_k: int = 2,
     model_name: Optional[str] = None,
@@ -65,20 +65,18 @@ def run_similarity(
 	local inference and only return the built prompt and empty output.
 	"""
 	fewshot_cases = _load_fewshot_cases()
-	# Build contexts: prefer provided classes if present, otherwise keyword retrieval
-	if class_1 or class_2:
-		contexts = contexts_from_class_numbers([class_1, class_2])
-	else:
-		contexts = retrieve_contexts(product_1, product_2, top_k=top_k)
+	# Build contexts strictly from provided NICE class numbers.
+	# If classes are not provided, contexts will be empty.
+	contexts = contexts_from_class_numbers([class_1, class_2])
 
-	# Optionally augment with SPSC contexts inferred from product texts
-	if include_spsc:
+	# Always-on (by default) SPSC augmentation
+	if include_spsc and spsc_top_k and spsc_top_k > 0:
 		try:
 			spsc_ctx = retrieve_spsc_contexts(product_1, product_2, top_k=spsc_top_k)
 			if spsc_ctx:
 				contexts = contexts + spsc_ctx
 		except Exception:
-			# Silently ignore SPSC retrieval errors to keep pipeline robust
+			# Keep robust if SPSC retrieval fails
 			pass
 
 	prompt = build_prompt(fewshot_cases, product_1, product_2, contexts, max_fewshot=max_fewshot)

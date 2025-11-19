@@ -5,24 +5,42 @@ from typing import List, Dict, Optional
 def format_fewshot(example: Dict) -> str:
 	"""
 	Format one few-shot example into a structured text block.
+	Compatible with new few-shot schema:
+	{
+		\"case_id\": str,
+		\"input\": {
+			\"product_1\": str,
+			\"product_2\": str,
+			\"class_info\": { ... }  # arbitrary mapping of class -> description
+		},
+		\"output\": { \"nature_score\": int }
+		# optional: \"reasoning\": { ... }
+	}
 	"""
 	case_id = example.get("case_id", "UNKNOWN")
 	input_data = example.get("input", {})
 	reasoning = example.get("reasoning", {})
 	output = example.get("output", {})
 
-	return (
-		f"### Example {case_id}\n"
-		f"**Input:**\n"
-		f"- Product 1: {input_data.get('product_1')}\n"
-		f"- Product 2: {input_data.get('product_2')}\n"
-		f"- Class Info: {json.dumps(input_data.get('class_info', {}), ensure_ascii=False, indent=2)}\n\n"
-		f"**Reasoning:**\n"
-		+ "\n".join([f"- {k.capitalize()}: {v}" for k, v in reasoning.items()])
-		+ "\n\n"
-		f"**Output:**\n"
-		f"- Nature Score: {output.get('nature_score')}\n"
-	)
+	blocks = [
+		f"### Example {case_id}",
+		f"**Input:**",
+		f"- Product 1: {input_data.get('product_1')}",
+		f"- Product 2: {input_data.get('product_2')}",
+		f"- Class Info: {json.dumps(input_data.get('class_info', {}), ensure_ascii=False, indent=2)}",
+	]
+
+	# Only include reasoning section if provided in the few-shot
+	if isinstance(reasoning, dict) and len(reasoning) > 0:
+		blocks.append("")
+		blocks.append("**Reasoning:**")
+		blocks.extend([f"- {k.capitalize()}: {v}" for k, v in reasoning.items()])
+
+	blocks.append("")
+	blocks.append("**Output:**")
+	blocks.append(f"- Nature Score: {output.get('nature_score')}")
+
+	return "\n".join(blocks)
 
 def build_prompt(
     fewshot_examples: List[Dict],
