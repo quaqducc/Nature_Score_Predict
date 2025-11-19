@@ -39,7 +39,8 @@ def evaluate_dataset(csv_path: str, *,
         gold_nature_raw = r.get("Nature")
         gold = None
         if gold_nature_raw not in (None, "", "-"):
-            m = re.search(r"(\\d)", str(gold_nature_raw))
+            # Parse the first digit 0..4 from the Nature cell
+            m = re.search(r"([0-4])", str(gold_nature_raw))
             if m:
                 try:
                     gold = int(m.group(1))
@@ -91,7 +92,7 @@ def evaluate_dataset(csv_path: str, *,
             "class_1": class_1,
             "class_2": class_2,
             "contexts": contexts,
-            "gold_nature": gold_nature_raw,
+            "gold_nature": gold,
             "pred_nature": pred_nature,
             "output_text": sim.get("output_text", ""),
         })
