@@ -3,7 +3,9 @@ import csv
 import json
 from typing import Dict, List, Optional
 
-from product_similarity.pipeline import _load_fewshot_cases, build_prompt, retrieve_contexts
+from product_similarity.pipeline import _load_fewshot_cases
+from product_similarity.prompt import build_prompt
+from product_similarity.retriever import contexts_from_class_numbers
 from product_similarity.model import ChatAPIWrapper, LLMWrapper
 from product_similarity.agents import FactorAgent, FactorAgentConfig, evaluate_multiple_factors
 from product_similarity.judge import LLMJudge, JudgeConfig
@@ -96,7 +98,10 @@ def evaluate_dataset(csv_path: str, *,
         except Exception:
             gold = None
 
-        contexts = retrieve_contexts(p1, p2, top_k=3)
+        # Build contexts strictly from provided class numbers if available in CSV
+        class_1 = r.get("class1") or r.get("Class 1") or r.get("class_1")
+        class_2 = r.get("class2") or r.get("Class 2") or r.get("class_2")
+        contexts = contexts_from_class_numbers([class_1, class_2])
         if include_spsc:
             try:
                 spsc_ctx = retrieve_spsc_contexts(p1, p2, top_k=spsc_top_k)
